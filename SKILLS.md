@@ -108,6 +108,10 @@ description: Convert approved legal HTML into readable Markdown and HTML5. Use w
 - **[P]** Distinguish requirements, recommendations, assumptions, and unresolved verification items where confusion could affect safety or compatibility.
 - **[P]** Do not embed credentials, private client material, privileged communications, unpublished drafts, or machine-specific secrets.
 - **[P]** Do not instruct an agent to disclose private reasoning. Request concise, reviewable rationale and evidence instead.
+- **[A/R]** For complex prompts, separate instructions, context, examples, and inputs with consistent descriptive structure; XML tags are one supported technique, not a mandatory Skill format.
+- **[A/R]** For long-context work, place substantial source material before the task request when the target model's current guidance recommends it, and identify the exact evidence the agent should use.
+- **[A/R]** Give the model the goal, constraints, success criteria, and necessary context directly. Add examples when output structure or edge-case handling would otherwise remain ambiguous.
+- **[V]** Model-specific thinking controls and prompting syntax change over time; verify current model and API documentation instead of freezing those details into a reusable Skill.
 
 ## 8. Supporting resources
 
@@ -129,6 +133,10 @@ description: Convert approved legal HTML into readable Markdown and HTML5. Use w
 - **[A]** The Files API supports uploading once, receiving a `file_id`, referencing that ID in Messages requests, downloading generated files, and listing, retrieving, or deleting files.
 - **[V]** Confirm current file-size limits, supported MIME types, model support, retention, and beta status before production use.
 - **[P]** Keep generated and temporary outputs out of version control unless they are intentional project artifacts.
+- **[A]** A user-defined Claude API tool declares a valid `name`, a detailed plaintext `description`, and an `input_schema`; optional input examples must satisfy that schema.
+- **[A/R]** Explain what each tool does, when it should and should not be used, parameter meaning, returned information, and important limitations. Prefer high-signal responses and stable semantic identifiers.
+- **[R]** Consolidate closely related operations where doing so reduces selection ambiguity, and namespace tools by service or domain when multiple systems are exposed.
+- **[V]** Computer-use, code-execution, server-tool, client-toolset, and versioned tool declarations have runtime-specific restrictions. Verify current availability, schemas, versions, security guidance, and supported example fields before implementation.
 
 ## 10. Skill creation workflow
 
@@ -270,6 +278,8 @@ The integration shape is **[A]**. Exact tool versions, headers, model names, IDs
 
 Access checked on 29 August 2026.
 
+The clipping `Core Claude Skills documentation 29-08-2026 19-43-52.md` is a secondary, AI-generated collection of links and draft guidance. **[P]** It informed this update but is not treated as an Anthropic authority. The official destinations below remain authoritative; redirects, inaccessible pages, and missing repository paths are recorded explicitly.
+
 | Official source | Status | Use in this document |
 |---|---|---|
 | [Agent Skills overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview) | Verified accessible | Architecture, metadata, runtimes, security, limitations |
@@ -282,11 +292,24 @@ Access checked on 29 August 2026.
 | [Tool use overview](https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview) | Verified accessible | Tool definitions and strict schema use |
 | [Files API](https://platform.claude.com/docs/en/build-with-claude/files) | Verified accessible | File upload, IDs, reuse, download, and management |
 | [Prompt engineering overview](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview) | Verified accessible | Success criteria and empirical evaluations |
+| [Claude Platform documentation home](https://platform.claude.com/docs/en/home) | Verified accessible | Current API, tool, files, Skills, evaluation, and operational documentation routes |
+| [Define tools — current destination](https://platform.claude.com/docs/en/agents-and-tools/tool-use/define-tools) | Verified accessible | Tool names, descriptions, JSON Schema, input examples, namespacing, consolidation, and response design |
+| [Tool implementation — clipping URL](https://platform.claude.com/docs/en/agents-and-tools/tool-use/implement-tool-use) | Verified redirect | Redirects to the current Define tools page above |
+| [Code execution tool](https://platform.claude.com/docs/en/agents-and-tools/tool-use/code-execution-tool) | Verified accessible | Runtime-specific code execution capabilities and restrictions |
+| [Computer use overview](https://platform.claude.com/docs/en/agents-and-tools/computer-use/overview) | **[V] Internal error during access check** | Do not rely on unverified implementation details from the clipping |
+| [Current prompting best practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices) | Verified accessible | Clear instructions, examples, XML structuring, long context, and thinking guidance |
+| [Clear-and-direct prompting — clipping URL](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/be-clear-and-direct) | Verified redirect | Redirects to current prompting best practices |
+| [XML tags — clipping URL](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/use-xml-tags) | Verified redirect | Redirects to current prompting best practices |
+| [Long-context tips — clipping URL](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/long-context-tips) | Verified redirect | Redirects to current prompting best practices |
+| [Extended-thinking tips — clipping URL](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/extended-thinking-tips) | Verified redirect | Redirects to the relevant section of current prompting best practices |
 | [Anthropic Skills repository](https://github.com/anthropics/skills) | Verified accessible | Self-contained Skill examples and repository patterns |
 | [Anthropic example Skills](https://github.com/anthropics/skills/tree/main/skills) | Verified accessible | Example directory structures |
 | [Anthropic Skills README](https://github.com/anthropics/skills/blob/main/README.md) | Verified accessible | Educational-purpose disclaimer and testing warning |
+| Clipping example paths: `skills/docs`, `skills/pdfs`, `skills/slides`, `skills/spreadsheets` | **[V] Returned 404 during access check** | Do not publish these as verified example URLs; inspect the repository's current tree instead |
+| [Claude Help Center: Projects](https://support.claude.com/en/articles/9517075-what-are-projects) | Verified accessible, supplementary | Consumer-product context; not an Agent Skills specification |
 
 ## 17. Change history
 
+- **29 August 2026 — Core Claude documentation clipping update:** Reviewed the supplied clipping as a secondary source; incorporated non-duplicative official guidance for tool definitions, prompt structure, long-context work, examples, and runtime verification; added current destinations and recorded redirects, an inaccessible computer-use page, and four missing example-repository paths without fabricating access.
 - **29 August 2026 — CPC URL migration update:** Added tested Satyagraha guardrails for content-root-qualified WikiLinks, explicit legacy folder-index redirects, deployed-base-path link resolution, exhaustive rendered-link auditing, post-commit builds, deployment verification, and live canonical and legacy route checks.
 - **29 August 2026 — Initial version:** Created after repository inspection. Documented Anthropic requirements separately from Satyagraha project rules, recommendations, inferences, and verification items. Recorded two inaccessible requested URLs and the verified current replacement API guide.
