@@ -16,9 +16,9 @@ aliases:
 
 ### (Title)
 
-WHEREAS We, the parties in the above suit, are agreed as to the question of fact [or of law] to be decided between us and the point at issue between us is whether a claim founded on a bond, dated the __________ day of __________19_____ and filed as Exhibit ____________ in the said suit, is or is not beyond the statute of limitation (or state the point at issue whatever it may be):
+WHEREAS We, the parties in the above suit, are agreed as to the question of fact &#91;or of law&#93; to be decided between us and the point at issue between us is whether a claim founded on a bond, dated the __________ day of __________19_____ and filed as Exhibit ____________ in the said suit, is or is not beyond the statute of limitation (or state the point at issue whatever it may be):
 
-We therefore severally bind ourselves that, upon the finding of the Court in the negative [or affirmative] of such issue, ____________ will pay to the said ____________ the sum of Rupees _____________ (or such sum as the Court shall hold to be due thereon), and I, the said ______________, will accept the said sum of Rupees _____________(or such sum as the Court shall hold to be due) in full satisfaction of my claim on the bond aforesaid [or that upon such finding I, the said ______________,will do or abstain from doing, etc., etc.]
+We therefore severally bind ourselves that, upon the finding of the Court in the negative &#91;or affirmative&#93; of such issue, ____________ will pay to the said ____________ the sum of Rupees _____________ (or such sum as the Court shall hold to be due thereon), and I, the said ______________, will accept the said sum of Rupees _____________(or such sum as the Court shall hold to be due) in full satisfaction of my claim on the bond aforesaid &#91;or that upon such finding I, the said ______________,will do or abstain from doing, etc., etc.&#93;
 
 Witnesses:-
 
@@ -44,7 +44,7 @@ You are hereby informed that the ______________ day of ___________ 19_______ has
 
 GIVEN under my hand and the seal of the Court, this ____________ day of _______ 19_____.
 
-### [1][.No. 2A
+### &#91;1&#93;&#91;.No. 2A
 
 ### LIST OF WITNESSES PROPOSED TO BE CALLED BY PLAINTIFF/DEFENDANT
 
@@ -54,7 +54,7 @@ Name of the party which proposes to call the witness.
 
 Name and address of the witness
 
-Remarks]
+Remarks&#93;
 
 #### 1. Inserted by Act No. 104 of 1976, w.e.f. 1st. February, 1977.
 
@@ -126,7 +126,7 @@ Dated the ________________ day of ____________19____.
 
 To
 
-WHEREAS the evidence of ______________ is required by the ________________ in the above suit; and whereas _________________; you are requested to take the evidence on interrogatories [or viva voce] of such witness ___________________ and you are hereby appointed Commissioner for that purpose. The evidence will be taken in the presence of the parties or their agents if in attendance, who will be at liberty to question the witness on the points specified, and you are further requested to make return of such evidence as soon as it may be taken.
+WHEREAS the evidence of ______________ is required by the ________________ in the above suit; and whereas _________________; you are requested to take the evidence on interrogatories &#91;or viva voce&#93; of such witness ___________________ and you are hereby appointed Commissioner for that purpose. The evidence will be taken in the presence of the parties or their agents if in attendance, who will be at liberty to question the witness on the points specified, and you are further requested to make return of such evidence as soon as it may be taken.
 
 Process to compel the attendance of the witness will be issued by any Court having jurisdiction on your application.
 
@@ -160,7 +160,7 @@ Now I _______________, as the _________________ of the said Court, have the hono
 
 And I further have the honour to request that you will be pleased to cause the answers of the said witnesses to be reduced into writing, and all books, letters, papers and documents produced upon such examination to be duly marked for identification, and that you will be further pleased to authenticate such examination by the seal of your tribunal, or in such other way as is in accordance with your procedure, and to return the same, together with such request in writing, if any, for the examination of other witnesses to the said Court.
 
-(NOTE - If the request is directed to a Foreign Court, the words "through [5][the Ministry of External Affairs of the Government of India] for transmission" should be inserted after the words "other witnesses" in the last line of this form.)
+(NOTE - If the request is directed to a Foreign Court, the words "through &#91;5&#93;&#91;the Ministry of External Affairs of the Government of India&#93; for transmission" should be inserted after the words "other witnesses" in the last line of this form.)
 
 ### No. 9
 
@@ -194,7 +194,7 @@ A sum of Rs. _____________________, being your fee in the above, is herewith for
 
 GIVEN under my hand and the seal of the Court, this _____________ day of _______ 19_____.
 
-### [1][No. 11
+### &#91;1&#93;&#91;No. 11
 
 ### NOTICE TO CERTIFICATE, NATURAL, OR, de facto GUARDIAN
 
@@ -208,9 +208,9 @@ To
 
 WHEREAS an application has been presented on the part of the plaintiff
 
-### [*]/ on behalf of the minor defendant
+### &#91;*&#93;/ on behalf of the minor defendant
 
-[*] in the above suit for the appointment of guardian for the minor defendant ______________, you (insert the name of the guardian appointed or declared by Court, or natural guardian, or the person in whose care the minor is ) are hereby required to take notice that unless you appear before this Court on or before the day appointed for the hearing of the case and stated in the appended summons, and express your consent to act as guardian for the suit for the minor, the Court will proceed to appoint some other person to act as a guardian for the minor, for the purposes of the said suit.
+&#91;*&#93; in the above suit for the appointment of guardian for the minor defendant ______________, you (insert the name of the guardian appointed or declared by Court, or natural guardian, or the person in whose care the minor is ) are hereby required to take notice that unless you appear before this Court on or before the day appointed for the hearing of the case and stated in the appended summons, and express your consent to act as guardian for the suit for the minor, the Court will proceed to appoint some other person to act as a guardian for the minor, for the purposes of the said suit.
 
 GIVEN under my hand and the seal of the Court, this ____________ day of _________ 19_____.
 
@@ -262,7 +262,7 @@ GIVEN under my hand and the seal of the Court, this ___________ day of ________ 
 
 ### No. 14
 
-### [REGISTER OF CIVIL SUITS (O. 4, r. 2)
+### &#91;REGISTER OF CIVIL SUITS (O. 4, r. 2)
 
 ### COURT OF THE ____________ OF __________ AT _________
 

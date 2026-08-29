@@ -18,7 +18,7 @@ aliases:
 
 Provided that no such summons shall be issued when.the defendant has appeared at the presentation of the plaint and admitted the plaintiff's claim:
 
-[22][Provided further that where a summons has been issued, the Court may direct the defendant to file the written statement of his defence, if any, on the date of his appearance and cause an entry to be made to that effect in the summons.]
+&#91;22&#93;&#91;Provided further that where a summons has been issued, the Court may direct the defendant to file the written statement of his defence, if any, on the date of his appearance and cause an entry to be made to that effect in the summons.&#93;
 
 (2) A defendant to whom a summons has been issued under sub-rule (1) may appear-
 
@@ -96,11 +96,11 @@ Wherever it is practicable service shall be made on the defendant in person, unl
 
 Where in a suit to obtain relief respecting, or compensation for wrong to, immovable property, service cannot be made on the defendant in person, and the defendant has no agent empowered to accent the service, it may be made on any agent of the defendant in charge of the property.
 
-[23][15. Where service may be on an adult member of defendant's family
+&#91;23&#93;&#91;15. Where service may be on an adult member of defendant's family
 
 Where in any suit the defendant is absent Prom his residence at the time when the service of summons is sought to be effected on his at his residence and there is no likelihood of his being found at the residence within a reasonable time and he has no agent empowered to accept service of the summons on his behalf service may be made on any adult member of the family, whether male or female, who is residing with him.
 
-Explanation.- A servant is not a member of the family within the meaning of this rule.]
+Explanation.- A servant is not a member of the family within the meaning of this rule.&#93;
 
 #### 16. Person served to sign acknowledgement
 
@@ -108,7 +108,7 @@ Where the serving officer delivers or tenders a copy of the summons to the defen
 
 #### 17. Procedure when defendant refuses to accept service, or cannot he found
 
-Where the defendant or his agent or such other person as aforesaid refuses to sign the acknowledgement, or where the serving officer, after using all due and reasonable diligence, cannot find the defendant, [22][who is absent from his residence at the time when service is sought to be effected on him at his residence and there is no likelihood of his being found at the residence within a reasonable time] and there is no agent empowered to accept service of the summons on his behalf, nor any other person on whom service can be made, the serving officer shall affix a copy of the summons on the outer door or some other conspicuous part of the house in which the defendant ordinarily resides or carries on business or personally works for gain, and shall then return the original to the Court from which it was issued, with a report endorsed thereon or annexed thereto stating that he has so affixed the copy, the circumstances under which he did so, and the name and address of the person(if any) by whom the house was identified and in whose presence the copy was affixed.
+Where the defendant or his agent or such other person as aforesaid refuses to sign the acknowledgement, or where the serving officer, after using all due and reasonable diligence, cannot find the defendant, &#91;22&#93;&#91;who is absent from his residence at the time when service is sought to be effected on him at his residence and there is no likelihood of his being found at the residence within a reasonable time&#93; and there is no agent empowered to accept service of the summons on his behalf, nor any other person on whom service can be made, the serving officer shall affix a copy of the summons on the outer door or some other conspicuous part of the house in which the defendant ordinarily resides or carries on business or personally works for gain, and shall then return the original to the Court from which it was issued, with a report endorsed thereon or annexed thereto stating that he has so affixed the copy, the circumstances under which he did so, and the name and address of the person(if any) by whom the house was identified and in whose presence the copy was affixed.
 
 #### 18. Endorsement of time and manner of service
 
@@ -118,7 +118,7 @@ The serving officer shall, in all cases in which the summons has been served und
 
 Where a summons is returned under rule 17, the Court shall, if the return under that rule has not been verified by the affidavit of the serving officer, and may, if it has been so verified, examine the serving officer on oath, or cause him to be so examined by another Court, touching his proceedings, and may make such further enquiry in the matter as it thinks fit; and shall either declare that the summons has been duly served or order such service as it thinks fit.
 
-[22][19A. Simultaneous issue of summons for service by post in addition to personal service
+&#91;22&#93;&#91;19A. Simultaneous issue of summons for service by post in addition to personal service
 
 (1) The Court shall, in addition to, and simultaneously with, the issue of summons for service in the manner provided in rules 9 to 19 (both inclusive), also direct the summons to be served by registered post, acknowledgement due, addressed to the defendant, or his agent empowered to accept the service, at the place where the defendant, or his agent, actually and voluntarily resides or carries on business or personally works for gain:
 
@@ -126,19 +126,19 @@ Provided that nothing in this sub-rule shall require the Court to issue a summon
 
 (2) When an acknowledgement purporting to be signed by the defendant or his agent is received by the Court or the postal article containing the summons is received back by the Court with an endorsement purporting to have been made by a postal employee to the effect that the defendant or his agent had refused to take delivery of the postal article containing the summons, when tendered to him, the Court issuing the summons shall declare that the summons had been duly served on the defendant:
 
-Provided that where the summons was properly addressed, prepaid and duly sent by registered post, acknowledgement due, the declaration referred to in this sub-rule shall be made notwithstanding the fact that the acknowledgement having been lost or mislaid, or for other reason, has been received by the Court within thirty days from the date of the issue of the summons].
+Provided that where the summons was properly addressed, prepaid and duly sent by registered post, acknowledgement due, the declaration referred to in this sub-rule shall be made notwithstanding the fact that the acknowledgement having been lost or mislaid, or for other reason, has been received by the Court within thirty days from the date of the issue of the summons&#93;.
 
 #### 20. Substituted services
 
 (1) Where the Court is satisfied that there is reason to believe that the defendant is keeping out of the way for the purpose of avoiding service, or that for any other reason the summons cannot be served in the ordinary way, the Court shall order the summons to be served by affixing a copy thereof in some conspicuous place in the Court-house, and also upon some conspicuous part of the house(if any) in which the defendant is known to have last resided or carried on business or personally worked for gain, or in such other manner as the Court thinks fit.
 
-[22][(1A) Where the Court acting under sub-rule(1) orders service by an advertisement in a newspaper, the newspaper shall be a daily newspaper circulating in the locality in which the defendant is last known to have actually and voluntarily resided, carried on business or personally worked for gain.]
+&#91;22&#93;&#91;(1A) Where the Court acting under sub-rule(1) orders service by an advertisement in a newspaper, the newspaper shall be a daily newspaper circulating in the locality in which the defendant is last known to have actually and voluntarily resided, carried on business or personally worked for gain.&#93;
 
 (2) Effect of substituted service-Service substituted by order of the Court shall be as effectual as if it had been made on the defendant personally.
 
 (3) Where service substituted, time for appearance to he fixed -Where service is substituted by order of the Court, the Court shall fix such time for the appearance of the defendant as the case may require.
 
-#### [20A. Service of summons by post: Repealed by the Code of Civil Procedure (Amendment) Act, w.e.f. 1st. February, 1977]
+&#91;20A. Service of summons by post: Repealed by the Code of Civil Procedure (Amendment) Act, w.e.f. 1st. February, 1977&#93;
 
 #### 21. Service of summons where defendant resides within jurisdiction of another Court.
 
@@ -146,7 +146,7 @@ A summons may sent by the Court by which it is issued, whether within or without
 
 #### 22. Service within presidency-towns of summons issued by Courts outside
 
-Where as summons issued by any Court established beyond the limits of the towns of Calcutta, Madras [25][and Bombay] is to be served within any such limits, it shall be sent to the Court of Small Causes within whose jurisdiction it is to be served.
+Where as summons issued by any Court established beyond the limits of the towns of Calcutta, Madras &#91;25&#93;&#91;and Bombay&#93; is to be served within any such limits, it shall be sent to the Court of Small Causes within whose jurisdiction it is to be served.
 
 #### 23. Duty of Court to which summons is sent
 
@@ -158,13 +158,13 @@ Where the defendant is confined in a prison, the summons shall be delivered or s
 
 #### 25. Service where defendant resides out of India and has no agent
 
-Where the defendant resides out of [26][India] and has no agent in [26][India] empowered to accept service, the summons shall be addressed to the defendant at the place where he is residing and sent to him by post, if there is postal communication between such place and the place where the Court is situate:
+Where the defendant resides out of &#91;26&#93;&#91;India&#93; and has no agent in &#91;26&#93;&#91;India&#93; empowered to accept service, the summons shall be addressed to the defendant at the place where he is residing and sent to him by post, if there is postal communication between such place and the place where the Court is situate:
 
-[27][Provided that where any such defendant [28][resides in Bangladesh or Pakistan,] the summons, together with a copy thereof, may be sent for service on the defendant, to any Court in that country (not being the High Court) having jurisdiction in the place where the defendant resides:
+&#91;27&#93;&#91;Provided that where any such defendant &#91;28&#93;&#91;resides in Bangladesh or Pakistan,&#93; the summons, together with a copy thereof, may be sent for service on the defendant, to any Court in that country (not being the High Court) having jurisdiction in the place where the defendant resides:
 
-Provided further that where any such defendant is a public officer [29][in Bangladesh or Pakistan (not belonging to the Bangladesh or, as the case may be, Pakistan military, naval or air forces)] or is a servant of a railway company or local authority in that country, the summons, together with a copy thereof, may be sent for service on the defendant, to such officer or authority. in that country as the Central Government may, by notification the Official Gazette, specify in this behalf.]
+Provided further that where any such defendant is a public officer &#91;29&#93;&#91;in Bangladesh or Pakistan (not belonging to the Bangladesh or, as the case may be, Pakistan military, naval or air forces)&#93; or is a servant of a railway company or local authority in that country, the summons, together with a copy thereof, may be sent for service on the defendant, to such officer or authority. in that country as the Central Government may, by notification the Official Gazette, specify in this behalf.&#93;
 
-[30][26. Service in foreign territory through Political Agent or Court- Where
+&#91;30&#93;&#91;26. Service in foreign territory through Political Agent or Court- Where
 
 (a) in the exercise of any foreign jurisdiction vested in the Central Government, a Political Agent has been appointed, or a Court has been established or continued, with power to serve a summons, issued by a Court under this Code, in any foreign territory in which the defendant actually and voluntarily resides, carries on business or personally works for gain, or
 
@@ -174,15 +174,15 @@ the summons may be sent to such Political Agent or Court, by post, or otherwise,
 
 #### 26A. Summonses to he sent to officer to foreign countries
 
-Where the Central Government has, by notification in the Official Gazette, declared in respect of any foreign territory that summonses to be served on defendants actually and voluntarily residing or carrying on business or personally working for gain in that foreign territory may be sent to an officer of the Government of the foreign territory specified by the Central Government the summonses may be sent to such officer, through the Ministry of the Government of India dealing with foreign affairs or in such other manner as may be specified by the Central Government; and if such officer,any such summons with an endorsement purporting to have been made by him that the summons has been served on the defendant, such endorsement shall be deemed to be evidence of service.]
+Where the Central Government has, by notification in the Official Gazette, declared in respect of any foreign territory that summonses to be served on defendants actually and voluntarily residing or carrying on business or personally working for gain in that foreign territory may be sent to an officer of the Government of the foreign territory specified by the Central Government the summonses may be sent to such officer, through the Ministry of the Government of India dealing with foreign affairs or in such other manner as may be specified by the Central Government; and if such officer,any such summons with an endorsement purporting to have been made by him that the summons has been served on the defendant, such endorsement shall be deemed to be evidence of service.&#93;
 
 #### 27. Service on civil public officer or on servant of railway company or local authority
 
-Where the defendant is a public officer (not belonging to [31][the Indian] military [32][naval or air] forces [33][***]), or is the servant of a railway company or local authority, the Court may, if it appears to it that the summons may be most conveniently so served, send it for service on the defendant to the head of the office in which he is employed together with a copy to be retained by the defendant.
+Where the defendant is a public officer (not belonging to &#91;31&#93;&#91;the Indian&#93; military &#91;32&#93;&#91;naval or air&#93; forces &#91;33&#93;&#91;***&#93;), or is the servant of a railway company or local authority, the Court may, if it appears to it that the summons may be most conveniently so served, send it for service on the defendant to the head of the office in which he is employed together with a copy to be retained by the defendant.
 
 #### 28. Service on soldiers, sailors or airmen
 
-Where the defendant is a soldier, [34][sailor] [35][or airman], the Court shall send the summons for service to his commanding officer together with a copy to be retained by the defendant.
+Where the defendant is a soldier, &#91;34&#93;&#91;sailor&#93; &#91;35&#93;&#91;or airman&#93;, the Court shall send the summons for service to his commanding officer together with a copy to be retained by the defendant.
 
 #### 29. Duty of person to whom summons is delivered or sent for service
 

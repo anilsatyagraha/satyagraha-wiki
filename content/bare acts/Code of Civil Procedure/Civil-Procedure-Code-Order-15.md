@@ -16,9 +16,9 @@ Where at the first hearing of a suit it appears that the parties are not at issu
 
 #### 2. One of several defendants not at issue
 
-[73][(1)] Where there are more defendants than one, and any one of the defendants is not at issue with the plaintiff on any question of law or of fact, the Court may at once pronounce judgment for or against such defendant. and the suit shall proceed only against the other defendants.
+&#91;73&#93;&#91;(1)&#93; Where there are more defendants than one, and any one of the defendants is not at issue with the plaintiff on any question of law or of fact, the Court may at once pronounce judgment for or against such defendant. and the suit shall proceed only against the other defendants.
 
-[74][(2) Whenever a judgment is pronounced under this rule, a decree shall be drawn up in accordance with such judgment and the decree shall bear the date on which the judgment was pronounced.]
+&#91;74&#93;&#91;(2) Whenever a judgment is pronounced under this rule, a decree shall be drawn up in accordance with such judgment and the decree shall bear the date on which the judgment was pronounced.&#93;
 
 #### 3. Parties at issue
 

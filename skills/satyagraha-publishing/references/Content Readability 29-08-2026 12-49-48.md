@@ -18,6 +18,7 @@ Use a deterministic UTF-8 conversion script to restore paragraph boundaries and 
 - Never infer missing statutory language from context.
 - Flag original transcription defects separately from conversion defects.
 - Scan all generated Markdown for mojibake, replacement characters, external URLs, JavaScript URLs and malformed wiki links.
+- Treat bracketed footnote markers inside wiki-link labels as unsafe syntax: retain readable label text without nested brackets and verify every destination exists.
 - Build and inspect representative index, order, footnote, appendix and schedule pages locally before publication.
 - Do not commit, push or deploy until the user approves the local preview.
 

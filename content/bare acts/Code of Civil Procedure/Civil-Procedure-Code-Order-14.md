@@ -24,11 +24,11 @@ aliases:
 
 (b) issues of law.
 
-(5) At the first hearing of the suit the Court shall, after reading the plaint and the written statements, if any, and [71][after examination under rule 2 of Order X and after hearing the parties or their pleaders], ascertain upon what material propositions of fact or of law the parties are at variance, and shall thereupon proceed to frame and record the issues on which the right decision of the case appears to depend.
+(5) At the first hearing of the suit the Court shall, after reading the plaint and the written statements, if any, and &#91;71&#93;&#91;after examination under rule 2 of Order X and after hearing the parties or their pleaders&#93;, ascertain upon what material propositions of fact or of law the parties are at variance, and shall thereupon proceed to frame and record the issues on which the right decision of the case appears to depend.
 
 (6) Nothing in this rule requires the Court to frame and record issues where the defendant at the first hearing of the suit makes no defence.
 
-[72][2. Court to pronounce judgment on all issues
+&#91;72&#93;&#91;2. Court to pronounce judgment on all issues
 
 (1) Notwithstanding that a case may be disposed of on a preliminary issue, the Court shall, subject to the provisions of sub-rule (2), pronounce judgment on all issues.
 
@@ -38,7 +38,7 @@ aliases:
 
 (b) a bar to the suit created by any law for the time being in force,
 
-and for that purpose may, if it thinks fit, postpone the settlement of the other issues until after that issue has been determined, and may deal with the suit in accordance with the decision on that issue.]
+and for that purpose may, if it thinks fit, postpone the settlement of the other issues until after that issue has been determined, and may deal with the suit in accordance with the decision on that issue.&#93;
 
 #### 3. Materials from which issues may be framed
 

@@ -24,9 +24,9 @@ and who, from the discovery of new and important matter or evidence which, after
 
 (2) A party who is not appealing from a decree or order may apply for a review of judgement notwithstanding the pendency of an appeal by some other party except where the ground of such appeal is common to the applicant and the appellant, or when, being respondent, he can present to the Appellate Court the case on which he applies for the review.
 
-[62][Explanation.-The fact that the decision on a question of law on which the judgement of the Court is based has been reversed or modified by the subsequent decision of a superior Court in any other case, shall not be a ground for the review of such judgement.]
+&#91;62&#93;&#91;Explanation.-The fact that the decision on a question of law on which the judgement of the Court is based has been reversed or modified by the subsequent decision of a superior Court in any other case, shall not be a ground for the review of such judgement.&#93;
 
-[62A][2. To whom applications for review may be made.]
+&#91;62A&#93;&#91;2. To whom applications for review may be made.&#93;
 
 #### 3. Form of applications for review
 
@@ -56,7 +56,7 @@ Where the Judge or Judges, or any one of the judges, who passed the decree or ma
 
 #### 7. Order of rejection not appealable. Objections to order granting application
 
-[63][(1) An order of the Court rejecting the application shall not be appealable; but an order granting an application may be objected to at once by an appeal from the order granting the application or in an appeal from the decree or order finally passed or made in the suit.]
+&#91;63&#93;&#91;(1) An order of the Court rejecting the application shall not be appealable; but an order granting an application may be objected to at once by an appeal from the order granting the application or in an appeal from the decree or order finally passed or made in the suit.&#93;
 
 (2) Where the application has been rejected in consequence of the failure of the applicant to appear, he may apply for an order to have the rejected application restored to the file, and, where it is proved to the satisfaction of the Court that he was prevented by any sufficient cause from appearing when such application was called on for hearing, the Court shall order it to be restored to the file upon such terms as to costs or otherwise as it thinks fit, and shall appoint a day for hearing the same.
 

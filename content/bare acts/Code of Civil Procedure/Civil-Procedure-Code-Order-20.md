@@ -10,51 +10,51 @@ aliases:
 
 ## ORDER XX: JUDGMENT AND DECREE
 
-[93][[94]1. Judgment when pronounced
+&#91;93&#93;&#91;&#91;94&#93;1. Judgment when pronounced
 
-[95][(1)] The Court, after the case has been heard, shall pronounce judgment in open Court, either at once or, as soon thereafter as may be practicable, on some future day; and when the judgment is to he pronounced on some future day, the Court shall fix a day for that purpose, of which due notice shall be given to the parties or their pleaders:]
+&#91;95&#93;&#91;(1)&#93; The Court, after the case has been heard, shall pronounce judgment in open Court, either at once or, as soon thereafter as may be practicable, on some future day; and when the judgment is to he pronounced on some future day, the Court shall fix a day for that purpose, of which due notice shall be given to the parties or their pleaders:&#93;
 
-[96][Provided that where the judgment is not pronounced at once, every endeavour shall be made by the Court to pronounce the judgment within fifteen days from the date on which the hearing of the case was concluded but, where it is not practicable so to do, the Court shall fix a future day for the pronouncement of the judgment, and such day shall not ordinarily be a day beyond thirty days from the date on which the hearing of case was concluded, and due notice of the day so fixed shall be given to the parties or their pleaders:
+&#91;96&#93;&#91;Provided that where the judgment is not pronounced at once, every endeavour shall be made by the Court to pronounce the judgment within fifteen days from the date on which the hearing of the case was concluded but, where it is not practicable so to do, the Court shall fix a future day for the pronouncement of the judgment, and such day shall not ordinarily be a day beyond thirty days from the date on which the hearing of case was concluded, and due notice of the day so fixed shall be given to the parties or their pleaders:
 
-Provided further that, where a judgment is not pronounced within thirty days from the date on which the hearing of the case wag concluded, the Court shall record the reasons for such delay and shall fix a future day on which the judgment will be pronounced and due notice of the day so fixed shall be given to the parties or their pleaders.]
+Provided further that, where a judgment is not pronounced within thirty days from the date on which the hearing of the case wag concluded, the Court shall record the reasons for such delay and shall fix a future day on which the judgment will be pronounced and due notice of the day so fixed shall be given to the parties or their pleaders.&#93;
 
-[96][(2) Where a written judgment is to be pronounced, it shall be sufficient if the findings of the Court on each issue and the final order passed in the case are read out and it shall not be necessary for the Court to read out the whole judgment, but a copy of the whole judgment shall be made available for the perusal of the parties or the pleaders immediately after the judgment is pronounced.
+&#91;96&#93;&#91;(2) Where a written judgment is to be pronounced, it shall be sufficient if the findings of the Court on each issue and the final order passed in the case are read out and it shall not be necessary for the Court to read out the whole judgment, but a copy of the whole judgment shall be made available for the perusal of the parties or the pleaders immediately after the judgment is pronounced.
 
 (3) The judgment may be pronounced by dictation in open Court to a shorthand writer if the Judge is specially empowered by she High Court in this behalf:
 
-Provided that, where the judgment is pronounced by dictation in open Court, the transcript of the judgment so pronounced shall, after making such correction therein as may be necessary, be signed by the judge, bear the date on which it was pronounced, and form a part of the record.]
+Provided that, where the judgment is pronounced by dictation in open Court, the transcript of the judgment so pronounced shall, after making such correction therein as may be necessary, be signed by the judge, bear the date on which it was pronounced, and form a part of the record.&#93;
 
 #### 2. Power to pronounce judgment written by judge's predecessor
 
-[97][A Judge shall] pronounce a judgment written, but not pronounced, by his predecessor.
+&#91;97&#93;&#91;A Judge shall&#93; pronounce a judgment written, but not pronounced, by his predecessor.
 
-[94]3. Judgment to be signed
+&#91;94&#93;3. Judgment to be signed
 
 The judgment shall be dated and signed by the Judge in open Court at the time of pronouncing it and, when once signed, shall not afterwards be altered or added, to save as provided by section 152 or on review.
 
-[94]4. Judgments of Small Cause Courts
+&#91;94&#93;4. Judgments of Small Cause Courts
 
 (1) Judgments of a Court of Small Causes need not contain more than the points for determination and the decision thereon.
 
 (2) Judgments of other Courts- Judgments of other Courts shall contain a concise statement of the case, the points for determination, the decision thereon, and the reasons for such decision.
 
-[94]5. Court to state its decision on each issue
+&#91;94&#93;5. Court to state its decision on each issue
 
 In suits in which issues have been framed, the Court shall state its finding or decision, with the reasons therefor, upon each separate issue, unless the finding upon any one or more of the issues is sufficient for the decision of the suit.
 
-[98][5A. Court to inform parties as to where an appeal lies in cases where parties are not represented by pleaders
+&#91;98&#93;&#91;5A. Court to inform parties as to where an appeal lies in cases where parties are not represented by pleaders
 
-Except where both the parties are represented by pleaders, the Court shall, when it pronounces its judgment in a case subject to appeal, inform the parties present in Court as to the Court to which an appeal lies and the period of limitation for the filing of such appeal and place on record the. information so given to the parties.]
+Except where both the parties are represented by pleaders, the Court shall, when it pronounces its judgment in a case subject to appeal, inform the parties present in Court as to the Court to which an appeal lies and the period of limitation for the filing of such appeal and place on record the. information so given to the parties.&#93;
 
 #### 6. Contents of decree
 
-(1) The decree shall agree with the judgment; it shall contain the number of the suit, the [99][names and descriptions of the parties, their registered addresses,] and particulars of the claim, and shall specify clearly the relief granted or other determination of the suit.
+(1) The decree shall agree with the judgment; it shall contain the number of the suit, the &#91;99&#93;&#91;names and descriptions of the parties, their registered addresses,&#93; and particulars of the claim, and shall specify clearly the relief granted or other determination of the suit.
 
 (2) The decree shall also state the amount of costs incurred in the suit, and by whom or out of what properly and in what proportions such costs are to be paid.
 
 (3) The Court may direct that the costs payable to one party by the other shall be set off against any sum which is admitted or found to be due from the former to the latter.
 
-[98][6A. Last paragraph of judgment to indicate in precise terms the reliefs granted
+&#91;98&#93;&#91;6A. Last paragraph of judgment to indicate in precise terms the reliefs granted
 
 (1) The last paragraph of the judgment shall state in precise terms the relief which has been granted by such judgment.
 
@@ -68,7 +68,7 @@ Provided that, where an application is made for obtaining a copy of only the las
 
 #### 6B. Copies of typewritten judgments when to be made available
 
-Where the judgment is type-written, copies of the type-written judgment shall, where it is practicable so to do, be made available to the parties immediately after the pronouncement of the judgment on payment, by the party applying for such copy, of such charges as may be specified in the rules made by the High Court.]
+Where the judgment is type-written, copies of the type-written judgment shall, where it is practicable so to do, be made available to the parties immediately after the pronouncement of the judgment on payment, by the party applying for such copy, of such charges as may be specified in the rules made by the High Court.&#93;
 
 #### 7. Date of decree
 
@@ -88,7 +88,7 @@ Where the suit is for movable property, and the decree is for the delivery of su
 
 #### 11. Decree may direct payment by instalments
 
-(1) Where and in so far as a decree is for the payment of money, the Court may for any sufficient reason [100][incorporate in the decree, after hearing such of the parties who had appeared personally or by pleader at the last hearing, before judgment, an order that] payment of the amount decreed shall be postponed or shall be made by instalments, with or without interest, notwithstanding anything contained in the contract under which the money is payable.
+(1) Where and in so far as a decree is for the payment of money, the Court may for any sufficient reason &#91;100&#93;&#91;incorporate in the decree, after hearing such of the parties who had appeared personally or by pleader at the last hearing, before judgment, an order that&#93; payment of the amount decreed shall be postponed or shall be made by instalments, with or without interest, notwithstanding anything contained in the contract under which the money is payable.
 
 (2) Order, after decree, for payment by instalments- After the passing of any such decree the Court may, on the application of the judgment-debtor and with the consent of the decree-holder, order that payment of the amount decreed shall be postponed or shall be made by instalments on such terms as to the payment of interest, the attachment of the property of the judgment-debtor, or the taking of security from him, or otherwise, as it thinks fit.
 
@@ -98,9 +98,9 @@ Where the suit is for movable property, and the decree is for the delivery of su
 
 (a) for the possession of the property;
 
-[101][(b) for the rents which have accrued on the property during the period prior to the institution of the suit or directing an inquiry as to such rent;
+&#91;101&#93;&#91;(b) for the rents which have accrued on the property during the period prior to the institution of the suit or directing an inquiry as to such rent;
 
-(ba) for the mesne profits or directing an inquiry as to such mesne profits;]
+(ba) for the mesne profits or directing an inquiry as to such mesne profits;&#93;
 
 (c) directing an inquiry as to rent or mesne profits from the institution of the suit until-
 
@@ -112,9 +112,9 @@ Where the suit is for movable property, and the decree is for the delivery of su
 
 (2) Where an inquiry is directed under clause (b) or clause (c), a final decree in respect of the rent or mesne profits shall be profits shall be passed in accordance with the result of such inquiry.
 
-[96][12A. Decree for specific performance of contract for the sale or lease of immovable property
+&#91;96&#93;&#91;12A. Decree for specific performance of contract for the sale or lease of immovable property
 
-Where a decree for the specific performance of a contract for the sale or lease of immovable property orders that the purchase-money or other sum be paid by the purchaser or lessee, it shall specify the period within which the payment shall be made.]
+Where a decree for the specific performance of a contract for the sale or lease of immovable property orders that the purchase-money or other sum be paid by the purchaser or lessee, it shall specify the period within which the payment shall be made.&#93;
 
 #### 13. Decree in administration suit
 
@@ -158,9 +158,9 @@ Where the Court passes a decree for the partition of property or for the separat
 
 #### 19. Decree when set-off or counter-claim is allowed
 
-(1) Where the defendant has been allowed a set-off [98][or counter-claim] against the claim of the plaintiff, the decree shall state what amount is due to the plaintiff and what amount is due to the defendant, and shall be for the recovery of any sum which appears to be due to either party.
+(1) Where the defendant has been allowed a set-off &#91;98&#93;&#91;or counter-claim&#93; against the claim of the plaintiff, the decree shall state what amount is due to the plaintiff and what amount is due to the defendant, and shall be for the recovery of any sum which appears to be due to either party.
 
-(2) Appeal from decree relating to set-off or counter-claim- An decree passed in a suit in which a set-off [98][or counter-claim] is claimed shall be subject to the same provisions in respect of appeal to which it would have been subject if no set-off [98][or counter-claim] had been claimed.
+(2) Appeal from decree relating to set-off or counter-claim- An decree passed in a suit in which a set-off &#91;98&#93;&#91;or counter-claim&#93; is claimed shall be subject to the same provisions in respect of appeal to which it would have been subject if no set-off &#91;98&#93;&#91;or counter-claim&#93; had been claimed.
 
 (3) The provisions of this rule shall apply whether the set-off is admissible under rule 6 of Order VIII or otherwise.
 

@@ -6,4 +6,4 @@ aliases:
 
 [[Code of Civil Procedure/index|Table of Contents]] | [[Civil-Procedure-Code-Schedule-2|Previous]] | [[Civil-Procedure-Code-Schedule-4|Next]]
 
-## [THE THIRD SCHEDULE: Execution of Decrees by Collectors- Repealed by the Code of Civil Procedure (Amendment) Act, 1956]
+## &#91;THE THIRD SCHEDULE: Execution of Decrees by Collectors- Repealed by the Code of Civil Procedure (Amendment) Act, 1956&#93;

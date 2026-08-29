@@ -16,15 +16,15 @@ aliases:
 
 The Courts shall (subject to the provisions herein contained) have jurisdiction to try all suits of a civil nature excepting suits of which their cognizance is either expressly or impliedly barred.
 
-[22][Explanation I] - A suit in which the right to property or to an office is contested is a suit of a civil nature, notwithstanding that such right may depend entirely on the decision of questions as to religious rites or ceremonies.
+&#91;22&#93;&#91;Explanation I&#93; - A suit in which the right to property or to an office is contested is a suit of a civil nature, notwithstanding that such right may depend entirely on the decision of questions as to religious rites or ceremonies.
 
-[23][Explanation II - For the purposes of this section, it is immaterial whether or not any fees are attached to the office referred to in Explanation I or whether or not such office is attached to a particular place.]
+&#91;23&#93;&#91;Explanation II - For the purposes of this section, it is immaterial whether or not any fees are attached to the office referred to in Explanation I or whether or not such office is attached to a particular place.&#93;
 
 ## 10. Stay of suit
 
-No Court shall proceed with the trial of any suit in which the matter in issue is also directly and substantially in issue in a previously instituted suit between the same parties, or between parties under whom they or any of them claim litigating under the same title where such suit is pending in the same or any other Court in [24][India] having jurisdiction to grant the relief claimed, or in any Court beyond the limits of [24][India] established or continued by [25][the Central Government [26][***] and having like jurisdiction, or before [27][the Supreme Court].
+No Court shall proceed with the trial of any suit in which the matter in issue is also directly and substantially in issue in a previously instituted suit between the same parties, or between parties under whom they or any of them claim litigating under the same title where such suit is pending in the same or any other Court in &#91;24&#93;&#91;India&#93; having jurisdiction to grant the relief claimed, or in any Court beyond the limits of &#91;24&#93;&#91;India&#93; established or continued by &#91;25&#93;&#91;the Central Government &#91;26&#93;&#91;***&#93; and having like jurisdiction, or before &#91;27&#93;&#91;the Supreme Court&#93;.
 
-Explanation.-The pendency of a suit in a foreign Court does not preclude the Courts in [24][India] from trying a suit founded on the same cause of action.
+Explanation.-The pendency of a suit in a foreign Court does not preclude the Courts in &#91;24&#93;&#91;India&#93; from trying a suit founded on the same cause of action.
 
 ## 11. Res judicata
 
@@ -42,9 +42,9 @@ Explanation V- Any relief claimed in the plaint, which is not expressly granted 
 
 Explanation VI-Where persons litigate bona fide in respect of a public right or of a private right claimed in common for themselves and others, all persons interested in such right shall, for the purposes of this section, be deemed to claim under the persons so litigating.
 
-28[Explanation VII- The provisions of this section shall apply to a proceeding for the execution of a decree and references in this section to any suit, issue or former suit shall be construed as references, respectively, to a proceeding for the execution of the decree, question arising in such proceeding and a former proceeding for the execution of that decree.
+28&#91;Explanation VII- The provisions of this section shall apply to a proceeding for the execution of a decree and references in this section to any suit, issue or former suit shall be construed as references, respectively, to a proceeding for the execution of the decree, question arising in such proceeding and a former proceeding for the execution of that decree.
 
-Explanation VIII.- An issue heard and finally decided by a Court of limited jurisdiction, competent to decide such issue, shall operate as res judicata in a subsequent suit, notwithstanding that such Court of limited jurisdiction was not competent to try such subsequent suit or the suit in which such issue has been subsequently raised.]
+Explanation VIII.- An issue heard and finally decided by a Court of limited jurisdiction, competent to decide such issue, shall operate as res judicata in a subsequent suit, notwithstanding that such Court of limited jurisdiction was not competent to try such subsequent suit or the suit in which such issue has been subsequently raised.&#93;
 
 ## 12. Bar to further suit
 
@@ -58,13 +58,13 @@ A foreign judgment shall be conclusive as to any matter thereby directly adjudic
 
 (b) where it has not been given on the merits of the case;
 
-(c) where it appears on the face of the proceedings to be founded on an incorrect view of international law or a refusal to recognise the law of [24][India] in cases in which such law is applicable;
+(c) where it appears on the face of the proceedings to be founded on an incorrect view of international law or a refusal to recognise the law of &#91;24&#93;&#91;India&#93; in cases in which such law is applicable;
 
 (d) where the proceedings in which the judgment was obtained are opposed to natural justice;
 
 (e) where it has been obtained by fraud;
 
-(f) where it sustains a claim founded on a breach of any law in force in [2][India].
+(f) where it sustains a claim founded on a breach of any law in force in &#91;2&#93;&#91;India&#93;.
 
 ## 14. Presumption as to foreign judgments
 
@@ -96,7 +96,7 @@ shall be instituted in the Court within the local limits of whose jurisdiction t
 
 Provided that a suit to obtain relief respecting, or compensation for wrong to, immovable property held by or on behalf of the defendant may, where the relief sought can be entirely obtained through his personal obedience be instituted either in the Court within the local limits of whose jurisdiction the property is situate, or in the Court within the local limits of whose jurisdiction the defendant actually and voluntarily resides, or carries on business, or personally works for gain.
 
-Explanation.-In this section "property" means property situate in [24][India].
+Explanation.-In this section "property" means property situate in &#91;24&#93;&#91;India&#93;.
 
 ## 17. Suits for immovable property situate within jurisdiction of different Courts
 
@@ -132,9 +132,9 @@ Subject to the limitations aforesaid, every suit shall be instituted in a Court 
 
 (c) the cause of action, wholly or in part, arises.
 
-[29][***]
+&#91;29&#93;&#91;***&#93;
 
-[30][Explanation].- A corporation shall be deemed to carry on business at its sole or principal office in [24][India] or, in respect of any cause of action arising at any place where it has also a subordinate office, at such place.
+&#91;30&#93;&#91;Explanation&#93;.- A corporation shall be deemed to carry on business at its sole or principal office in &#91;24&#93;&#91;India&#93; or, in respect of any cause of action arising at any place where it has also a subordinate office, at such place.
 
 ### Illustrations
 
@@ -144,17 +144,17 @@ Subject to the limitations aforesaid, every suit shall be instituted in a Court 
 
 ## 21. Objections to jurisdiction
 
-[31][(1)] No objection as to the place of suing shall be allowed by any Appellate or Revisional Court unless such objection was taken in the Court of first instance at the earliest possible opportunity and in all cases where issues are settled at or before such settlement, and unless there has been a consequent failure of justice.
+&#91;31&#93;&#91;(1)&#93; No objection as to the place of suing shall be allowed by any Appellate or Revisional Court unless such objection was taken in the Court of first instance at the earliest possible opportunity and in all cases where issues are settled at or before such settlement, and unless there has been a consequent failure of justice.
 
-[32][(2) No objection as to the competence of a Court with reference to the pecuniary limits of its jurisdiction shall be allowed by any Appellate or Revisional Court unless such objection was taken in the Court of first instance at the earliest possible opportunity, and in all cases where issues are settled, at or before such settlement, and unless there has been a consequent failure of justice.
+&#91;32&#93;&#91;(2) No objection as to the competence of a Court with reference to the pecuniary limits of its jurisdiction shall be allowed by any Appellate or Revisional Court unless such objection was taken in the Court of first instance at the earliest possible opportunity, and in all cases where issues are settled, at or before such settlement, and unless there has been a consequent failure of justice.
 
-(3) No objection as to the competence of the executing Court with reference to the local limits of its jurisdiction shall be allowed by any Appellate or Revisional Court unless such objection was taken in the executing Court at the earliest possible opportunity, and unless there has been a consequent failure of justice.]
+(3) No objection as to the competence of the executing Court with reference to the local limits of its jurisdiction shall be allowed by any Appellate or Revisional Court unless such objection was taken in the executing Court at the earliest possible opportunity, and unless there has been a consequent failure of justice.&#93;
 
-## 33[21A. Bar on suit to set aside decree on objection as to place of suing
+## 33&#91;21A. Bar on suit to set aside decree on objection as to place of suing
 
 No suit shall lie challenging the validity of a decree passed in a former suit between the same parties, or between the parties under whom they or any of them claim, litigating under the same title, on any ground based on an objection as to the place of suing.
 
-Explanation.- The expression "former suit" means a suit which has been decided prior to the decision in the suit in which the validity of the decree is questioned, whether or not the previously decided suit was instituted prior to the suit in which the validity of such decree is questioned.]
+Explanation.- The expression "former suit" means a suit which has been decided prior to the decision in the suit in which the validity of the decree is questioned, whether or not the previously decided suit was instituted prior to the suit in which the validity of such decree is questioned.&#93;
 
 ## 22. Power to transfer suits which may be instituted in more than one Court
 
@@ -182,19 +182,19 @@ Where a suit may be instituted in any one of two or more Courts and is institute
 
 (iii) retransfer the same for trial or disposal to the Court from which it was withdrawn.
 
-(2) Where any suit or proceeding has been transferred or withdrawn under sub-section (1), the Court which [34][is thereafter to try or dispose of such suit or proceeding] may, subject to any special directions in the case of an order of transfer, either retry it or proceed from the point at which it was transferred or withdrawn.
+(2) Where any suit or proceeding has been transferred or withdrawn under sub-section (1), the Court which &#91;34&#93;&#91;is thereafter to try or dispose of such suit or proceeding&#93; may, subject to any special directions in the case of an order of transfer, either retry it or proceed from the point at which it was transferred or withdrawn.
 
-[35][(3) For the purposes of this section,-
+&#91;35&#93;&#91;(3) For the purposes of this section,-
 
 (a) Courts of Additional and Assistant Judges shall be deemed to be subordinate to the District Court;
 
-(b) "proceeding" includes a proceeding for the execution of a decree or order.]
+(b) "proceeding" includes a proceeding for the execution of a decree or order.&#93;
 
 (4) The Court trying any suit transferred or withdrawn under this section from a Court of Small Causes shall, for the purposes of such suit, be deemed to be a Court of Small Causes.
 
-[36][(5) A suit or proceeding may be transferred under this section from a Court which has no jurisdiction to try it.]
+&#91;36&#93;&#91;(5) A suit or proceeding may be transferred under this section from a Court which has no jurisdiction to try it.&#93;
 
-## 37[25. Power of Supreme Court to transfer suits, etc.
+## 37&#91;25. Power of Supreme Court to transfer suits, etc.
 
 (1) On the application of a party, and after notice to the parties, and after hearing such of them as desire to be heard, the Supreme Court may, at any stage, if satisfied that an order under this section is expedient for the ends of justice, direct that any suit, appeal or other proceeding be transferred from a High Court or other Civil Court in one State to a High Court or other Civil Court in any other State.
 
@@ -204,7 +204,7 @@ Where a suit may be instituted in any one of two or more Courts and is institute
 
 (4) In dismissing any application under this section, the Supreme Court may, if it is of opinion that the application was frivolous or vexatious, order the applicant to pay by way of compensation to any person who has opposed the application such sum, not exceeding two thousand rupees, as it considers appropriate in the circumstances of the case.
 
-(5) The law applicable to any suit, appeal or other proceeding transferred under this section shall be the law which the Court in which the suit, appeal or other proceeding was originally instituted ought to have applied to such suit, appeal or proceeding.]
+(5) The law applicable to any suit, appeal or other proceeding transferred under this section shall be the law which the Court in which the suit, appeal or other proceeding was originally instituted ought to have applied to such suit, appeal or proceeding.&#93;
 
 ### Institution of suits
 
@@ -224,15 +224,15 @@ Where a suit has been duly instituted, a summons may be issued to the defendant 
 
 (2) The Court to which such summons is sent shall, upon receipt thereof, proceed as if it had been issued by such Court and shall then return the summons to the Court of issue together with the record (if any) of its proceedings with regard thereto.
 
-[38][(3) Where the language of the summons sent for service in another State is different from the language of the record referred to in sub-section (2), a translation of the record,-
+&#91;38&#93;&#91;(3) Where the language of the summons sent for service in another State is different from the language of the record referred to in sub-section (2), a translation of the record,-
 
 (a) in Hindi, where the language of the Court issuing the summons is Hindi, or
 
 (b) in Hindi or English where the language of such record is other than Hindi or English,
 
-shall also be sent together with the record sent under that sub-section.]
+shall also be sent together with the record sent under that sub-section.&#93;
 
-## 39[29. Service of foreign summonses
+## 39&#91;29. Service of foreign summonses
 
 Summonses and other processes issued by-
 
@@ -242,7 +242,7 @@ Summonses and other processes issued by-
 
 (c) any other Civil or Revenue Court outside India to which the Central Government has, by notification in the Official Gazette, declared the provisions of this section to apply,
 
-may be sent to the Courts in the territories to which this Code extends, and served as if they were summonses issued by such Courts.]
+may be sent to the Courts in the territories to which this Code extends, and served as if they were summonses issued by such Courts.&#93;
 
 ## 30. Power to order discovery and the like
 
@@ -280,15 +280,15 @@ The Court, after the case has been heard, shall pronounce judgment, and on such 
 
 ## 34. Interest
 
-(1) Where and in so far as a decree is for the payment of money, the Court may, in the decree, order interest at such rate as the Court deems reasonable to be paid on the principal sum adjudged, from the date of the suit to the date of the decree, in addition to any interest adjudged on such principal sum for any period prior to the institution of the suit, [40][with further interest at such rate not exceeding six per cent per annum as the Court deems reasonable on such principal sum], from the date of the decree to the date of payment, or to such earlier date as the Court thinks fit:
+(1) Where and in so far as a decree is for the payment of money, the Court may, in the decree, order interest at such rate as the Court deems reasonable to be paid on the principal sum adjudged, from the date of the suit to the date of the decree, in addition to any interest adjudged on such principal sum for any period prior to the institution of the suit, &#91;40&#93;&#91;with further interest at such rate not exceeding six per cent per annum as the Court deems reasonable on such principal sum&#93;, from the date of the decree to the date of payment, or to such earlier date as the Court thinks fit:
 
-[41][Provided that where the liability in relation to the sum so adjudged had arisen out of a commercial transaction, the rate of such further interest may exceed six per cent per annum, but shall not exceed the contractual rate of interest or where there is no contractual rate, the rate at which moneys are lent or advanced by nationalised banks in relation to commercial transactions.
+&#91;41&#93;&#91;Provided that where the liability in relation to the sum so adjudged had arisen out of a commercial transaction, the rate of such further interest may exceed six per cent per annum, but shall not exceed the contractual rate of interest or where there is no contractual rate, the rate at which moneys are lent or advanced by nationalised banks in relation to commercial transactions.
 
 Explanation I- In this, sub-section, "nationalised bank" means a corresponding new bank as defined in the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970 (5 of 1970).
 
-Explanation II.- For the purposes of this section, a transaction is a commercial transaction, if it is connected with the industry, trade or business of the party incurring the liability.]
+Explanation II.- For the purposes of this section, a transaction is a commercial transaction, if it is connected with the industry, trade or business of the party incurring the liability.&#93;
 
-(2) Where such a decree is silent with respect to the payment of further interest [40][on such principal sum] from the date of the decree to the date of payment or other earlier date, the Court shall be deemed to have refused such interest, and a separate suit therefor shall not lie.
+(2) Where such a decree is silent with respect to the payment of further interest &#91;40&#93;&#91;on such principal sum&#93; from the date of the decree to the date of payment or other earlier date, the Court shall be deemed to have refused such interest, and a separate suit therefor shall not lie.
 
 ### Costs
 
@@ -298,23 +298,23 @@ Explanation II.- For the purposes of this section, a transaction is a commercial
 
 (2) Where the Court directs that any costs shall not follow the event, the Court shall state its reasons in writing.
 
-[42][***]
+&#91;42&#93;&#91;***&#93;
 
-## 43[35A. Compensatory costs in respect of false or vexatious claims or defences
+## 43&#91;35A. Compensatory costs in respect of false or vexatious claims or defences
 
-(1) If in any suit or other proceedings [44][including an execution proceeding but [45][excluding an appeal or a revision]] any party objects to the claim or defence on the ground that the claim or defence or any part of it is, as against the objector, false or vexatious to the knowledge of the party by whom it has been put forward, and if thereafter, as against the objector, such claim or defence is disallowed, abandoned or withdrawn in whole or in part, the Court, [46][if it so thinks fit], may, after recording its reasons for holding such claim or defence to be false or vexatious, make an order for the payment to the objector by the party by whom such claim or defence has been put forward, of cost by way of compensation.
+(1) If in any suit or other proceedings &#91;44&#93;&#91;including an execution proceeding but &#91;45&#93;&#91;excluding an appeal or a revision&#93;&#93; any party objects to the claim or defence on the ground that the claim or defence or any part of it is, as against the objector, false or vexatious to the knowledge of the party by whom it has been put forward, and if thereafter, as against the objector, such claim or defence is disallowed, abandoned or withdrawn in whole or in part, the Court, &#91;46&#93;&#91;if it so thinks fit&#93;, may, after recording its reasons for holding such claim or defence to be false or vexatious, make an order for the payment to the objector by the party by whom such claim or defence has been put forward, of cost by way of compensation.
 
-(2) No Court shall make any such order for the payment of an amount exceeding [47][three thousand rupees] or exceeding the limits of its pecuniary jurisdiction, whichever amount is less:
+(2) No Court shall make any such order for the payment of an amount exceeding &#91;47&#93;&#91;three thousand rupees&#93; or exceeding the limits of its pecuniary jurisdiction, whichever amount is less:
 
-Provided that where the pecuniary limits of the jurisdiction of any Court exercising the jurisdiction of a Court of Small Causes under the Provincial Small Cause Courts Act, 1887 (9 of l887) [48][or under a corresponding law in force in [49][any part of India to which the said Act does not extend]] and not being a Court constituted [50][under such Act or law], are less than two hundred and fifty rupees, the High Court may empower such Court to award as costs under this section any amount not exceeding two hundred and fifty rupees and not exceeding those limits by more than one hundred rupees:
+Provided that where the pecuniary limits of the jurisdiction of any Court exercising the jurisdiction of a Court of Small Causes under the Provincial Small Cause Courts Act, 1887 (9 of l887) &#91;48&#93;&#91;or under a corresponding law in force in &#91;49&#93;&#91;any part of India to which the said Act does not extend&#93;&#93; and not being a Court constituted &#91;50&#93;&#91;under such Act or law&#93;, are less than two hundred and fifty rupees, the High Court may empower such Court to award as costs under this section any amount not exceeding two hundred and fifty rupees and not exceeding those limits by more than one hundred rupees:
 
 Provided, further, that the High Court may limit the amount which any Court or class of Courts is empowered to award as costs under this section.
 
 (3) No person against whom an order has been made under this section shall, by reason thereof, be exempted from any criminal liability in respect of any claim or defence made by him.
 
-(4) The amount of any compensation awarded under this section in respect of a false or vexatious claim or defence shall be taken into account in any subsequent suit for damages or compensation in respect of such claim or defence.]
+(4) The amount of any compensation awarded under this section in respect of a false or vexatious claim or defence shall be taken into account in any subsequent suit for damages or compensation in respect of such claim or defence.&#93;
 
-## 51[35B. Costs for causing delay
+## 51&#91;35B. Costs for causing delay
 
 (1) it, on any date fixed for the hearing of a suit or for taking any step therein, a party to the suit-
 
@@ -330,4 +330,4 @@ the Court may, for reason to be recorded, make an order requiring such party to 
 
 Explanation.-Where separate defences have been raised by the defendants or groups of defendants, payment of such costs shall be a condition precedent to the further prosecution of the defence by such defendants or groups of defendants as have been ordered by the Court to pay such costs.
 
-(2) The costs, ordered to be paid under sub-section (1), shall not, if paid, be included in the costs awarded in the decree passed in the suit; but, if such costs are not paid, a separate order shall be drawn up indicating the amount of such costs and the names and addressee of the persons by whom such costs are payable and the order so drawn up shall be executable against such persons.]
+(2) The costs, ordered to be paid under sub-section (1), shall not, if paid, be included in the costs awarded in the decree passed in the suit; but, if such costs are not paid, a separate order shall be drawn up indicating the amount of such costs and the names and addressee of the persons by whom such costs are payable and the order so drawn up shall be executable against such persons.&#93;

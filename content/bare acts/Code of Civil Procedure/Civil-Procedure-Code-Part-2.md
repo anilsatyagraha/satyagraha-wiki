@@ -12,9 +12,9 @@ aliases:
 
 ### General
 
-## [52][36. Application to orders
+## &#91;52&#93;&#91;36. Application to orders
 
-The provisions of this Code relating to the execution of decree (including provisions relating to payment under a decree) shall, so far as they are applicable, be deemed to apply to the execution of orders (including payment under an order).]
+The provisions of this Code relating to the execution of decree (including provisions relating to payment under a decree) shall, so far as they are applicable, be deemed to apply to the execution of orders (including payment under an order).&#93;
 
 ## 37. Definition of Court which passed a decree
 
@@ -24,7 +24,7 @@ The expression "Court which passed a decree," or words to that effect, shall, in
 
 (b) where the Court of first instance has ceased to exist or to have jurisdiction to execute it, the Court which, if the suit wherein the decree was passed was instituted at the time of making the application for the execution of the decree, would have jurisdiction to try such suit.
 
-[53][Explanation.-The Court of first instance does not cease to have jurisdiction to execute a decree merely on the ground that after the institution of the suit wherein the decree was passed or after the passing of the decree, any area has been transferred from the jurisdiction of that Court to the jurisdiction of any other Court; but in every such case, such other Court shall also have jurisdiction to execute the decree, if at the time of making the application for execution of the decree it would have jurisdiction to try the said suit.]
+&#91;53&#93;&#91;Explanation.-The Court of first instance does not cease to have jurisdiction to execute a decree merely on the ground that after the institution of the suit wherein the decree was passed or after the passing of the decree, any area has been transferred from the jurisdiction of that Court to the jurisdiction of any other Court; but in every such case, such other Court shall also have jurisdiction to execute the decree, if at the time of making the application for execution of the decree it would have jurisdiction to try the said suit.&#93;
 
 ### Courts by which decrees may be executed
 
@@ -34,7 +34,7 @@ A decree may be executed either by the Court which passed it, or by the Court to
 
 ## 39. Transfer of decree
 
-(1) The Court which passed a decree may, on the application of the decree-holder, send it for execution to another Court [54][of competent jurisdiction],-
+(1) The Court which passed a decree may, on the application of the decree-holder, send it for execution to another Court &#91;54&#93;&#91;of competent jurisdiction&#93;,-
 
 (a) if the person against whom the decree is passed actually and voluntarily resides or carries on business, or personally works for gain, within the local limits of the jurisdiction of such other Court, or
 
@@ -46,7 +46,7 @@ A decree may be executed either by the Court which passed it, or by the Court to
 
 (2) The Court which passed a decree may of its own motion send it for execution to any subordinate Court of competent jurisdiction.
 
-[54][(3) For the purposes of this section, a Court shall be deemed to be a Court of competent jurisdiction if, at the time of making the application for the transfer of decree to it, such Court would have jurisdiction to try the suit in which such decree was passed.]
+&#91;54&#93;&#91;(3) For the purposes of this section, a Court shall be deemed to be a Court of competent jurisdiction if, at the time of making the application for the transfer of decree to it, such Court would have jurisdiction to try the suit in which such decree was passed.&#93;
 
 ## 40. Transfer of decree to Court in another State
 
@@ -58,9 +58,9 @@ The Court to which a decree is sent for execution shall certify to the Court whi
 
 ## 42. Powers of Court in executing transferred decree
 
-[55][(1)] The Court executing a decree sent to it shall have the same powers in executing such decree as if it had been passed by itself. All persons disobeying or obstructing the executing of the decree shall be punishable by such Court in the same manner as if it had passed the decree. And its order in executing such decree shall be subject to the same rules in respect of appeal as if the decree had been passed by itself.
+&#91;55&#93;&#91;(1)&#93; The Court executing a decree sent to it shall have the same powers in executing such decree as if it had been passed by itself. All persons disobeying or obstructing the executing of the decree shall be punishable by such Court in the same manner as if it had passed the decree. And its order in executing such decree shall be subject to the same rules in respect of appeal as if the decree had been passed by itself.
 
-[56][(2) Without prejudice to the generality of the provisions of sub-section (1) the powers of the Court under that sub-section shall include the following powers of the Court which passed the decree, namely:-
+&#91;56&#93;&#91;(2) Without prejudice to the generality of the provisions of sub-section (1) the powers of the Court under that sub-section shall include the following powers of the Court which passed the decree, namely:-
 
 (a) power to send the decree for execution to another Court under section 39;
 
@@ -74,31 +74,31 @@ The Court to which a decree is sent for execution shall certify to the Court whi
 
 (a) power to order execution at the instance of the transferee of the decree;
 
-(b) in the case of a decree passed against a firm, power to grant leave to execute such decree against any person, other than such a person as is referred to in clause (b), or clause (c), of sub-rule (1) of rule 50 of Order XXI.]
+(b) in the case of a decree passed against a firm, power to grant leave to execute such decree against any person, other than such a person as is referred to in clause (b), or clause (c), of sub-rule (1) of rule 50 of Order XXI.&#93;
 
-## 57[43. Execution of decrees passed by Civil Courts in places to which this Code does not extend
+## 57&#91;43. Execution of decrees passed by Civil Courts in places to which this Code does not extend
 
-Any decree passed by any Civil Court established in any part of India to which the provisions of this Code do not extend, or by any Court established or continued by the authority of the Central Government outside India, may, if it cannot be executed within the jurisdiction of the Court by which it was passed, be executed in the manner herein provided within the jurisdiction of any Court in the territories to which this Code extends.]
+Any decree passed by any Civil Court established in any part of India to which the provisions of this Code do not extend, or by any Court established or continued by the authority of the Central Government outside India, may, if it cannot be executed within the jurisdiction of the Court by which it was passed, be executed in the manner herein provided within the jurisdiction of any Court in the territories to which this Code extends.&#93;
 
-## 58[44. Execution of decrees passed by Revenue Courts in places to which this Code does not extend
+## 58&#91;44. Execution of decrees passed by Revenue Courts in places to which this Code does not extend
 
-The State Government may, by notification in the Official Gazette, declare that the decrees of any Revenue Court in any part of India to which the provisions of this Code do not extend, or any class of such decrees, may be executed in the State as if they had been passed by Courts in that State.]
+The State Government may, by notification in the Official Gazette, declare that the decrees of any Revenue Court in any part of India to which the provisions of this Code do not extend, or any class of such decrees, may be executed in the State as if they had been passed by Courts in that State.&#93;
 
-## 59[44A. Execution of decrees passed by Courts in reciprocating territory
+## 59&#91;44A. Execution of decrees passed by Courts in reciprocating territory
 
-(1) Where a certified copy of a decree of any of the superior Courts of [60][***] any reciprocating territory has been filed in a District Court, the decree may be executed in [24][India] as if it had been passed by the District Court.
+(1) Where a certified copy of a decree of any of the superior Courts of &#91;60&#93;&#91;***&#93; any reciprocating territory has been filed in a District Court, the decree may be executed in &#91;24&#93;&#91;India&#93; as if it had been passed by the District Court.
 
 (2) Together with the certified copy of the decree shall be filed a certificate from such superior Court stating the extent, if any, to which the decree has been satisfied or adjusted and such certificate shall, for the purposes of proceedings under this section, be conclusive proof of the extent of such satisfaction or adjustment.
 
 (3) The provisions of section 47 shall as from the filing of the certified copy of the decree apply to the proceedings of a District Court executing a decree under this section, and the District Court shall refuse execution of any such decree, if it is shown to the satisfaction of the Court that the decree falls within any of the exceptions specified in clauses (a) to (f) of section 13.
 
-[61][Explanation 1.-"Reciprocating territory "means any country or territory outside India which the Central Government may, by notification in the Official Gazette, declare to be a reciprocating territory for the purposes of this section; and "superior Courts", with reference to any such territory, means such Courts as may be specified in the said notification.
+&#91;61&#93;&#91;Explanation 1.-"Reciprocating territory "means any country or territory outside India which the Central Government may, by notification in the Official Gazette, declare to be a reciprocating territory for the purposes of this section; and "superior Courts", with reference to any such territory, means such Courts as may be specified in the said notification.
 
-Explanation 2.-"Decree" with reference to a superior Court means any decree or judgment of such Court under which a sum of money is payable, not being a sum payable in respect of taxes or other charges of a like nature or in respect of a fine or other penalty, but shall in no case include arbitration award, even if such an award is enforceable as a decree or judgment.]]
+Explanation 2.-"Decree" with reference to a superior Court means any decree or judgment of such Court under which a sum of money is payable, not being a sum payable in respect of taxes or other charges of a like nature or in respect of a fine or other penalty, but shall in no case include arbitration award, even if such an award is enforceable as a decree or judgment. &#93;&#93;
 
-## 62[45. Execution of decrees outside India
+## 62&#91;45. Execution of decrees outside India
 
-So much of the foregoing sections of this Part as empowers a Court to send a decree for execution to another Court shall be construed as empowering a Court in any State to send a decree for execution to any Court established [63][***] by the authority of the Central Government [64][outside India] to which the State Government has by notification in the Official Gazette declared this section to apply.]
+So much of the foregoing sections of this Part as empowers a Court to send a decree for execution to another Court shall be construed as empowering a Court in any State to send a decree for execution to any Court established &#91;63&#93;&#91;***&#93; by the authority of the Central Government &#91;64&#93;&#91;outside India&#93; to which the State Government has by notification in the Official Gazette declared this section to apply.&#93;
 
 ## 46. Precepts
 
@@ -112,19 +112,19 @@ Provided that no attachment under a precept stall continue for more than two mon
 
 (1) All questions arising between the parties to the suit in which the decree was passed, or their representatives, and relating to the execution, discharge or satisfaction of the decree, shall be determined by the Court executing the decree and not by a separate suit.
 
-[65][***]
+&#91;65&#93;&#91;***&#93;
 
 (3) Where a question arises as to whether any person is or is not the representative of a party, such question shall, for the purposes of this section, be determined by the Court.
 
-[66][Explanation I- For the purposes of this section, a plaintiff whose suit has been dismissed and a defendant against whom a suit has been dismissed are parties to the suit.
+&#91;66&#93;&#91;Explanation I- For the purposes of this section, a plaintiff whose suit has been dismissed and a defendant against whom a suit has been dismissed are parties to the suit.
 
 Explanation II.- (a) For the purposes of this section, a purchaser of property at a sale in execution of a decree shall be deemed to be a party to the suit in which the decree is passed; and
 
-(b) all questions relating to the delivery of possession of such property to such purchaser or his representative shall be deemed to be questions relating to the execution, discharge or satisfaction of the decree within the meaning of this section.]
+(b) all questions relating to the delivery of possession of such property to such purchaser or his representative shall be deemed to be questions relating to the execution, discharge or satisfaction of the decree within the meaning of this section.&#93;
 
 ### Limit of time for execution
 
-## [48. Execution barred in certain cases: Repealed by the Limitation Act, 1963, w.e.f. 1st January, 1964.]
+## &#91;48. Execution barred in certain cases: Repealed by the Limitation Act, 1963, w.e.f. 1st January, 1964.&#93;
 
 ### Transferees and legal representatives
 
@@ -146,13 +146,13 @@ Subject to such conditions and limitations as may be prescribed, the Court may, 
 
 (b) by attachment and sale or by the sale without attachment of any property;
 
-(c) by arrest and detention in prison [67][for such period not exceeding the period specified in section 58, where arrest and detention is permissible under that section];
+(c) by arrest and detention in prison &#91;67&#93;&#91;for such period not exceeding the period specified in section 58, where arrest and detention is permissible under that section&#93;;
 
 (d) by appointing a receiver; or
 
 (e) in such other manner as the nature of the relief granted may require:
 
-[68][Provided that, where the decree is for the payment of money, execution by detention in prison shall not be ordered unless, after giving the judgment-debtor an opportunity of showing cause why he should not be committed to prison, the Court, for reasons recorded in writing, is satisfied-
+&#91;68&#93;&#91;Provided that, where the decree is for the payment of money, execution by detention in prison shall not be ordered unless, after giving the judgment-debtor an opportunity of showing cause why he should not be committed to prison, the Court, for reasons recorded in writing, is satisfied-
 
 (a) that the judgment-debtor, with the object or effect of obstructing or delaying the execution of the decree,-
 
@@ -164,7 +164,7 @@ Subject to such conditions and limitations as may be prescribed, the Court may, 
 
 (c) that the decree is for a sum for which the judgment-debtor was bound in a fiduciary capacity to account.
 
-Explanation.-In the calculation of the means of the judgment-debtor for the purposes of clause (b), there shall be left out of account any property which, by or under any law or custom having the force of law for the time being in force, is exempt from attachment in execution of the decree.]
+Explanation.-In the calculation of the means of the judgment-debtor for the purposes of clause (b), there shall be left out of account any property which, by or under any law or custom having the force of law for the time being in force, is exempt from attachment in execution of the decree.&#93;
 
 ## 52. Enforcement of decree against legal representative
 
@@ -196,9 +196,9 @@ Provided, fourthly, that, where the decree in execution of which a judgment-debt
 
 (2) The State Government may, by notification in the Official Gazette, desire that any person or class of persons whose arrest might be attended with danger or inconvenience to the public shall not be liable to arrest in execution of a decree otherwise than in accordance with such procedure as may be prescribed by the State Government in this behalf.
 
-(3) Where a judgment-debtor is arrested in execution of a decree for the payment of money and brought before the Court, the Court shall inform him that he may apply to be declared an insolvent, and that he [69][may be discharged] if he has not committed any act of bad faith regarding the subject of the application and if he complies with the provisions of the law of insolvency for the time being in force.
+(3) Where a judgment-debtor is arrested in execution of a decree for the payment of money and brought before the Court, the Court shall inform him that he may apply to be declared an insolvent, and that he &#91;69&#93;&#91;may be discharged&#93; if he has not committed any act of bad faith regarding the subject of the application and if he complies with the provisions of the law of insolvency for the time being in force.
 
-(4) Where a judgment-debtor express his intention to apply to be declared an insolvent and furnishes security, to the satisfaction of the Court, that he will within one month so apply and that he will appear, when called upon, in any proceeding upon the application or upon the decree in execution of which he was arrested, the Court [70][may release] him from arrest, and, if he fails so to apply and to appear, the Court may either direct the security to be realised or commit him to the civil prison in execution of the decree.
+(4) Where a judgment-debtor express his intention to apply to be declared an insolvent and furnishes security, to the satisfaction of the Court, that he will within one month so apply and that he will appear, when called upon, in any proceeding upon the application or upon the decree in execution of which he was arrested, the Court &#91;70&#93;&#91;may release&#93; him from arrest, and, if he fails so to apply and to appear, the Court may either direct the security to be realised or commit him to the civil prison in execution of the decree.
 
 ## 56. Prohibition of arrest or detention of women in execution of decree for money
 
@@ -212,11 +212,11 @@ The State Government may fix scales, graduated according to rank, race and natio
 
 (1) Every person detained in the civil prison in execution of a decree shall be so detained,-
 
-(a) where the decree is for the payment of a sum of money exceeding [71][one thousand rupees, for a period not exceeding three months, and,]
+(a) where the decree is for the payment of a sum of money exceeding &#91;71&#93;&#91;one thousand rupees, for a period not exceeding three months, and,&#93;
 
-[72][(b) where the decree is for the payment of a sum of money exceeding five hundred rupees, but not exceeding one thousand rupees, for a period not exceeding six weeks:]
+&#91;72&#93;&#91;(b) where the decree is for the payment of a sum of money exceeding five hundred rupees, but not exceeding one thousand rupees, for a period not exceeding six weeks:&#93;
 
-Provided that lie shall be released from such detention before the expiration of the [71][said period of detention] -
+Provided that lie shall be released from such detention before the expiration of the &#91;71&#93;&#91;said period of detention&#93; -
 
 (i) on the amount mentioned in the warrant for his detention being paid to the officer in charge of the civil prison, or
 
@@ -228,7 +228,7 @@ Provided that lie shall be released from such detention before the expiration of
 
 Provided, also, that he shall not be released from such detention under clause (ii) or clause (iii) without the order of the Court.
 
-[73][(1A) For the removal of doubts, it is hereby declared that no order for detention of the judgment-debtor in civil prison in execution of a decree for the payment of money shall be made, where the total amount of the decree does not exceed five hundred rupees.]
+&#91;73&#93;&#91;(1A) For the removal of doubts, it is hereby declared that no order for detention of the judgment-debtor in civil prison in execution of a decree for the payment of money shall be made, where the total amount of the decree does not exceed five hundred rupees.&#93;
 
 (2) A judgment-debtor released from detention under this section shall not merely by reason of his release be discharged from his debt, but he shall not be liable to be re-arrested under the decree in execution of which he was detained in the civil prison.
 
@@ -258,7 +258,7 @@ Provided that the following particulars shall not be liable to such attachment o
 
 (b) tools of artisans, and, where the judgment-debtor is an agriculturist, his implements of husbandry and such cattle and seed-grain as may, in the opinion of the Court, be necessary to enable him to earn his livelihood as such, and such portion of agricultural produce or of any class of agricultural produce as may have been declared to be free from liability under the provisions of the next following section;
 
-(c) houses and other buildings (with the materials and the sites thereof and the land immediately appurtenant thereto and necessary for their enjoyment,) belonging to [75][an agriculturist or a labourer or a domestic servant] and occupied by him;
+(c) houses and other buildings (with the materials and the sites thereof and the land immediately appurtenant thereto and necessary for their enjoyment,) belonging to &#91;75&#93;&#91;an agriculturist or a labourer or a domestic servant&#93; and occupied by him;
 
 (d) books of account;
 
@@ -266,49 +266,49 @@ Provided that the following particulars shall not be liable to such attachment o
 
 (f) any right of personal service.
 
-(g) stipends and gratuities allowed to pensioners of the Government [76][or of a local authority or of any other employer], or payable out of any service family pension fund notified in the Official Gazette by [25][the Central Government or the State Government] in this behalf, and political pension;
+(g) stipends and gratuities allowed to pensioners of the Government &#91;76&#93;&#91;or of a local authority or of any other employer&#93;, or payable out of any service family pension fund notified in the Official Gazette by &#91;25&#93;&#91;the Central Government or the State Government&#93; in this behalf, and political pension;
 
-[78](h) the wages of labourers and domestic servants, whether payable in money or in kind; [79][***]
+&#91;78&#93;(h) the wages of labourers and domestic servants, whether payable in money or in kind; &#91;79&#93;&#91;***&#93;
 
-[80][(i) salary to the extent of [81][the first [82][four hundred rupees] and two third of the remainder] [83][in execution of any decree other than a decree for maintenance]:
+&#91;80&#93;&#91;(i) salary to the extent of &#91;81&#93;&#91; the first &#91;82&#93;&#91;four hundred rupees&#93; and two third of the remainder&#93; &#91;83&#93;&#91;in execution of any decree other than a decree for maintenance&#93;:
 
-[84][Provided that where any part of such portion of the salary as is liable to attachment has been under attachment, whether continuously or intermittently, for a total period of twenty-four months, such portion shall be exempt from attachment until the expiry of a further period of twelve months, and, where such attachment has been made in execution of one and the same decree, shall, after the attachment has continued for a total period of twenty-four months, be finally exempt from attachment in execution of that decree.]
+&#91;84&#93;&#91;Provided that where any part of such portion of the salary as is liable to attachment has been under attachment, whether continuously or intermittently, for a total period of twenty-four months, such portion shall be exempt from attachment until the expiry of a further period of twelve months, and, where such attachment has been made in execution of one and the same decree, shall, after the attachment has continued for a total period of twenty-four months, be finally exempt from attachment in execution of that decree.&#93;
 
-[85][(ia) one-third of the salary in execution of any decree for maintenance;]
+&#91;85&#93;&#91;(ia) one-third of the salary in execution of any decree for maintenance;&#93;
 
-[85][(i) the pay and allowances of persons to whom the Air Force Act, 1950 (45 of 1950), or the Army Act, 1950 (46 of 1950), or the Navy Act, 1957 (62 of 1957), applies;]
+&#91;85&#93;&#91;(i) the pay and allowances of persons to whom the Air Force Act, 1950 (45 of 1950), or the Army Act, 1950 (46 of 1950), or the Navy Act, 1957 (62 of 1957), applies;&#93;
 
-(k) all compulsory deposits and other sums in or derived from and fund to which the Provident Funds Act, [91][1925], (19 of 1925), for the time being applies in so far as they are declared by the said Act not to be liable to attachment;
+(k) all compulsory deposits and other sums in or derived from and fund to which the Provident Funds Act, &#91;91&#93;&#91;1925&#93;, (19 of 1925), for the time being applies in so far as they are declared by the said Act not to be liable to attachment;
 
-[87][(ka) all deposits and other sums in or derived from any fund to which the Public Provident Fund Act, 1968 (23 of 1968), for the time being applies, in so far as they are declared by the said Act as not to be liable to attachment;
+&#91;87&#93;&#91;(ka) all deposits and other sums in or derived from any fund to which the Public Provident Fund Act, 1968 (23 of 1968), for the time being applies, in so far as they are declared by the said Act as not to be liable to attachment;
 
 (kb) all moneys payable under a policy of insurance on the life of the judgment-debtor;
 
-(kc) the interest of a lessee of a residential building to which the provisions of law for the time being in force relating to control of rents and accommodation apply;]
+(kc) the interest of a lessee of a residential building to which the provisions of law for the time being in force relating to control of rents and accommodation apply;&#93;
 
-[88][(l) any allowance forming part of the emoluments of any [89][servant of the Government] or of any servant of a railway company or local authority which the [25][appropriate Government] may by notification in the Official Gazette declare to be exempt from attachment, and any subsistence grant for allowance made to [90][any such servant] while under suspension;]
+&#91;88&#93;&#91;(l) any allowance forming part of the emoluments of any &#91;89&#93;&#91;servant of the Government&#93; or of any servant of a railway company or local authority which the &#91;25&#93;&#91;appropriate Government&#93; may by notification in the Official Gazette declare to be exempt from attachment, and any subsistence grant for allowance made to &#91;90&#93;&#91;any such servant&#93; while under suspension;&#93;
 
 (m) an expectancy of succession by survivorship or other merely contingent or possible right or interest;
 
 (n) a right to future maintenance;
 
-(o) any allowance declared by [91][any Indian law] to be exempt from liability to attachment or sale in execution of a decree; and
+(o) any allowance declared by &#91;91&#93;&#91;any Indian law&#93; to be exempt from liability to attachment or sale in execution of a decree; and
 
 (p) where the judgment-debtor is a person liable for the payment of land-revenue; any movable property which, under any law for the time being applicable to him, is exempt from sale for the recovery of an arrear of such revenue.
 
-[92][Explanation I- The moneys payable in relation to the matters mentioned in clauses (g), (h), (i), (ia), (j), (l) and (o) are exempt from attachment or sale, whether before or after they are actually payable, and, in the case of salary the attachable portion thereof is liable to attachment, whether before or after it is actually payable.]
+&#91;92&#93;&#91;Explanation I- The moneys payable in relation to the matters mentioned in clauses (g), (h), (i), (ia), (j), (l) and (o) are exempt from attachment or sale, whether before or after they are actually payable, and, in the case of salary the attachable portion thereof is liable to attachment, whether before or after it is actually payable.&#93;
 
-[93][[82][Explanation II.- In clauses (1) and (ia)], "salary" means the total monthly emoluments, excluding any allowance declared exempt from attachment under the provisions of clause (1), derived by a person from his employment whether on duty or on leave.]
+&#91;93&#93;&#91;&#91;82&#93;&#91;Explanation II.- In clauses (1) and (ia)&#93;, "salary" means the total monthly emoluments, excluding any allowance declared exempt from attachment under the provisions of clause (1), derived by a person from his employment whether on duty or on leave.&#93;
 
-[94][Explanation [95][III]--In clause (1) "appropriate Government" means-
+&#91;94&#93;&#91;Explanation &#91;95&#93;&#91;III&#93;--In clause (1) "appropriate Government" means-
 
-(i) as respect any [89][person] in the service of the Central Government, or any servant of [96][a Railway Administration] or of a cantonment authority or of the port authority of a major port, the Central Government;
+(i) as respect any &#91;89&#93;&#91;person&#93; in the service of the Central Government, or any servant of &#91;96&#93;&#91;a Railway Administration&#93; or of a cantonment authority or of the port authority of a major port, the Central Government;
 
-[97][***]
+&#91;97&#93;&#91;***&#93;
 
-(iii) as respects any other [87][servant of the Government,] or a servant of any other [98][***] local authority skilled the State Government.]
+(iii) as respects any other &#91;87&#93;&#91;servant of the Government,&#93; or a servant of any other &#91;98&#93;&#91;***&#93; local authority skilled the State Government.&#93;
 
-[87][Explanation IV- For the purposes of this proviso, "wages" includes bonus, and "labourer" includes a skilled/unskilled or semi-skilled labourer.
+&#91;87&#93;&#91;Explanation IV- For the purposes of this proviso, "wages" includes bonus, and "labourer" includes a skilled/unskilled or semi-skilled labourer.
 
 Explanation V- For the purposes of this proviso, the expression "agriculturists" means a person who cultivates land personally and who depends for his livelihood mainly on the income from agricultural land, whether as owner, tenant, partner or agricultural labourer.
 
@@ -318,17 +318,17 @@ Explanation VI- For the. purposes of Explanation V, an agriculturist shall be de
 
 (b) by the labour of any member of his family, or
 
-(c) by servants or labourers on wages payable in cash or in kind (not being as a share of the produce), or both]
+(c) by servants or labourers on wages payable in cash or in kind (not being as a share of the produce), or both&#93;
 
-[87](1A) Notwithstanding anything contained in any other law for the time being in force, an agreement by which a person agrees to waive the benefit of any exemption under this section shall be void.]
+&#91;87&#93;(1A) Notwithstanding anything contained in any other law for the time being in force, an agreement by which a person agrees to waive the benefit of any exemption under this section shall be void.&#93;
 
-(2) Nothing in this section shall be deemed [99][***] to exempt houses and other buildings (with the materials and the sites thereof and the lands immediately appurtenant thereto and necessary for their enjoyment) from attachment or sale in execution of decrees for rent of any such house, building, site or land
+(2) Nothing in this section shall be deemed &#91;99&#93;&#91;***&#93; to exempt houses and other buildings (with the materials and the sites thereof and the lands immediately appurtenant thereto and necessary for their enjoyment) from attachment or sale in execution of decrees for rent of any such house, building, site or land
 
-[99][***]
+&#91;99&#93;&#91;***&#93;
 
 ## 61. Partial exemption of agricultural produce
 
-The State Government [12][***] may, by general or special order published in the Official Gazette, declare that such portion of agricultural produce, or of any class of agricultural produce, as may appear to the State Government to be necessary for the purpose of providing until the next harvest for the due cultivation of the land and for the support of the judgment-debtor and his family shall, in the case of all agriculturists or of any class of agriculturists, be exempted from liability to attachment or sale in execution of a decree.
+The State Government &#91;12&#93;&#91;***&#93; may, by general or special order published in the Official Gazette, declare that such portion of agricultural produce, or of any class of agricultural produce, as may appear to the State Government to be necessary for the purpose of providing until the next harvest for the due cultivation of the land and for the support of the judgment-debtor and his family shall, in the case of all agriculturists or of any class of agriculturists, be exempted from liability to attachment or sale in execution of a decree.
 
 ## 62. Seizure of property in dwelling-house
 
@@ -344,7 +344,7 @@ The State Government [12][***] may, by general or special order published in the
 
 (2) Nothing in this section shall be deemed to invalidate any proceeding taken by a Court executing one of such decrees.
 
-[100][Explanation.- For the purposes of sub-section (2), "proceeding taken by a Court" does not include an order allowing, to a decree-holder who has purchased property at a sale held in execution of a decree, set off to the extent of the purchase price payable by him.]
+&#91;100&#93;&#91;Explanation.- For the purposes of sub-section (2), "proceeding taken by a Court" does not include an order allowing, to a decree-holder who has purchased property at a sale held in execution of a decree, set off to the extent of the purchase price payable by him.&#93;
 
 ## 64. Private alienation of property after attachment to be void
 
@@ -358,21 +358,21 @@ Explanation - For the purposes of this section, claims enforceable under an atta
 
 Where immovable property is sold in execution of a decree and such sale has become absolute, the property shall be deemed to have vested in the purchaser from the time when the property is sold and not from the time when the sale becomes absolute.
 
-## 101[66. ***]
+## 101&#91;66. ***&#93;
 
 ## 67. Power for State Government to make rules as to sales of land in execution of decrees for payment of money
 
-[102][(1)] The State Government [12][***] may, by notification in the Official Gazette, make rules for any local area imposing conditions in respect of the sale of any class of interests in land in execution of decrees for the payment of money, where such interests are so uncertain or undetermined as, in the opinion of the State Government, to make it impossible to fix their value.
+&#91;102&#93;&#91;(1)&#93; The State Government &#91;12&#93;&#91;***&#93; may, by notification in the Official Gazette, make rules for any local area imposing conditions in respect of the sale of any class of interests in land in execution of decrees for the payment of money, where such interests are so uncertain or undetermined as, in the opinion of the State Government, to make it impossible to fix their value.
 
-[103][(2) When on the date on which this Code came into operation in any local area, any special rules as to sale of and in execution of decrees were in force therein, the State Government may, by notification in the official Gazette, declare such rules to be in force, or may [12][***] by a like notification, modify the same.
+&#91;103&#93;&#91;(2) When on the date on which this Code came into operation in any local area, any special rules as to sale of and in execution of decrees were in force therein, the State Government may, by notification in the official Gazette, declare such rules to be in force, or may &#91;12&#93;&#91;***&#93; by a like notification, modify the same.
 
-Every notification issued in the exercise of the powers conferred by this sub-section shall set out the rules so continued or modified,]
+Every notification issued in the exercise of the powers conferred by this sub-section shall set out the rules so continued or modified,&#93;
 
-[105][(3) Every rule made under this section shall be laid, as soon as may be after it is made, before the State Legislature.]
+&#91;105&#93;&#91;(3) Every rule made under this section shall be laid, as soon as may be after it is made, before the State Legislature.&#93;
 
 ### Delegation to Collector of Power to execute decrees against immovable property
 
-## [68-72. Repealed by the Code of Civil Procedure (Amendment) Act, 1956]
+## &#91;68-72. Repealed by the Code of Civil Procedure (Amendment) Act, 1956&#93;
 
 ### Distribution of assets
 

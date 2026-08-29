@@ -52,7 +52,7 @@ Dated the ______________ day of ____________ 19______.
 
 ### (Title)
 
-Certified that no[1]satisfaction of the decree of this Court in suit No. _________ of 19_____, a copy which is thereunto attached, has been obtained by execution within the jurisdiction of this Court.
+Certified that no&#91;1&#93;satisfaction of the decree of this Court in suit No. _________ of 19_____, a copy which is thereunto attached, has been obtained by execution within the jurisdiction of this Court.
 
 Dated the ______________ day of ________ 19_____.
 
@@ -174,7 +174,7 @@ None
 
 Rs. 72-4-0 recorded on application dated the 4th March, 1899.
 
-Rs. 314-8-2 principal [interest at 6 per cent, per annum, from date of decree till payment].
+Rs. 314-8-2 principal &#91;interest at 6 per cent, per annum, from date of decree till payment&#93;.
 
 As awarded in the decree subse-quently incurred
 
@@ -188,19 +188,19 @@ Rs. a. p.
 
 Against the defendant C.D.
 
-[When attachment and sale of movable property is sought.]
+&#91;When attachment and sale of movable property is sought.&#93;
 
-I pray that the total amount of Rs. [together with interest n the principal sum up to date of payment] and the cost of taking out this execution, be realised by attachment and sale of defendant's movable property as per annexed list and paid to me.
+I pray that the total amount of Rs. &#91;together with interest n the principal sum up to date of payment&#93; and the cost of taking out this execution, be realised by attachment and sale of defendant's movable property as per annexed list and paid to me.
 
-[When attachment and sale of immovable property is sought]
+&#91;When attachment and sale of immovable property is sought&#93;
 
-I pray that the total amount of Rs. [together with interest on the principal sum up to date of payment] and the costs of taking out this execution, be realised by the attachment and sale of defendant's immovable property specified at the foot of this application and paid to me.
+I pray that the total amount of Rs. &#91;together with interest on the principal sum up to date of payment&#93; and the costs of taking out this execution, be realised by the attachment and sale of defendant's immovable property specified at the foot of this application and paid to me.
 
 I _____________ declare that what is stated herein is true to the best of my knowledge and belief.
 
 Dated the _________________ day of _________ 19____.
 
-### *[When attachment and sale of immovable property is sought.]*
+### *&#91;When attachment and sale of immovable property is sought.&#93;*
 
 ### *Description and specification of property*
 
@@ -212,13 +212,13 @@ I _________________ declare that what is stated in the above description is true
 
 ### No. 7
 
-### NOTICE TO SHOW CAUSE WHY EXECUTION SHOULD NOT ISSUE [2][(O. 21, r. 16.)]
+### NOTICE TO SHOW CAUSE WHY EXECUTION SHOULD NOT ISSUE &#91;2&#93;&#91;(O. 21, r. 16.)&#93;
 
 ### (Title)
 
 TO
 
-WHEREAS _______________ has made application to this Court for execution of decree in Suit No. ___________ of 19_________, on the allegation that the said decree has transferred to him by assignment [3][or without assignment], this is to give you notice that you are to appear before this Court _____________ on the ________ day of _________19_____, to show cause why execution should not be granted.
+WHEREAS _______________ has made application to this Court for execution of decree in Suit No. ___________ of 19_________, on the allegation that the said decree has transferred to him by assignment &#91;3&#93;&#91;or without assignment&#93;, this is to give you notice that you are to appear before this Court _____________ on the ________ day of _________19_____, to show cause why execution should not be granted.
 
 GIVEN under my hand and the seal of the Court, this ____________ day of _______19____.
 
@@ -352,7 +352,7 @@ TO
 
 The Officer in charge of the Jail at
 
-WHEREAS _____________ who has been brought before this Court this ____________ day of _______ 19___, under a warrant in execution of a decree which was made and pronounced by the said Court on the ________ day of _________ 19___, and by which decree it was ordered that the said ________ should pay _________; And whereas the said __________ has not obeyed the decree nor satisfied the Court that he is entitled to be discharged from custody; You are hereby [4][***] commanded and required to take and receive the said _______________ into the civil prison and keep him imprisoned therein for a period not exceeding ________________ or until the said decree shall be fully satisfied, or the said ___________________ shall be otherwise entitled to be released according to terms and provisions of section 58 of the Code of Civil Procedure, 1908; and the Court does hereby, fix __________ [5][***] per diem as the rate of the monthly allowance for the subsistence of the said during his confinement under this warrant of committal.
+WHEREAS _____________ who has been brought before this Court this ____________ day of _______ 19___, under a warrant in execution of a decree which was made and pronounced by the said Court on the ________ day of _________ 19___, and by which decree it was ordered that the said ________ should pay _________; And whereas the said __________ has not obeyed the decree nor satisfied the Court that he is entitled to be discharged from custody; You are hereby &#91;4&#93;&#91;***&#93; commanded and required to take and receive the said _______________ into the civil prison and keep him imprisoned therein for a period not exceeding ________________ or until the said decree shall be fully satisfied, or the said ___________________ shall be otherwise entitled to be released according to terms and provisions of section 58 of the Code of Civil Procedure, 1908; and the Court does hereby, fix __________ &#91;5&#93;&#91;***&#93; per diem as the rate of the monthly allowance for the subsistence of the said during his confinement under this warrant of committal.
 
 GIVEN under my signature and the seal of the Court, this ________ day of _________ 19______
 
@@ -384,11 +384,11 @@ WHEREAS ______________ has failed to satisfy a decree passed against on the ____
 
 GIVEN under my hand and the seal of Court, this ____________ day of ___________ 19____
 
-### [3][No. 16A
+### &#91;3&#93;&#91;No. 16A
 
 ### AFFIDAVIT OF ASSETS TO BE MADE BY A JUDGEMENT-DEBTOR
 
-## Order XXI, rule 41(2)]
+## Order XXI, rule 41(2)&#93;
 
 In the Court of.
 
@@ -402,7 +402,7 @@ state on oath / solemn affirmation / as follows:-
 
 #### 2. I live at
 
-[*]3. I am married single widower (widow) divorced
+&#91;*&#93;3. I am married single widower (widow) divorced
 
 #### 4. The following persons are dependant upon me:-
 
@@ -416,7 +416,7 @@ I am a director of the following companies:-
 
 (b) From other sources Rs.
 
-[*]7. (a) I own the house in which I live; its value in Rs.
+&#91;*&#93;7. (a) I own the house in which I live; its value in Rs.
 
 I pay as outgoing by way of rates, mortgages, interest, etc., the annual sum of Rs.
 
@@ -450,7 +450,7 @@ Rs.
 
 Rs. (etc.)
 
-Shown before me, etc.]
+Shown before me, etc.&#93;
 
 ### No. 17
 
@@ -512,7 +512,7 @@ GIVEN under my hand and the seal of the Court, this _______ day of _______19.
 
 ### ATTACHMENT
 
-### PROHIBITION ORDER, WHERE THE PROPERTY CONSISTS OF MONEY OR OF ANY SECURITY IN THE CUSTODY OF A COURT OF JUSTICE OF [6][PUBLIC OFFICER] (O.21, r. 52)
+PROHIBITION ORDER, WHERE THE PROPERTY CONSISTS OF MONEY OR OF ANY SECURITY IN THE CUSTODY OF A COURT OF JUSTICE OF &#91;6&#93;&#91;PUBLIC OFFICER&#93; (O.21, r. 52)
 
 ### (Title)
 
@@ -570,7 +570,7 @@ To
 
 WHEREAS you have failed to satisfy to satisfy a decree passed against you on the day of 19, in Suit No. of 19, in favour of for Rs.________; It is order that you, the said, be, and you are hereby, prohibited and restrained, until the further order of this Court, from transferring or charging the property specified in the scheduled hereunto annexed, by sale, gift or otherwise, and that all persons be, and that they are hereby, prohibited from receiving the same by purchase, gift or otherwise.
 
-[3][It is also ordered that you should attend Court on the day of 19 to take notice of the date fixed for settling the terms of the proclamation of sale.]
+&#91;3&#93;&#91;It is also ordered that you should attend Court on the day of 19 to take notice of the date fixed for settling the terms of the proclamation of sale.&#93;
 
 GIVEN under my hand and the seal of the Court, this _____ day of ___ 19___.
 
@@ -674,9 +674,9 @@ Detail of any incumbrances to which the property is liable
 
 Claims, if any, which have been put forward to the property and any other known particulars bearing on its nature and value.
 
-[3][The value of the property as state by the decree holder
+&#91;3&#93;&#91;The value of the property as state by the decree holder
 
-The value of the property as stated by the judgement-debtor.]
+The value of the property as stated by the judgement-debtor.&#93;
 
 ### No. 30
 
@@ -764,7 +764,7 @@ GIVEN under my hand and the seal of the Court, ________ this day ______of ____ 1
 
 To
 
-WHEREAS the under-mentioned property was sold on the day of 19, in execution of the decree passed in the above-named suit, and whereas, the decree-holder [or judgement-debtor], has applied to this Court to set aside the sale of the said property on the ground of a material irregularity [or fraud] in publishing [or conducting] the sale, namely, that
+WHEREAS the under-mentioned property was sold on the day of 19, in execution of the decree passed in the above-named suit, and whereas, the decree-holder &#91;or judgement-debtor&#93;, has applied to this Court to set aside the sale of the said property on the ground of a material irregularity &#91; or fraud &#93; in publishing &#91;or conducting&#93; the sale, namely, that
 
 Take notice that if you have any cause to show why the said application should not be granted, you should appear with your proofs in this Court on the day of 19, when the said application will be heard and determined.
 
@@ -836,7 +836,7 @@ To
 
 The Officer in Charge of the Jail at
 
-WHEREAS the under-mentioned property has been decreed to, the plaintiff in this suit, and whereas the Court is satisfied that without any just cause resisted [or obstructed] and is still resisting [or obstructed] the said in obtaining possession of the property, and whereas the said has made application to this Court that the said be committed to the civil prison;
+WHEREAS the under-mentioned property has been decreed to, the plaintiff in this suit, and whereas the Court is satisfied that without any just cause resisted &#91;or obstructed&#93; and is still resisting &#91;or obstructed&#93; the said in obtaining possession of the property, and whereas the said has made application to this Court that the said be committed to the civil prison;
 
 You are hereby commanded and required to take and receive the said into the civil prison and to keep him imprisoned therein for the period of days.
 

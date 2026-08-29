@@ -16,23 +16,23 @@ Any party to a suit may give notice, by his pleading, or otherwise in writing, t
 
 #### 2. Notice to admit documents
 
-Either party may call upon the other party [64][to admit, within fifteen days from the date of service of the notice any document,] saving all just exceptions; and in case of refusal or neglect to admit, after such notice, the costs of proving any such document shall be paid by the party so neglecting or refusing, whatever the result of the suit may be, unless the Court otherwise directs; and no costs of proving any document shall be allowed unless such notice is given, except where the omission to give the notice is, in the opinion of the Court, a saving of expense.
+Either party may call upon the other party &#91;64&#93;&#91;to admit, within fifteen days from the date of service of the notice any document,&#93; saving all just exceptions; and in case of refusal or neglect to admit, after such notice, the costs of proving any such document shall be paid by the party so neglecting or refusing, whatever the result of the suit may be, unless the Court otherwise directs; and no costs of proving any document shall be allowed unless such notice is given, except where the omission to give the notice is, in the opinion of the Court, a saving of expense.
 
-[65][2A. Document to be deemed to be admitted if not divided after service of notice to admit documents
+&#91;65&#93;&#91;2A. Document to be deemed to be admitted if not divided after service of notice to admit documents
 
 (1) Every document which a party is called upon to admit, if not denied specifically or by necessary implication, or stated to be not admitted in the pleading of that party or in his reply to the notice to admit documents, shall be deemed to be admitted except as against a person under a disability:
 
 Provided that the Court may, in its discretion and for reasons to be recorded, require any document so admitted to be proved otherwise than by such admission.
 
-(2) Where a party unreasonably neglects or refuses to admit a document after the service on him of the notice to admit documents, the Court may direct him to pay costs to the other party by way of compensation.]
+(2) Where a party unreasonably neglects or refuses to admit a document after the service on him of the notice to admit documents, the Court may direct him to pay costs to the other party by way of compensation.&#93;
 
 #### 3. Form of notice
 
 A notice to admit documents shall be in Form No. 9 in Appendix C, with such variations as circumstances may require.
 
-[24][3A. Power of Court to record admission
+&#91;24&#93;&#91;3A. Power of Court to record admission
 
-Notwithstanding that no notice to admit documents has been given under rule 2, the Court may, at any stage of the proceeding before it, of its own motion, call upon any party to admit any document and shall in such a case, record whether the party admits or refuses or neglects to admit such document.]
+Notwithstanding that no notice to admit documents has been given under rule 2, the Court may, at any stage of the proceeding before it, of its own motion, call upon any party to admit any document and shall in such a case, record whether the party admits or refuses or neglects to admit such document.&#93;
 
 #### 4. Notice to admit acts
 
@@ -46,11 +46,11 @@ Provided also that the Court may at any time allow any party to amend or withdra
 
 A notice to admit facts shall be in Form No. 10 in Appendix C, and admissions of facts shall be in Form No. 11 in Appendix C, with such variations as circumstances may require.
 
-[66][6. Judgement on admissions
+&#91;66&#93;&#91;6. Judgement on admissions
 
 (1) Where admissions of fact have been made either in the pleading or otherwise, whether orally or in writing, the Court may at any stage of the suit, either on the application of any party or of its own motion and without waiting for the determination of any other question between the parties, make such order or give such judgment as it may think fit, having regard to such admissions.
 
-(2) Whenever a judgment is pronounced under sub-rule (J) a decree shall be drawn up in accordance with the judgment and the decree shall bear the date on which the judgment was pronounced.]
+(2) Whenever a judgment is pronounced under sub-rule (J) a decree shall be drawn up in accordance with the judgment and the decree shall bear the date on which the judgment was pronounced.&#93;
 
 #### 7. Affidavit of signature
 

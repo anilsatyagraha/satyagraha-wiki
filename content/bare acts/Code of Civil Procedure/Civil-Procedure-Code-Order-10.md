@@ -14,7 +14,7 @@ aliases:
 
 At the first hearing of the suit the Court shall ascertain from each party or his pleader whether he admits or denies such allegations of fact as are made in the plaint or written statement (if any) of the opposite party, and as are not expressly or by necessary implication admitted or denied by the party against whom they are made. The Court shall record such admissions and denials.
 
-[57][2. Oral examination of party, or companion of party
+&#91;57&#93;&#91;2. Oral examination of party, or companion of party
 
 (1) At the first hearing of the suit, the Court-
 
@@ -24,9 +24,9 @@ At the first hearing of the suit the Court shall ascertain from each party or hi
 
 (2) At any subsequent hearing, the Court may orally examine any party appearing in person or present in Court, or any person, able to answer any material question relating to the suit, by whom such party or his pleader is accompanied.
 
-(3) The Court may, if it thinks fit, put in the course of an examination under this rule questions suggested by either party.]
+(3) The Court may, if it thinks fit, put in the course of an examination under this rule questions suggested by either party.&#93;
 
-[58]3. Substance of examination to be written
+&#91;58&#93;3. Substance of examination to be written
 
 The substance of the examination shall be reduced to writing by the Judge, and shall form part of the record.
 

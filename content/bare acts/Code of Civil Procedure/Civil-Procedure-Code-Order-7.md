@@ -36,7 +36,7 @@ The plaint shall contain the following particulars:-
 
 Where the plaintiff seeks the recovery of money, the plaint shall state the precise amount claimed:
 
-But where the plaintiff sues for mesne profits, or for an amount which will be found due to him on taking unsettled accounts between him and the defendant, [39][or for movables in the possession of the defendant, or for debts of which the value he cannot, after the exercise of reasonable diligence, estimate, the plaint shall state approximately the amount or value sued for].
+But where the plaintiff sues for mesne profits, or for an amount which will be found due to him on taking unsettled accounts between him and the defendant, &#91;39&#93;&#91;or for movables in the possession of the defendant, or for debts of which the value he cannot, after the exercise of reasonable diligence, estimate, the plaint shall state approximately the amount or value sued for&#93;.
 
 #### 3. Where the subject-matter of the suit is immovable property
 
@@ -54,7 +54,7 @@ The plaint shall show that the defendant is or claims to be interested in subjec
 
 Where the suit is instituted after the expiration of the period prescribed by the law of limitation, the plaint shall show the ground upon which exemption from such law is claimed:
 
-[40][Provided that the Court may permit the plaintiff to claim exemption from the law of limitation on any ground not set out in the plaint, if such ground is not inconsistent with the grounds set out in the plaint.
+&#91;40&#93;&#91;Provided that the Court may permit the plaintiff to claim exemption from the law of limitation on any ground not set out in the plaint, if such ground is not inconsistent with the grounds set out in the plaint.
 
 #### 7. Relief to be specially-
 
@@ -66,11 +66,11 @@ Where the plaintiff seeks relief in respect of several distinct claims or causes
 
 #### 9. Procedure on admitting plaint- Concise statements-
 
-(1) The plaintiff shall endorse on the plaint, or annex thereto, a list of the documents (if any) which he has produced along with it; and, if the plaint is admitted, [39][shall present, within such time as may be fixed by the Court or extended by it from time to time, as many copies] on plain paper of the plaint as there are defendants, unless the Court by reason of the length of
+(1) The plaintiff shall endorse on the plaint, or annex thereto, a list of the documents (if any) which he has produced along with it; and, if the plaint is admitted, &#91;39&#93;&#91;shall present, within such time as may be fixed by the Court or extended by it from time to time, as many copies&#93; on plain paper of the plaint as there are defendants, unless the Court by reason of the length of
 
 the plaint or the number of the defendants, or for any other sufficient reason, permits him to present a like number of concise statements of the nature of the claim made, or of the relief claimed in the suit, in which case he shall present such statements.
 
-[41][(1A) The plaintiff shall, within the time fixed by the Court or extended by it under sub-rule (1), pay the requisite fee for the service of summons on the defendants.]
+&#91;41&#93;&#91;(1A) The plaintiff shall, within the time fixed by the Court or extended by it under sub-rule (1), pay the requisite fee for the service of summons on the defendants.&#93;
 
 (2) Where the plaintiff sues, or the defendant or any of the defendants is sued, in a representative capacity, such statements shall show in what capacity the plaintiff or defendant sues or is sued.
 
@@ -78,15 +78,15 @@ the plaint or the number of the defendants, or for any other sufficient reason, 
 
 (4) The chief ministerial officer of the Court shall sign such list and copies or statements if, on examination, he finds them to be correct.
 
-[42]10. Return of plaint
+&#91;42&#93;10. Return of plaint
 
-(1) [41][Subject to the provisions of rule 10A, the plaint shall] at any stage of the suit be returned to be: presented to the Court in which the suit should have been instituted.
+(1) &#91;41&#93;&#91;Subject to the provisions of rule 10A, the plaint shall&#93; at any stage of the suit be returned to be: presented to the Court in which the suit should have been instituted.
 
-[41][Explanation.- For the removal oil doubts, it is hereby declared that a Court of appeal or revision may direct, after setting aside the decree passed in a suit, the return of the plaint under this sub-rule.]
+&#91;41&#93;&#91;Explanation.- For the removal oil doubts, it is hereby declared that a Court of appeal or revision may direct, after setting aside the decree passed in a suit, the return of the plaint under this sub-rule.&#93;
 
 (2) Procedure on returning plaint- On returning a plaint, the Judge shall endorse thereon the date of its presentation and return, the name of the party presenting it, and a brief statement of the reasons for returning it.
 
-[41][10A. Power of Court to fix a date of appearance in the Court where plaint is to be filed after its return
+&#91;41&#93;&#91;10A. Power of Court to fix a date of appearance in the Court where plaint is to be filed after its return
 
 (1) Where, in any suit, after the defendant has appeared, the Court is of opinion that the plaint should be returned, it shall, before doing so, intimate its decision to the plaintiff.
 
@@ -116,7 +116,7 @@ the plaint or the number of the defendants, or for any other sufficient reason, 
 
 (1) Where, on an appeal against an order for the return of plaint, the Court hearing the appeal confirms such order, the Court of appeal may, if the plaintiff by an application so desires, while returning the plaint, direct plaintiff to file the plaint, subject to the provisions of the Limitation Act, 1963 (36 of 1963), in the Court in which the suit should have been instituted, (whether such Court is within or without the State in which the Court hearing the appeal is situated), and fix a date for the appearance of the parties in the Court in which the plaint is directed to be filed and when the date is so fixed it shall not be necessary for the Court in which the plaint is filed to serve the defendant with the summons for appearance in the suit, unless that Court in which the plaint is filed, for reasons to be recorded, otherwise directs.
 
-(2) The direction made by the Court under sub-rule (1) shall be without any prejudice to the rights of the parties to question the jurisdiction of the Court, in which the plaint is filed, to try the suit.]
+(2) The direction made by the Court under sub-rule (1) shall be without any prejudice to the rights of the parties to question the jurisdiction of the Court, in which the plaint is filed, to try the suit.&#93;
 
 #### 11. Rejection of plaint
 
@@ -130,7 +130,7 @@ The plaint shall be rejected in the following cases:-
 
 (d) where the suit appears from the statement in the plaint to be barred by any law:
 
-[41][Provided that the time fixed by the Court for the correction of the valuation or supplying of the requisite stamp-paper shall not be extended unless the Court, for reasons to be recorded, is satisfied that the plaintiff was prevented by any cause of an exceptional nature from correcting the valuation or supplying the requisite stamp-paper, as the case may be, within the time fixed by the Court and that refusal to extend such time would cause grave injustice to the plaintiff.]
+&#91;41&#93;&#91;Provided that the time fixed by the Court for the correction of the valuation or supplying of the requisite stamp-paper shall not be extended unless the Court, for reasons to be recorded, is satisfied that the plaintiff was prevented by any cause of an exceptional nature from correcting the valuation or supplying the requisite stamp-paper, as the case may be, within the time fixed by the Court and that refusal to extend such time would cause grave injustice to the plaintiff.&#93;
 
 #### 12. Procedure on rejecting plaint
 

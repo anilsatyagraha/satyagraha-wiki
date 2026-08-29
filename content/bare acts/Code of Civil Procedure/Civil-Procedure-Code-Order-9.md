@@ -16,9 +16,9 @@ On the day fixed in the summons for the defendant to appear and answer, the part
 
 #### 2. Dismissal of suit where summons not served in consequence of plaintiffs failure to pay costs
 
-Where on the day so fixed it is found that the summons has not been served upon the defendant in consequence of the failure of the plaintiff to pay the court-fee of postal charges (if any) chargeable for such service, [51][or to present copies of the plaint or concise statements, as required by rule 9 of Order VII,] the Court may make an order that the suit be dismissed
+Where on the day so fixed it is found that the summons has not been served upon the defendant in consequence of the failure of the plaintiff to pay the court-fee of postal charges (if any) chargeable for such service, &#91;51&#93;&#91;or to present copies of the plaint or concise statements, as required by rule 9 of Order VII,&#93; the Court may make an order that the suit be dismissed
 
-[52][Provided that no such order shall be made, if, notwithstanding such failure the defendant attends in person (or by agent when he is allowed to appear by agent) on the day fixed for him to appear and answer.]
+&#91;52&#93;&#91;Provided that no such order shall be made, if, notwithstanding such failure the defendant attends in person (or by agent when he is allowed to appear by agent) on the day fixed for him to appear and answer.&#93;
 
 #### 3. Where neither party appears, suit to be dismissed
 
@@ -26,11 +26,11 @@ Where neither party appears when the suit is called on for hearing, the Court ma
 
 #### 4. Plaintiff may bring fresh suit or Court may restore suit to file
 
-Where a suit is dismissed under rule 2 or rule 3, the plaintiff may (subject to the law of limitation) bring a fresh suit; or he may apply for an order to set the dismissal aside, and if he satisfies the Court that there was sufficient cause for [53][such failure as is referred to in rule 2], or for his non-appearance, as the case may be, the Court shall make an order setting aside the dismissal and shall appoint a day for proceeding with the suit.
+Where a suit is dismissed under rule 2 or rule 3, the plaintiff may (subject to the law of limitation) bring a fresh suit; or he may apply for an order to set the dismissal aside, and if he satisfies the Court that there was sufficient cause for &#91;53&#93;&#91;such failure as is referred to in rule 2&#93;, or for his non-appearance, as the case may be, the Court shall make an order setting aside the dismissal and shall appoint a day for proceeding with the suit.
 
 #### 5. Dismissal of suit where plaintiff after summons returned unserved, fails for one mouth to apply for fresh summons
 
-[54][(1) Where after a summons has been issued to the defendant, or to one of several defendants, and returned unserved, the plaintiff fails, for a period of [55][one month] from the date of the return made to the Court by the officer ordinarily certifying to the Court returns made by the serving officers, to apply for the issue of a fresh summons the Court shall make an order that the suit be dismissed as against such defendant, unless the plaintiff has within the said period satisfied the Court that-
+&#91;54&#93;&#91;(1) Where after a summons has been issued to the defendant, or to one of several defendants, and returned unserved, the plaintiff fails, for a period of &#91;55&#93;&#91;one month&#93; from the date of the return made to the Court by the officer ordinarily certifying to the Court returns made by the serving officers, to apply for the issue of a fresh summons the Court shall make an order that the suit be dismissed as against such defendant, unless the plaintiff has within the said period satisfied the Court that-
 
 (a) he has failed after using his best endeavours to discover the residence of the defendant, who has not been served, or
 
@@ -38,7 +38,7 @@ Where a suit is dismissed under rule 2 or rule 3, the plaintiff may (subject to 
 
 (c) there is any other sufficient cause for extending the time,
 
-in which case the Court may extend the time for making such application for such period as it thinks fit.]
+in which case the Court may extend the time for making such application for such period as it thinks fit.&#93;
 
 (2) In such case the plaintiff may (subject to the law of limitation) bring a fresh suit.
 
@@ -46,7 +46,7 @@ in which case the Court may extend the time for making such application for such
 
 (1) Where the plaintiff appears and the defendant does not appear when the suit is called on for hearing, then-
 
-[56][(a) When summons duly served- if it is proved that the summons was duly served, the Court may make an order that the suit shall be heard ex parte;]
+&#91;56&#93;&#91;(a) When summons duly served- if it is proved that the summons was duly served, the Court may make an order that the suit shall be heard ex parte;&#93;
 
 (b) When summons not duly served- if it is not proved that the summons was duly served, the Court shall direct a second summons to be issued and served on the defendant;
 
@@ -90,9 +90,9 @@ In any case in which a decree is passed ex parte against a defendant, he may app
 
 Provided that where the decree is of such a nature that it cannot be set aside as against such defendant only it may he set aside as against all or any of the other defendants also:
 
-[51][Provided further that no Court shall set aside a decree passed ex parte merely on the ground that there has been an irregularity in the service of summons, if it is satisfied that the defendant had notice of the date of hearing and had sufficient time to appear and answer the plaintiff's claim.]
+&#91;51&#93;&#91;Provided further that no Court shall set aside a decree passed ex parte merely on the ground that there has been an irregularity in the service of summons, if it is satisfied that the defendant had notice of the date of hearing and had sufficient time to appear and answer the plaintiff's claim.&#93;
 
-[50][Explanation.-Where there has been an appeal against a decree passed ex parte under this rule, and the appeal has been disposed of an any ground other than the ground that the appellant has withdrawn the appeal, no application shall lie under this rule for setting aside that ex parte decree.]
+&#91;50&#93;&#91;Explanation.-Where there has been an appeal against a decree passed ex parte under this rule, and the appeal has been disposed of an any ground other than the ground that the appellant has withdrawn the appeal, no application shall lie under this rule for setting aside that ex parte decree.&#93;
 
 #### 14. No decree to be set aside without notice to opposite party
 

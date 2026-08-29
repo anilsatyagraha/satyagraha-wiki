@@ -61,6 +61,7 @@ function patchFooter() {
     const target = path.join(packageRoot, relativePath)
     if (!fs.existsSync(target)) throw new Error(`Footer component not found: ${target}`)
     const source = fs.readFileSync(target, "utf8")
+    if (source.includes("real-world experience helping clients seeking Justice")) continue
     const pattern = /var Footer_default = \(\(opts\) => \{[\s\S]*?\n\}\);(?=\n\nexport \{ Footer_default as Footer \};)/
     if (!pattern.test(source)) throw new Error(`Expected footer component was not found in ${target}`)
     fs.writeFileSync(target, source.replace(pattern, replacement), "utf8")

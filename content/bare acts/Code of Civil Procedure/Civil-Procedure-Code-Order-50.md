@@ -12,7 +12,7 @@ aliases:
 
 #### 1. provincial Small Cause Courts
 
-The provisions hereinafter specified shall not extend to Courts constituted under the Provincial Small Cause Courts Act, 1887 (9 of 1887) [64][or under the Berar Small Cause Courts Law, 1905] or to Courts exercising the jurisdiction of a Court of Small Causes [65][under the said Act or Law] [66][or to Courts in [67][any part of India to which the said Act does not extend] exercising a corresponding jurisdiction] that is to say-
+The provisions hereinafter specified shall not extend to Courts constituted under the Provincial Small Cause Courts Act, 1887 (9 of 1887) &#91;64&#93;&#91;or under the Berar Small Cause Courts Law, 1905&#93; or to Courts exercising the jurisdiction of a Court of Small Causes &#91;65&#93;&#91;under the said Act or Law&#93; &#91;66&#93;&#91;or to Courts in &#91;67&#93;&#91;any part of India to which the said Act does not extend&#93; exercising a corresponding jurisdiction&#93; that is to say-
 
 (a) so much of this Schedule as relates to-
 

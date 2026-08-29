@@ -14,11 +14,11 @@ l. Form of appeal. What to accompany memorandum
 
 (1) Every appeal shall be preferred in the form of a memorandum signed by the appellant or his pleader and presented to the Court or to such officer as it appoints in this behalf. the memorandum shall be accompanied. by a copy of the decree appealed from and (unless the Appellate Court dispenses therewith) of the judgement on which it is founded:
 
-[20][Provided that where two or more suits have been tried together and a common judgement has been delivered therefor and two or more appeals are filed against any decree covered by that judgement, whether by the same appellant or by different appellants, the Appellate Court may dispense with the filing of more than one copy of the judgement.]
+&#91;20&#93;&#91;Provided that where two or more suits have been tried together and a common judgement has been delivered therefor and two or more appeals are filed against any decree covered by that judgement, whether by the same appellant or by different appellants, the Appellate Court may dispense with the filing of more than one copy of the judgement.&#93;
 
 (2) Contents of memorandum- The memorandum shall set forth, concisely and under distinct heads, the grounds of objection to the decree appealed from without any argument or narrative; and such grounds shall be numbered consecutively.
 
-[20][(3) Where the appeal is against a decree for payment of money, the appellant shall, within such time as the Appellate Court may allow, deposit the amount disputed in the appeal or furnish such security in respect thereof as the Court may think fit.]
+&#91;20&#93;&#91;(3) Where the appeal is against a decree for payment of money, the appellant shall, within such time as the Appellate Court may allow, deposit the amount disputed in the appeal or furnish such security in respect thereof as the Court may think fit.&#93;
 
 #### 2. Grounds which may be taken in appeal
 
@@ -34,13 +34,13 @@ Provided that the Court shall not rest its decision on any other ground unless t
 
 (3) Where a memorandum of appeal is amended, the Judge, or such officer as he appoints in this behalf, shall sign or initial the amendment.
 
-[20][3A. Application for condonation of delay
+&#91;20&#93;&#91;3A. Application for condonation of delay
 
 (1) When an appeal is presented after the expiry of the period of limitation specified therefor, it shall be accompanied by an application supported by affidavit setting forth the facts on which the appellant relies to satisfy the Court that he had sufficient cause for Pot preferring the appeal within such period.
 
 (2) If the Court sees no reason to reject the application without the issue of a notice to the respondent, notice hereof shall be issued to the respondent and the matter shall be finally decided by the Court before it proceeds to deal with the appeal under rule 11 or rule 13, as the case may be.
 
-(3) Where an application has been made under sub-rule (1) the Court shall not make in order fact the stay of execution of the decree against which the appeal is proposed to be filed so long as the Court does not, after hearing under rule 11, decide to hear the appeal.]
+(3) Where an application has been made under sub-rule (1) the Court shall not make in order fact the stay of execution of the decree against which the appeal is proposed to be filed so long as the Court does not, after hearing under rule 11, decide to hear the appeal.&#93;
 
 #### 4. One of several plaintiffs or defendants may obtain reversal of whole decree where it proceeds on ground common to all
 
@@ -52,7 +52,7 @@ Where there are more plaintiffs or more defendants than one in a suit, and the d
 
 (1) An appeal shall not operate as a stay of proceedings under a decree or order appealed from except so far as the Appellate Court may order, nor shall execution of a decree be stayed by reason only of an appeal having been preferred from the decree; but the Appellate Court may for sufficient cause order stay of execution of such decree.
 
-[20][Explanation- An order by the Appellate Court for the stay of execution of the decree shall be effective from the date of the communication of such order to the Court of first instance, but an affidavit sworn by the appellant, based on his personal knowledge, stating that an order for the stay of execution of the decree has been made by the Appellate Court shall, pending the receipt from the Appellate Court of the order for the stay of execution or any order to the contrary, be acted upon by the Court of first instance.]
+&#91;20&#93;&#91;Explanation- An order by the Appellate Court for the stay of execution of the decree shall be effective from the date of the communication of such order to the Court of first instance, but an affidavit sworn by the appellant, based on his personal knowledge, stating that an order for the stay of execution of the decree has been made by the Appellate Court shall, pending the receipt from the Appellate Court of the order for the stay of execution or any order to the contrary, be acted upon by the Court of first instance.&#93;
 
 (2) Stay by Court which passed the decree- Where an application is made for stay of execution of an appeal able decree before the expiration of the time allowed for appealing therefrom, the Court which passed the decree may on sufficient cause being shown order the execution to be stayed.
 
@@ -64,9 +64,9 @@ Where there are more plaintiffs or more defendants than one in a suit, and the d
 
 (c) that security has been given by the applicant far the due performance of such decree or order as may ultimately be binding upon him.
 
-(4) [21][Subject to the provisions of sub-rule (3)], the Court may make an ex parte order for stay of execution pending the hearing of the application.
+(4) &#91;21&#93;&#91;Subject to the provisions of sub-rule (3)&#93;, the Court may make an ex parte order for stay of execution pending the hearing of the application.
 
-[20](5) Notwithstanding anything contained in the foregoing sub-rules, where the appellant fails to make the deposit or furnish the security specified in sub-rule (3) of rule 1, the Court shall not make an order staying the execution of the decree.]
+&#91;20&#93;(5) Notwithstanding anything contained in the foregoing sub-rules, where the appellant fails to make the deposit or furnish the security specified in sub-rule (3) of rule 1, the Court shall not make an order staying the execution of the decree.&#93;
 
 #### 6. Security in case of order for execution of decree appealed from
 
@@ -74,7 +74,7 @@ Where there are more plaintiffs or more defendants than one in a suit, and the d
 
 (2) Where an order has been made for the sale of immovable property in execution of a decree and an appeal is pending from such decree, the sale shall, on the application of the judgement-debtor to the Court which made the order, be stayed on such terms as to giving security or otherwise as the Court thinks fit until the appeal is disposed of.
 
-#### 7. [22][No security to be required front the Government or a public officer in certain cases.] Repealed by the A.O, 1937.
+#### 7. &#91;22&#93;&#91;No security to be required front the Government or a public officer in certain cases.&#93; Repealed by the A.O, 1937.
 
 #### 8. Exercise of powers in appeal from order made in execution of decree
 
@@ -94,7 +94,7 @@ The powers conferred by rules 5 and 6 shall be exercisable where an appeal may b
 
 Where appellant resides out of India-
 
-Provided that the Court shall demand such security in all casts in which the appellant is residing out of [9][India], and is not possessed of any sufficient immovable property within [9][India] other than the property (if any) to which the appeal relates.
+Provided that the Court shall demand such security in all casts in which the appellant is residing out of &#91;9&#93;&#91;India&#93;, and is not possessed of any sufficient immovable property within &#91;9&#93;&#91;India&#93; other than the property (if any) to which the appeal relates.
 
 (2) Where such security is not furnished within such time as the Court orders, the Court shall reject the appeal.
 
@@ -106,11 +106,11 @@ Provided that the Court shall demand such security in all casts in which the app
 
 (3) The dismissal of an appeal under this rule shall be notified to the Court from whose decree the appeal is preferred.
 
-[20][(4) Where an Appellate Court, not being the High Court, dismisses an appeal under sub -rule (1), it shall deliver a judgement, recording in brief its grounds for doing so, and a decree shall be drawn up in accordance with the judgement.]
+&#91;20&#93;&#91;(4) Where an Appellate Court, not being the High Court, dismisses an appeal under sub -rule (1), it shall deliver a judgement, recording in brief its grounds for doing so, and a decree shall be drawn up in accordance with the judgement.&#93;
 
-[20][11A.Time within which under rule 11 should be concluded
+&#91;20&#93;&#91;11A.Time within which under rule 11 should be concluded
 
-Every appeal shall be heard under rule 11 as expeditiously as possible and endeavour shall be made to conclude such hearing within sixty days from the date on which the memorandum of appeal is filed.]
+Every appeal shall be heard under rule 11 as expeditiously as possible and endeavour shall be made to conclude such hearing within sixty days from the date on which the memorandum of appeal is filed.&#93;
 
 #### 12. Day for hearing appeal
 
@@ -132,7 +132,7 @@ Every appeal shall be heard under rule 11 as expeditiously as possible and endea
 
 (2) Appellate Court may itself cause notice to be served- Instead of sending the notice to the Court from whose decree the appeal is preferred, the Appellate Court may itself cause the notice to be served on the respondent or his pleader under the provisions above referred to.
 
-[23][(3) The notice to be served on the respondent shall be accompanied by a copy of the memorandum of appeal.
+&#91;23&#93;&#91;(3) The notice to be served on the respondent shall be accompanied by a copy of the memorandum of appeal.
 
 (4) Notwithstanding anything to the contrary contained in sub-rule (1), it shall not be necessary to serve notice of any proceeding incidental to an appeal on any respondent other than a person impleaded for the first time in the Appellate Court, unless he has appeared and filed an address for the service in the Court of first instance or has appeared in the appeal.
 
@@ -154,13 +154,13 @@ The notice to the respondent shall declare that, if he does not appear in the Ap
 
 (1) Where on the day fixed, or on any other day to which the hearing may be adjourned, the appellant does not appear when the appeal is called on for hearing, the Court may make an order that the appeal be dismissed.
 
-[23][Explanation-Nothing in this sub-rule shall be construed as empowering the Court to dismiss the appeal on the merits.]
+&#91;23&#93;&#91;Explanation-Nothing in this sub-rule shall be construed as empowering the Court to dismiss the appeal on the merits.&#93;
 
 (2) Hearing appeal ex parte- Where the appellant appears and the respondent does not appear the appeal shall be heard ex parte.
 
 #### 18. Dismissal of and where notice not served in consequence of appellant’s failure to deposit costs
 
-On the day fixed, or on any other day to which the hearing may be adjourned, it is found that the notice to the respondent has not been served in consequence of the failure of the appellant to deposit, within the Period fixed, the sum required to defray the cost of serving the notice [23][or, if the notice is returned and it is found that the notice to the respondent has not been issued in consequence of the failure of the appellant to deposit, within any subsequent period fixed, the sum required to defray of the cost of any further attempt to serve the notice,] the Court may make an order that the appeal be dismissed:
+On the day fixed, or on any other day to which the hearing may be adjourned, it is found that the notice to the respondent has not been served in consequence of the failure of the appellant to deposit, within the Period fixed, the sum required to defray the cost of serving the notice &#91;23&#93;&#91;or, if the notice is returned and it is found that the notice to the respondent has not been issued in consequence of the failure of the appellant to deposit, within any subsequent period fixed, the sum required to defray of the cost of any further attempt to serve the notice,&#93; the Court may make an order that the appeal be dismissed:
 
 Provided that no such order shall be made although the notice has not been served upon the respondent, if on any such day the respondent appears when the appeal is called on for hearing.
 
@@ -170,9 +170,9 @@ Where an appeal is dismissed under rule 11, sub-rule (2) or rule 17 or rule 18, 
 
 #### 20. Power to adjourn hearing and direct persons appearing interested to be made respondents
 
-[24][(1)] Where it appears to the Court at the hearing that any person who was a party to the suit in the Court from whose decree the appeal is preferred, but who has not been made a party to the appeal, is interested in the result of the appeal, the Court may adjourn the hearing to a future day to be fixed by the Court and direct that such person be made a respondent.
+&#91;24&#93;&#91;(1)&#93; Where it appears to the Court at the hearing that any person who was a party to the suit in the Court from whose decree the appeal is preferred, but who has not been made a party to the appeal, is interested in the result of the appeal, the Court may adjourn the hearing to a future day to be fixed by the Court and direct that such person be made a respondent.
 
-[25][(2) No respondent shall be added under this rule, after the expiry of the period of limitation for appeal, unless the Court, for reasons to be recorded, allows that to be done, on such terms as to costs as it thinks fit.]
+&#91;25&#93;&#91;(2) No respondent shall be added under this rule, after the expiry of the period of limitation for appeal, unless the Court, for reasons to be recorded, allows that to be done, on such terms as to costs as it thinks fit.&#93;
 
 #### 21. Re-hearing on application of respondent against whom ex parte decree made
 
@@ -180,9 +180,9 @@ Where an appeal is heard ex parte and judgement is pronounced against the respon
 
 #### 22. Upon hearing respondent may object to decree as if he had preferred a separate appeal
 
-(1) Any respondent, though he may not have appealed from any part of the decree, may not only support the decree [21][but may also state that the finding against him in the Court below in respect of any issue ought to have been in his favour; and may also take any cross-objection] to the decree which he could have taken by way of appeal provided he has filed such objection in the Appellant Court within one month from the date of service on him or his pleader of notice of the day fixed for hearing the appeal, or within such further time as the Appellate Court may see fit to allow.
+(1) Any respondent, though he may not have appealed from any part of the decree, may not only support the decree &#91;21&#93;&#91;but may also state that the finding against him in the Court below in respect of any issue ought to have been in his favour; and may also take any cross-objection&#93; to the decree which he could have taken by way of appeal provided he has filed such objection in the Appellant Court within one month from the date of service on him or his pleader of notice of the day fixed for hearing the appeal, or within such further time as the Appellate Court may see fit to allow.
 
-[25][Explanation.- A respondent aggrieved by a finding of the Court in the judgement on which the decree appealed against is based may, under this rule, file cross-objection in respect of the decree in so far as it is based on that finding, notwithstanding that by reason of the decision of the Court on any other finding which is sufficient for the decision of the suit the decree, is, wholly or in part, in favour of that respondent.]
+&#91;25&#93;&#91;Explanation.- A respondent aggrieved by a finding of the Court in the judgement on which the decree appealed against is based may, under this rule, file cross-objection in respect of the decree in so far as it is based on that finding, notwithstanding that by reason of the decision of the Court on any other finding which is sufficient for the decision of the suit the decree, is, wholly or in part, in favour of that respondent.&#93;
 
 (2) Form of objection and provisions applicable thereto- Such cross-objection shall be in the form of a memorandum, and!he provisions of rule 1, so far as they relate to the form and contents of the memorandum of appeal, shall apply thereto.
 
@@ -196,9 +196,9 @@ Where an appeal is heard ex parte and judgement is pronounced against the respon
 
 Where the Court from whose decree an appeal is preferred has disposed of the suit upon a preliminary point and the decree is reversed in appeal, the Appellate court may, if it fit, by order remand the case, and may further direct what issue or issues shall be tried in the case so remanded, and shall send a copy of its judgement and order to the Court from whose decree the appeal is preferred.,which directions to re-admit the suit under its original number in the register of civil suits, and proceed to determine the suit; and the evidence (if any) recorded during the original trial shall, subject to all just exceptions, be evidence during the trial after remand.
 
-[26][23A. Remand in other Cases
+&#91;26&#93;&#91;23A. Remand in other Cases
 
-Where the Court from whose decree an appeal is preferred has disposed of the case otherwise than on a preliminary point, and the decree is reversed in appeal and a re-trial is considered necessary, the Appellate Court shall have the same powers as it has under rule 23.]
+Where the Court from whose decree an appeal is preferred has disposed of the case otherwise than on a preliminary point, and the decree is reversed in appeal and a re-trial is considered necessary, the Appellate Court shall have the same powers as it has under rule 23.&#93;
 
 #### 24. Where evidence on record sufficient Appellate Court may determine case finally
 
@@ -208,7 +208,7 @@ Where the evidence upon the record is sufficient to enable the Appellate Court t
 
 Where the Court from whose decree the appeal is preferred has omitted to frame or try any issue, or to determine any question of fact, which appears to the Appellate Court essential to the right decision of the suit upon the merits the Appellate Court may, if necessary, frame issues, and refer the same for trial to the Court from whose decree the appeal is preferred, and in such case shall direct such Court to take the additional evidence required;
 
-and such Court shall proceed to try such issues, and shall return the evidence to the Appellate Court together its findings thereon and the reasons therefor [26][within such time as may be fixed by the Appellate Court or extended by it from time to time].
+and such Court shall proceed to try such issues, and shall return the evidence to the Appellate Court together its findings thereon and the reasons therefor &#91;26&#93;&#91;within such time as may be fixed by the Appellate Court or extended by it from time to time&#93;.
 
 #### 26. Findings and evidence to be put on record. Objections to finding
 
@@ -216,9 +216,9 @@ and such Court shall proceed to try such issues, and shall return the evidence t
 
 (2) Determination of appeal- After the expiration of the period so, fixed for presenting such memorandum the Appellate Court shall proceed to determine the appeal.
 
-[26][26A. Order of remand to mention date of next hearing
+&#91;26&#93;&#91;26A. Order of remand to mention date of next hearing
 
-Where the Appellate Court remands a case under rule 23 or rule 23A, or frames issues and refers them for trial under rule 25, it shall fix a date for the appearance of the parties before the Court from whose decree the appeal was preferred for the purpose of receiving the direction of that Court as to further proceedings in the suit.]
+Where the Appellate Court remands a case under rule 23 or rule 23A, or frames issues and refers them for trial under rule 25, it shall fix a date for the appearance of the parties before the Court from whose decree the appeal was preferred for the purpose of receiving the direction of that Court as to further proceedings in the suit.&#93;
 
 #### 27. Production of additional in Appellate Court
 
@@ -226,7 +226,7 @@ Where the Appellate Court remands a case under rule 23 or rule 23A, or frames is
 
 (a) the Court from whose decree the appeal is preferred has refused to admit evidence which ought to have been admitted, or
 
-[26][(aa) the party seeking to produce additional evidence, establishes that notwithstanding the exercise of due diligence, such evidence was not within his knowledge or could not, after the exercise if due diligence, be produced by him at the time when the decree appealed against was or)
+&#91;26&#93;&#91;(aa) the party seeking to produce additional evidence, establishes that notwithstanding the exercise of due diligence, such evidence was not within his knowledge or could not, after the exercise if due diligence, be produced by him at the time when the decree appealed against was or)
 
 (b) the Appellate Court requires any document to be produced or any witness to be examined to enable it to pronounce judgement, or for any other substantial cause,
 
@@ -246,9 +246,9 @@ Where additional evidence is directed or allowed to be taken, the Appellate Cour
 
 #### 30. Judgement when and where pronounced
 
-[27][(1)] The Appellate Court, after hearing the parties or their pleaders and referring to any part of the proceedings, whether on appeal or in the Court from whose decree the appeal is preferred, to which reference may be considered necessary, shall pronounce judgement in open Court, either at once or on some future day of which notice shall be given to the parties or their pleaders.
+&#91;27&#93;&#91;(1)&#93; The Appellate Court, after hearing the parties or their pleaders and referring to any part of the proceedings, whether on appeal or in the Court from whose decree the appeal is preferred, to which reference may be considered necessary, shall pronounce judgement in open Court, either at once or on some future day of which notice shall be given to the parties or their pleaders.
 
-[25][(2) Where a written judgement is to be pronounced, it shall be sufficient if the points for determination, the decision thereon and the final order passed in the appeal are read out and it shall not be necessary for the Court to read out the whole judgement, but a copy of the whole judgement shall be made available for the perusal of the parties or their pleaders immediately after the judgement is pronounced.]
+&#91;25&#93;&#91;(2) Where a written judgement is to be pronounced, it shall be sufficient if the points for determination, the decision thereon and the final order passed in the appeal are read out and it shall not be necessary for the Court to read out the whole judgement, but a copy of the whole judgement shall be made available for the perusal of the parties or their pleaders immediately after the judgement is pronounced.&#93;
 
 #### 31. Contents, date and signature of Judgement
 
@@ -268,9 +268,9 @@ The judgement may be for confirming, varying or reversing the decree from which 
 
 #### 33. Power of Court of Appeal
 
-The Appellate Court shall have power to pass any decree and make any order which ought to have been passed or made and to pass or make such further or other decree or order as the case may require, and this power may be exercised by the Court notwithstanding that the appeal is as to part only of the decree and may be exercised in favour of all or any of the respondents or parties, although such respondents or parties may not have filed any appeal or objection [25][and may, where there have been decrees in cross-suits or where two or more decrees are passed in one suit, be exercised in respect of all or any of the decrees, although an appeal may not have been filed against such decrees]:
+The Appellate Court shall have power to pass any decree and make any order which ought to have been passed or made and to pass or make such further or other decree or order as the case may require, and this power may be exercised by the Court notwithstanding that the appeal is as to part only of the decree and may be exercised in favour of all or any of the respondents or parties, although such respondents or parties may not have filed any appeal or objection &#91;25&#93;&#91;and may, where there have been decrees in cross-suits or where two or more decrees are passed in one suit, be exercised in respect of all or any of the decrees, although an appeal may not have been filed against such decrees&#93;:
 
-[28][Provided that the Appellate Court shall not make any order under section 35A, in pursuance of any objection on which the Court from whose decree the appeal is preferred has omitted or refused to make such order.]
+&#91;28&#93;&#91;Provided that the Appellate Court shall not make any order under section 35A, in pursuance of any objection on which the Court from whose decree the appeal is preferred has omitted or refused to make such order.&#93;
 
 ### Illustration
 
@@ -282,7 +282,7 @@ Where the appeal is heard by more judges than one, any judge dissenting from the
 
 ### Decree in appeal
 
-[29]35. Date and contents of decree
+&#91;29&#93;35. Date and contents of decree
 
 (1) The decree of the Appellate Court shall bear date the day on which the judgement was pronounced.
 

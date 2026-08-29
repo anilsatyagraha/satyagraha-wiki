@@ -18,7 +18,7 @@ In all suits concerning property vested in a trustee, executor or administrator,
 
 Where there are several trustees, executors or administrators, they shall all be made parties to a suit against one or more of them:
 
-Provided that the executors who have not proved their testator's will, and trustees, executors and administrators outside [7][India], need not be made parties.
+Provided that the executors who have not proved their testator's will, and trustees, executors and administrators outside &#91;7&#93;&#91;India&#93;, need not be made parties.
 
 #### 3. Husband of married executrix not to join
 

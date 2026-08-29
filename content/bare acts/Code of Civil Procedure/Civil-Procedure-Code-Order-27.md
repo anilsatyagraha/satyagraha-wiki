@@ -12,7 +12,7 @@ aliases:
 
 #### 1. Suits by or against Government
 
-In any suit by or against [14][the Government], the plaint or written statement shall be signed by such person as the Government may, by general or special order, appoint in this behalf, and shall be verified by any person whom the Government may so appoint and who is acquainted with the facts of the case.
+In any suit by or against &#91;14&#93;&#91;the Government&#93;, the plaint or written statement shall be signed by such person as the Government may, by general or special order, appoint in this behalf, and shall be verified by any person whom the Government may so appoint and who is acquainted with the facts of the case.
 
 #### 2. Persons authorised to act for Government
 
@@ -20,17 +20,17 @@ Persons being ex officio or otherwise authorised to act for the Government in re
 
 #### 3. Plaints in suits by or against Government.
 
-In suits by or [15][against the Government], instead of inserting in the plaint the name and description and place of residence of the plaintiff or defendant, it shall be sufficient to insert [14][the appropriate name as provided in section 79 [16][***].
+In suits by or &#91;15&#93;&#91;against the Government&#93;, instead of inserting in the plaint the name and description and place of residence of the plaintiff or defendant, it shall be sufficient to insert &#91;14&#93;&#91;the appropriate name as provided in section 79 &#91;16&#93;&#91;***&#93;.
 
-[17][4. Agent for Government to receive process
+&#91;17&#93;&#91;4. Agent for Government to receive process
 
-The Government pleader in any Court shall be the agent of the Government for the purpose of receiving processes against the Government issued by such Court.]
+The Government pleader in any Court shall be the agent of the Government for the purpose of receiving processes against the Government issued by such Court.&#93;
 
 #### 5. Fixing of day for appearance on behalf of Government
 
-The Court, in fixing the day for [14][the Government] to answer to the plaint, shall allow a reasonable time for the necessary communication with the [18][Government through the proper channel, and for the issue of instructions to the Government pleader] to appear and answer on behalf of [19][the Government] [20][***], and may extend the time at its discretion [21][but the time so extended shall not exceed two months in the aggregate].
+The Court, in fixing the day for &#91;14&#93;&#91;the Government&#93; to answer to the plaint, shall allow a reasonable time for the necessary communication with the &#91;18&#93;&#91;Government through the proper channel, and for the issue of instructions to the Government pleader&#93; to appear and answer on behalf of &#91;19&#93;&#91;the Government&#93; &#91;20&#93;&#91;***&#93;, and may extend the time at its discretion &#91;21&#93;&#91;but the time so extended shall not exceed two months in the aggregate&#93;.
 
-[21][5A. Government to be joined as a party in a suit against a public officer
+&#91;21&#93;&#91;5A. Government to be joined as a party in a suit against a public officer
 
 Where a suit is instituted against a public officer for damages or other relief in respect of any act alleged to have been done by him in his official capacity, the Government shall be joined as a party to the suit.
 
@@ -40,11 +40,11 @@ Where a suit is instituted against a public officer for damages or other relief 
 
 (2) If, in any such suit or proceeding, at any stage, it appears to the Court that there is a reasonable possibility of a settlement between the parties, the Court may adjourn the proceeding for such period as it thinks fit, to enable attempts to be made to effect such a settlement.
 
-(3) The power conferred under sub-rule (2) is in addition to any other power of the Court to adjourn proceedings.]
+(3) The power conferred under sub-rule (2) is in addition to any other power of the Court to adjourn proceedings.&#93;
 
 #### 6. Attendance of person able to answer questions relating to suit against Government
 
-The Court may also, in any case in which the [18][Government pleader] is not accompanied by any person on the part of [14][the Government] who may be able to answer any material questions relating to the suit, direct the attendance of such a parson.
+The Court may also, in any case in which the &#91;18&#93;&#91;Government pleader&#93; is not accompanied by any person on the part of &#91;14&#93;&#91;the Government&#93; who may be able to answer any material questions relating to the suit, direct the attendance of such a parson.
 
 #### 7. Extension of time to enable public officer to make reference to Government
 
@@ -54,22 +54,22 @@ The Court may also, in any case in which the [18][Government pleader] is not acc
 
 #### 8. Procedure in suits against public officer
 
-(1) Where the Government undertakes the defence of a suit against a public officer, the [18][Government pleader], upon being furnished with authority to appear and answer the plaint, shall apply to the Court, and upon such application the Court shall cause a note of his authority to be entered in the register of civil suits.
+(1) Where the Government undertakes the defence of a suit against a public officer, the &#91;18&#93;&#91;Government pleader&#93;, upon being furnished with authority to appear and answer the plaint, shall apply to the Court, and upon such application the Court shall cause a note of his authority to be entered in the register of civil suits.
 
-(2) Where no application under sub-rule (1) is made by the [18][Government pleader] on or before the day fixed in the notice for the defendant to appear and answer, the case shall proceed as in a suit between private parties:
+(2) Where no application under sub-rule (1) is made by the &#91;18&#93;&#91;Government pleader&#93; on or before the day fixed in the notice for the defendant to appear and answer, the case shall proceed as in a suit between private parties:
 
 Provided that the defendant shall not be liable to arrest, nor his property to attachment, otherwise than in execution of a decree.
 
-[22][8A. No security to be required from Government or a public officer in certain cases
+&#91;22&#93;&#91;8A. No security to be required from Government or a public officer in certain cases
 
 No such security as is mentioned in rules 5 and 6 to Order XLI shall be required from the Government or, where the Government has undertaken the defence of the suit, from any public officer sued in respect of an act alleged to be done by him in his official capacity.
 
 #### 8B. Definitions of "Government" and "Government pleader"
 
-In this Order [23][unless otherwise expressly, provided] "Government" and [18]["Government pleader"] mean respectively-
+In this Order &#91;23&#93;&#91;unless otherwise expressly, provided&#93; "Government" and &#91;18&#93;&#91;"Government pleader"&#93; mean respectively-
 
-(a) in relation to any suit by or against [24][***] the Central Government, or against a public officer in the service of that Government, the Central Government and such pleader as that Government may appoint whether generally or specially for the purposes of this Order;
+(a) in relation to any suit by or against &#91;24&#93;&#91;***&#93; the Central Government, or against a public officer in the service of that Government, the Central Government and such pleader as that Government may appoint whether generally or specially for the purposes of this Order;
 
-[25][***]
+&#91;25&#93;&#91;***&#93;
 
-(c) in relation to any suit by or against a State Government or against a public officer in the service of a State, the State Government and the Government pleader [23][as defined in clause (7) of section 2], or such other pleader as the State Government may appoint, whether generally or specially, for the purposes of this Order.]
+(c) in relation to any suit by or against a State Government or against a public officer in the service of a State, the State Government and the Government pleader &#91;23&#93;&#91;as defined in clause (7) of section 2&#93;, or such other pleader as the State Government may appoint, whether generally or specially, for the purposes of this Order.&#93;

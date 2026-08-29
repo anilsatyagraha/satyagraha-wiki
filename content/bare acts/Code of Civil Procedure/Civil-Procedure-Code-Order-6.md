@@ -14,13 +14,13 @@ aliases:
 
 "Pleading" shall mean plaint or written statement.
 
-[36][2. Pleading to state material facts and not evidence
+&#91;36&#93;&#91;2. Pleading to state material facts and not evidence
 
 (1) Every pleading shall contain, and contain only a statement in a concise form of the material facts on which the party pleading relies for his claim or defence as the case may be, but not the evidence by which they are to be proved.
 
 (2) Every pleading shall, when necessary, be divided into paragraphs, numbered consecutively, each allegation being, so far as is convenient, contained in a separate paragraph.
 
-(3) Dates, sums and numbers shall be expressed in a pleading in figures as well as in words].
+(3) Dates, sums and numbers shall be expressed in a pleading in figures as well as in words&#93;.
 
 #### 3. Forms of pleading
 
@@ -72,7 +72,7 @@ Every pleading shall be signed by the party and his pleader (if any):
 
 Provided that where a party pleading is, by reason of absence or for other good cause, unable to sign the pleading, it may be signed by any person duly authorized by him to sign the same or to sue or defend on his behalf.
 
-[37][14A. Address for service of notice
+&#91;37&#93;&#91;14A. Address for service of notice
 
 (1) Every pleading, when filed by a party, shall be accompanied by a statement in the prescribed form, signed as provided in rule 14, regarding the address of the party.
 
@@ -92,7 +92,7 @@ Provided that where a party pleading is, by reason of absence or for other good 
 
 (7) The Court, if satisfied that the party was prevented by any sufficient cause from filing the true address at the proper time, shall set aside the order of stay or order striking out the defence, on such terms as to costs or otherwise as it thinks fit and shall appoint a day for proceeding with the suit or defence, as the case may be.
 
-(8) Nothing in this rule shall prevent the Court from directing the service of a process at any other address, if, for any reason, it thinks fit to do so.]
+(8) Nothing in this rule shall prevent the Court from directing the service of a process at any other address, if, for any reason, it thinks fit to do so.&#93;
 
 #### 15. Verification of pleadings
 
@@ -102,7 +102,7 @@ Provided that where a party pleading is, by reason of absence or for other good 
 
 (3) The verification shall be signed by the person making it and shall state the date on which and the place at which it was signed.
 
-[38][16. Striking out pleadings
+&#91;38&#93;&#91;16. Striking out pleadings
 
 The Court may at any stage of the proceedings order to be struck out or amended any matter in any pleading-
 
@@ -110,7 +110,7 @@ The Court may at any stage of the proceedings order to be struck out or amended 
 
 (b) which may tend to prejudice, embarrass or delay the fair trail of the suit, or
 
-(c) which is otherwise an abuse of the process of the Court.]
+(c) which is otherwise an abuse of the process of the Court.&#93;
 
 #### 17. Amendment of pleadings
 

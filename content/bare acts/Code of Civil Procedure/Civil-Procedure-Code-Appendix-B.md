@@ -20,7 +20,7 @@ aliases:
 
 To
 
-### [Name, description and place of residence.]
+### &#91;Name, description and place of residence.&#93;
 
 WHEREAS _______________________________________________________________
 
@@ -44,13 +44,13 @@ NOTICE.-
 
 To,
 
-### [Name, description and place of residence.]
+### &#91;Name, description and place of residence.&#93;
 
 WHEREAS _____________________________________________________________
 
 has instituted a suit against you for ______ you are hereby summoned to appear in this Court in person or by a pleader duly instructed, and able to answer all material questions relating to the suit, or who shall be accompanied by some person able to answer all such questions, on the day of day of 19, at
 
-o'clock in the _______ noon, to answer the claim; [6][and further you are hereby directed to file on that day a written statement of your defence and to produce on the said day all documents in your possession or power upon which you base your defence or claim for set-off or counter-claim, and where you rely on any other document whether in your possession or power or not, as evidence in support of your defence or claim for set-off or counter-claim, you shall enter such documents in a list to be annexed to the written statement].
+o'clock in the _______ noon, to answer the claim; &#91;6&#93;&#91;and further you are hereby directed to file on that day a written statement of your defence and to produce on the said day all documents in your possession or power upon which you base your defence or claim for set-off or counter-claim, and where you rely on any other document whether in your possession or power or not, as evidence in support of your defence or claim for set-off or counter-claim, you shall enter such documents in a list to be annexed to the written statement&#93;.
 
 Take notice that, in default of your appearance on the day before mentioned, the suit will be heard and determined in your absence.
 
@@ -70,7 +70,7 @@ NOTICE-1.
 
 TO
 
-### [Name, description and place of residence.]
+### &#91;Name, description and place of residence.&#93;
 
 WHEREAS has instituted a suit against you for ______ you are hereby summoned to appear in this Court in person on the _______ day of _____19 _____. at _____ o'clock in the _______ noon, to answer the claim; and you are directed to produce on that day all the documents upon which you intend to rely in support of your defence.
 
@@ -78,7 +78,7 @@ Take notice that, in default of your appearance on the day before mentioned, the
 
 GIVEN under my hand and the seal of the Court, this ______ day of ___19___.
 
-### [7][No. 4
+### &#91;7&#93;&#91;No. 4
 
 ### SUMMONS IN A SUMMARY SUIT
 
@@ -88,7 +88,7 @@ GIVEN under my hand and the seal of the Court, this ______ day of ___19___.
 
 To
 
-### [Name, description and place of residence.]
+### &#91;Name, description and place of residence.&#93;
 
 WHEREAS _________ has instituted a suit against you under Order XXXVII of the Code of Civil Procedure, 1908, for Rs. _________ and interest, you are hereby summoned to cause and appearance to be entered for you, within ten days from the service hereof, in default hereof the plaintiff will be entitled, after the expiration of the said period of ten days, to obtain a decree for any sum not exceeding the sum of Rs. _____ and the sum of Rs._____ for costs, together with such interest, if any, as the Court may order.
 
@@ -98,7 +98,7 @@ Leave to defend may be obtained if you satisfy the Court by affidavit or otherwi
 
 GIVEN under my hand and the seal of the Court, this day of 19
 
-### [8][No. 4A
+### &#91;8&#93;&#91;No. 4A
 
 ### SUMMONS FOR JUDGMENT IN A SUMMARY SUIT
 
@@ -118,7 +118,7 @@ Upon reading the affidavit of the plaintiff the Court makes the following order,
 
 Let all parties concerned attend the Court or Judge, as the case may be, on the _____ day of _____ 19__, at ______ o'clock in the forenoon on the hearing of the application of the plaintiff that he be at liberty to obtain judgment in this suit against the defendant (or if against one or some or several, insert names) for Rs. _______ and for interest and costs.
 
-Dated the _______ day of _______ 19.]
+Dated the _______ day of _______ 19.&#93;
 
 ### No. 5
 
@@ -128,7 +128,7 @@ Dated the _______ day of _______ 19.]
 
 To
 
-### [Name, description and place of residence.]
+### &#91;Name, description and place of residence.&#93;
 
 WHEREAS has instituted the above suit against ______ for _____ and whereas it appears necessary that you should be added as a plaintiff in the said suit in order to enable the Court effectually and completely to adjudicate upon and settle all the questions involved.
 
@@ -272,7 +272,7 @@ Sworn / Affirmed by the said ___________ before me this ____________ day of ____
 
 To
 
-### [Name, description and place of residence.]
+### &#91;Name, description and place of residence.&#93;
 
 Whereas this day was fixed for the hearing of the above suit and a summons was issued to you and the plaintiff has appeared in this Court and you did not so appear, but from the return of the Nazir it has been proved to the satisfaction of the Court that the said summons was served on you but not in sufficient time to enable you to appear and answer on the day fixed in the said summons;
 
@@ -288,7 +288,7 @@ Given under my hand and the seal of the Court, this ______ day of ________ 19 __
 
 To
 
-WHEREAS your attendance is required to _________________ on behalf of the ______ in the above suit, you are hereby required [personally] to appear before this Court on the _________ day of _____ 19 ___, at ____ o'clock in the forenoon, and to bring with you [or to send to this ____ Court].
+WHEREAS your attendance is required to _________________ on behalf of the ______ in the above suit, you are hereby required &#91;personally&#93; to appear before this Court on the _________ day of _____ 19 ___, at ____ o'clock in the forenoon, and to bring with you &#91;or to send to this ____ Court&#93;.
 
 A sum of Rs. ______, being your travelling and other expenses and subsistence allowance for one day, is herewith sent. If you fail to comply with this order without lawful excuse, you will be subject to the consequences of non-attendance laid down in rule 12 of Order XVI of the Code of Civil Procedure, 1908.
 

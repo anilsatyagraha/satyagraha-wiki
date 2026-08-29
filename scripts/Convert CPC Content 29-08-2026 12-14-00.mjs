@@ -52,18 +52,23 @@ function cleanText(value) {
     .trim()
 }
 
+function wikiLabel(value) {
+  return cleanText(value).replace(/[\[\]]/g, "").replace(/\s+/g, " ").trim()
+}
+
 function inline(node) {
-  if (node.type === "text") return node.value.replace(/\u00a0/g, " ")
+  if (node.type === "text")
+    return node.value.replace(/\u00a0/g, " ").replaceAll("[", "&#91;").replaceAll("]", "&#93;")
   if (node.type !== "element") return ""
   if (["script", "style"].includes(node.tagName)) return ""
   if (node.tagName === "br") return "  \n"
 
   const content = (node.children ?? []).map(inline).join("")
-  if (node.tagName === "sup") return content.trim() ? `[${cleanText(content)}]` : ""
+  if (node.tagName === "sup") return content.trim() ? `&#91;${cleanText(content)}&#93;` : ""
   if (node.tagName === "strong" || node.tagName === "b") return cleanText(content) ? `**${cleanText(content)}**` : ""
   if (node.tagName === "em" || node.tagName === "i") return cleanText(content) ? `*${cleanText(content)}*` : ""
   if (node.tagName === "a") {
-    const label = cleanText(content)
+    const label = wikiLabel(content)
     const href = String(node.properties?.href ?? "")
     if (!label) return ""
     const localBase = path.basename(href.split(/[?#]/)[0], path.extname(href.split(/[?#]/)[0])).toLowerCase()
@@ -155,6 +160,26 @@ for (const filename of files) {
   if (/Â|�|javascript:|https?:\/\//i.test(content)) throw new Error(`Unsafe or garbled content remains in ${filename}`)
   const outputName = `${mapping.get(base)}.md`
   for (const target of targets) fs.writeFileSync(path.join(target, outputName), content, "utf8")
+}
+
+for (const target of targets) {
+  const markdownFiles = fs.readdirSync(target).filter((name) => name.endsWith(".md"))
+  const available = new Set(markdownFiles.map((name) => path.basename(name, ".md").toLowerCase()))
+  let checkedLinks = 0
+  for (const filename of markdownFiles) {
+    const markdown = fs.readFileSync(path.join(target, filename), "utf8")
+    const starts = markdown.match(/\[\[/g)?.length ?? 0
+    const links = [...markdown.matchAll(/\[\[([^|\]#]+)(?:#[^|\]]+)?(?:\|([^\]]+))?\]\]/g)]
+    if (links.length !== starts) throw new Error(`Malformed wiki link remains in ${path.join(target, filename)}`)
+    for (const match of links) {
+      const destination = match[1].trim().replace(/\.md$/i, "")
+      const basename = path.basename(destination).toLowerCase()
+      if (!available.has(basename)) throw new Error(`Missing wiki-link destination ${destination} in ${filename}`)
+      if (match[2]?.match(/[\[\]]/)) throw new Error(`Unsafe brackets remain in wiki-link label in ${filename}`)
+      checkedLinks++
+    }
+  }
+  console.log(`Validated ${checkedLinks} internal links in ${markdownFiles.length} Markdown files at ${target}.`)
 }
 
 console.log(`Rebuilt ${files.length} CPC Markdown documents in ${targets.length} targets.`)

@@ -24,11 +24,11 @@ Subject to such conditions and limitations as may be prescribed, the Court may i
 
 (d) to make a partition;
 
-[106][(e) to hold a scientific, technical, or expert investigation;
+&#91;106&#93;&#91;(e) to hold a scientific, technical, or expert investigation;
 
 (f) to conduct sale of property which is subject to speedy and natural decay and which is in the custody of the Court pending the determination of the suit;
 
-(g) to perform any ministerial act.]
+(g) to perform any ministerial act.&#93;
 
 ## 76. Commission to another Court
 
@@ -38,9 +38,9 @@ Subject to such conditions and limitations as may be prescribed, the Court may i
 
 ## 77. Letter of request
 
-In lieu of issuing a commission the Court may issue a letter of request to examine a witness residing at any place not within [24][India]
+In lieu of issuing a commission the Court may issue a letter of request to examine a witness residing at any place not within &#91;24&#93;&#91;India&#93;
 
-## 107[78. Commissions issued by foreign Courts
+## 107&#91;78. Commissions issued by foreign Courts
 
 Subject to such conditions and limitations as may be prescribed the provisions as to the execution and return of commissions for the examination of witnesses shall apply to commissions issued by or as the instance of-
 
@@ -48,4 +48,4 @@ Subject to such conditions and limitations as may be prescribed the provisions a
 
 (b) Courts established or continued by the authority of the Central Government outside India; or
 
-(c) Courts of any State or country outside India.]
+(c) Courts of any State or country outside India.&#93;

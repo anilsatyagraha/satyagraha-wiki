@@ -50,7 +50,7 @@ Provided that nothing in this rule shall be deemed to prevent any party in a sui
 
 No claim by or against an executor, administrator or heir, as such, shall be joined with claims by or against him personally, unless the mentioned claims are alleged to arise with reference to the estate in respect of which the plaintiff or defendant sues or is sued as executor, administrator or heir, or are such as he was entitled to, or liable for, jointly with the deceased person whom he represents.
 
-[15][6. Power of Court to order separate trials
+&#91;15&#93;&#91;6. Power of Court to order separate trials
 
 Where it appears to the Court that the joinder of causes of action in one suit may embarrass or delay the trial or is otherwise inconvenient, the Court may order separate trials or make such other order as may be expedient in the interests of justice.)
 

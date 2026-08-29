@@ -32,7 +32,7 @@ In order to prevent the ends of justice from being defeated the Court may, if it
 
 (b) the suit of the plaintiff fails and it appears to the Court that there was no reasonable or probable grounds for instituting the same,
 
-the defendant may apply to the Court, and the Court may, upon such application, award against the plaintiff by its order such amount, not exceeding one thousand rupees, as it deems a reasonable compensation to the defendant for the [145][expense or injury to reputation) caused to him];
+the defendant may apply to the Court, and the Court may, upon such application, award against the plaintiff by its order such amount, not exceeding one thousand rupees, as it deems a reasonable compensation to the defendant for the &#91;145&#93;&#91;expense or injury to reputation) caused to him &#93;;
 
 Provided that a Court shall not award, under this section, an amount exceeding the limits of its pecuniar jurisdiction.
 

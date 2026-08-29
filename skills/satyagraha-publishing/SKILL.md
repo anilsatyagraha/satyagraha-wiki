@@ -1,7 +1,7 @@
 ---
 name: satyagraha-publishing
 description: "This skill should be used when creating, converting, styling, naming, validating, or publishing Markdown and HTML artifacts for Satyagraha Law Group across wikis, websites, repositories, and AI-assisted workflows."
-version: 1.4.0
+version: 1.5.0
 ---
 
 # Satyagraha Publishing
@@ -76,6 +76,7 @@ Apply a compact native system typography by default:
 - Decode HTML entities and remove conversion artifacts such as mojibake, replacement characters, JavaScript links and orphaned navigation fragments.
 - Distinguish source transcription defects from conversion defects. Do not silently guess corrections to statutory wording; verify against an authoritative text or clearly record unresolved source defects.
 - Generate navigation separately from legal text so controls cannot interrupt a sentence.
+- Sanitize square brackets and other wiki-syntax delimiters inside link labels, then verify that every generated internal link parses and resolves to an existing Markdown page.
 - Prefer a quiet masthead and prominent search over redundant sidebar dropdowns when search and a collection index provide sufficient navigation.
 
 ## Detailed standard

@@ -8,7 +8,7 @@ aliases:
 
 # Code of Civil Procedure 1908 - Schedule I
 
-## [82][ORDER XVI A: ATTENDANCE OF WITNESSES CONFINED OR DETAINED IN PRISONS
+## &#91;82&#93;&#91;ORDER XVI A: ATTENDANCE OF WITNESSES CONFINED OR DETAINED IN PRISONS
 
 #### 1. Definitions
 
@@ -68,4 +68,4 @@ In any other case, the officer in charge of the prison shall, upon delivery of t
 
 (1) Where it appears to the Court that the evidence of a person confined or detained in a prison, whether within the State or elsewhere in India, is material in a suit but the attendance of such person cannot be secured under the preceding provisions of this Order, the Court may issue a commission for the examination of that person in the prison in which he is confined or detained.
 
-(2) The provisions of Order XXVI shall, so far may be, apply in relation to the examination on commission of such person in prison as they apply in relation to the examination on commission of any other person.]
+(2) The provisions of Order XXVI shall, so far may be, apply in relation to the examination on commission of such person in prison as they apply in relation to the examination on commission of any other person.&#93;

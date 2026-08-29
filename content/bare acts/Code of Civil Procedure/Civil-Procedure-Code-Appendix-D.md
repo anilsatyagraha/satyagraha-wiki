@@ -42,7 +42,7 @@ GIVEN under my hand and the seal of the Court, this _____________ day of _______
 
 ### Plaintiff
 
-### [1][No. 3
+### &#91;1&#93;&#91;No. 3
 
 ### PRELIMINARY DECREE FOR FORECLOSURE
 
@@ -108,7 +108,7 @@ This suit coming on this ____________ day, etc.; It is hereby declared that the 
 
 Upon reading the preliminary decree passed in this suit on the _________ day of _______ and further orders (if any) dated the ________ day of and the, application of the plaintiff dated the _______ day of _______ for a final decree and after hearing the parties and it appearing that the, payment directed by the said decree and orders has not been made by the defendant or any person on his behalf or any other person entitled to redeem the said mortgage:
 
-It is hereby ordered and decreed that the defendant and all persons claiming through or under him be and they are hereby absolutely debarred and foreclosed of and from all right of redemption of and in the property in the aforesaid preliminary decree mentioned; [1][and (if the defendant be in possession of the said mortgaged property) that the defendant shall deliver to the plaintiff quiet and peaceable possession of the said mortgaged property]
+It is hereby ordered and decreed that the defendant and all persons claiming through or under him be and they are hereby absolutely debarred and foreclosed of and from all right of redemption of and in the property in the aforesaid preliminary decree mentioned; &#91;1&#93;&#91;and (if the defendant be in possession of the said mortgaged property) that the defendant shall deliver to the plaintiff quiet and peaceable possession of the said mortgaged property&#93;
 
 2. And it is hereby further declared that the whole of the liability whatsoever of the defendant up to this day arising from the said mortgage mentioned in the plaint or from this suit is hereby discharged and extinguished.
 
@@ -320,7 +320,7 @@ This suit coming on this ______ day, etc., it is hereby declared that the amount
 
 Upon reading the preliminary decree in this suit on the _______ day of _________ and further orders (if any) dated the _______ day of ______, and the application of the defendant dated the _______ day of _______ for a final decree and after hearing the parties, and it appearing that the, payment as directed by the said decree and orders has not been made by the plaintiff or any person on his behalf or any other person entitled to redeem the mortgage;
 
-It is hereby ordered and decreed that the plaintiff and all person claiming through or under him be and they are hereby absolutely debarred and foreclosed of and from all right of redemption of and in the property in the aforesaid preliminary decree mentioned [1][and (if the plaintiff be in possession of the said mortgaged property) that the plaintiff shall deliver to the defendant quiet and peaceable possession of the said mortgaged property].
+It is hereby ordered and decreed that the plaintiff and all person claiming through or under him be and they are hereby absolutely debarred and foreclosed of and from all right of redemption of and in the property in the aforesaid preliminary decree mentioned &#91;1&#93;&#91;and (if the plaintiff be in possession of the said mortgaged property) that the plaintiff shall deliver to the defendant quiet and peaceable possession of the said mortgaged property&#93;.
 
 2. And it is hereby further declared that the whole of the liability whatsoever of the plaintiff up to this day arising from the old mortgage mentioned in the plaint or from this suit is hereby discharge and extinguished.
 
@@ -350,7 +350,7 @@ This suit coming on this ________ day for further consideration and it appearing
 
 It is hereby ordered and decreed that:-
 
-(i) the mortgagee do execute a deed of re-conveyance of the property in the aforesaid preliminary decree mentioned in favour of the mortgagor [1][or, as the case may be who has redeemed the property] or an acknowledgment of the payment of the amount due in his favour;
+(i) the mortgagee do execute a deed of re-conveyance of the property in the aforesaid preliminary decree mentioned in favour of the mortgagor &#91;1&#93;&#91;or, as the case may be who has redeemed the property&#93; or an acknowledgment of the payment of the amount due in his favour;
 
 (ii) the mortgagee do bring into Court all documents in his possession and, power relating to the mortgaged property in the suit.
 
@@ -358,9 +358,9 @@ And it is hereby further ordered and decreed that, upon the mortgagee executing 
 
 (i) the said sum of Rs. ______ be paid out of Court to the mortgagee;
 
-(ii) the said deeds and documents brought into the Court be delivered out of Court to the mortgagor [1][or the person making the payment] and the mortgagee do, when so required, concur in registering, at the cost of the mortgagor [1][or other person making the payment], the said deed of re-conveyance or the acknowledgment in the office of the Sub-registrar of _______; and
+(ii) the said deeds and documents brought into the Court be delivered out of Court to the mortgagor &#91;1&#93;&#91;or the person making the payment&#93; and the mortgagee do, when so required, concur in registering, at the cost of the mortgagor &#91;1&#93;&#91;or other person making the payment&#93;, the said deed of re-conveyance or the acknowledgment in the office of the Sub-registrar of _______; and
 
-(iii) [1][if the mortgagee, plaintiff or defendant, as the case may be, is in possession of the mortgaged property] that the mortgagee do forthwith deliver possession of the mortgaged property in the aforesaid preliminary decree mentioned to the mortgagor [1][or such person as aforesaid who has made the payment].
+(iii) &#91;1&#93;&#91;if the mortgagee, plaintiff or defendant, as the case may be, is in possession of the mortgaged property&#93; that the mortgagee do forthwith deliver possession of the mortgaged property in the aforesaid preliminary decree mentioned to the mortgagor &#91;1&#93;&#91;or such person as aforesaid who has made the payment&#93;.
 
 ### No. 8
 
@@ -390,7 +390,7 @@ The suit coming on this _______ day, etc; It is, hereby declared that the amount
 
 (Similar declarations to be introduced with regard to the amount due to defendant No. 2 in respect of his mortgage if the mortgage-money due thereunder has become payable at the date of the suit.)
 
-2. It is further declared that the plaintiff is entitled to payment of the amount due to him in priority to defendant No. 2 [1][or (if there are several subsequent mortgagees) that the several parties hereto are entitle in the following order to the payment of the sums due to them respectively:-].
+2. It is further declared that the plaintiff is entitled to payment of the amount due to him in priority to defendant No. 2 &#91;1&#93;&#91;or (if there are several subsequent mortgagees) that the several parties hereto are entitle in the following order to the payment of the sums due to them respectively:-&#93;.
 
 #### 3. And it is hereby ordered and decreed as follows:-
 
@@ -404,11 +404,11 @@ The suit coming on this _______ day, etc; It is, hereby declared that the amount
 
 4. And it is hereby further ordered and decreed that, in default of payment as aforesaid of the amount due to the plaintiff, the plaintiff shall be at liberty to apply to the Court for. a final decree-
 
-(i)[1] [in the case of a mortgage by conditional sale or an anomalous mortgage where the only remedy provided for in the mortgage-deed is foreclosure and not sale] that the defendants jointly and severally shall thenceforth stand absolutely debarred and foreclosed of and from all right to redeem the mortgaged property described in the Schedule annexed hereto and shall if so required, deliver to the plaintiff quiet and peaceable possession of the said property:, or
+(i)&#91;1&#93; &#91;in the case of a mortgage by conditional sale or an anomalous mortgage where the only remedy provided for in the mortgage-deed is foreclosure and not sale&#93; that the defendants jointly and severally shall thenceforth stand absolutely debarred and foreclosed of and from all right to redeem the mortgaged property described in the Schedule annexed hereto and shall if so required, deliver to the plaintiff quiet and peaceable possession of the said property:, or
 
-(ii) [1][in the case of any other mortgage] that the mortgaged property or a sufficient part thereof shall be sold: and that for the purposes of such sale the plaintiff shall produce before Court or such officer as it appoints, all documents in his possession or power relating to the mortgaged property; and
+(ii) &#91;1&#93;&#91;in the case of any other mortgage&#93; that the mortgaged property or a sufficient part thereof shall be sold: and that for the purposes of such sale the plaintiff shall produce before Court or such officer as it appoints, all documents in his possession or power relating to the mortgaged property; and
 
-(iii) [1][in the case where a sale, is ordered under clause 4(ii) above] that the money he money realised by such sale shall be paid into Court and be duly applied (after deduction therefrom of the expenses of the sale) in payment of the amount payable to the plaintiff under this decree and under any further orders that may have been passed in this suit and in payment of the amount, which the Court may adjudge due to the plaintiff in respect of such costs of the suit and such costs, charges and expenses as may be payable under rule 10, together with such subsequent interest as may be payable under rule 11, of Order XXXIV of the First Schedule to the Code of Civil Procedure, 1908, and that the balance, if any, shall be applied in payment of the amount due to defendant No. 2, and that if any balance be left, it shall be paid to the defendant No. 1 or other persons entitled to receive the same; and
+(iii) &#91;1&#93;&#91;in the case where a sale, is ordered under clause 4(ii) above&#93; that the money he money realised by such sale shall be paid into Court and be duly applied (after deduction therefrom of the expenses of the sale) in payment of the amount payable to the plaintiff under this decree and under any further orders that may have been passed in this suit and in payment of the amount, which the Court may adjudge due to the plaintiff in respect of such costs of the suit and such costs, charges and expenses as may be payable under rule 10, together with such subsequent interest as may be payable under rule 11, of Order XXXIV of the First Schedule to the Code of Civil Procedure, 1908, and that the balance, if any, shall be applied in payment of the amount due to defendant No. 2, and that if any balance be left, it shall be paid to the defendant No. 1 or other persons entitled to receive the same; and
 
 (iv) that, if the money realised by such sale shall not be sufficient for payment in full of the amounts due to the plaintiff and defendant No. 2, the plaintiff or defendant No. 2 or both of them, as the case may be, shall be at liberty (when such remedy is open under the terms of their respective mortgages and is not barred by any law for the time being in force) to apply for a personal decree against defendant No. 1 for the amounts remaining due to them respectively.
 
@@ -416,13 +416,13 @@ The suit coming on this _______ day, etc; It is, hereby declared that the amount
 
 (a) that if defendant No. 2 pays into Court to the credit of this suit the amount adjudged due to the plaintiff, but defendant No. 1 makes default in the payment of the said amount, defendant No. 2 shall be at liberty to apply to the Court to keep the plaintiff's mortgage alive for his benefit and to apply for a final decree (in the same manner as the plaintiff might have done under clause 4 above)-
 
-[1][(i) that defendant No. 1 shall thenceforth stand absolutely debarred and foreclosed of and from all right to redeem the mortgaged property described in the Schedule annexed hereto and shall, if so required, deliver up to defendant No. 2 quiet and peaceable possession of the said property;] or
+&#91;1&#93;&#91;(i) that defendant No. 1 shall thenceforth stand absolutely debarred and foreclosed of and from all right to redeem the mortgaged property described in the Schedule annexed hereto and shall, if so required, deliver up to defendant No. 2 quiet and peaceable possession of the said property;&#93; or
 
-[1][(ii) that the mortgaged property or a sufficient part thereof be sold and that for the purposes of such defendant No. 2 shall produce before the Court or such officer as it appoints, all documents in his possession or power relating to the mortgaged property,] and
+&#91;1&#93;&#91;(ii) that the mortgaged property or a sufficient part thereof be sold and that for the purposes of such defendant No. 2 shall produce before the Court or such officer as it appoints, all documents in his possession or power relating to the mortgaged property,&#93; and
 
 (b) (if on the application of defendant No. 2 such a final decree for foreclosure is passed), that the whole of the liability, of defendant No. 1 arising from the plaintiff's mortgage or from the mortgage of defendant No. 2 or from this suit shall be deemed to have been discharged and extinguished.
 
-#### 6. And it is hereby further ordered and decreed [1][in the case where a sale is ordered under clause 5 above]-
+#### 6. And it is hereby further ordered and decreed &#91;1&#93;&#91;in the case where a sale is ordered under clause 5 above&#93;-
 
 (i) that the money realised by such sale shall be paid into Court and be duly applied (after deduction therefrom of the expenses of the sale) first in payment of the amount paid by defendant No.2 in respect of the plaintiff's mortgage and the costs of the suit in connection therewith and in payment of the amount which the Court may adjudge due in respect of subsequent interest on the said amount; and that the balance, if any, shall then be applied in payment of the amount adjudged due to defendant No.2 in respect of his own mortgage under this decree and any further orders that may be passed and in payment of the amount which the Court may adjudge due in respect of such costs of this suit and such subsequent interest as may be payable under rule 11, of Order XXXIV of the First Schedule to the Code of Civil Procedure, 1908, and that the balance, if any, shall be paid to defendant No.1 or other person entitled to receive the same; and
 
@@ -446,7 +446,7 @@ The suit coming on this ______ day, etc.; It is hereby declared that the amount 
 
 (Similar declarations to be introduced with regard to the amount due from defendant No. 1 to plaintiff in respect of his mortgage if the mortgage-money due thereunder has become payable at the date of the suit.)
 
-2. It is further declared that defendant No. 2 is entitled to payment of the amount due to him in priority to the plaintiff [1][or (if there are several subsequent mortgagees) that the several parties hereto are entitled in the following order to the payment of the sums due to them respectively.-].
+2. It is further declared that defendant No. 2 is entitled to payment of the amount due to him in priority to the plaintiff &#91;1&#93;&#91;or (if there are several subsequent mortgagees) that the several parties hereto are entitled in the following order to the payment of the sums due to them respectively.-&#93;.
 
 #### 3. And it is hereby ordered and decreed as follows:-
 
@@ -460,11 +460,11 @@ The suit coming on this ______ day, etc.; It is hereby declared that the amount 
 
 4. And it is hereby further ordered and decreed that, in default of payment as aforesaid, of the Amount due to defendant No. 2, defendant No. 2 shall be at liberty to apply to the Court that the suit be dismissed or for a final decree-
 
-(i) [1][in the case of a mortgage by conditional sale or an anomalous mortgage where the only remedy provided for in the mortgage-deed is foreclosure and not sale] that the plaintiff and defendant No.1 jointly and severally shall thenceforth stand absolutely debarred and foreclosed of and from all right to redeem the mortgaged property described in the Schedule annexed hereto and shall; if so required, deliver to the defendant No. 2 quiet and peaceable possession of the said property; or
+(i) &#91;1&#93;&#91;in the case of a mortgage by conditional sale or an anomalous mortgage where the only remedy provided for in the mortgage-deed is foreclosure and not sale&#93; that the plaintiff and defendant No.1 jointly and severally shall thenceforth stand absolutely debarred and foreclosed of and from all right to redeem the mortgaged property described in the Schedule annexed hereto and shall; if so required, deliver to the defendant No. 2 quiet and peaceable possession of the said property; or
 
-(ii) [1][in the case of any other mortgage] that the mortgaged property or a sufficient part thereof shall be sold; and that for the purposes of such sale defendant No. 2 shall produce before the Court or such officer as it appoints, all documents in his possession or power relating to the mortgaged property; and
+(ii) &#91;1&#93;&#91;in the case of any other mortgage&#93; that the mortgaged property or a sufficient part thereof shall be sold; and that for the purposes of such sale defendant No. 2 shall produce before the Court or such officer as it appoints, all documents in his possession or power relating to the mortgaged property; and
 
-(iii) [1][in the case where a sale is ordered under clause 4(ii) above] that the money realised by such sale shall be paid into Court and be duly applied (after deduction therefrom of the expenses of the sale) in payment of the amount payable to defendant No. 2 under the decree and any further orders that may be passed in this suit and in payment of the amount which the Court may adjudge due to defendant No. 2 in respect of such costs of the suit and such costs, charges and expenses as may be payable to the plaintiff under rule 10, together with such subsequent interest as may be payable under rule 11, of Order XXXIV of the First Schedule to the Code of Civil Procedure, 1908; and that the balance, if any, shall be applied in payment of the amount due to the plaintiff and that, if any balance be left, it shall be paid to defendant No. 1 or other persons entitled to receive the same; and
+(iii) &#91;1&#93;&#91;in the case where a sale is ordered under clause 4(ii) above&#93; that the money realised by such sale shall be paid into Court and be duly applied (after deduction therefrom of the expenses of the sale) in payment of the amount payable to defendant No. 2 under the decree and any further orders that may be passed in this suit and in payment of the amount which the Court may adjudge due to defendant No. 2 in respect of such costs of the suit and such costs, charges and expenses as may be payable to the plaintiff under rule 10, together with such subsequent interest as may be payable under rule 11, of Order XXXIV of the First Schedule to the Code of Civil Procedure, 1908; and that the balance, if any, shall be applied in payment of the amount due to the plaintiff and that, if any balance be left, it shall be paid to defendant No. 1 or other persons entitled to receive the same; and
 
 (iv) that, if the money realised by such sale shall not be sufficient for payment in full of the amounts due to defendant No. 2 and the plaintiff, defendant No.2 or the plaintiff or both of them, as the case may be, shall be at liberty (when such remedy is open under the terms of their respective mortgages and is not barred by any law for the time being in force) to apply for a personal decree against defendant No. 1 for the amounts remaining due to them respectively.
 
@@ -472,9 +472,9 @@ The suit coming on this ______ day, etc.; It is hereby declared that the amount 
 
 (a) that, if the plaintiff pays into Court to the credit of this suit the amount adjudged due to defendant No. 2 but. defendant No. 1 makes default in the payment of the said amount, the plaintiff shall be at liberty to apply to the Court to keep defendant No. 2 ‘s mortgage alive for his benefit and to apply for a final decree (in the same manner as the defendant No. 2 might have done welder clause 4 above)-
 
-[1][(i) that defendant No. 1 shall thenceforth stand absolutely debarred and foreclosed of and from all right to redeem the mortgaged property described in the Schedule annexed hereto and shall if so required, deliver up to the plaintiff quiet and peaceable possession of the said property]; or
+&#91;1&#93;&#91;(i) that defendant No. 1 shall thenceforth stand absolutely debarred and foreclosed of and from all right to redeem the mortgaged property described in the Schedule annexed hereto and shall if so required, deliver up to the plaintiff quiet and peaceable possession of the said property&#93;; or
 
-[1][(ii) that the mortgaged property or a sufficient part thereof be sold and that for the purposes of such sale the plaintiff shall produce before the Court or such officer as it appoints, all documents in his possession or power relating to the mortgaged property;] and
+&#91;1&#93;&#91;(ii) that the mortgaged property or a sufficient part thereof be sold and that for the purposes of such sale the plaintiff shall produce before the Court or such officer as it appoints, all documents in his possession or power relating to the mortgaged property;&#93; and
 
 (b) (if on the application of defendant No. 2 such a final decree for foreclosure is passed), that the whole of the liability of defendant No. 1 arising from the plaintiff’s mortgage or from the mortgage of defendant No.2 or from this suit shall be deemed to have bean, discharged and extinguished.
 
@@ -514,7 +514,7 @@ This suit coming on this ______________ day, etc.; It is hereby declared that th
 
 (iii) that, upon payment into the Court by defendant No. 1 of the amount due to defendant No. 2 the plaintiff shall be at liberty to apply for payment to him of the sum declared due to him together with any subsequent costs of the. suit and other costs, charges and expenses, as may be payable under rule 10, together with such subsequent interests as may be payable under rule 11, of Order XXXIV of the First Schedule to the Code of Civil Procedure, 1908; and that the balance, if any, shall then be paid to defendant No.2; and that if the amount paid into the Court be not sufficient to pay in full the sum due to the plaintiff, the plaintiff shall be at liberty (if such remedy is open to him by the terms of the mortgage and is not barred by any law for the time being in force) to apply for a personal decree against defendant No. 2 for the amount of the balance.
 
-3. And it is further ordered and decreed that if defendant No. 2 pays into Court to the credit of this suit the amount adjudged due to the plaintiff, the plaintiff shall bring into the Court all documents, etc. [as in sub-clause (ii) of clause 2]..
+3. And it is further ordered and decreed that if defendant No. 2 pays into Court to the credit of this suit the amount adjudged due to the plaintiff, the plaintiff shall bring into the Court all documents, etc. &#91;as in sub-clause (ii) of clause 2&#93;..
 
 4. And it is hereby further ordered and decreed that, in default of payment by defendant Nos. 1 and 2 as aforesaid, the plaintiff may apply to the Court for a final decree for sale, and on such application being made the mortgaged property or a sufficient part thereof shall be directed to be sold; and that for the purposes of such sale the plaintiff and defendant No. 2 shall produce before the Court or such officer as it appoints, all documents in their possession or power relating to the mortgaged property.
 
@@ -590,9 +590,9 @@ In suits by legatees--
 
 In suits by next-of-kin--
 
-#### 3. That an inquiry be made and account taken of what or of what share, if any, the plaintiff is entitled to as next-of-kin [or one of the next-of-kin] of the intestate.
+#### 3. That an inquiry be made and account taken of what or of what share, if any, the plaintiff is entitled to as next-of-kin &#91;or one of the next-of-kin&#93; of the intestate.
 
-[After the first paragraph, the decree will, where necessary, order, in a creditor's suit, inquiry and accounts for legatees, heirs-at-law and next-of-kin. In suits by claimants other than creditors, after the first paragraph, in all cases, an order to inquire and take an account of creditors will follow the first paragraph and such of the others as may be necessary will follow, omitting the first formal words The form is continued as in a creditor's suit.]
+&#91;After the first paragraph, the decree will, where necessary, order, in a creditor's suit, inquiry and accounts for legatees, heirs-at-law and next-of-kin. In suits by claimants other than creditors, after the first paragraph, in all cases, an order to inquire and take an account of creditors will follow the first paragraph and such of the others as may be necessary will follow, omitting the first formal words The form is continued as in a creditor's suit.&#93;
 
 #### 4. An account of the funeral and testamentary expenses.
 
@@ -602,9 +602,9 @@ In suits by next-of-kin--
 
 7. And it is further ordered that the defendant do, on or before the ____________ day of ____________ next, pay into Court all sums of money which shall be found to have come to his hands, or to the hands of any person by his order or for his use.
 
-8. And that if the ____________[*] shall find it necessary for carrying out the objects of the suit to sell any part of the movable property of the deceased, that the same be sold accordingly, and the proceeds paid into Court.
+8. And that if the ____________&#91;*&#93; shall find it necessary for carrying out the objects of the suit to sell any part of the movable property of the deceased, that the same be sold accordingly, and the proceeds paid into Court.
 
-9. And that Mr. E F be receiver in the suit (or proceeding) and receive and get in all outstanding debts and outstanding movable property of the deceased, and pay the same into the hands of the ________________________[*] (and shall give security by bond for the due performance of his duties to the amount of ____________ rupees).
+9. And that Mr. E F be receiver in the suit (or proceeding) and receive and get in all outstanding debts and outstanding movable property of the deceased, and pay the same into the hands of the ________________________&#91;*&#93; (and shall give security by bond for the due performance of his duties to the amount of ____________ rupees).
 
 10. And it is further ordered that if the movable property of the deceased be found insufficient for carrying out the objects of the suit, then the following further inquiries be made, and accounts taken, that is to say--
 
@@ -618,13 +618,13 @@ In suits by next-of-kin--
 
 12. And it is ordered that G. H. shall have the conduct of the sale of the immovable property, and shall prepare the conditions and contracts of sale subject to the approval of the ________________________and that in case any doubt or difficulty shall arise the papers shall be submitted to the Judge to settle.
 
-13. And it is further ordered that, for the purpose of the inquiries hereinbefore directed, the __________________________[*] shall advertise in the newspapers according to the practice of the Court, or shall make such inquiries in any other way which shall appear to the __________________________[*] to give the most useful publicity to such inquiries.
+13. And it is further ordered that, for the purpose of the inquiries hereinbefore directed, the __________________________&#91;*&#93; shall advertise in the newspapers according to the practice of the Court, or shall make such inquiries in any other way which shall appear to the __________________________&#91;*&#93; to give the most useful publicity to such inquiries.
 
-14. And it is ordered that the above inquiries and accounts be made and taken, and that all other acts ordered to be done be completed, before the _____________ day of _____________, and that the __________________________[*] do certify the result of the inquiries, and the accounts, and that all other acts ordered are completed, and have his certificate in that behalf ready for the inspection of the parties on the day of
+14. And it is ordered that the above inquiries and accounts be made and taken, and that all other acts ordered to be done be completed, before the _____________ day of _____________, and that the __________________________&#91;*&#93; do certify the result of the inquiries, and the accounts, and that all other acts ordered are completed, and have his certificate in that behalf ready for the inspection of the parties on the day of
 
-#### 15. And, lastly, it is ordered that this suit [or proceeding] stand adjourned for making final decree to the _____________ day of _____________
+#### 15. And, lastly, it is ordered that this suit &#91;or proceeding&#93; stand adjourned for making final decree to the _____________ day of _____________
 
-[Such part only of this decree is to be used as is applicable to the particular case.]
+&#91;Such part only of this decree is to be used as is applicable to the particular case. &#93;
 
 ### **No.18**
 
@@ -636,11 +636,11 @@ In suits by next-of-kin--
 
 1. IT is ordered that the defendant do __________________________, on or before the _____________ day of _____________, pay into Court the sum of Rs._____________, the balance by the said certificate found to be due from the said defendant on account of the estate of the testator, and also the sum of Rs.___________ for interest. at the rate of Rs._____________ per cent. per annum, from the day of _____________ to the day of _____________, amounting together to the sum of Rs._____________
 
-2. Let the __________________________ [*] of the said Court tax the costs of the plaintiff and defendant in this suit, and let the amount of the said costs, when so taxed, be paid out of the said sum of Rs.___________ ordered to be paid into Court as aforesaid, as follows:--
+2. Let the __________________________ &#91;*&#93; of the said Court tax the costs of the plaintiff and defendant in this suit, and let the amount of the said costs, when so taxed, be paid out of the said sum of Rs.___________ ordered to be paid into Court as aforesaid, as follows:--
 
-(a) The costs of the plaintiff to Mr.__________________________, his attorney [or pleader] or and the costs of the defendant to Mr.__________________________, his attorney [or pleader].
+(a) The costs of the plaintiff to Mr.__________________________, his attorney &#91;or pleader &#93; or and the costs of the defendant to Mr.__________________________, his attorney &#91;or pleader&#93;.
 
-(b) And (if army debts are due) with the residue of the said sum of Rs._____________ after payment of the plaintiff's and defendant's costs as aforesaid, let the sums, found to be owing to the several creditors mentioned in the __________________________ schedule to the certificate, of the __________________________ [*], together with subsequent interest on such of the debts as bear interest, be paid; and, after making such payments, let the amount coming to the several legatees mentioned in the _____________ schedule, together with subsequent interest (to be verified as aforesaid), be paid to them.
+(b) And (if army debts are due) with the residue of the said sum of Rs._____________ after payment of the plaintiff's and defendant's costs as aforesaid, let the sums, found to be owing to the several creditors mentioned in the __________________________ schedule to the certificate, of the __________________________ &#91;*&#93;, together with subsequent interest on such of the debts as bear interest, be paid; and, after making such payments, let the amount coming to the several legatees mentioned in the _____________ schedule, together with subsequent interest (to be verified as aforesaid), be paid to them.
 
 #### 3. And if there should then be any residue, let the same be paid to the residuary legatee.
 
@@ -656,7 +656,7 @@ In suits by next-of-kin--
 
 #### 2. And it is ordered that an account be taken of what is due for principal and interest on the said legacy;
 
-3. And it is also ordered that the defendant do, within _____________ weeks after the date of the certificate of the __________________________[*], pay to the plaintiff the amount of what the __________________________[*] shall certify to be due for principal and interest;
+3. And it is also ordered that the defendant do, within _____________ weeks after the date of the certificate of the __________________________&#91;*&#93;, pay to the plaintiff the amount of what the __________________________&#91;*&#93; shall certify to be due for principal and interest;
 
 #### 4. And it is ordered that the defendant do pay the plaintiff his costs of suit, the same to be taxed in case the parties differ.
 
@@ -668,15 +668,15 @@ In suits by next-of-kin--
 
 ### (*Title*)
 
-1. Let the __________________________ [*] of the said Court tax the costs of the plaintiff and defendant in this suit, and let the amount of the said plaintiff's costs, when so taxed, be paid by the defendant to the plaintiff out of the sum of Rs.___________, the balance by the said certificate found to be due from the said defendant on account of the personal estate of E. F., the intestate, within one week after the taxation of the said costs by the said __________________________ [*], and let the defendant retain for her own use out of such sum her costs, when taxed.
+1. Let the __________________________ &#91;*&#93; of the said Court tax the costs of the plaintiff and defendant in this suit, and let the amount of the said plaintiff's costs, when so taxed, be paid by the defendant to the plaintiff out of the sum of Rs.___________, the balance by the said certificate found to be due from the said defendant on account of the personal estate of E. F., the intestate, within one week after the taxation of the said costs by the said __________________________ &#91;*&#93;, and let the defendant retain for her own use out of such sum her costs, when taxed.
 
 2. And it is ordered that the residue of the said sum of Rs.___________ after payment of the plaintiff's and defendant's costs as aforesaid,-be paid and applied by defendant as follows:--
 
-(a) Let the defendant, within one week after the taxation of the said costs by the ________________________[*] as aforesaid, pay one-third share of the said residue to the plaintiffs A B and C D his wife, in her right as the sister and one of the next-of-kin of the said E F the intestate.
+(a) Let the defendant, within one week after the taxation of the said costs by the ________________________&#91;*&#93; as aforesaid, pay one-third share of the said residue to the plaintiffs A B and C D his wife, in her right as the sister and one of the next-of-kin of the said E F the intestate.
 
 (b) Let the defendant retain for her own use one other third share of the said residue, as the mother and one of the next-of-kin of the said E F the intestate.
 
-(c) And let the defendant, within one week after the taxation of the said costs by the ________________________[*] as aforesaid, pay the remaining one-third share of the said residue to G H as the brother and the other next-of-kin of the said E F the intestate.
+(c) And let the defendant, within one week after the taxation of the said costs by the ________________________&#91;*&#93; as aforesaid, pay the remaining one-third share of the said residue to G H as the brother and the other next-of-kin of the said E F the intestate.
 
 ### **No.21**
 
@@ -690,7 +690,7 @@ In suits by next-of-kin--
 
 IT is declared that the proportionate shares of the parties in the partnership are as follows:--
 
-It is declared that this partnership shall stand dissolved [or shall be deemed to have been dissolved] as from the ____________ day of ____________ and it is ordered that the dissolution thereof as from that day be advertised in the ________________________ Gazette, etc
+It is declared that this partnership shall stand dissolved &#91;or shall be deemed to have been dissolved&#93; as from the ____________ day of ____________ and it is ordered that the dissolution thereof as from that day be advertised in the ________________________ Gazette, etc
 
 And it is ordered that ________________________ be the receiver of the partnership-estate and effects in this suit and do get in all the outstanding book-debts and claims of the partnership.
 
@@ -702,9 +702,9 @@ And it is ordered that the following accounts be taken:--
 
 3. An account of all dealings and transactions between the plaintiff and defendant, from the foot of the settled account exhibit in this suit and marked (A), and not disturbing any subsequer settled accounts.
 
-And it is ordered that the goodwill of the business heretofore carried on by the plaintiff and defendant as in the plaint mentioned and the stock-in-trade, be sold on the premises, and that the __________________________[*] may, on the application of any of the parties, fix a reserved bidding for all or any of the lots at such sale, and that either of the parties is t be at liberty to bid at the sale.
+And it is ordered that the goodwill of the business heretofore carried on by the plaintiff and defendant as in the plaint mentioned and the stock-in-trade, be sold on the premises, and that the __________________________&#91;*&#93; may, on the application of any of the parties, fix a reserved bidding for all or any of the lots at such sale, and that either of the parties is t be at liberty to bid at the sale.
 
-And it is ordered that the above accounts be taken, and all the other acts required to be done be completed, before the ____________ day of ____________, and that the ________________________[*] do certify the result of the accounts, and that all other acts are completed, and have his certificate in that behalf ready for tine inspection of the parties on the day of
+And it is ordered that the above accounts be taken, and all the other acts required to be done be completed, before the ____________ day of ____________, and that the ________________________&#91;*&#93; do certify the result of the accounts, and that all other acts are completed, and have his certificate in that behalf ready for tine inspection of the parties on the day of
 
 And, lastly, it is ordered that this suit stand adjourned for making a final decree to the day of ____________
 
@@ -718,17 +718,17 @@ And, lastly, it is ordered that this suit stand adjourned for making a final dec
 
 IT is ordered that the fund now in Court, amounting to the suit of Rs.___________, be applied as follows:--
 
-#### 1. In payment of the debts due by the partnership set forth in the certificate of the __________________________[*] amounting in the whole to Rs.___________
+#### 1. In payment of the debts due by the partnership set forth in the certificate of the __________________________&#91;*&#93; amounting in the whole to Rs.___________
 
 #### 2. In payment of the costs of all parties in this suit amounting to Rs.___________
 
-[These costs must be ascertained before the decree is drawn up.]
+&#91;These costs must be ascertained before the decree is drawn up.&#93;
 
 3. In payment of the sum of Rs.___________ to the plaintiff as his share of the partnership-assets, of the sum of Rs.___________, being the residue of the said sum of Rs.___________ now in Court, to the defendant as his share of the partnership-assets.
 
-[Or, And that the remainder of the said sum of Rs.___________ be paid to the said plaintiff (or defendant) in part payment of the sum of Rs.___________ certified to be due to him in respect of the partnership-accounts.]
+&#91;Or, And that the remainder of the said sum of Rs.___________ be paid to the said plaintiff (or defendant) in part payment of the sum of Rs.___________ certified to be due to him in respect of the partnership-accounts.&#93;
 
-4. And that the defendant [or plaintiff] do on or before the ____________ day of pay to the plaintiff [or defendant! the sum of Rs.___________ being the balance of the said sum of Rs.___________ due to him, which will then remain due.
+4. And that the defendant &#91;or plaintiff&#93; do on or before the ____________ day of pay to the plaintiff &#91;or defendant! the sum of Rs.___________ being the balance of the said sum of Rs.___________ due to him, which will then remain due.
 
 ### **No.23**
 
@@ -746,4 +746,4 @@ IT is hereby decreed as follows:--
 
 #### 2. That an inquiry be made as to the amount of mesne profits which have accrued due prior to the institution of the suit.
 
-3. That an inquiry be made as to the amount of meson profits from the institution of the suit until [the delivery of possession to the decree-holder] [the relinquishment of possession by the judgment debtor with notice to the decree-holder through the Court] [the expiration of three years from the date of the decree].
+3. That an inquiry be made as to the amount of meson profits from the institution of the suit until &#91;the delivery of possession to the decree-holder&#93; &#91;the relinquishment of possession by the judgment debtor with notice to the decree-holder through the Court&#93; &#91;the expiration of three years from the date of the decree&#93;.
