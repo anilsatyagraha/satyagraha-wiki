@@ -3,15 +3,11 @@ title: "Civil Procedure Code - Footnotes 57"
 aliases:
   - bare-acts/code-of-civil-procedure/cpc-f57
 ---
-# THE CODE OF CIVIL PROCEDURE, 1908
 
-_  
-  
-##### Code of Civil Procedure - Schedule I
+[[Code of Civil Procedure/index|Table of Contents]] | [[Civil-Procedure-Code-Footnotes-56|Previous]] | [[Civil-Procedure-Code-Footnotes-58|Next]]
 
-_
+## Code of Civil Procedure - Schedule I
 
-#####  Foot Notes
+## Foot Notes
 
-61\. Inserted by Act No. 24 of 1951.  
----
+#### 61. Inserted by Act No. 24 of 1951.

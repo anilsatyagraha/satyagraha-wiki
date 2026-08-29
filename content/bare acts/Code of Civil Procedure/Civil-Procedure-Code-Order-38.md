@@ -3,9 +3,109 @@ title: "Civil Procedure Code - Order 38"
 aliases:
   - bare-acts/code-of-civil-procedure/cpco38
 ---
-# THE CODE OF CIVIL PROCEDURE, 1908
 
-* * *  
-  
-_Code of Civil Procedure - Schedule I_ [[index|Table of Contents]]      [[Civil-Procedure-Code-Order-37|Previous]]       [[Civil-Procedure-Code-Order-39|Next]] ORDER XXXVIII : ARREST AND ATTACHMENT BEFORE JUDGEMENT Arrest before judgement 1\. Where defendant may be called upon to furnish security for appearance Where at any stage of a suit, other than a suit of the nature referred to in section 16, clauses (a) to (d), the Court is satisfied, by affidavit or otherwise,-     (a) that the defendant, with intent to delay the plaintiff, or to avoid any process of the Court or to obstruct or delay the execution of any decree that may be passed against him,-         (i) has absconded or left the local limits of the jurisdiction of the Court, or         (ii) is about to abscond or leave the local limits of the jurisdiction of the Court, or         (iii) has disposed of or removed from the local limit soft the jurisdiction of the Court his property or any part thereof, or     (b) that the defendant is About to leave 9)[India] under circumstances affording reasonable probability that the plaintiff will or may thereby be obstructed or delayed in the execution of any decree that may be passed against the defendant in the suit, the Court may issue a warrant to arrest the defendant and bring him before the Court to show cause why he should not furnish security for his appearance     Provided that the defendant shall not be arrested if he pays to the officer entrusted with the execution of the warrant any sum specified in the warrant as sufficient to satisfy the plaintiffs claim; and such sum shall be held in deposit by the Court until: the suit is disposed of or until the further order of the Court.   2\. Security     (1) Where the defendant fails to show such cause the Court shall order him either to deposit in Court money or other property sufficient answer the claim against him, or to furnish security for his appearance at any time when called upon while the suit is pending and until satisfaction of any decree that may be passed against him in the suit, or make such order as it thinks fit in regard to the sum which may have paid by the defendant under the proviso to the last preceding rule.     (2) Every surety for the appearance of a defendant shall bind himself, in default of such appearance, to pay any sum of money which the defendant may be ordered to pay in the suit. 3\. Procedure on application by surety to be discharged     (1) A surety for the appearance of a defendant may at any time apply to the Court in which he became such surety to be discharged from his obligation.     (2) On such application being made, the Court shall summon the defendant to appear or, if it thinks fit may issue a warrant for his arrest in the first instance.     (3) On the appearance of the defendant in pursuance of the summons or warrant, or on his voluntary surrender, the Court shall direct the surety to be discharged from his obligation, and shall call upon the defendant to find fresh security. 4\. Procedure Where defendant fails to furnish security or  find fresh security Where the defendant fails to comply with any order under rule 2 or rule 3, the Court may commit him to the civil prison until the decision of the suit or, where a decree is passed a against the defendant, until the decree has been satisfied : Provided that no person shall be detained in prison under this rule in any case for a longer period than six months, nor for a longer period than six weeks when the amount or value of the subject-matter of the suit does not exceed fifty rupees : Provided also that no person shall be detained in prison under this rule after he has complied with such order. Attachment before judgement  5\. Where. defendant may be called upon to furnish security for production of property     (1) Where, at any stage of a suit, the Court is satisfied, by affidavit or otherwise, that the defendant, with intent to obstruct or delay the execution of any decree that may be passed against him,-         (a) is about to dispose of the whole or any part of his property, or         (b) is about to remove the whole or any part of his property from the local limits of the jurisdiction of the Court, the Court may direct the defendant, within a time to be fixed by it, either to furnish security, in such sum as may be specified in the order, to produce and place at the disposal of the Court, when required, the said property or the value of the same, or such portion thereof as may be sufficient to satisfy, the decree, or to appear and show cause why he should not furnish security.     (2) The plaintiff shall, unless the Court otherwise directs specify the property required to be attached and the estimated value thereof.     (3) The Court may also in the order direct the conditional attachment of the whole or any portion of the property so specified.      10)[(4) If an order of attachment is made without complying with the provisions of sub-rule (1) of this rule such attachment shall be void.] 6\. Attachment where cause not shown or security not furnished     (1) Where the defendant fails to show cause why he should not furnish security, or fails to furnish the security required, within the time fixed by the Court, the Court may order that the property specified, or such portion thereof as appears sufficient to satisfy any decree which may be passed in the suit, be attached.     (2) Where the defendant shows such cause or furnishes the required security, and the property specified or any portion of it has been attached, the Court shall order the attachment to be withdrawn, or make such other order as it thinks fit. 7\. Mode of making attachment Save as otherwise expressly provided, the attachment shall be made in the manner provided for the attachment of property in execution of a decree.  11)8. Adjudication of claim to property attached before judgement Where any claim is preferred to property attached before judgement, such claim shall be adjudicated upon in the manner hereinbefore provided for the adjudication of claims to property attached in execution of a decree for the payment of money.) 9\. Removal of attachment when security furnished or suit dismissed Where an order is made for attachment before judgement, the Court shall order the attachment to be withdrawn when the defendant furnishes the security required, together with security for the cost of the attachment, or when the suit is dismissed. 10\. Attachment before judgement not to affect rights of strangers, nor bar decree -holder from applying for sale Attachment before judgement shall not affect the rights, existing prior to the attachment, of persons not parties to the suit, nor bar any person holding a decree against the defendant from applying for the sale of the property under attachment in execution of such decree. 11\. Property attached before judgement not to be re-attached in execution of decree Where property is under attachment by virtue of the provisions of this order and a decree is subsequently passed in favour of the plaintiff, it shall not be necessary upon. an application for execution of such decree to apply, for a re-attachment of the property. [ 12)[11A. Provisions applicable to attachment     (1) The provisions of this Code applicable to an attachment made in execution of a decree shall so far as may be, apply to an attachment made before judgement which continues after the judgement by virtue of the provisions of rule 11.     (2) An attachment made before judgement in a suit which is dismissed for default shall not become revived merely by reason of the fact that the order for the dismissal, of the suit for default has been set aside and the suit has been restored.] 12\. Agriculture produce not attachable before judgement  Nothing in this order shall be deemed to authorise the plaintiff to apply for the attachment of any agriculture produce in the possession of an agriculturist, or to empower the Court to order the attachment or production of such produce.  13)[[index|13. Small Cause Court not to attach immovable property Nothing in this order shall be deemed to empower any Court of Small Causes to make an order for the attachment of immovable property.) (Table of Contents]]      [[Civil-Procedure-Code-Order-37|Previous]]       [[Civil-Procedure-Code-Order-39|Next]]  
----
+[[Code of Civil Procedure/index|Table of Contents]] | [[Civil-Procedure-Code-Order-37|Previous]] | [[Civil-Procedure-Code-Order-39|Next]]
+
+## Code of Civil Procedure - Schedule I
+
+## ORDER XXXVIII: ARREST AND ATTACHMENT BEFORE JUDGEMENT
+
+### Arrest before judgement
+
+#### 1. Where defendant may be called upon to furnish security for appearance
+
+Where at any stage of a suit, other than a suit of the nature referred to in section 16, clauses (a) to (d), the Court is satisfied, by affidavit or otherwise,-
+
+(a) that the defendant, with intent to delay the plaintiff, or to avoid any process of the Court or to obstruct or delay the execution of any decree that may be passed against him,-
+
+(i) has absconded or left the local limits of the jurisdiction of the Court, or
+
+(ii) is about to abscond or leave the local limits of the jurisdiction of the Court, or
+
+(iii) has disposed of or removed from the local limit soft the jurisdiction of the Court his property or any part thereof, or
+
+(b) that the defendant is About to leave [9][India] under circumstances affording reasonable probability that the plaintiff will or may thereby be obstructed or delayed in the execution of any decree that may be passed against the defendant in the suit,
+
+the Court may issue a warrant to arrest the defendant and bring him before the Court to show cause why he should not furnish security for his appearance
+
+Provided that the defendant shall not be arrested if he pays to the officer entrusted with the execution of the warrant any sum specified in the warrant as sufficient to satisfy the plaintiffs claim; and such sum shall be held in deposit by the Court until: the suit is disposed of or until the further order of the Court.
+
+#### 2. Security
+
+(1) Where the defendant fails to show such cause the Court shall order him either to deposit in Court money or other property sufficient answer the claim against him, or to furnish security for his appearance at any time when called upon while the suit is pending and until satisfaction of any decree that may be passed against him in the suit, or make such order as it thinks fit in regard to the sum which may have paid by the defendant under the proviso to the last preceding rule.
+
+(2) Every surety for the appearance of a defendant shall bind himself, in default of such appearance, to pay any sum of money which the defendant may be ordered to pay in the suit.
+
+#### 3. Procedure on application by surety to be discharged
+
+(1) A surety for the appearance of a defendant may at any time apply to the Court in which he became such surety to be discharged from his obligation.
+
+(2) On such application being made, the Court shall summon the defendant to appear or, if it thinks fit may issue a warrant for his arrest in the first instance.
+
+(3) On the appearance of the defendant in pursuance of the summons or warrant, or on his voluntary surrender, the Court shall direct the surety to be discharged from his obligation, and shall call upon the defendant to find fresh security.
+
+#### 4. Procedure Where defendant fails to furnish security or find fresh security
+
+Where the defendant fails to comply with any order under rule 2 or rule 3, the Court may commit him to the civil prison until the decision of the suit or, where a decree is passed a against the defendant, until the decree has been satisfied:
+
+Provided that no person shall be detained in prison under this rule in any case for a longer period than six months, nor for a longer period than six weeks when the amount or value of the subject-matter of the suit does not exceed fifty rupees:
+
+Provided also that no person shall be detained in prison under this rule after he has complied with such order.
+
+### Attachment before judgement
+
+#### 5. Where. defendant may be called upon to furnish security for production of property
+
+(1) Where, at any stage of a suit, the Court is satisfied, by affidavit or otherwise, that the defendant, with intent to obstruct or delay the execution of any decree that may be passed against him,-
+
+(a) is about to dispose of the whole or any part of his property, or
+
+(b) is about to remove the whole or any part of his property from the local limits of the jurisdiction of the Court,
+
+the Court may direct the defendant, within a time to be fixed by it, either to furnish security, in such sum as may be specified in the order, to produce and place at the disposal of the Court, when required, the said property or the value of the same, or such portion thereof as may be sufficient to satisfy, the decree, or to appear and show cause why he should not furnish security.
+
+(2) The plaintiff shall, unless the Court otherwise directs specify the property required to be attached and the estimated value thereof.
+
+(3) The Court may also in the order direct the conditional attachment of the whole or any portion of the property so specified.
+
+[10][(4) If an order of attachment is made without complying with the provisions of sub-rule (1) of this rule such attachment shall be void.]
+
+#### 6. Attachment where cause not shown or security not furnished
+
+(1) Where the defendant fails to show cause why he should not furnish security, or fails to furnish the security required, within the time fixed by the Court, the Court may order that the property specified, or such portion thereof as appears sufficient to satisfy any decree which may be passed in the suit, be attached.
+
+(2) Where the defendant shows such cause or furnishes the required security, and the property specified or any portion of it has been attached, the Court shall order the attachment to be withdrawn, or make such other order as it thinks fit.
+
+#### 7. Mode of making attachment
+
+Save as otherwise expressly provided, the attachment shall be made in the manner provided for the attachment of property in execution of a decree.
+
+[11][8. Adjudication of claim to property attached before judgement
+
+Where any claim is preferred to property attached before judgement, such claim shall be adjudicated upon in the manner hereinbefore provided for the adjudication of claims to property attached in execution of a decree for the payment of money.)
+
+#### 9. Removal of attachment when security furnished or suit dismissed
+
+Where an order is made for attachment before judgement, the Court shall order the attachment to be withdrawn when the defendant furnishes the security required, together with security for the cost of the attachment, or when the suit is dismissed.
+
+#### 10. Attachment before judgement not to affect rights of strangers, nor bar decree -holder from applying for sale
+
+Attachment before judgement shall not affect the rights, existing prior to the attachment, of persons not parties to the suit, nor bar any person holding a decree against the defendant from applying for the sale of the property under attachment in execution of such decree.
+
+#### 11. Property attached before judgement not to be re-attached in execution of decree
+
+Where property is under attachment by virtue of the provisions of this order and a decree is subsequently passed in favour of the plaintiff, it shall not be necessary upon. an application for execution of such decree to apply, for a re-attachment of the property.
+
+[12][11A. Provisions applicable to attachment
+
+(1) The provisions of this Code applicable to an attachment made in execution of a decree shall so far as may be, apply to an attachment made before judgement which continues after the judgement by virtue of the provisions of rule 11.
+
+(2) An attachment made before judgement in a suit which is dismissed for default shall not become revived merely by reason of the fact that the order for the dismissal, of the suit for default has been set aside and the suit has been restored.]
+
+#### 12. Agriculture produce not attachable before judgement
+
+Nothing in this order shall be deemed to authorise the plaintiff to apply for the attachment of any agriculture produce in the possession of an agriculturist, or to empower the Court to order the attachment or production of such produce.
+
+[13][13. Small Cause Court not to attach immovable property
+
+Nothing in this order shall be deemed to empower any Court of Small Causes to make an order for the attachment of immovable property.]

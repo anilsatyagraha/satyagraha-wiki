@@ -3,15 +3,11 @@ title: "Civil Procedure Code - Footnotes 60"
 aliases:
   - bare-acts/code-of-civil-procedure/cpc-f60
 ---
-# THE CODE OF CIVIL PROCEDURE, 1908
 
-_  
-  
-##### Code of Civil Procedure - Schedule I
+[[Code of Civil Procedure/index|Table of Contents]] | [[Civil-Procedure-Code-Footnotes-6|Previous]] | [[Civil-Procedure-Code-Footnotes-61|Next]]
 
-_
+## Code of Civil Procedure - Schedule I
 
-#####  Foot Notes
+## Foot Notes
 
-68\. Substituted by the A.O. 1950, for the words "the Secretary of State or the Federation of India or the Province of _____, as the case may be,".  
----
+#### 68. Substituted by the A.O. 1950, for the words "the Secretary of State or the Federation of India or the Province of _____, as the case may be,".

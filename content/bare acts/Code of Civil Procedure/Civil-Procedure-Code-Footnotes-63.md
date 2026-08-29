@@ -3,15 +3,11 @@ title: "Civil Procedure Code - Footnotes 63"
 aliases:
   - bare-acts/code-of-civil-procedure/cpc-f63
 ---
-# THE CODE OF CIVIL PROCEDURE, 1908
 
-_  
-  
-##### Code of Civil Procedure - Schedule I
+[[Code of Civil Procedure/index|Table of Contents]] | [[Civil-Procedure-Code-Footnotes-62|Previous]] | [[Civil-Procedure-Code-Footnotes-64|Next]]
 
-_
+## Code of Civil Procedure - Schedule I
 
-#####  Foot Notes
+## Foot Notes
 
-1\. Word not required to be deleted.  
----
+#### 1. Word not required to be deleted.

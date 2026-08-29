@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Satyagraha Legal Wiki
+  pageTitle: Satyagraha Law Group
   pageTitleSuffix: " | Satyagraha Law Group"
   enableSPA: true
   enablePopovers: true
@@ -12,33 +12,33 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: selfHosted
+    fontOrigin: local
     cdnCaching: false
     typography:
-      header: Source Sans 3
-      body: Source Serif 4
-      code: Source Code Pro
+      header: '-apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif'
+      body: '-apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif'
+      code: '"SFMono-Regular", Consolas, "Liberation Mono", monospace'
     colors:
       lightMode:
-        light: "#fffdf8"
-        lightgray: "#ece8de"
-        gray: "#aaa398"
-        darkgray: "#4b453d"
-        dark: "#1f1b17"
-        secondary: "#7a2e2e"
-        tertiary: "#ad7b32"
-        highlight: rgba(122, 46, 46, 0.12)
-        textHighlight: "#f2d58a88"
+        light: "#ffffff"
+        lightgray: "#e5e5e5"
+        gray: "#6e6e73"
+        darkgray: "#1d1d1f"
+        dark: "#000000"
+        secondary: "#000000"
+        tertiary: "#000000"
+        highlight: "#f2f2f2"
+        textHighlight: "#e8e8e8"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#e2a0a0"
-        tertiary: "#d8ad69"
-        highlight: rgba(226, 160, 160, 0.15)
-        textHighlight: "#d8ad6966"
+        light: "#ffffff"
+        lightgray: "#e5e5e5"
+        gray: "#6e6e73"
+        darkgray: "#1d1d1f"
+        dark: "#000000"
+        secondary: "#000000"
+        tertiary: "#000000"
+        highlight: "#f2f2f2"
+        textHighlight: "#e8e8e8"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -75,9 +75,12 @@ plugins:
     order: 30
   - source: "@quartz-community/github-flavored-markdown"
     enabled: true
+    options:
+      enableSmartyPants: true
+      linkHeadings: false
     order: 40
   - source: "@quartz-community/table-of-contents"
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -108,7 +111,7 @@ plugins:
     enabled: false
     order: 92
   - source: "@quartz-community/quartz-fonts"
-    enabled: true
+    enabled: false
     options:
       useThemeFonts: false
       fontOrigin: selfHosted
@@ -159,7 +162,7 @@ plugins:
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/og-image"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"
@@ -171,7 +174,7 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
@@ -183,11 +186,8 @@ plugins:
   - source: "@quartz-community/search"
     enabled: true
     layout:
-      position: left
-      priority: 20
-      group: toolbar
-      groupOptions:
-        grow: true
+      position: beforeBody
+      priority: 2
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:
@@ -211,8 +211,8 @@ plugins:
   - source: "@quartz-community/page-title"
     enabled: true
     layout:
-      position: left
-      priority: 10
+      position: beforeBody
+      priority: 1
   - source: "@quartz-community/darkmode"
     enabled: true
     layout:

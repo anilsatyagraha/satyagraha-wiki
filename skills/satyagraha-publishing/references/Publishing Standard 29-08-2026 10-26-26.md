@@ -16,21 +16,21 @@ Maintain one durable source of truth that can be understood and reused by multip
 
 | Purpose | Primary font | Portable fallback |
 | --- | --- | --- |
-| Legal and long-form text | Source Serif 4 | Georgia, serif |
-| Interface and headings | Source Sans 3 | Arial, sans-serif |
-| Code and file paths | Source Code Pro | Consolas, monospace |
+| All text, headings, navigation and tables | Native system sans-serif | Segoe UI, Arial, sans-serif |
+| Code and file paths | Native system monospace | Consolas, monospace |
 
-Apply typography in one global theme or stylesheet. Do not add font declarations to each Markdown file. Self-host font files for stable production rendering when the licence and platform permit it.
+Apply typography in one global theme or stylesheet. Do not add font declarations to each Markdown file. Prefer native system fonts for compact documentation sites that should not depend on font downloads.
 
 ## Readability baseline
 
 - Body text must remain comfortable at normal browser zoom on desktop and mobile.
-- Use a body size of approximately 16px and line height near 1.6.
+- Use a body size of approximately 14px and line height near 1.5.
 - Keep long-form paragraphs at or below approximately 76 characters per line.
 - Use genuine heading levels and maintain a single logical page title.
 - Give tables responsive handling and prevent long URLs or citations from forcing horizontal page overflow.
 - Preserve sufficient text contrast in light and dark modes.
 - Ensure important navigation and controls remain keyboard accessible.
+- Use a plain white background, black text and white table cells when the project calls for a minimal documentation presentation.
 
 ## Naming baseline
 

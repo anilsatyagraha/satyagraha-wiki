@@ -3,15 +3,15 @@ title: "Civil Procedure Code - Footnotes 54"
 aliases:
   - bare-acts/code-of-civil-procedure/cpc-f54
 ---
-# THE CODE OF CIVIL PROCEDURE, 1908
 
-_  
-  
-##### Code of Civil Procedure - Schedule I
+[[Code of Civil Procedure/index|Table of Contents]] | [[Civil-Procedure-Code-Footnotes-53|Previous]] | [[Civil-Procedure-Code-Footnotes-55|Next]]
 
-_
+## Code of Civil Procedure - Schedule I
 
-#####  Foot Notes
+## Foot Notes
 
-31\. Inserted by Act No. 104 of 1976, w.e.f. 1st February, 1977. 32\. Clauses (b), (e), (g) and (h) omitted by Act No. 104 of 1976, w.e.f. 1st February, 1977. 33\. Clause (m), (o) and (v) omitted Act by No. 104 of 1976, w.e.f. 1st February, 1977.  
----
+#### 31. Inserted by Act No. 104 of 1976, w.e.f. 1st February, 1977.
+
+#### 32. Clauses (b), (e), (g) and (h) omitted by Act No. 104 of 1976, w.e.f. 1st February, 1977.
+
+#### 33. Clause (m), (o) and (v) omitted Act by No. 104 of 1976, w.e.f. 1st February, 1977.

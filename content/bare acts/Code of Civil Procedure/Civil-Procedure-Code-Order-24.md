@@ -3,9 +3,37 @@ title: "Civil Procedure Code - Order 24"
 aliases:
   - bare-acts/code-of-civil-procedure/cpco24
 ---
-# THE CODE OF CIVIL PROCEDURE, 1908
 
-* * *  
-  
-_Code of Civil Procedure - Schedule I_ [[index|Table of Contents]]      [[Civil-Procedure-Code-Order-23|Previous]]       [[Civil-Procedure-Code-Order-25|Next]] ORDER XXIV : PAYMENT INTO COURT 1\. Deposit by defendant of amount in satisfaction of claim The defendant in any suit to recover a debt or damages may, at any stage of the suit, deposit in Court such sum of money as he considers a satisfaction in full of the claim. 2\. Notice of deposit Notice of the deposit shall be given through the Court by the defendant to the plaintiff, and the amount of the deposit shall (unless the Court otherwise directs) be paid to the plaintiff on his application. 3\. Interest on deposit not allowed to plaintiff after notice No interest shall be allowed to the plaintiff on any sum deposited by the defendant from the date of the receipt of such notice, whether the sum deposited is in full of the claim or falls short thereof. 4\. Procedure where plaintiff accepts deposit as satisfaction in part      (1) Where the plaintiff accepts such amount as satisfaction in part only of his claim, he may prosecute his suit for the balance; and, if the Court decides that the deposit by the defendant was a full satisfaction of the plaintiff's claim, the plaintiff shall pay the costs of the suit incurred after the deposit and the costs incurred previous thereto, so far as they were caused by excess in the plaintiff's claim.     (2) Procedure where he accepts it as satisfaction in full Where the plaintiff accepts such amount as satisfaction in full of his claim, he shall present to the Court a statement to that effect, and such statement shall be filed and the Court shall pronounce judgment accordingly; and, in directing by whom the costs of each party are to be paid, the Court shall consider which of the parties is most to blame for the litigation. Illustrations      (a) A owes B Rs. 100B sues A for the amount, having made no demand for payment and having no reason to believe that the delay caused by making a demand would place him at a disadvantage.   On the plaint being filed, A pays the money into Court, B accepts it in full satisfaction of his claim, but the Court should not allow him any costs, the litigation being presumably groundless on his part.      (b) B sues A under the circumstances mentioned in illustration (a). On the plaint being filed, A disputes the claim Afterwards A pays the money into Court. B accepts it in full satisfaction of his claim. The Court should also give B his cast of suit. A’s conduct having shown that the litigation was necessary.     (c) A owes B Rs. 100, and is willing to pay him that sum without suit. B claims Rs. 1150 and sues A for that amount. On the plaint being filed, A pays Rs. 100 into Court, and disputes only his liability to pay the remaining Rs. 50. B accepts the Rs.100 in full satisfaction of his claim. The Court should order him to pay A's costs.   [[index|Table of Contents]]      [[Civil-Procedure-Code-Order-23|Previous]]       [[Civil-Procedure-Code-Order-25|Next]]  
----
+[[Code of Civil Procedure/index|Table of Contents]] | [[Civil-Procedure-Code-Order-23|Previous]] | [[Civil-Procedure-Code-Order-25|Next]]
+
+## Code of Civil Procedure - Schedule I
+
+## ORDER XXIV: PAYMENT INTO COURT
+
+#### 1. Deposit by defendant of amount in satisfaction of claim
+
+The defendant in any suit to recover a debt or damages may, at any stage of the suit, deposit in Court such sum of money as he considers a satisfaction in full of the claim.
+
+#### 2. Notice of deposit
+
+Notice of the deposit shall be given through the Court by the defendant to the plaintiff, and the amount of the deposit shall (unless the Court otherwise directs) be paid to the plaintiff on his application.
+
+#### 3. Interest on deposit not allowed to plaintiff after notice
+
+No interest shall be allowed to the plaintiff on any sum deposited by the defendant from the date of the receipt of such notice, whether the sum deposited is in full of the claim or falls short thereof.
+
+#### 4. Procedure where plaintiff accepts deposit as satisfaction in part
+
+(1) Where the plaintiff accepts such amount as satisfaction in part only of his claim, he may prosecute his suit for the balance; and, if the Court decides that the deposit by the defendant was a full satisfaction of the plaintiff's claim, the plaintiff shall pay the costs of the suit incurred after the deposit and the costs incurred previous thereto, so far as they were caused by excess in the plaintiff's claim.
+
+(2) Procedure where he accepts it as satisfaction in full
+
+Where the plaintiff accepts such amount as satisfaction in full of his claim, he shall present to the Court a statement to that effect, and such statement shall be filed and the Court shall pronounce judgment accordingly; and, in directing by whom the costs of each party are to be paid, the Court shall consider which of the parties is most to blame for the litigation.
+
+### Illustrations
+
+(a) A owes B Rs. 100B sues A for the amount, having made no demand for payment and having no reason to believe that the delay caused by making a demand would place him at a disadvantage. On the plaint being filed, A pays the money into Court, B accepts it in full satisfaction of his claim, but the Court should not allow him any costs, the litigation being presumably groundless on his part.
+
+(b) B sues A under the circumstances mentioned in illustration (a). On the plaint being filed, A disputes the claim Afterwards A pays the money into Court. B accepts it in full satisfaction of his claim. The Court should also give B his cast of suit. A’s conduct having shown that the litigation was necessary.
+
+(c) A owes B Rs. 100, and is willing to pay him that sum without suit. B claims Rs. 1150 and sues A for that amount. On the plaint being filed, A pays Rs. 100 into Court, and disputes only his liability to pay the remaining Rs. 50. B accepts the Rs.100 in full satisfaction of his claim. The Court should order him to pay A's costs.

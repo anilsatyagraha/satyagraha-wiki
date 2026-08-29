@@ -3,15 +3,21 @@ title: "Civil Procedure Code - Footnotes 16"
 aliases:
   - bare-acts/code-of-civil-procedure/cpc-f16
 ---
-# THE CODE OF CIVIL PROCEDURE, 1908
 
-* * *
+[[Code of Civil Procedure/index|Table of Contents]] | [[Civil-Procedure-Code-Footnotes-15|Previous]] | [[Civil-Procedure-Code-Footnotes-17|Next]]
 
-| 
+## THE FIRST SCHEDULE
 
-#### THE FIRST SCHEDULE
+## Foot Notes for CPC - First Schedule - Order III
 
-#### Foot Notes for CPC - First Schedule - Order III
+#### 16. Substituted by Act No. 22 of 1926, for the words "duly appointed to act".
 
-16\. Substituted by Act No. 22 of 1926, for the words "duly appointed to act".    17\. Substituted by Act No. 22 of 1926, for the original rule 4. 18\. Substituted by Act No. 104 of 1976, w.e.f. 1st February, 1977. 19\. Inserted by  Act No. 104 of 1976, w.e.f. 1st February, 1977. 20\. Substituted by Act No. 104 of 1976, for sub-rule (3), w.e.f. 1st February, 1977. 21\. Substituted by Act No. 104 of 1976, w.e.f.. 1st July, 1977.  
----
+#### 17. Substituted by Act No. 22 of 1926, for the original rule 4.
+
+#### 18. Substituted by Act No. 104 of 1976, w.e.f. 1st February, 1977.
+
+#### 19. Inserted by Act No. 104 of 1976, w.e.f. 1st February, 1977.
+
+#### 20. Substituted by Act No. 104 of 1976, for sub-rule (3), w.e.f. 1st February, 1977.
+
+#### 21. Substituted by Act No. 104 of 1976, w.e.f.. 1st July, 1977.

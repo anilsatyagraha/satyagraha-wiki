@@ -1,7 +1,7 @@
 ---
 name: satyagraha-publishing
 description: "This skill should be used when creating, converting, styling, naming, validating, or publishing Markdown and HTML artifacts for Satyagraha Law Group across wikis, websites, repositories, and AI-assisted workflows."
-version: 1.2.0
+version: 1.4.0
 ---
 
 # Satyagraha Publishing
@@ -59,20 +59,34 @@ Read [Decision Guardrails](references/Decision%20Guardrails%2029-08-2026%2010-28
 
 ## Typography
 
-Apply the Source family by default:
+Apply a compact native system typography by default:
 
-- Source Serif 4 for long-form legal text, provisions, quotations and tables.
-- Source Sans 3 for titles, headings, navigation, controls and metadata.
-- Source Code Pro for code, file paths and machine-readable text.
-- Self-host production font files when practical and retain serif, sans-serif and monospace fallbacks.
-- Use approximately 16px body text, 1.6 article line height and a maximum paragraph measure of 76 characters.
+- Use `-apple-system`, `BlinkMacSystemFont`, `Segoe UI`, Arial and `sans-serif` for body text, headings, navigation, controls and tables.
+- Use `SFMono-Regular`, Consolas, `Liberation Mono` and `monospace` for code and file paths.
+- Use approximately 14px article text, 1.5 line height and a maximum paragraph measure of 76 characters.
+- Use a plain white background and black text across pages, navigation, popovers and tables.
+- Keep table cells white with black text and restrained gray borders.
+- Do not offer a dark appearance when the project requires a uniform white-and-black presentation.
 - Apply the same global typography structure to the homepage, indexes and every generated article rather than styling individual Markdown files.
+
+## Content readability
+
+- Preserve legal meaning and wording while restoring source paragraph boundaries, headings, lists and tables.
+- Never flatten multiple provisions or sub-clauses into a single Markdown line or paragraph.
+- Decode HTML entities and remove conversion artifacts such as mojibake, replacement characters, JavaScript links and orphaned navigation fragments.
+- Distinguish source transcription defects from conversion defects. Do not silently guess corrections to statutory wording; verify against an authoritative text or clearly record unresolved source defects.
+- Generate navigation separately from legal text so controls cannot interrupt a sentence.
+- Prefer a quiet masthead and prominent search over redundant sidebar dropdowns when search and a collection index provide sufficient navigation.
 
 ## Detailed standard
 
 Read [Publishing Standard](references/Publishing%20Standard%2029-08-2026%2010-26-26.md) before changing a publishing theme, generating HTML, or preparing a public repository.
 
 Read [Wiki Readability](references/Wiki%20Readability%2029-08-2026%2011-00-59.md) when setting article typography or migrating abbreviated page names.
+
+Read [Plain Typography](references/Plain%20Typography%2029-08-2026%2011-22-48.md) when applying the compact white-and-black documentation style.
+
+Read [Content Readability](references/Content%20Readability%2029-08-2026%2012-49-48.md) when converting legacy legal HTML or simplifying wiki navigation.
 
 ## Completion checks
 

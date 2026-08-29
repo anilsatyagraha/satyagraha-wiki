@@ -3,13 +3,21 @@ title: "Civil Procedure Code - Footnotes 21"
 aliases:
   - bare-acts/code-of-civil-procedure/cpc-f21
 ---
-# THE CODE OF CIVIL PROCEDURE, 1908
 
-* * *  
-  
-#### THE FIRST SCHEDULE
+[[Code of Civil Procedure/index|Table of Contents]] | [[Civil-Procedure-Code-Footnotes-20|Previous]] | [[Civil-Procedure-Code-Footnotes-22|Next]]
 
-#### Foot Notes for CPC - First Schedule - Order IX
+## THE FIRST SCHEDULE
 
-51\. Inserted by Act No. 104 of 1976, w.e.f. 1st February, 1977. 52\. Substituted by Act No. 104 of 1976, w.e.f. 1st February, 1977. 53\. Substituted by Act No. 104 of 1976, w.e.f. 1st February, 1977. 54\. Substituted by Act No. 24 of 1920, for the original sub-rule (1). 55\. Substituted by Act No. 104 of 1976, for the words "three months", w.e.f. 1st February, 1977. 56\. Substituted by Act No. 104 of 1976, for former clause (a), w.e.f. 1st February, 1977.  
----
+## Foot Notes for CPC - First Schedule - Order IX
+
+#### 51. Inserted by Act No. 104 of 1976, w.e.f. 1st February, 1977.
+
+#### 52. Substituted by Act No. 104 of 1976, w.e.f. 1st February, 1977.
+
+#### 53. Substituted by Act No. 104 of 1976, w.e.f. 1st February, 1977.
+
+#### 54. Substituted by Act No. 24 of 1920, for the original sub-rule (1).
+
+#### 55. Substituted by Act No. 104 of 1976, for the words "three months", w.e.f. 1st February, 1977.
+
+#### 56. Substituted by Act No. 104 of 1976, for former clause (a), w.e.f. 1st February, 1977.

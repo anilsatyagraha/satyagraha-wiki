@@ -3,15 +3,11 @@ title: "Civil Procedure Code - Footnotes 62"
 aliases:
   - bare-acts/code-of-civil-procedure/cpc-f62
 ---
-# Untitled
 
-_  
-  
-##### Code of Civil Procedure - Schedule I
+[[Code of Civil Procedure/index|Table of Contents]] | [[Civil-Procedure-Code-Footnotes-61|Previous]] | [[Civil-Procedure-Code-Footnotes-63|Next]]
 
-_
+## Code of Civil Procedure - Schedule I
 
-#####  Foot Notes
+## Foot Notes
 
-1\. Substituted by Act No. 21 of 1929, section 8 and Schedule, for the original forms 3 to 11.  
----
+#### 1. Substituted by Act No. 21 of 1929, section 8 and Schedule, for the original forms 3 to 11.

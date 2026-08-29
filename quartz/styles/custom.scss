@@ -1,12 +1,41 @@
 @use "./variables.scss" as *;
 
-// Satyagraha publishing typography standard.
-// Source Serif 4 is used for long-form reading; Source Sans 3 is used for
-// headings and interface elements; Source Code Pro is used for code.
+// Satyagraha compact publishing standard: plain white surfaces, black text,
+// and the native system sans-serif stack used by documentation interfaces.
+
+html,
+body,
+#quartz-root,
+.page {
+  background: #fff !important;
+  color: #000 !important;
+}
+
+body {
+  font-size: 14px;
+  line-height: 1.5;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif !important;
+}
+
+body :where(h1, h2, h3, h4, h5, h6, p, li, a, button, input, nav, table, th, td, blockquote) {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif !important;
+}
+
+a,
+a:visited,
+a.internal,
+a.external {
+  color: #000 !important;
+  text-decoration-color: #6e6e73;
+}
+
+.darkmode {
+  display: none !important;
+}
 
 article.popover-hint {
-  font-size: 1rem;
-  line-height: 1.6;
+  font-size: 0.875rem;
+  line-height: 1.5;
 }
 
 article.popover-hint p,
@@ -14,7 +43,7 @@ article.popover-hint li,
 article.popover-hint blockquote,
 article.popover-hint td,
 article.popover-hint th {
-  font-family: var(--bodyFont);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
 }
 
 article.popover-hint h1,
@@ -26,23 +55,139 @@ article.popover-hint h6,
 button,
 input,
 nav {
-  font-family: var(--headerFont);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
 }
 
 article.popover-hint h1,
 article.popover-hint h2,
 article.popover-hint h3 {
-  line-height: 1.25;
+  line-height: 1.3;
+}
+
+.article-title {
+  font-size: 1.5rem !important;
+  line-height: 1.25 !important;
+}
+
+article.popover-hint h1 {
+  font-size: 1.35rem;
+}
+
+article.popover-hint h2 {
+  font-size: 1.15rem;
+}
+
+article.popover-hint h3,
+article.popover-hint h4,
+article.popover-hint h5,
+article.popover-hint h6 {
+  font-size: 1rem;
 }
 
 article.popover-hint p {
   max-width: 76ch;
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
+article.popover-hint li,
+article.popover-hint blockquote {
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 article.popover-hint blockquote {
-  line-height: 1.6;
+  line-height: 1.5;
 }
 
 article.popover-hint table {
+  background: #fff !important;
+  color: #000 !important;
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+
+article.popover-hint th,
+article.popover-hint td {
+  background: #fff !important;
+  color: #000 !important;
+  border-color: #d2d2d7 !important;
+}
+
+.sidebar,
+.page-header,
+.page-footer,
+.popover,
+.search-container,
+.metadata-container {
+  background: #fff !important;
+  color: #000 !important;
+}
+
+// Two-line legal-wiki masthead followed by a wide, quiet search control.
+.page-title {
+  margin: 0 0 1rem !important;
+  line-height: 1.15;
+}
+
+.page-title a {
+  display: flex;
+  flex-direction: column;
+  color: #000 !important;
+  font-size: 1.35rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.page-title a::after {
+  content: "Legal Wiki";
+  margin-top: 0.2rem;
+  color: #000;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+.search {
+  width: min(100%, 56rem) !important;
+  max-width: none !important;
+  margin: 0 auto 1.75rem !important;
+}
+
+.search > .search-button {
+  height: 2.75rem !important;
+  padding-right: 1rem !important;
+  border: 1px solid #b8b8b8 !important;
+  border-radius: 1.5rem !important;
+  background: #fff !important;
+  color: #000 !important;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
+}
+
+.search > .search-button > p {
+  color: #555 !important;
+}
+
+footer {
+  margin-top: 3rem;
+  margin-bottom: 2rem !important;
+  padding-top: 1.25rem;
+  border-top: 1px solid #d2d2d7;
+  color: #000 !important;
+  font-size: 0.8rem;
   line-height: 1.5;
+  opacity: 1 !important;
+}
+
+footer p {
+  margin: 0 0 0.8rem;
+  text-align: justify;
+}
+
+footer .footer-links {
+  line-height: 1.7;
+}
+
+footer .footer-help {
+  margin-bottom: 0;
 }

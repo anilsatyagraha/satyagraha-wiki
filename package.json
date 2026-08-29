@@ -12,6 +12,7 @@
     "url": "https://github.com/anilsatyagraha/satyagraha-wiki.git"
   },
   "scripts": {
+    "postinstall": "node \"scripts/Patch Site Chrome 29-08-2026 14-05-00.mjs\"",
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",

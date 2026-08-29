@@ -3,9 +3,49 @@ title: "Civil Procedure Code - Part 8"
 aliases:
   - bare-acts/code-of-civil-procedure/cpc9
 ---
-# THE CODE OF CIVIL PROCEDURE, 1908
 
-* * *  
-  
-[[index|Table of Contents]]      [[Civil-Procedure-Code-Part-7|Previous]]       [[Civil-Procedure-Code-Part-9|Next]] _THE CODE OF CIVIL PROCEDURE, 1908_PART VIII : REFERENCE, REVIEW AND REVISION_ 113\. Reference to High Court  Subject to such conditions and limitations as may be prescribed, any Court may state a case and refer the same for the opinion of the High Court, and the High Court may make such order thereon as it thinks fit :  161)[Provided that where the Court is satisfied that a case pending before it involves a question as to the validity of any Act, Ordinance or Regulation or of any provision contained in an Act, Ordinance or Regulation, the determination of which is necessary for the disposal of the case, and is of opinion that such Act, Ordinance, Regulation or provision is invalid or inoperative but has not been so declared by the High Court to which that Court is subordinate or by the Supreme Court, the Court shall state a case setting out its opinion and the reasons therefor, and refer the same for the opinion of the High Court. Explanation.- In this section, "Regulation" means any Regulation of the Bengal, Bombay or Madras Code or Regulation as defined in the General Clauses Act, 1897, (10 of 1897) or in the General Clauses Act of a State.] 114\. Review  Subject as aforesaid, any person considering himself aggrieved-     (a) by a decree or order from which an appeal is allowed by this Code, but from which no appeal has been preferred.     (b) by a decree or order from which no appeal is allowed by this Court, or     (c) by a decision on a reference from a Court of Small Causes, may apply for a review of judgment to the Court which passed the decree or made the order, and the Court may make such order thereon as it thinks fit. 115\. Revision       162)[(1)] The High Court may call for the record of any case which has been decided by any Court subordinate to such High Court and in which no appeal lies thereto, and if such subordinate Court appears -         (a) to have exercised a jurisdiction not vested in it by law, or         (b) to have failed to exercise a jurisdiction so vested, or         (c) to have acted in the exercise of its jurisdiction illegally or with material irregularity, the High Court may make such order in the case as it thinks fit:  163)[Provided that the High Court shall not, under this section, vary or reverse any order made, or any order deciding an issue, in the course of a suit or other proceeding, except where -         (a) the order, if it had been made in favour of the party applying for revision, would have finally disposed of the suit or other proceeding, or         (b) the order, if allowed to stand, would occasion a failure of justice or cause irreparable injury to the party against whom it was made.]      163)[[index|(2) The High Court shall not, under this section, vary or reverse any decree or order against which an appeal lies either to the High Court or to any Court subordinate thereto. Explanation.- In this section, the expression "any case which has been decided" includes any order made, or any order deciding an issue in the course of a suit or other proceeding.) (Table of Contents]]      [[Civil-Procedure-Code-Part-7|Previous]]       [[Civil-Procedure-Code-Part-9|Next]]  
----
+[[Code of Civil Procedure/index|Table of Contents]] | [[Civil-Procedure-Code-Part-7|Previous]] | [[Civil-Procedure-Code-Part-9|Next]]
+
+## THE CODE OF CIVIL PROCEDURE, 1908
+
+## PART VIII: REFERENCE, REVIEW AND REVISION
+
+## 113. Reference to High Court
+
+Subject to such conditions and limitations as may be prescribed, any Court may state a case and refer the same for the opinion of the High Court, and the High Court may make such order thereon as it thinks fit:
+
+[161][Provided that where the Court is satisfied that a case pending before it involves a question as to the validity of any Act, Ordinance or Regulation or of any provision contained in an Act, Ordinance or Regulation, the determination of which is necessary for the disposal of the case, and is of opinion that such Act, Ordinance, Regulation or provision is invalid or inoperative but has not been so declared by the High Court to which that Court is subordinate or by the Supreme Court, the Court shall state a case setting out its opinion and the reasons therefor, and refer the same for the opinion of the High Court.
+
+Explanation.- In this section, "Regulation" means any Regulation of the Bengal, Bombay or Madras Code or Regulation as defined in the General Clauses Act, 1897, (10 of 1897) or in the General Clauses Act of a State.]
+
+## 114. Review
+
+Subject as aforesaid, any person considering himself aggrieved-
+
+(a) by a decree or order from which an appeal is allowed by this Code, but from which no appeal has been preferred.
+
+(b) by a decree or order from which no appeal is allowed by this Court, or
+
+(c) by a decision on a reference from a Court of Small Causes, may apply for a review of judgment to the Court which passed the decree or made the order, and the Court may make such order thereon as it thinks fit.
+
+## 115. Revision
+
+[162][(1)] The High Court may call for the record of any case which has been decided by any Court subordinate to such High Court and in which no appeal lies thereto, and if such subordinate Court appears -
+
+(a) to have exercised a jurisdiction not vested in it by law, or
+
+(b) to have failed to exercise a jurisdiction so vested, or
+
+(c) to have acted in the exercise of its jurisdiction illegally or with material irregularity,
+
+the High Court may make such order in the case as it thinks fit:
+
+[163][Provided that the High Court shall not, under this section, vary or reverse any order made, or any order deciding an issue, in the course of a suit or other proceeding, except where -
+
+(a) the order, if it had been made in favour of the party applying for revision, would have finally disposed of the suit or other proceeding, or
+
+(b) the order, if allowed to stand, would occasion a failure of justice or cause irreparable injury to the party against whom it was made.]
+
+[163][(2) The High Court shall not, under this section, vary or reverse any decree or order against which an appeal lies either to the High Court or to any Court subordinate thereto.
+
+Explanation.- In this section, the expression "any case which has been decided" includes any order made, or any order deciding an issue in the course of a suit or other proceeding.]
