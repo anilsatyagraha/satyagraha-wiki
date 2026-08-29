@@ -114,7 +114,7 @@ If no appearance is made on your behalf by yourself, your pleader, or by some on
 
 GIVEN under my hand and the seal of the Court, this ________________ day of ___________ 19_________.
 
-&#91;NOTE- If a stay of execution has been ordered, intimation should be given of the fact on this notice.&#93;
+\[NOTE- If a stay of execution has been ordered, intimation should be given of the fact on this notice.\]
 
 ### No. 7
 
@@ -198,7 +198,7 @@ Total
 
 ### No. 10
 
-### APPLICATION To APPEAL &#91;1&#93; &#91;BY INDIGENT PERSONS (O. 44, r.1)
+### APPLICATION To APPEAL 1 \[BY INDIGENT PERSONS (O. 44, r.1)
 
 ### (Title)
 
@@ -208,11 +208,11 @@ Annexed is a full and true schedule of all the movable and immovable property be
 
 Dated the _______________ day of __________ 19_____.
 
-&#91;NOTE- Where the application is by the plaintiff he should state whether he applied and was allowed to sue in the Court of first instance as a pauper.&#93;
+\[NOTE- Where the application is by the plaintiff he should state whether he applied and was allowed to sue in the Court of first instance as a pauper.\]
 
 ### No. 11
 
-### NOTICE OF APPEAL &#91;1&#93; &#91;BY INDIGENT PERSONS (O. 44, r. 1)
+### NOTICE OF APPEAL 1 \[BY INDIGENT PERSONS (O. 44, r. 1)
 
 ### (Title)
 
@@ -222,17 +222,17 @@ GIVEN under my hand and the seal of the Court, this ____________ day of ________
 
 ### No. 12
 
-### NOTICE TO SHOW CAUSE WHY A CERTIFICATE OF APPEAL TO THE &#91;1&#93;&#91;SUPREME COURT&#93; SHOULD NOT BE GRANTED (O. 45, r. 3.)
+### NOTICE TO SHOW CAUSE WHY A CERTIFICATE OF APPEAL TO THE 1\[SUPREME COURT\] SHOULD NOT BE GRANTED (O. 45, r. 3.)
 
 ### (Title)
 
 TO
 
-&#91;2&#93;&#91;TAKE notice that _____________________________ has applied to this Court for a certificate-
+2\[TAKE notice that _____________________________ has applied to this Court for a certificate-
 
 (i) that the case involves a substantial question of law of general importance, and
 
-(ii) that in the opinion of this Court the said question needs to be decided by the Supreme Court.&#93;
+(ii) that in the opinion of this Court the said question needs to be decided by the Supreme Court.\]
 
 The ______________ day of _____________ 19__________ is fixed for you to show cause why the Court should not grant the certificate asked for.
 
@@ -240,7 +240,7 @@ GIVEN under my hand and the seal of the Court, this ____________ day of ______ 1
 
 ### No. 13
 
-### NOTICE TO RESPONDENT OF ADMISSION OF APPEAL TO THE &#91;3&#93;&#91;SUPREME COURT&#93; (O. 45, r. 8.)
+### NOTICE TO RESPONDENT OF ADMISSION OF APPEAL TO THE 3\[SUPREME COURT\] (O. 45, r. 8.)
 
 ### (Title)
 
@@ -248,7 +248,7 @@ To
 
 WHEREAS _________________________, the ____________________ in the above case, has furnished the security and made the deposit required by Order XLV, rule 7, of the Code of Civil Procedure, 1908;
 
-Take notice that the appeal of the said ___________________ to &#91;4&#93;&#91;the Supreme Court&#93; has been admitted on the ______________ day of _____________ 19_______.
+Take notice that the appeal of the said ___________________ to 4\[the Supreme Court\] has been admitted on the ______________ day of _____________ 19_______.
 
 GIVEN under my hand and the seal of the Court, this ___________ day of ________19___.
 

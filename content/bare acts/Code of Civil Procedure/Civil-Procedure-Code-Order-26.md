@@ -16,9 +16,9 @@ aliases:
 
 Any Court may in any suit issue a commission for the examination on interrogatories or otherwise of any person resident within the local limits of its jurisdiction who is exempted under this Code from attending the Court or who is from sickness or infirmity unable to attend it:
 
-&#91;4&#93;&#91;Provided that a commission for examination on interrogatories shall not be issued unless the Court, for reasons to be recorded, thinks it necessary so to do.
+4\[Provided that a commission for examination on interrogatories shall not be issued unless the Court, for reasons to be recorded, thinks it necessary so to do.
 
-Explanation.-The Court may, for the purpose of this rule, accept a certificate purporting to be signed by a registered medical practitioner as evidence of the sickness or infirmity of any person, without calling the medical, practitioner as a witness.&#93;
+Explanation.-The Court may, for the purpose of this rule, accept a certificate purporting to be signed by a registered medical practitioner as evidence of the sickness or infirmity of any person, without calling the medical, practitioner as a witness.\]
 
 #### 2. Order for commission
 
@@ -30,17 +30,17 @@ A commission for the examination of a person who resides within the local limits
 
 #### 4. Persons for whose examination commission may issue
 
-(1) Any Court may in any suit issue a commission &#91;5&#93;&#91;for the examination on interrogatories or otherwise of-&#93;
+(1) Any Court may in any suit issue a commission 5\[for the examination on interrogatories or otherwise of-\]
 
 (a) any person resident beyond the local limits of its jurisdiction;
 
 (b) any person who is about to leave such limits before the date on which he is required to be examined in Court; and
 
-(c) &#91;6&#93;&#91;any person in the service of the Government&#93; who cannot in the opinion of the Court, attend without detriment to the public service;
+(c) 6\[any person in the service of the Government\] who cannot in the opinion of the Court, attend without detriment to the public service;
 
-&#91;4&#93;&#91;Provided that where, under rule 19 of Order XVI, a person cannot be ordered to attend a Court in person, a commission shall be issued for his examination if his evidence is considered necessary in the interests of justice:
+4\[Provided that where, under rule 19 of Order XVI, a person cannot be ordered to attend a Court in person, a commission shall be issued for his examination if his evidence is considered necessary in the interests of justice:
 
-Provided further that a commission for examination of such person on interrogatories shall not be issued unless the Court, for reasons to be recorded, thinks it necessary so to do.&#93;
+Provided further that a commission for examination of such person on interrogatories shall not be issued unless the Court, for reasons to be recorded, thinks it necessary so to do.\]
 
 (2) Such commission may be issued to any Court, not being a High Court, within the local limits of whose jurisdiction such person resides, or to any pleader or other person whom the Court issuing the commission may appoint.
 
@@ -48,7 +48,7 @@ Provided further that a commission for examination of such person on interrogato
 
 #### 5. Commission or request to examine witness not within India
 
-Where any Court to which application is made for the issue of a commission for the examination of a person residing at any place not within &#91;7&#93;&#91;India&#93; is satisfied that the evidence of such person is necessary, the Court may issue such commission or a letter of request.
+Where any Court to which application is made for the issue of a commission for the examination of a person residing at any place not within 7\[India\] is satisfied that the evidence of such person is necessary, the Court may issue such commission or a letter of request.
 
 #### 6. Court to examine witness pursuant to Commission
 
@@ -56,13 +56,13 @@ Every Court receiving a commission for the examination of any person shall exami
 
 #### 7. Return of commission with depositions of witnesses
 
-Where a commission has been duly executed, it shall be returned, together with the evidence taken under it, to the Court from which it was issued, unless the order for issuing the commission has otherwise directed, in which case the commission shall be returned in terms of such order; and the commission and the returned thereto and the evidence taken under it shall &#91;8&#93;&#91;(subject to the provisions of rule 8)&#93; from part of the record of the suit.
+Where a commission has been duly executed, it shall be returned, together with the evidence taken under it, to the Court from which it was issued, unless the order for issuing the commission has otherwise directed, in which case the commission shall be returned in terms of such order; and the commission and the returned thereto and the evidence taken under it shall 8\[(subject to the provisions of rule 8)\] from part of the record of the suit.
 
 #### 8. When depositions may be read in evidence
 
 Evidence taken under a commission shall not be read as evidence in the suit without the consent of the party against whom the same is offered, unless-
 
-(a) the person who gave the evidence is beyond the jurisdiction of the Court, or dead or unable from sickness or infirmity to attend to be personally examined, or exempted from personal appearance in Court, or is a &#91;9&#93;&#91;person in the service of the Government&#93; who cannot, in the opinion of the Court, attend without detriment to the public service, or
+(a) the person who gave the evidence is beyond the jurisdiction of the Court, or dead or unable from sickness or infirmity to attend to be personally examined, or exempted from personal appearance in Court, or is a 9\[person in the service of the Government\] who cannot, in the opinion of the Court, attend without detriment to the public service, or
 
 (b) the Court in its discretion dispenses with the proof of any of the circumstances mentioned in clause (a) and authorizes the evidence of any person being read as evidence in the suit, notwithstanding proof that the cause for taking such evidence by commission has ceased at the time of reading the same.
 
@@ -82,7 +82,7 @@ Provided that, where the State Government has made rules as to the persons to wh
 
 (3) Where the Court is for any reason dissatisfied with the proceedings of the Commissioner, it may direct such further inquiry to be made as it shall think fit.
 
-&#91;4&#93;&#91;Commissions for scientific investigation, performance of ministerial act and sale of movable property.
+4\[Commissions for scientific investigation, performance of ministerial act and sale of movable property.
 
 #### 10A. Commission for scientific investigations
 
@@ -102,7 +102,7 @@ Provided that, where the State Government has made rules as to the persons to wh
 
 (2) The provisions of rule 10 of this Order shall apply in relation to a Commissioner appointed under this rule as they apply in relation to a Commissioner appointed under rule 9.
 
-(3) Every such sale shall be held, as far as may be, in accordance with the procedure prescribed for the sale of movable property in execution of a decree.&#93;
+(3) Every such sale shall be held, as far as may be, in accordance with the procedure prescribed for the sale of movable property in execution of a decree.\]
 
 ### *Commissions to examine accounts*
 
@@ -146,19 +146,19 @@ Any Commissioner appointed under this Order may, unless otherwise directed by th
 
 (c) at any reasonable time enter upon or into any land or building mentioned in the order.
 
-&#91;4&#93;&#91;16A. Questions objected to before the Commissioner
+4\[16A. Questions objected to before the Commissioner
 
 (1) Where any question put to a witness is objected to by a party or his pleader in proceedings before a Commissioner appointed under this Order, the Commissioner shall take down the question, the answer, the objections and the name of the party or, as the case may be, the pleader so objecting:
 
 Provided that. the Commissioner shall not take down the answer to a question which is objected to on the ground of privilege but may continue with the examination of the witness, leaving the party to get the question of privilege decided by the Court, and, where the Court decides that there is no question of privilege, the witness may be recalled by the Commissioner and examined by him or the witness may be examined by the Court with regard to the question which was objected to on the ground of privilege.
 
-(2) No answer taken down under sub-rule (1) shall be read as evidence in the suit except by the order of the Court.&#93;
+(2) No answer taken down under sub-rule (1) shall be read as evidence in the suit except by the order of the Court.\]
 
 17 Attendance and examination of witnesses before Commissioner
 
-(1) The provisions of this Code relating to the summoning, attendance and examination of witnesses, and to the remuneration of, and penalties to be imposed upon, witnesses, shall apply to persons required to give evidence or to produce documents under this Order whether the commission in execution of which they are so required has been issued by a Court situate within or by a Court situate beyond the limits of &#91;7&#93;&#91;India&#93;, and for the purposes of this rule the Commissioner shall be deemed to be a Civil Court:
+(1) The provisions of this Code relating to the summoning, attendance and examination of witnesses, and to the remuneration of, and penalties to be imposed upon, witnesses, shall apply to persons required to give evidence or to produce documents under this Order whether the commission in execution of which they are so required has been issued by a Court situate within or by a Court situate beyond the limits of 7\[India\], and for the purposes of this rule the Commissioner shall be deemed to be a Civil Court:
 
-&#91;4&#93;&#91;Provided that when the Commissioner is not a Judge of a Civil Court he shall not be competent to impose penalties; but such penalties may be imposed on the application of such Commissioner by the Court by which the commission was issued.&#93;
+4\[Provided that when the Commissioner is not a Judge of a Civil Court he shall not be competent to impose penalties; but such penalties may be imposed on the application of such Commissioner by the Court by which the commission was issued.\]
 
 (2) A Commissioner may apply to any Court (not being a High Court) within the local limits or whose jurisdiction a witness resides for the issue of any process which he may find it necessary to issue to or against such witness, and such Court may, in its discretion, issue such process as it considers reasonable and proper.
 
@@ -168,15 +168,15 @@ Provided that. the Commissioner shall not take down the answer to a question whi
 
 (2) Where all or any of the parties do not so appear, the Commissioner may proceed in their absence.
 
-&#91;4&#93;&#91;18A. Application of Order to execution proceedings
+4\[18A. Application of Order to execution proceedings
 
 The provisions of this Order shall apply, so far as may be, to proceedings in execution of a decree or order.
 
 #### 18B. Court to fix a time for return of commission
 
-The Court issuing a commission shall fix a date on or before which the commission shall be returned to it. after execution, and the date so fixed shall not be extended except where the Court, for reasons to be recorded, is satisfied that there is sufficient cause for extending the date&#93;
+The Court issuing a commission shall fix a date on or before which the commission shall be returned to it. after execution, and the date so fixed shall not be extended except where the Court, for reasons to be recorded, is satisfied that there is sufficient cause for extending the date\]
 
-### &#91;10&#93;&#91;Commissions issued at the instance of foreign Tribunals
+### 10\[Commissions issued at the instance of foreign Tribunals
 
 #### 19. Cases in which High Court may issue commission to examine witness
 
@@ -208,8 +208,8 @@ The High Court may issue a commission under rule 19-
 
 #### 21. To whom commission may be issued
 
-A commission under rule 19 may be issued to any Court within the local limits of whose jurisdiction the witness resides, or &#91;11&#93;&#91;***&#93; the witness resides within the local limits of &#91;12&#93;&#91;the ordinary original civil jurisdiction of the High Court&#93;, to any person whom the Court thinks fit to execute the commission.
+A commission under rule 19 may be issued to any Court within the local limits of whose jurisdiction the witness resides, or 11\[***\] the witness resides within the local limits of 12\[the ordinary original civil jurisdiction of the High Court\], to any person whom the Court thinks fit to execute the commission.
 
 #### 22. Issue, execution and return of commissions, and transmission of evidence to foreign Court
 
-The provisions of rules 6, 15, &#91;13&#93;&#91;Sub-rule (1) of rule 16A, 17, 18 and 18B&#93; of this Order in so far as they are applicable shall apply to the issue, execution and return of such commissions, and when any such commission has been duly executed it shall be returned, together with the evidence taken under it, to the High Court, which shall forward it to the Central Government, along with the letter of request for transmission to the foreign court.&#93;
+The provisions of rules 6, 15, 13\[Sub-rule (1) of rule 16A, 17, 18 and 18B\] of this Order in so far as they are applicable shall apply to the issue, execution and return of such commissions, and when any such commission has been duly executed it shall be returned, together with the evidence taken under it, to the High Court, which shall forward it to the Central Government, along with the letter of request for transmission to the foreign court.\]

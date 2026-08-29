@@ -8,7 +8,7 @@ aliases:
 
 # Code of Civil Procedure 1908 - Schedule I
 
-## &#91;1&#93;&#91;ORDER XXA: COSTS
+## 1\[ORDER XXA: COSTS
 
 #### 1. Provision relating to certain items
 
@@ -28,4 +28,4 @@ Without prejudice to the generality of the provisions of this Code relating to c
 
 #### 2. Costs to be awarded in accordance with the rules made by High Court
 
-The award of costs under this rule shall be in accordance with such rules as the High Court may make in that behalf.&#93;
+The award of costs under this rule shall be in accordance with such rules as the High Court may make in that behalf.\]

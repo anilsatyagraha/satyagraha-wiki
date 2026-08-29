@@ -12,7 +12,7 @@ aliases:
 
 #### 1. Appearances, etc., may be in person, by recognized agent or by pleader
 
-Any appearance, application or act in or to any Court, required or authorized by law to be made or done by a party in such Court, may, except where otherwise expressly provided by any law for the time being in force, be made or done by the party in person, or by his recognized agent, or by a pleader &#91;16&#93;&#91;appearing, applying or acting, as the case may be,&#93; on his behalf:
+Any appearance, application or act in or to any Court, required or authorized by law to be made or done by a party in such Court, may, except where otherwise expressly provided by any law for the time being in force, be made or done by the party in person, or by his recognized agent, or by a pleader 16\[appearing, applying or acting, as the case may be,\] on his behalf:
 
 Provided that any such appearance shall, if the Court so directs, be made by the party in person.
 
@@ -30,13 +30,13 @@ The recognized agents of parties by whom such appearances, applications and acts
 
 (2) The provisions for the service of process on a party to a suit shall apply to the service of process on his recognized agent.
 
-&#91;17&#93;&#91;4. Appointment of pleader-
+17\[4. Appointment of pleader-
 
 (1) No pleader shall act for any person in any Court, unless he has been appointed for the purpose by such person by a document in writing signed by such person or by his recognized agent or by some other person duly authorized by or under a power-of-attorney to make such appointment.
 
-(2) Every such appointment shall be &#91;18&#93;&#91;filed in Court and shall, for the purposes of sub-rule (1), be&#93; deemed to be in force until determined with the leave of the Court by a writing signed by the client or the pleader, as the case may be, and filed in Court, or until the client or the pleader dies, or until all proceedings in the suit are ended so far as regards the client.
+(2) Every such appointment shall be 18\[filed in Court and shall, for the purposes of sub-rule (1), be\] deemed to be in force until determined with the leave of the Court by a writing signed by the client or the pleader, as the case may be, and filed in Court, or until the client or the pleader dies, or until all proceedings in the suit are ended so far as regards the client.
 
-&#91;19&#93;&#91;Explanation.-For the purposes of this sub-rule, the following shall be deemed to be proceedings in the suit,-
+19\[Explanation.-For the purposes of this sub-rule, the following shall be deemed to be proceedings in the suit,-
 
 (a) an application for the review of decree or order in the suit,
 
@@ -44,13 +44,13 @@ The recognized agents of parties by whom such appearances, applications and acts
 
 (c) an appeal from any decree or order in the suit, and
 
-(d) any application or act for the purpose of obtaining copies of documents or return of documents produced or filed in the suit or of obtaining refund of moneys paid into the Court in connection with the suit.&#93;
+(d) any application or act for the purpose of obtaining copies of documents or return of documents produced or filed in the suit or of obtaining refund of moneys paid into the Court in connection with the suit.\]
 
-&#91;20&#93;&#91;(3) Nothing in sub-rule (2) shall be construed-
+20\[(3) Nothing in sub-rule (2) shall be construed-
 
 (a) as extending, as between the pleader and his client, the duration for which the pleader is engaged, or
 
-(b) as authorising service on the pleader of any notice or document issued by any Court other than the Court for which the pleader was engaged, except where such service was expressly agreed to by the client in the document referred to in sub-rule(1)&#93;
+(b) as authorising service on the pleader of any notice or document issued by any Court other than the Court for which the pleader was engaged, except where such service was expressly agreed to by the client in the document referred to in sub-rule(1)\]
 
 (4) The High Court may, by general order, direct that, where the person by whom a pleader is appointed is unable to write his name, his mark upon the document appointing the pleader shall be attested by such person and in such manner as may be specified by the order.
 
@@ -62,11 +62,11 @@ The recognized agents of parties by whom such appearances, applications and acts
 
 (c) the name of the person by whom he is authorized to appear:
 
-Provided that nothing in this sub-rule shall apply to any pleader engaged to plead on behalf of any party by any other pleader who has been duly appointed to act in Court on behalf of such party.&#93;
+Provided that nothing in this sub-rule shall apply to any pleader engaged to plead on behalf of any party by any other pleader who has been duly appointed to act in Court on behalf of such party.\]
 
 #### 5. Service of process on pleader
 
-&#91;21&#93;&#91;Any process served on the pleader who has been duly appointed to act in Court for any party&#93; or left at the office or ordinary residence of such pleader, and whether the same is for the personal appearance of the party or not, shall be presumed to be duly communicated and made known to the party whom the pleader represents, and, unless the Court otherwise directs, shall be as effectual for all purposes as if same had been given to or served on the party in person.
+21\[Any process served on the pleader who has been duly appointed to act in Court for any party\] or left at the office or ordinary residence of such pleader, and whether the same is for the personal appearance of the party or not, shall be presumed to be duly communicated and made known to the party whom the pleader represents, and, unless the Court otherwise directs, shall be as effectual for all purposes as if same had been given to or served on the party in person.
 
 #### 6. Agents to accept service
 
@@ -74,4 +74,4 @@ Provided that nothing in this sub-rule shall apply to any pleader engaged to ple
 
 (2) Appointment to be in writing and to be filled in Court- Such appointment may be special or general and shall be made by an instrument in writing signed by the principal, and such instrument or, if the appointment is general, a certified copy thereof shall be filed in Court.
 
-&#91;19&#93;&#91;(3) The Court may, at any stage of the suit, order any party to the suit not having a recognised agent residing within the jurisdiction of the Court, or a pleader who has been duly appointed to act in the Court on his behalf, no appoint, within a specified time, an agent residing within the jurisdiction of the Court to accept service of the process on his behalf.&#93;
+19\[(3) The Court may, at any stage of the suit, order any party to the suit not having a recognised agent residing within the jurisdiction of the Court, or a pleader who has been duly appointed to act in the Court on his behalf, no appoint, within a specified time, an agent residing within the jurisdiction of the Court to accept service of the process on his behalf.\]

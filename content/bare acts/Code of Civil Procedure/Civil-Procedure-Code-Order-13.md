@@ -10,21 +10,21 @@ aliases:
 
 ## ORDER XIII: PRODUCTION, IMPOUNDING AND RETURN OF DOCUMENTS
 
-#### 1. Documentary evidence to be produced &#91;67&#93;&#91;at or before the settlement of issues&#93;
+#### 1. Documentary evidence to be produced 67\[at or before the settlement of issues\]
 
-(1) The parties or their pleaders shall produce, &#91;67&#93;&#91;at or before the settlement of issues&#93;, all the documentary evidence of every description in their possession or power, on which they intend to rely, and which has not already been filed in Court, and all documents which the Court has ordered to be produced.
+(1) The parties or their pleaders shall produce, 67\[at or before the settlement of issues\], all the documentary evidence of every description in their possession or power, on which they intend to rely, and which has not already been filed in Court, and all documents which the Court has ordered to be produced.
 
 (2) The Court shall receive the documents so produced: Provided that they are accompanied by an accurate list thereof prepared in such form as the High Court directs.
 
 #### 2. Effect of non-production of documents
 
-&#91;68&#93;&#91;(1)&#93; No documentary evidence in the possession or power of any party which should have been, but has not been produced in accordance with the requirements of rule 1 shall be received at any subsequent stage of the proceedings unless good cause is shown to the satisfaction of the Court for the non-production thereof; and the Court receiving any such evidence shall record the reasons for so doing.
+68\[(1)\] No documentary evidence in the possession or power of any party which should have been, but has not been produced in accordance with the requirements of rule 1 shall be received at any subsequent stage of the proceedings unless good cause is shown to the satisfaction of the Court for the non-production thereof; and the Court receiving any such evidence shall record the reasons for so doing.
 
-&#91;69&#93;&#91;(2) Nothing in sub-rule (1) shall apply to documents,-
+69\[(2) Nothing in sub-rule (1) shall apply to documents,-
 
 (a) produced for the cross-examination of the witnesses of the other party, or
 
-(b) handed over to a witness merely to refresh his memory.&#93;
+(b) handed over to a witness merely to refresh his memory.\]
 
 #### 3. Rejection of irrelevant or inadmissible documents
 
@@ -80,7 +80,7 @@ Notwithstanding anything contained in rule 5 or rule 7 of this Order or in rule 
 
 (b) where the suit is one in which an appeal is allowed, when the Court is satisfied that the time for preferring an appeal has elapsed and that no appeal has been preferred or, if an appeal has been preferred, when the appeal has been disposed of:
 
-&#91;70&#93;&#91;Provided that a document may be returned at any time earlier than that prescribed by this rule if the person applying therefor-
+70\[Provided that a document may be returned at any time earlier than that prescribed by this rule if the person applying therefor-
 
 (a) delivers to the proper officer for being substituted for the original,-
 
@@ -88,7 +88,7 @@ Notwithstanding anything contained in rule 5 or rule 7 of this Order or in rule 
 
 (ii) in the case of any other person, an ordinary copy which has been examined, compared and certified in the manner mentioned in sub-rule (2) of rule 17 of Order VII, and
 
-(b) undertakes to produce the original, if required to do so:&#93;
+(b) undertakes to produce the original, if required to do so:\]
 
 Provided also, that no document shall be returned with, by force of the decree, has become wholly void or useless.
 

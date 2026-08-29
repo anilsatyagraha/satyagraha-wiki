@@ -12,33 +12,33 @@ aliases:
 
 ### Suits by or against the Government or public officers in their official capacity
 
-## &#91;108&#93;&#91;179. Suits by or against Government
+## \[108\]\[179. Suits by or against Government
 
 In a suit by or against the Government, the authority to be named as plaintiff or defendant, as the case may be, shall be-
 
-(a) in the case of a suit by or against the Central Government, &#91;109&#93;&#91;the Union of India&#93;, and
+(a) in the case of a suit by or against the Central Government, \[109\]\[the Union of India\], and
 
-(b) in the case of a suit by or against a State Government, the State.&#93;
+(b) in the case of a suit by or against a State Government, the State.\]
 
 ## 80. Notice
 
-&#91;110&#93;&#91;(1)&#93; &#91;111&#93;&#91;Save as otherwise provided in sub-section (2), no suits &#91;112&#93;&#91;shall be instituted&#93; against the Government (including the Government of the State of Jammu & Kashmir)&#93; or against a public officer in respect of any act purporting to be done by such public officer in his official capacity, until the expiration of two months next after notice in writing has been &#91;113&#93;&#91;delivered to, or left at the office of-
+\[110\]\[(1)\] \[111\]\[Save as otherwise provided in sub-section (2), no suits \[112\]\[shall be instituted\] against the Government (including the Government of the State of Jammu & Kashmir)\] or against a public officer in respect of any act purporting to be done by such public officer in his official capacity, until the expiration of two months next after notice in writing has been \[113\]\[delivered to, or left at the office of-
 
-(a) in the case of a suit against the Central Government, &#91;114&#93;&#91;except where it relates to a railway&#93;, a Secretary to that Government.
+(a) in the case of a suit against the Central Government, \[114\]\[except where it relates to a railway\], a Secretary to that Government.
 
-&#91;115&#93;&#91;&#91;116&#93;&#91;(b)&#93; in the case of a suit against the Central Government where it relates to railway, the General Manager of that railway;&#93;
+\[115\]\[\[116\]\[(b)\] in the case of a suit against the Central Government where it relates to railway, the General Manager of that railway;\]
 
-&#91;116&#93;&#91;***&#93;
+\[116\]\[***\]
 
-&#91;117&#93;&#91;(bb) in the case of a suit against the Government of the State of Jammu and Kashmir, the Chief Secretary to that Government or any other officer authorised by that Government in this behalf;&#93;
+\[117\]\[(bb) in the case of a suit against the Government of the State of Jammu and Kashmir, the Chief Secretary to that Government or any other officer authorised by that Government in this behalf;\]
 
-(c) in the case of a suit against &#91;118&#93;&#91;any other State Government&#93;, a Secretary to that Government or the Collector of the district; &#91;119&#93;&#91;***&#93;
+(c) in the case of a suit against \[118\]\[any other State Government\], a Secretary to that Government or the Collector of the district; \[119\]\[***\]
 
-&#91;119&#93;&#91;***&#93;
+\[119\]\[***\]
 
 and, in the case of a public officer, delivered to him or left at this office, stating the cause of action, the name, description and place of residence of the plaintiff and the relief which he claims; and the plaint shall contain a statement that such notice has been so delivered or left.
 
-&#91;120&#93;&#91;(2) A suit to obtain an urgent or immediate relief against the Government (including the Government of the State of Jammu and Kashmir) or any public officer in respect of any act purporting to be done by such public officer in his official capacity, may be instituted, with the leave of the Court, without serving any notice as required by sub-section (1); but the Court shall not grant relief in the suit, whether interim or otherwise, except after giving to the Government or public officer, as the case may be, a reasonable opportunity of showing cause in respect of the relief prayed for in the suit:
+\[120\]\[(2) A suit to obtain an urgent or immediate relief against the Government (including the Government of the State of Jammu and Kashmir) or any public officer in respect of any act purporting to be done by such public officer in his official capacity, may be instituted, with the leave of the Court, without serving any notice as required by sub-section (1); but the Court shall not grant relief in the suit, whether interim or otherwise, except after giving to the Government or public officer, as the case may be, a reasonable opportunity of showing cause in respect of the relief prayed for in the suit:
 
 Provided that the Court shall, if it is satisfied, after hearing the parties, that no urgent or immediate relief need be granted in the suit, return the plaint for presentation to it after complying with the requirements of sub-section (1).
 
@@ -46,7 +46,7 @@ Provided that the Court shall, if it is satisfied, after hearing the parties, th
 
 (a) the name, description and the residence of the plaintiff had been so given as to enable the appropriate authority or the public officer to identify the person serving the notice and such notice had been delivered or left at the office of the appropriate authority specified in sub-section (1), and
 
-(b) the cause of action and the relief claimed by the plaintiff had been substantially indicated.&#93;
+(b) the cause of action and the relief claimed by the plaintiff had been substantially indicated.\]
 
 ## 81. Exemption from arrest and personal appearance
 
@@ -58,17 +58,17 @@ In a suit instituted against a public officer in respect of any act purporting t
 
 ## 82. Execution of decree
 
-&#91;121&#93;&#91;(1) Where, in a suit by or against the Government or by or against a public officer in respect of any act purporting to be done by him in his official capacity, a decree is passed against the Union of India or a State or, as the case may be, the public officer, such decree shall not be executed except in accordance with the provisions of sub-section (2).&#93;
+\[121\]\[(1) Where, in a suit by or against the Government or by or against a public officer in respect of any act purporting to be done by him in his official capacity, a decree is passed against the Union of India or a State or, as the case may be, the public officer, such decree shall not be executed except in accordance with the provisions of sub-section (2).\]
 
-(2) Execution shall not be issued on any such decree unless it remains unsatisfied for the period of three months computed from the date of &#91;122&#93;&#91;such decree&#93;.
+(2) Execution shall not be issued on any such decree unless it remains unsatisfied for the period of three months computed from the date of \[122\]\[such decree\].
 
-&#91;123&#93;&#91;(3) The provisions of sub-sections (1) and (2) shall apply in relation to an order or award as they apply in relation to a decree, if the order or award-
+\[123\]\[(3) The provisions of sub-sections (1) and (2) shall apply in relation to an order or award as they apply in relation to a decree, if the order or award-
 
-(a) is passed or made against &#91;109&#93;&#91;the Union of India&#93; or a State or a public or in respect of any such act as aforesaid, whether by a Court or by any other authority; and
+(a) is passed or made against \[109\]\[the Union of India\] or a State or a public or in respect of any such act as aforesaid, whether by a Court or by any other authority; and
 
-(b) is capable of being executed under the provisions of this Code or of any other law for the time being in force as if it were a decree.&#93;
+(b) is capable of being executed under the provisions of this Code or of any other law for the time being in force as if it were a decree.\]
 
-### 124&#91;Suits by Aliens and by or against Foreign Rulers, Ambassadors and Envoys
+### 124\[Suits by Aliens and by or against Foreign Rulers, Ambassadors and Envoys
 
 ## 83. When aliens may sue
 
@@ -92,35 +92,35 @@ Provided that the object of the suit is to enforce a private right vested in the
 
 ## 86. Suits against foreign Rulers, Ambassadors and Envoys
 
-(1) No. &#91;125&#93;&#91;***&#93; foreign State may be sued in any Court otherwise competent to try the suit except with the consent of the Central Government by a to that Government:
+(1) No. \[125\]\[***\] foreign State may be sued in any Court otherwise competent to try the suit except with the consent of the Central Government by a to that Government:
 
-Provided that a person may, as a tenant of immovable property, sue without such consent as aforesaid &#91;126&#93;&#91;a foreign State&#93; from whom he holds or claims to hold the property.
+Provided that a person may, as a tenant of immovable property, sue without such consent as aforesaid \[126\]\[a foreign State\] from whom he holds or claims to hold the property.
 
-(2) Such consent may be given with respect to a specified suit or to several specified suits or with respect to all suits of any specified class or classes, and may specify, in the case of any suit or class of suits, the Court in which &#91;127&#93;&#91;the foreign State&#93; may be sued, but it shall not be given, unless it appears to the Central Government that &#91;8&#93;&#91;the foreign State&#93;.
+(2) Such consent may be given with respect to a specified suit or to several specified suits or with respect to all suits of any specified class or classes, and may specify, in the case of any suit or class of suits, the Court in which \[127\]\[the foreign State\] may be sued, but it shall not be given, unless it appears to the Central Government that \[8\]\[the foreign State\].
 
-(a) has instituted a suit in the Court against the person desiring to sue &#91;128&#93;&#91;it&#93;, or
+(a) has instituted a suit in the Court against the person desiring to sue \[128\]\[it\], or
 
-(b) &#91;129&#93;&#91;itself&#93; or another, trades within the local limits of the jurisdiction of the Court, or
+(b) \[129\]\[itself\] or another, trades within the local limits of the jurisdiction of the Court, or
 
 (c) is in possession of immovable property situate within those limits and is to be sued with reference to such property or for money charged thereon, or
 
-(d) has expressly or impliedly waived the privilege accorded to &#91;130&#93;&#91;it&#93; by this section.
+(d) has expressly or impliedly waived the privilege accorded to \[130\]\[it\] by this section.
 
-&#91;131&#93;&#91;(3) Except with the consent of the Central Government, certified in writing by a Secretary to that Government, no decree shall be executed against the property of any foreign State.&#93;
+\[131\]\[(3) Except with the consent of the Central Government, certified in writing by a Secretary to that Government, no decree shall be executed against the property of any foreign State.\]
 
 (4) The preceding provisions of this section shall apply in relation to -
 
-&#91;132&#93;&#91;(a) any Ruler of a foreign State;&#93;
+\[132\]\[(a) any Ruler of a foreign State;\]
 
-&#91;133&#93;&#91;(aa)&#93; any ambassador or Envoy of a foreign State;
+\[133\]\[(aa)\] any ambassador or Envoy of a foreign State;
 
 (b) any High Commissioner of a Commonwealth country; and
 
-(c) any such member of the staff &#91;134&#93;&#91;of the foreign State or the staff or retinue of the Ambassador&#93; or Envoy of a foreign State or of the High Commissioner of a Commonwealth counter as the Central Government may, by general or special order, specify in this behalf,
+(c) any such member of the staff \[134\]\[of the foreign State or the staff or retinue of the Ambassador\] or Envoy of a foreign State or of the High Commissioner of a Commonwealth counter as the Central Government may, by general or special order, specify in this behalf,
 
-&#91;134&#93;&#91;as they apply in relation to a foreign State.&#93;.
+\[134\]\[as they apply in relation to a foreign State.\].
 
-&#91;132&#93;&#91;(5) The following persons shall not be arrested under this Code, namely:-
+\[132\]\[(5) The following persons shall not be arrested under this Code, namely:-
 
 (a) any Ruler of a foreign State;
 
@@ -130,7 +130,7 @@ Provided that a person may, as a tenant of immovable property, sue without such 
 
 (d) any such member of the staff of the foreign State or the staff or retinue of the Ruler, Ambassador or Envoy of a foreign State or of the High Commissioner of a Commonwealth country, as the Central Government may, by general or special order, specify in this behalf.
 
-(6) Where a request is made to the Central Government for the grant of any consent referred to in sub-section (1), the Central Government shall, before refusing to accede to the request in whole or in part, give to the person making the request a reasonable opportunity of being heard.&#93;
+(6) Where a request is made to the Central Government for the grant of any consent referred to in sub-section (1), the Central Government shall, before refusing to accede to the request in whole or in part, give to the person making the request a reasonable opportunity of being heard.\]
 
 ## 87. Style of foreign Rulers as parties to suits
 
@@ -156,17 +156,17 @@ Provided that in giving the consent referred to in section 86, the Central Gover
 
 ## 87B. Applications of sections 85 and 86 to Rulers of former Indian States
 
-&#91;135&#93;&#91;(1) In the case of any suit by or against the Ruler of any former Indian State which is based wholly or in part upon a cause of action which arose
+\[135\]\[(1) In the case of any suit by or against the Ruler of any former Indian State which is based wholly or in part upon a cause of action which arose
 
-before the commencement of the Constitution or any proceeding arising out of such suit, the provisions of section 85 and sub-sections (1) and (3) of section 86 shall apply in relation to such Ruler as they apply in relation to the Ruler of a foreign State.&#93;
+before the commencement of the Constitution or any proceeding arising out of such suit, the provisions of section 85 and sub-sections (1) and (3) of section 86 shall apply in relation to such Ruler as they apply in relation to the Ruler of a foreign State.\]
 
 (2) In this section-
 
-(a) "former Indian State", means any such Indian State as the Central Government may, by notification in the Official Gazette. specify for the purposes of this; &#91;136&#93;&#91;***&#93;
+(a) "former Indian State", means any such Indian State as the Central Government may, by notification in the Official Gazette. specify for the purposes of this; \[136\]\[***\]
 
-&#91;137&#93;&#91;(b) "commencement of the Constitution" means the 26th day of January, 1950; and
+\[137\]\[(b) "commencement of the Constitution" means the 26th day of January, 1950; and
 
-(c) "Ruler" in relation to a former Indian State, has the same meaning as in article 363 of the Constitution.&#93;
+(c) "Ruler" in relation to a former Indian State, has the same meaning as in article 363 of the Constitution.\]
 
 ### Interpleader
 

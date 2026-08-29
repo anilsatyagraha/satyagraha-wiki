@@ -32,15 +32,15 @@ Where there are more plaintiffs or defendants than one, and any of them dies, an
 
 (3) Where within the time limited by law no application is made under sub-rule (1), the suit shall abate as against the deceased defendant.
 
-&#91;9&#93;&#91;(4) The Court whenever it thinks fit, may exempt the plaintiff from the necessity of substituting the legal representatives of. any such defendant who has failed to file a written statement or who, having filed it, has failed to appear and contest the suit at the hearing; and judgment may. in such case, be pronounced against the said defendant notwithstanding the death of such defendant and shall have the same force and effect as if it has been pronounced before death took place.
+9\[(4) The Court whenever it thinks fit, may exempt the plaintiff from the necessity of substituting the legal representatives of. any such defendant who has failed to file a written statement or who, having filed it, has failed to appear and contest the suit at the hearing; and judgment may. in such case, be pronounced against the said defendant notwithstanding the death of such defendant and shall have the same force and effect as if it has been pronounced before death took place.
 
 (5) Where
 
 (a) the plaintiff was ignorant of the death of a defendant, and could not, for that reason, make an application for the substitution of the legal representative of the defendant under this rule within the period specified in the Limitation Act, 1963 (36 of 1963), and the suit has, in consequence, abated, and
 
-(b) the plaintiff applies after the expiry of the period specified therefor in the Limitation Act, 1963 (36 of 1963), for setting aside the abatement and also for the admission of that application under section 5 of that Act on the ground that he had, by reason of such ignorance, sufficient cause for not making the application within the period specified in the said Act,the Court shall, in considering the application under the said section 5, have due regard to the fact of such ignorance, if proved.&#93;
+(b) the plaintiff applies after the expiry of the period specified therefor in the Limitation Act, 1963 (36 of 1963), for setting aside the abatement and also for the admission of that application under section 5 of that Act on the ground that he had, by reason of such ignorance, sufficient cause for not making the application within the period specified in the said Act,the Court shall, in considering the application under the said section 5, have due regard to the fact of such ignorance, if proved.\]
 
-&#91;9&#93;&#91;4A. Procedure where there is no legal representative
+9\[4A. Procedure where there is no legal representative
 
 (1) If, in any suit, it shall appear to the Court that any party who has died during the pendency of the suit has no legal representative, the Court may, on the application of any party to the suit, proceed in the absence of a person representing the estate of the deceased person, or may by order appoint the Administrator-General, or an officer of the Court or such other person as it thinks fit to represent the estate of the deceased person for the purpose of the suit; and any judgment or order subsequently given or made in the suit shall bind the estate of the deceased person to the same extent as he would have been bound if a personal representative of the deceased person had been a party to the suit.
 
@@ -48,13 +48,13 @@ Where there are more plaintiffs or defendants than one, and any of them dies, an
 
 (a) may require notice of the application for the order to be given to such (if any) of the persons having an interest in the estate of the deceased person as it thinks fit; and
 
-(b) shall ascertain that the person proposed to be appointed to represent the estate of the deceased person is willing to be so appointed and has no interest adverse to that of the deceased person.&#93;
+(b) shall ascertain that the person proposed to be appointed to represent the estate of the deceased person is willing to be so appointed and has no interest adverse to that of the deceased person.\]
 
 #### 5. Determination of question as to legal representative
 
 Where a question arises as to whether any person is or is not the legal representative of a deceased plaintiff or a deceased defendant, such question shall be determined by the Court
 
-&#91;9&#93;&#91;Provided that where such question arises before an Appellate Court, that Court may, before determining the question, direct any subordinate Court to try the question and to return the records together with evidence, if any, recorded at such trial, its findings and reasons therefor, and the Appellate Court may take the same into consideration in determining the question.&#93;
+9\[Provided that where such question arises before an Appellate Court, that Court may, before determining the question, direct any subordinate Court to try the question and to return the records together with evidence, if any, recorded at such trial, its findings and reasons therefor, and the Appellate Court may take the same into consideration in determining the question.\]
 
 #### 6. No abatement by reason of death after hearing
 
@@ -78,9 +78,9 @@ Notwithstanding anything contained in the foregoing rules, whether the cause of 
 
 (2) The plaintiff or the person claiming to be the legal representative of a deceased plaintiff or the assignee or the receiver in the case of an insolvent plaintiff may apply for an order to set aside the abatement or dismissal; and if it is proved that he was prevented by any sufficient cause from continuing the suit, the Court shall set aside the abatement or dismissal upon such terms as to costs or otherwise as it thinks fit.
 
-(3) The provisions of section 5 of the &#91;46&#93;Indian Limitation Act, 1877 (15 of 1877) shall apply to applications under sub-rule (2).
+(3) The provisions of section 5 of the 46Indian Limitation Act, 1877 (15 of 1877) shall apply to applications under sub-rule (2).
 
-&#91;2&#93;&#91;Explanation.-Nothing in this rule shall be construed as barring, in any later suit, a defence based on the facts which constituted the cause of action in the suit which had abated or had been dismissed under this Order.&#93;
+2\[Explanation.-Nothing in this rule shall be construed as barring, in any later suit, a defence based on the facts which constituted the cause of action in the suit which had abated or had been dismissed under this Order.\]
 
 #### 10. Procedure in case of assignment before final order in suit
 
@@ -88,9 +88,9 @@ Notwithstanding anything contained in the foregoing rules, whether the cause of 
 
 (2) The attachment of a decree pending an appeal therefrom shall be deemed to be an interest entitling the person who procured such attachment to the benefit of sub-rule (1).
 
-&#91;9&#93;&#91;10A. Duty of pleader to communicate to Court death of a party
+9\[10A. Duty of pleader to communicate to Court death of a party
 
-Wherever a pleader appearing for a party to the suit comes to know of the death of that party, he shall inform the Court about it, and the Court shall there upon give notice of such death to the other party, and, for this purpose, the contract between the pleader and the deceased party shall be deemed to subsist.&#93;
+Wherever a pleader appearing for a party to the suit comes to know of the death of that party, he shall inform the Court about it, and the Court shall there upon give notice of such death to the other party, and, for this purpose, the contract between the pleader and the deceased party shall be deemed to subsist.\]
 
 #### 11. Application of Order to appeals
 

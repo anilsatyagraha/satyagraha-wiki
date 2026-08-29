@@ -32,7 +32,7 @@ Where any party to a suit is a corporation or a body of persons, whether incorpo
 
 #### 6. Objections to interrogatories by answer
 
-Any objection to answering any interrogatory on the ground that it is scandalous or irrelevant or not exhibited bona fide for the purpose of the suit, or that the matters inquired into are not sufficiently material at that stage, &#91;59&#93;&#91;or on the ground of privilege or any other ground&#93;, may be taken in the affidavit in answer.
+Any objection to answering any interrogatory on the ground that it is scandalous or irrelevant or not exhibited bona fide for the purpose of the suit, or that the matters inquired into are not sufficiently material at that stage, 59\[or on the ground of privilege or any other ground\], may be taken in the affidavit in answer.
 
 #### 7. Setting aside and striking out interrogatories
 
@@ -70,7 +70,7 @@ It shall be lawful for the Court, at any time during the pendency of any suit, t
 
 #### 15. Inspection of documents referred to in pleadings or affidavits
 
-Every party to a suit shall be entitled at any time to give notice to any other party, in whose pleadings or affidavits reference is made to any document &#91;60&#93;&#91;or who has entered any document in any list annexed to his pleadings.&#93; or produce such document for the
+Every party to a suit shall be entitled at any time to give notice to any other party, in whose pleadings or affidavits reference is made to any document 60\[or who has entered any document in any list annexed to his pleadings.\] or produce such document for the
 
 inspection of the party giving such notice, or of his pleader, and to permit him or them to take copies thereof; and any party not complying with such notice shall not afterwards be at liberty to put any such document in evidence on his behalf in such suit unless he shall satisfy the Court that such document relates only to his own title, he being a defendant to the suit, or that he had some other cause or excuse which the Court shall deem sufficient for not complying with such notice, in which case the Court may allow the same to be put in evidence on such terms as to costs and otherwise as the Court shall think fit.
 
@@ -94,7 +94,7 @@ Provided that the order shall not be made when and so far as the Court shall be 
 
 (1) Where inspection of' any business books is applied for, the Court may, if it thinks fit, instead of ordering inspection of the original books, order a copy of any entries therein to be furnished and verified by the affidavit of some person who has examined the copy with the original entries, and such affidavit shall state whether or not there are in the original book any and what erasures, interlineations or alterations: Provided that, not withstanding that such copy has been supplied, the Court may order inspection of the book from which the copy was made.
 
-(2) Where on an application for an order for inspection privilege is claimed for any document, it shall be lawful for the Court to inspect the document for the purpose of deciding as to the validity of the claim of privilege &#91;61&#93;&#91;unless the document relates to matters of State&#93;.
+(2) Where on an application for an order for inspection privilege is claimed for any document, it shall be lawful for the Court to inspect the document for the purpose of deciding as to the validity of the claim of privilege 61\[unless the document relates to matters of State\].
 
 (3) The Court may, on the application of any party to a suit at any time, and whether an affidavit of documents shall or shall not have already been ordered or made, make an order requiring any other party to state by affidavit whether any one or more specific documents, to be specified in the application, is or are, or has or have at any time been, in his possession or power; and, if not then in his possession, when he parted with the same and what has become thereof. Such application shall be made on an affidavit stating that in the belief of the deponent the party against whom the application is made has, or has at some time had, in his possession or power the document or documents specified in the application, and that they relate to the matters in question in the suit, or to some of them.
 
@@ -104,9 +104,9 @@ Where the party from whom discovery of any kind or inspection is sought objects 
 
 #### 21. Non-compliance with order for discovery
 
-&#91;62&#93;&#91;(1)&#93; Where any party fails to comply with any owner to answer interrogatories, or for discovery or inspection of document, he shall, if a plaintiff, be liable to have his suit dismissed for want of prosecution, and, if a defendant, to have his defence, if any struck out, and to be placed in the same position as if he had not defended, and the party interrogating or seeking discovery or inspection may apply to the Court for an order to that effect and &#91;63&#93;&#91;an order may be made on such application accordingly, after notice to the parties and after giving them a reasonable opportunity of being heard.&#93;
+62\[(1)\] Where any party fails to comply with any owner to answer interrogatories, or for discovery or inspection of document, he shall, if a plaintiff, be liable to have his suit dismissed for want of prosecution, and, if a defendant, to have his defence, if any struck out, and to be placed in the same position as if he had not defended, and the party interrogating or seeking discovery or inspection may apply to the Court for an order to that effect and 63\[an order may be made on such application accordingly, after notice to the parties and after giving them a reasonable opportunity of being heard.\]
 
-&#91;60&#93;&#91;(2) Where an order is made under sub-rule (1) dismissing any suit, the plaintiff shall be precluded from bringing a fresh suit on the same cause of action.&#93;
+60\[(2) Where an order is made under sub-rule (1) dismissing any suit, the plaintiff shall be precluded from bringing a fresh suit on the same cause of action.\]
 
 #### 22. Using answers to interrogatories at trial
 

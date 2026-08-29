@@ -26,7 +26,7 @@ aliases:
 
 - [[Civil-Procedure-Code-Part-8|PART VIII: REFERENCE, REVIEW AND REVISION]]
 
-- [[Civil-Procedure-Code-Part-9|PART IX: SPECIAL PROVISIONS RELATING TO THE &#91;164&#93;&#91;HIGH COURTS &#91;165&#93;&#91;NOT BEING THE COURT OF A JUDICIAL COMMISSIONER&#93;&#93;]]
+- [[Civil-Procedure-Code-Part-9|PART IX: SPECIAL PROVISIONS RELATING TO THE 164 HIGH COURTS 165 NOT BEING THE COURT OF A JUDICIAL COMMISSIONER]]
 
 - [[Civil-Procedure-Code-Part-10|PART X: RULES]]
 
@@ -46,7 +46,7 @@ aliases:
 
 - [[Civil-Procedure-Code-Order-7|ORDER VII: PLAINT]]
 
-- [[Civil-Procedure-Code-Order-8|ORDER VIII: &#91;43&#93;&#91;WRITTEN STATEMENT, SET-OFF AND COUNTER-CLAIM&#93;]]
+- [[Civil-Procedure-Code-Order-8|ORDER VIII: 43 WRITTEN STATEMENT, SET-OFF AND COUNTER-CLAIM]]
 
 - [[Civil-Procedure-Code-Order-9|ORDER IX: APPEARANCE OF PARTIES AND CONSEQUENCE OF NON-APPEARANCE]]
 
@@ -64,7 +64,7 @@ aliases:
 
 - [[Civil-Procedure-Code-Order-16|ORDER XVI: SUMMONING AND ATTENDANCE OF WITNESSES]]
 
-- [[Civil-Procedure-Code-Order-16A|&#91;82&#93;&#91;ORDER XVI A: ATTENDANCE OF WITNESSES CONFINED OR DETAINED IN PRISONS]]
+- [[Civil-Procedure-Code-Order-16A|82 ORDER XVI A: ATTENDANCE OF WITNESSES CONFINED OR DETAINED IN PRISONS]]
 
 - [[Civil-Procedure-Code-Order-17|ORDER XVII: ADJOURNMENTS]]
 
@@ -74,7 +74,7 @@ aliases:
 
 - [[Civil-Procedure-Code-Order-20|ORDER XX: JUDGMENT AND DECREE]]
 
-- [[Civil-Procedure-Code-Order-20A|&#91;1&#93;&#91;ORDER XXA: COSTS]]
+- [[Civil-Procedure-Code-Order-20A|1 ORDER XXA: COSTS]]
 
 - [[Civil-Procedure-Code-Order-21|ORDER XXI: EXECUTION OF DECREES AND ORDERS]]
 
@@ -90,9 +90,9 @@ aliases:
 
 - [[Civil-Procedure-Code-Order-27|ORDER XXVII: SUITS BY OR AGAINST THE GOVERNMENT OR PUBLIC OFFICERS IN THEIR OFFICIAL CAPACITY]]
 
-- [[Civil-Procedure-Code-Order-27A|&#91;26&#93;&#91;ORDER XXVIIA: SUITS INVOLVING A SUBSTANTIAL QUESTION OF LAW AS TO THE INTERPRETATION OF &#91;27&#93;&#91;THE CONSTITUTION&#93; &#91;28&#93;&#91;OR AS TO THE VALIDITY OF ANY STATUTORY INSTRUMENT&#93;]]
+- [[Civil-Procedure-Code-Order-27A|26 ORDER XXVIIA: SUITS INVOLVING A SUBSTANTIAL QUESTION OF LAW AS TO THE INTERPRETATION OF 27 THE CONSTITUTION 28 OR AS TO THE VALIDITY OF ANY STATUTORY INSTRUMENT]]
 
-- [[Civil-Procedure-Code-Order-28|ORDER XXVIII: SUITS BY OR AGAINST MILITARY &#91;33&#93;&#91;OR NAVAL&#93; MEN &#91;34&#93;&#91;OR AIRMEN&#93;]]
+- [[Civil-Procedure-Code-Order-28|ORDER XXVIII: SUITS BY OR AGAINST MILITARY 33 OR NAVAL MEN 34 OR AIRMEN]]
 
 - [[Civil-Procedure-Code-Order-29|ORDER XXIX: SUITS BY OR AGAINST CORPORATIONS]]
 
@@ -102,9 +102,9 @@ aliases:
 
 - [[Civil-Procedure-Code-Order-32|ORDER XXXII: SUITS BY OR AGAINST MINORS ANT) PERSONS OF UNSOUND MIND]]
 
-- [[Civil-Procedure-Code-Order-32A|&#91;48&#93;&#91;ORDER XXXIIA: SUITS RELATING TO MATTERS CONCERNING THE FAMILY]]
+- [[Civil-Procedure-Code-Order-32A|48 ORDER XXXIIA: SUITS RELATING TO MATTERS CONCERNING THE FAMILY]]
 
-- [[Civil-Procedure-Code-Order-33|ORDER XXXIII: &#91;49&#93;&#91;SUITS BY INDIGENT PERSONS&#93;]]
+- [[Civil-Procedure-Code-Order-33|ORDER XXXIII: 49 SUITS BY INDIGENT PERSONS]]
 
 - [[Civil-Procedure-Code-Order-34|ORDER XXXIV: SUITS RELATING TO MORTGAGES OF IMMOVABLE PROPERTY]]
 
@@ -112,7 +112,7 @@ aliases:
 
 - [[Civil-Procedure-Code-Order-36|ORDER XXXVI: SPECIAL CASE]]
 
-- [[Civil-Procedure-Code-Order-37|ORDER XXXVII: SUMMARY PROCEDURE &#91;5&#93;&#91;***&#93;]]
+- [[Civil-Procedure-Code-Order-37|ORDER XXXVII: SUMMARY PROCEDURE 5 ***]]
 
 - [[Civil-Procedure-Code-Order-38|ORDER XXXVIII: ARREST AND ATTACHMENT BEFORE JUDGEMENT]]
 
@@ -126,9 +126,9 @@ aliases:
 
 - [[Civil-Procedure-Code-Order-43|Order XLIII: APPEALS FROM ORDERS]]
 
-- [[Civil-Procedure-Code-Order-44|ORDER XLIV: &#91;34&#93;&#91;APPEALS BY INDIGENT PERSONS&#93;]]
+- [[Civil-Procedure-Code-Order-44|ORDER XLIV: 34 APPEALS BY INDIGENT PERSONS]]
 
-- [[Civil-Procedure-Code-Order-45|ORDER XLV: APPEALS TO THE &#91;41&#93;&#91;SUPREME COURT&#93;]]
+- [[Civil-Procedure-Code-Order-45|ORDER XLV: APPEALS TO THE 41 SUPREME COURT]]
 
 - [[Civil-Procedure-Code-Order-46|ORDER XLVI: REFERENCE]]
 
@@ -158,12 +158,12 @@ aliases:
 
 - [[Civil-Procedure-Code-Appendix-H|APPENDIX H: MISCELLANEOUS]]
 
-- [[Civil-Procedure-Code-Schedule-2|&#91;THE SECOND SCHEDULE: Arbitration- Repealed by the Arbitration Act, 1940&#93;]]
+- [[Civil-Procedure-Code-Schedule-2|THE SECOND SCHEDULE: Arbitration- Repealed by the Arbitration Act, 1940]]
 
-- [[Civil-Procedure-Code-Schedule-3|&#91;THE THIRD SCHEDULE: Execution of Decrees by Collectors- Repealed by the Code of Civil Procedure (Amendment) Act, 1956&#93;]]
+- [[Civil-Procedure-Code-Schedule-3|THE THIRD SCHEDULE: Execution of Decrees by Collectors- Repealed by the Code of Civil Procedure (Amendment) Act, 1956]]
 
-- [[Civil-Procedure-Code-Schedule-4|&#91;THE FOURTH SCHEDULE: Enactments amended- Repealed by the Repealing and Amending Act, 1952&#93;]]
+- [[Civil-Procedure-Code-Schedule-4|THE FOURTH SCHEDULE: Enactments amended- Repealed by the Repealing and Amending Act, 1952]]
 
-- [[Civil-Procedure-Code-Schedule-5|&#91;THE FIFTH SCHEDULE: Enactments repealed- Repealed by the Second Repealing and Amending Act, 1914&#93;]]
+- [[Civil-Procedure-Code-Schedule-5|THE FIFTH SCHEDULE: Enactments repealed- Repealed by the Second Repealing and Amending Act, 1914]]
 
 - [[Civil-Procedure-Code-Annexure|ANNEXURE: THE CODE OF CIVIL PROCEDURE (AMENDMENT) ACT, 1976]]

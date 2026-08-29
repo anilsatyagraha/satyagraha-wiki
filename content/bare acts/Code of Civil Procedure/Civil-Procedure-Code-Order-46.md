@@ -28,13 +28,13 @@ The High Court, after hearing the parties if they appear and desire to be heard,
 
 The costs (if any consequent on a reference for the decision of the High Court shall be costs in the case.
 
-&#91;61&#93;4A. Reference to high Court under proviso to section 113
+#### 614A. Reference to high Court under proviso to section 113
 
-The provisions of rules 2, 3 and 4 shall apply to any reference by the Court under the proviso to section 113 as they apply to a reference under rule 1.&#93;
+The provisions of rules 2, 3 and 4 shall apply to any reference by the Court under the proviso to section 113 as they apply to a reference under rule 1.\]
 
 #### 5. Power to alter, etc., decree, of Court making reference
 
-Where a case is referred to the High Court, under rule 1 &#91;61&#93;&#91;or under the proviso to section 113&#93;, the High Court may return the case for amendment, and may alter, cancel or set aside any decree or order which the Court making the reference has passed or made in the case out of which the reference arose, and make such order as it thinks fit.
+Where a case is referred to the High Court, under rule 1 61\[or under the proviso to section 113\], the High Court may return the case for amendment, and may alter, cancel or set aside any decree or order which the Court making the reference has passed or made in the case out of which the reference arose, and make such order as it thinks fit.
 
 #### 6. Power to refer to High Court questions as to jurisdiction in small causes
 

@@ -16,7 +16,7 @@ Subject to the provisions of this Code, all persons having an interest either in
 
 Explanation-A puisne mortgagee may sue for foreclosure or for sale without making the prior mortgagee a party to the suit; and a prior mortgagee need not be joined in a suit to redeem a subsequent mortgage.
 
-&#91;63&#93;&#91;2. Preliminary decree in foreclosure suit-
+63\[2. Preliminary decree in foreclosure suit-
 
 (1) In a suit for foreclosure, if the plaintiff succeeds, the Court shall pass a preliminary decree-
 
@@ -90,7 +90,7 @@ Where such deposit has been made, the purchaser shall be entitled to an order fo
 
 #### 6. Recovery of balance due on mortgage in suit for sale-
 
-Where the net proceeds of any sale held under &#91;64&#93;&#91;rule 5&#93; are found insufficient to pay the amount due to the plaintiff, the Court, on application by him may, if the balance is legally recoverable from the defendant otherwise than out of the property sold, pass a decree for such balance.
+Where the net proceeds of any sale held under 64\[rule 5\] are found insufficient to pay the amount due to the plaintiff, the Court, on application by him may, if the balance is legally recoverable from the defendant otherwise than out of the property sold, pass a decree for such balance.
 
 #### 7. Preliminary decree in redemption suit-
 
@@ -140,25 +140,25 @@ Where such deposit has been made, the purchaser shall be entitled to an order fo
 
 (a) in the case of a mortgage by conditional sale or of such an anomalous mortgage as is hereinbefore referred to in rule 7, pass a final decree declaring that the plaintiff and all persons claiming under him are debarred from all right to redeem the mortgaged property and, also, if necessary, ordering the plaintiff to put the defendant in possession of the mortgaged property; or
 
-(b) in the case of any other mortgage, not being a usufructuary mortgage, pass a final decree that the mortgaged property or a sufficient part thereof be sold, and the proceeds of the sale (after deduction therefrom of the expenses of the sale) be paid into Court and applied in payment of what is found due to the defendant, and the balance, if any, be paid to the plaintiff or other persons entitled to receive the same.&#93;
+(b) in the case of any other mortgage, not being a usufructuary mortgage, pass a final decree that the mortgaged property or a sufficient part thereof be sold, and the proceeds of the sale (after deduction therefrom of the expenses of the sale) be paid into Court and applied in payment of what is found due to the defendant, and the balance, if any, be paid to the plaintiff or other persons entitled to receive the same.\]
 
-&#91;65&#93;&#91;8A. Recovery of balance due on mortgage in suit for redemption-
+65\[8A. Recovery of balance due on mortgage in suit for redemption-
 
-Where the net proceeds of any sale held under &#91;64&#93;&#91;rule 8&#93; are found insufficient to pay the amount due to the defendant, the Court, &#91;66&#93;&#91;on application by him in execution&#93;, may, if the balance is legally recoverable from the plaintiff otherwise than out of the property sold, pass a decree for such balance.&#93;
+Where the net proceeds of any sale held under 64\[rule 8\] are found insufficient to pay the amount due to the defendant, the Court, 66\[on application by him in execution\], may, if the balance is legally recoverable from the plaintiff otherwise than out of the property sold, pass a decree for such balance.\]
 
 #### 9. Decree where nothing is found due or where mortgagee has been overpaid-
 
 Notwithstanding anything hereinbefore contained, if it appears, upon taking the account referred to in rule 7, that nothing is due to the defendant or that he has been overpaid, the Court shall pass a decree directing the defendant, if so required, to re-transfer the property and to pay to the plaintiff the amount which may be found due to him; and the plaintiff shall, if necessary, be put in possession of the mortgaged property.
 
-&#91;67&#93;&#91;10. Costs of mortgagee subsequent to decree-
+67\[10. Costs of mortgagee subsequent to decree-
 
 In finally adjusting the amount to be paid to a mortgagee in case Of a foreclosure, sale or redemption, the Court shall, unless in the case of costs of the suit the conduct of the mortgagee has been such as to disentitle him thereto, add to the mortgage-money such costs of the suit and other costs, charges and expenses as have been properly incurred by him since the date of the preliminary decree for foreclosure, sale or redemption up to the time of actual payment
 
-&#91;68&#93;&#91;Provided that where the mortgagor, before or at the time of the institution of the suit, tenders or deposits the amount due on the mortgage, or such amount as is not substantially deficient in the opinion of the Court, he shall not be ordered to pay the costs of the suit to the mortgagee and the mortgagor shall be entitled to recover his own costs of the suit from the mortgagee, unless the Court, for reasons to be recorded, otherwise directs.&#93;
+68\[Provided that where the mortgagor, before or at the time of the institution of the suit, tenders or deposits the amount due on the mortgage, or such amount as is not substantially deficient in the opinion of the Court, he shall not be ordered to pay the costs of the suit to the mortgagee and the mortgagor shall be entitled to recover his own costs of the suit from the mortgagee, unless the Court, for reasons to be recorded, otherwise directs.\]
 
-&#91;68&#93;&#91;10A. Power of Court to direct mortgagee to pay mesne profits-
+68\[10A. Power of Court to direct mortgagee to pay mesne profits-
 
-Where in a suit for foreclosure, the mortgagor has, before or at the time of the institution of the suit, tendered or deposited the sum due on the mortgage, or such sum as is not substantially deficient in the opinion of the Court, the Court shall direct the mortgage to pay to the mortgagor mesne profits for the period beginning with the institution of the suit.&#93;
+Where in a suit for foreclosure, the mortgagor has, before or at the time of the institution of the suit, tendered or deposited the sum due on the mortgage, or such sum as is not substantially deficient in the opinion of the Court, the Court shall direct the mortgage to pay to the mortgagor mesne profits for the period beginning with the institution of the suit.\]
 
 #### 11. Payment of interest-
 
@@ -168,11 +168,11 @@ In any decree passed in a suit for foreclosure, sale or redemption, where intere
 
 (i) on the principal amount found or declared due on the mortgage, at the rate payable on the principal, or, where no such rate is fixed, at such rate as the Court deems reasonable.
 
-&#91;69&#93;&#91;***&#93;, and
+69\[***\], and
 
-(iii) on the amount adjudged due to the mortgagee for costs, charges and expenses properly incurred by the mortgagee in respect of the mortgage-security up to the date of the preliminary decree and added to the mortgage-money,-at the rate agreed between the parties, or, failing such rate, &#91;70&#93;&#91;at such rate not exceeding six per cent. per annum as the Court deems reasonable&#93;; and
+(iii) on the amount adjudged due to the mortgagee for costs, charges and expenses properly incurred by the mortgagee in respect of the mortgage-security up to the date of the preliminary decree and added to the mortgage-money,-at the rate agreed between the parties, or, failing such rate, 70\[at such rate not exceeding six per cent. per annum as the Court deems reasonable\]; and
 
-&#91;71&#93;&#91;(b) subsequent interest up to the date of realisation or actual payment on the aggregate of the principal sums specified in clause (a) as calculated in accordance with that clause at such rate as the Court decrees reasonable.&#93;
+71\[(b) subsequent interest up to the date of realisation or actual payment on the aggregate of the principal sums specified in clause (a) as calculated in accordance with that clause at such rate as the Court decrees reasonable.\]
 
 #### 12. Sale of property subject to prior mortgage-
 
@@ -200,8 +200,8 @@ lastly, the residue (if any) shall be paid to the person proving himself to be i
 
 (2) Nothing in sub-rule (1) shall apply to any territories to which the Transfer of Property Act, 1882 (4 of 1882), has not been extended.
 
-&#91;72&#93;&#91;15. Mortgages by the deposit of title deeds and charges-
+72\[15. Mortgages by the deposit of title deeds and charges-
 
-&#91;73&#93;&#91;(1)&#93; All the provisions contained in this Order which apply to a simple mortgage shall, so far as may be, apply to a mortgage by deposit of title-deeds within the meaning of section 58, and to a charge within the meaning of section 100 of the Transfer of Property Act, 1882 (4 of 1882);
+73\[(1)\] All the provisions contained in this Order which apply to a simple mortgage shall, so far as may be, apply to a mortgage by deposit of title-deeds within the meaning of section 58, and to a charge within the meaning of section 100 of the Transfer of Property Act, 1882 (4 of 1882);
 
-&#91;74&#93;&#91;(2) Where a decree orders payment of money and charges it on immovable property on default of payment, the amount may be realised by sale of that property in execution of that decree.&#93;&#93;
+74\[(2) Where a decree orders payment of money and charges it on immovable property on default of payment, the amount may be realised by sale of that property in execution of that decree.\]\]

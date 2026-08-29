@@ -8,7 +8,7 @@ aliases:
 
 ## Code of Civil Procedure - Schedule I
 
-## &#91;48&#93;&#91;ORDER XXXIIA: SUITS RELATING TO MATTERS CONCERNING THE FAMILY
+## 48\[ORDER XXXIIA: SUITS RELATING TO MATTERS CONCERNING THE FAMILY
 
 #### 1. Application of the Order-
 
@@ -70,4 +70,4 @@ For the purposes of this Order, each of the following shall be treated as consti
 
 (e) any combination of one or more of the groups specified in clause (a), clause (b), clause (c) or clause (d) of this rule.
 
-Explanation-For the avoidance of doubts, it is hereby declared that the provisions of rule 6 shall be without any prejudice to the concept of "family" in any personal law or in any other law for the time being in force.&#93;
+Explanation-For the avoidance of doubts, it is hereby declared that the provisions of rule 6 shall be without any prejudice to the concept of "family" in any personal law or in any other law for the time being in force.\]

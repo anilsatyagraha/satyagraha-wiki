@@ -30,15 +30,15 @@ Upon hearing _____________ and upon reading the affidavit of _____________ filed
 
 ### (Title as in No. 1, supra.)
 
-Interrogatories on behalf of the above-named &#91;Plaintiff or defendant C. D.&#93; for the examination of the above-named &#91;defendants E. F. and G. H. or plaintiff&#93;.
+Interrogatories on behalf of the above-named \[Plaintiff or defendant C. D.\] for the examination of the above-named \[defendants E. F. and G. H. or plaintiff\].
 
 #### 1. Did not, etc.
 
 #### 2. Has not, _____________ etc., ____________ etc., _________ etc., __________ etc.
 
-&#91;The defendant E. F. is required to answer the interrogatories numbered _________.&#93;
+\[The defendant E. F. is required to answer the interrogatories numbered _________.\]
 
-&#91;The defendant G. H. is required to answer the interrogatories numbered __________.&#93;
+\[The defendant G. H. is required to answer the interrogatories numbered __________.\]
 
 ### No. 3
 
@@ -54,7 +54,7 @@ In answer to the said interrogatories, I, the above-named E. F., make oath and s
 
 #### 2. Enter answers, to interrogatories in paragraphs numbered consecutively.
 
-#### 3. I object to answer the interrogatories numbered on the ground that &#91;state grounds of objection&#93;
+#### 3. I object to answer the interrogatories numbered on the ground that \[state grounds of objection\]
 
 ### No. 4
 
@@ -74,11 +74,11 @@ I, the above-named defendant C. D., make oath and say as follows:-
 
 #### 1. I have in my possession or power the documents relating to the matters in question in this suit set forth in the first and second parts of the first schedule hereto.
 
-#### 2. I object to produce the said documents set forth in the second part of the first schedule hereto &#91;state grounds of objection&#93;.
+#### 2. I object to produce the said documents set forth in the second part of the first schedule hereto \[state grounds of objection\].
 
 #### 3. I have had but have not now, in my possession or power the documents relating to the matters in question in this suit set forth in the second schedule hereto.
 
-#### 4. The last-mentioned documents were last in my possession or power on &#91;state when and what has become of them and in whose possession they now are&#93;.
+#### 4. The last-mentioned documents were last in my possession or power on \[state when and what has become of them and in whose possession they now are\].
 
 5. According to the best of my knowledge, information and belief I have not now, and never had, in my possession, custody or power, or in the possession, custody or power of my pleader or agent, or in the possession custody or power has of any other person on my behalf, any account, book of account, voucher, receipt, letter memorandum, paper or writing, or any copy of or extract from any such document, or any other documents whatsoever, relating to the matters in question in this suit or any of them, or wherein any entry has been made relative to such matters or any of them, other than and except the documents set forth in the said first and second schedules hereto.
 
@@ -92,13 +92,13 @@ Upon hearing _____________ and upon reading the affidavit of _____________ filed
 
 ### No. 7
 
-### NOTICE TO PRODUCE DOCUMENTS (O. 11, r. 16.&#93;
+### NOTICE TO PRODUCE DOCUMENTS (O. 11, r. 16.\]
 
 ### (Title as in No. 1, supra.)
 
-Take notice that the &#91;plaintiff or defendant&#93; requires you to produce for his inspection the following documents referred to in your &#91;plaint or written statement or affidavit, dated the _____ day of _____ 19 ______&#93;.
+Take notice that the \[plaintiff or defendant\] requires you to produce for his inspection the following documents referred to in your \[plaint or written statement or affidavit, dated the _____ day of _____ 19 ______\].
 
-### &#91;Describe documents required.&#93;
+### \[Describe documents required.\]
 
 To Z., Pleader for the_______________________________________
 
@@ -108,9 +108,9 @@ To Z., Pleader for the_______________________________________
 
 ### (Title as in No. 1, supra.)
 
-Take notice that you can inspect the documents mentioned in your notice of the ______ day of _____ 19 ___ except the documents numbered in that notice&#93; at &#91;insert place of inspection&#93; on Thursday next, the _____ instant, between the hours of 12 and 4 o'clock.
+Take notice that you can inspect the documents mentioned in your notice of the ______ day of _____ 19 ___ except the documents numbered in that notice\] at \[insert place of inspection\] on Thursday next, the _____ instant, between the hours of 12 and 4 o'clock.
 
-Or, that the &#91;plaintiff or defendant&#93; objects to giving you inspection of documents mentioned in your notice of the _____ day of _____ 19 _____ on the ground that &#91;state the ground&#93;.
+Or, that the \[plaintiff or defendant\] objects to giving you inspection of documents mentioned in your notice of the _____ day of _____ 19 _____ on the ground that \[state the ground\].
 
 ### No. 9
 
@@ -118,11 +118,11 @@ Or, that the &#91;plaintiff or defendant&#93; objects to giving you inspection o
 
 ### (Title as in No. 1, supra.)
 
-Take notice that the plaintiff &#91;or defendant&#93; in this suit proposes to adduce in evidence the several document hereunder specified, and that the same may be inspected by the defendant &#91;or plaintiff&#93; his pleader or agent, at _________ on __________ between the hours of ________; and the defendant &#91;or plaintiff&#93; is hereby required, within forty-eight hours from the last-mentioned hour, to admit that such of the said documents as are specified to be originals were respectively written, signed or executed, as they purport respectively to have been; that such as are specified as copies are true copies; and such documents as are stated to have been served, sent or delivered were so served, sent or delivered, respectively, saying all just exceptions to the admissibility of all such documents as evidence in this suit.
+Take notice that the plaintiff \[or defendant\] in this suit proposes to adduce in evidence the several document hereunder specified, and that the same may be inspected by the defendant \[or plaintiff\] his pleader or agent, at _________ on __________ between the hours of ________; and the defendant \[or plaintiff\] is hereby required, within forty-eight hours from the last-mentioned hour, to admit that such of the said documents as are specified to be originals were respectively written, signed or executed, as they purport respectively to have been; that such as are specified as copies are true copies; and such documents as are stated to have been served, sent or delivered were so served, sent or delivered, respectively, saying all just exceptions to the admissibility of all such documents as evidence in this suit.
 
-To E. F., pleader &#91;or agent&#93; for defendant &#91;or plaintiff&#93;.
+To E. F., pleader \[or agent\] for defendant \[or plaintiff\].
 
-&#91;Here describe the documents and specify as to each document whether it is original or a copy.&#93;
+\[Here describe the documents and specify as to each document whether it is original or a copy.\]
 
 ### No. 10
 
@@ -130,11 +130,11 @@ To E. F., pleader &#91;or agent&#93; for defendant &#91;or plaintiff&#93;.
 
 ### (Title as in No. 1, supra.)
 
-Take notice that the plaintiff &#91;or defendant&#93; in this suit requires the defendant &#91;or plaintiff&#93; to admit, for the purposes of this suit only, the several facts respectively hereunder specified; and the defendant &#91;or plaintiff is hereby required, within six days from the service of this notice, to admit the said several facts, saving all just exceptions to the admissibility of such facts as evidence in this suit.
+Take notice that the plaintiff \[or defendant\] in this suit requires the defendant \[or plaintiff\] to admit, for the purposes of this suit only, the several facts respectively hereunder specified; and the defendant \[or plaintiff is hereby required, within six days from the service of this notice, to admit the said several facts, saving all just exceptions to the admissibility of such facts as evidence in this suit.
 
-G. H. pleader &#91;or agent&#93; for plaintiff &#91;or defendant&#93;.
+G. H. pleader \[or agent\] for plaintiff \[or defendant\].
 
-To E. F., pleader &#91;or agent&#93; for defendant &#91;or plaintiff&#93;.
+To E. F., pleader \[or agent\] for defendant \[or plaintiff\].
 
 The facts, the admission of which, is required, are:-
 
@@ -154,11 +154,11 @@ The facts, the admission of which, is required, are:-
 
 ### (Title as in No. 1, supra.)
 
-The defendant &#91;or plaintiff&#93; in this suit, for the purposes of this suit only, hereby admits the several facts respectively hereunder specified, subject to the qualifications or limitations, if any, hereunder specified, saving all just exceptions to the admissibility of any such facts, or any of them, as evidence in this suit:
+The defendant \[or plaintiff\] in this suit, for the purposes of this suit only, hereby admits the several facts respectively hereunder specified, subject to the qualifications or limitations, if any, hereunder specified, saving all just exceptions to the admissibility of any such facts, or any of them, as evidence in this suit:
 
-Provided that this admission is made for the purposes of this suit only, and is not an admission to be used against the defendant &#91;or plaintiff&#93; on any other occasion or by any one other than the plaintiff &#91;or defendant or party requiring the admission&#93;.
+Provided that this admission is made for the purposes of this suit only, and is not an admission to be used against the defendant \[or plaintiff\] on any other occasion or by any one other than the plaintiff \[or defendant or party requiring the admission\].
 
-To G. H., pleader &#91;or agent&#93; for plaintiff &#91;or defendant&#93;.
+To G. H., pleader \[or agent\] for plaintiff \[or defendant\].
 
 ### No. 12
 
@@ -168,6 +168,6 @@ To G. H., pleader &#91;or agent&#93; for plaintiff &#91;or defendant&#93;.
 
 Take notice that you are hereby required to produce and show to the Court at the first hearing of this suit all books papers, letters, copies of letters and other writings and documents in your custody, possession of power, containing any entry, memorandum or minute relating to the matters in question in this suit, and particularly.
 
-G. H., pleader &#91;or agent&#93; for plaintiff &#91;or defendant&#93;.
+G. H., pleader \[or agent\] for plaintiff \[or defendant\].
 
-To E. F. pleader &#91;or agent&#93; for defendant &#91;or plaintiff&#93;
+To E. F. pleader \[or agent\] for defendant \[or plaintiff\]

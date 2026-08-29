@@ -14,9 +14,9 @@ aliases:
 
 Subject to such conditions and limitations as may be prescribed, any Court may state a case and refer the same for the opinion of the High Court, and the High Court may make such order thereon as it thinks fit:
 
-&#91;161&#93;&#91;Provided that where the Court is satisfied that a case pending before it involves a question as to the validity of any Act, Ordinance or Regulation or of any provision contained in an Act, Ordinance or Regulation, the determination of which is necessary for the disposal of the case, and is of opinion that such Act, Ordinance, Regulation or provision is invalid or inoperative but has not been so declared by the High Court to which that Court is subordinate or by the Supreme Court, the Court shall state a case setting out its opinion and the reasons therefor, and refer the same for the opinion of the High Court.
+\[161\]\[Provided that where the Court is satisfied that a case pending before it involves a question as to the validity of any Act, Ordinance or Regulation or of any provision contained in an Act, Ordinance or Regulation, the determination of which is necessary for the disposal of the case, and is of opinion that such Act, Ordinance, Regulation or provision is invalid or inoperative but has not been so declared by the High Court to which that Court is subordinate or by the Supreme Court, the Court shall state a case setting out its opinion and the reasons therefor, and refer the same for the opinion of the High Court.
 
-Explanation.- In this section, "Regulation" means any Regulation of the Bengal, Bombay or Madras Code or Regulation as defined in the General Clauses Act, 1897, (10 of 1897) or in the General Clauses Act of a State.&#93;
+Explanation.- In this section, "Regulation" means any Regulation of the Bengal, Bombay or Madras Code or Regulation as defined in the General Clauses Act, 1897, (10 of 1897) or in the General Clauses Act of a State.\]
 
 ## 114. Review
 
@@ -30,7 +30,7 @@ Subject as aforesaid, any person considering himself aggrieved-
 
 ## 115. Revision
 
-&#91;162&#93;&#91;(1)&#93; The High Court may call for the record of any case which has been decided by any Court subordinate to such High Court and in which no appeal lies thereto, and if such subordinate Court appears -
+\[162\]\[(1)\] The High Court may call for the record of any case which has been decided by any Court subordinate to such High Court and in which no appeal lies thereto, and if such subordinate Court appears -
 
 (a) to have exercised a jurisdiction not vested in it by law, or
 
@@ -40,12 +40,12 @@ Subject as aforesaid, any person considering himself aggrieved-
 
 the High Court may make such order in the case as it thinks fit:
 
-&#91;163&#93;&#91;Provided that the High Court shall not, under this section, vary or reverse any order made, or any order deciding an issue, in the course of a suit or other proceeding, except where -
+\[163\]\[Provided that the High Court shall not, under this section, vary or reverse any order made, or any order deciding an issue, in the course of a suit or other proceeding, except where -
 
 (a) the order, if it had been made in favour of the party applying for revision, would have finally disposed of the suit or other proceeding, or
 
-(b) the order, if allowed to stand, would occasion a failure of justice or cause irreparable injury to the party against whom it was made.&#93;
+(b) the order, if allowed to stand, would occasion a failure of justice or cause irreparable injury to the party against whom it was made.\]
 
-&#91;163&#93;&#91;(2) The High Court shall not, under this section, vary or reverse any decree or order against which an appeal lies either to the High Court or to any Court subordinate thereto.
+\[163\]\[(2) The High Court shall not, under this section, vary or reverse any decree or order against which an appeal lies either to the High Court or to any Court subordinate thereto.
 
-Explanation.- In this section, the expression "any case which has been decided" includes any order made, or any order deciding an issue in the course of a suit or other proceeding.&#93;
+Explanation.- In this section, the expression "any case which has been decided" includes any order made, or any order deciding an issue in the course of a suit or other proceeding.\]

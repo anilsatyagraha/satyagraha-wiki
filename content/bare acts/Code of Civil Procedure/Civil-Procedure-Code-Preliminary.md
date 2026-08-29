@@ -16,7 +16,7 @@ aliases:
 
 (2) It shall come into force on the first day of January, 1909.
 
-2&#91;(3) It extends to the whole of India except-
+2\[(3) It extends to the whole of India except-
 
 (a) the State of Jammu and Kashmir;
 
@@ -26,7 +26,7 @@ Provided that the State Government concerned may, by notification in the Officia
 
 Explanation.- In this clause, "tribal areas" means the territories which, immediately before the 21st day of January, 1972, were included in the tribal areas of Assam as referred to in paragraph 20 of the Sixth Schedule to the Constitution..
 
-(4) In relation to the Amindivi Islands, and the East Godavari, West Godavari and Visakhapatnam Agencies in the State of Andhra Pradesh and the Union territory of Lakshadweep, the application of this Code shall be without prejudice to the application of any rule or regulation for the time being in force in such Islands, Agencies or such Union territory, as the case may be, relating to the application of this Code.&#93;
+(4) In relation to the Amindivi Islands, and the East Godavari, West Godavari and Visakhapatnam Agencies in the State of Andhra Pradesh and the Union territory of Lakshadweep, the application of this Code shall be without prejudice to the application of any rule or regulation for the time being in force in such Islands, Agencies or such Union territory, as the case may be, relating to the application of this Code.\]
 
 ## 2. Definitions
 
@@ -34,7 +34,7 @@ In this Act, unless there is anything repugnant in the subject or context,-
 
 (1) "Code" includes rules;
 
-(2) "decree" means the formal expression of an adjudication which, so far as regards the Court expressing it, conclusively determines the rights of the parties with regard to all or any of the matters in controversy in the suit and may be either preliminary or final. It shall be deemed to include the rejection of a plaint and the determination of any question within &#91;3&#93;&#91;***&#93; section 144, but shall not include -
+(2) "decree" means the formal expression of an adjudication which, so far as regards the Court expressing it, conclusively determines the rights of the parties with regard to all or any of the matters in controversy in the suit and may be either preliminary or final. It shall be deemed to include the rejection of a plaint and the determination of any question within 3\[***\] section 144, but shall not include -
 
 (a) any adjudication from which an appeal lies as an appeal from an order, or
 
@@ -46,15 +46,15 @@ Explanation.-A decree is preliminary when further proceedings have to be taken b
 
 (4) "district" means the local limits of the jurisdiction of a principal Civil Court of original jurisdiction (hereinafter called a "District Court"), and includes the local limits of the ordinary original civil jurisdiction of a High Court;
 
-&#91;4&#93;&#91;(5) "foreign Court" means a Court situate outside India and not established or continued by the authority of the Central Government;&#93;
+4\[(5) "foreign Court" means a Court situate outside India and not established or continued by the authority of the Central Government;\]
 
 (6) "foreign judgment" means the judgment of a foreign Court;
 
 (7) "Government Pleader" includes any officer appointed by the State Government to perform all or any of the functions expressly imposed by this Code on the Government Pleader and also any pleader acting under the directions of the Government Pleader;
 
-&#91;5&#93;&#91;(7A) "High Court" in relation to the Andaman and Nicobar Islands, means the High Court in Calcutta;
+5\[(7A) "High Court" in relation to the Andaman and Nicobar Islands, means the High Court in Calcutta;
 
-(7B) "India", except in sections 1, 29, 43, 44, &#91;6&#93;&#91;44A,&#93; 78, 79, 82, 83 and 87A, means the territory of India excluding the State of Jammu and Kashmir;&#93;
+(7B) "India", except in sections 1, 29, 43, 44, 6\[44A,\] 78, 79, 82, 83 and 87A, means the territory of India excluding the State of Jammu and Kashmir;\]
 
 (8) "Judge" means the presiding officer of a Civil Court;
 
@@ -78,9 +78,9 @@ Explanation.-A decree is preliminary when further proceedings have to be taken b
 
 (a) every Judge;
 
-(b) every member of &#91;7&#93;&#91;an All-India Service&#93;.;
+(b) every member of 7\[an All-India Service\].;
 
-(c) every commissioned or gazetted officer in the military &#91;8&#93;&#91;naval or air&#93; forces of &#91;9&#93;&#91;the Union&#93; &#91;10&#93;&#91;***&#93; while serving under the Government;
+(c) every commissioned or gazetted officer in the military 8\[naval or air\] forces of 9\[the Union\] 10\[***\] while serving under the Government;
 
 (d) every officer of a Court of Justice whose duty it is, as such officer, to investigate or report on any matter of law or fact, or to make, authenticate or keep any document, or to take charge or dispose of any property, or to execute any judicial process, or to administer any oath, or to interpret, or to preserve order, in the Court, and every person especially authorised by a Court of Justice to perform any of such duties;
 
@@ -98,7 +98,7 @@ Explanation.-A decree is preliminary when further proceedings have to be taken b
 
 (20) "signed", save in the case of a judgment or decree, includes stamped.
 
-&#91;11&#93;&#91;***&#93;
+11\[***\]
 
 ## 3. Subordination of Courts
 
@@ -112,7 +112,7 @@ For the purposes of this Code, the District Court is subordinate to the High Cou
 
 ## 5. Application of the Code to Revenue Courts
 
-(1) Where any Revenue Courts are governed by the provisions of this Code in those matters of procedure upon which any special enactment applicable to them is silent, the State Government &#91;12&#93;&#91;***&#93; may, by notification in the Official Gazette, declare that any portions of those provisions which are not expressly made applicable by this Code shall not apply to those Courts, or shall only apply to them with such modifications as the State Government &#91;13&#93;&#91;***&#93; may prescribe.
+(1) Where any Revenue Courts are governed by the provisions of this Code in those matters of procedure upon which any special enactment applicable to them is silent, the State Government 12\[***\] may, by notification in the Official Gazette, declare that any portions of those provisions which are not expressly made applicable by this Code shall not apply to those Courts, or shall only apply to them with such modifications as the State Government 13\[***\] may prescribe.
 
 (2) "Revenue Court" in sub-section (1) means a Court having jurisdiction under any local law to entertain suits or otter proceedings relating to the rent, revenue or profits of land used for agricultural purposes, but does not include a Civil Court having original jurisdiction under this Code to try such suits or proceedings as being suits or proceedings of a civil nature.
 
@@ -122,7 +122,7 @@ Save in so far as is otherwise expressly provided, nothing herein contained shal
 
 ## 7. Provincial Small Cause Courts
 
-The following provisions shall not extend to Courts constituted under the Provincial Small Cause Courts Act, 1887(9 of 1887) &#91;14&#93;&#91;or under the Berar Small Cause Courts Law, 1905&#93;, or to Courts exercising the jurisdiction of a Court of Small Causes &#91;15&#93;&#91;under the said Act or Law&#93;, &#91;16&#93;&#91;or to Courts in &#91;17&#93;&#91;any part of India to which the said Act does not extend&#93; exercising a corresponding jurisdiction&#93; that is to in say,-
+The following provisions shall not extend to Courts constituted under the Provincial Small Cause Courts Act, 1887(9 of 1887) 14\[or under the Berar Small Cause Courts Law, 1905\], or to Courts exercising the jurisdiction of a Court of Small Causes 15\[under the said Act or Law\], 16\[or to Courts in 17\[any part of India to which the said Act does not extend\] exercising a corresponding jurisdiction\] that is to in say,-
 
 (a) so much of the body of the Code as relates to-
 
@@ -138,7 +138,7 @@ section 9,
 
 sections 91 and 92,
 
-sections 94 and 95 &#91;18&#93;&#91;so far as they authorize or relate to-
+sections 94 and 95 18\[so far as they authorize or relate to-
 
 (i) orders for the attachment of immovable property;
 
@@ -146,14 +146,14 @@ sections 94 and 95 &#91;18&#93;&#91;so far as they authorize or relate to-
 
 (iii) the appointment of a receiver of immovable property, or
 
-(iv) the interlocutory orders referred to in clause (e) of section 94&#93;, and sections 96 to 112 and 115.
+(iv) the interlocutory orders referred to in clause (e) of section 94\], and sections 96 to 112 and 115.
 
 ## 8. Presidency Small Cause Courts
 
-Save as provided in sections 24, 38 to 41, 75, clauses (a), (b) and (c), 76, &#91;19&#93;&#91;77, 157 and 158&#93;, and by the Presidency Small Cause Courts Act, 1882, (15 of 1882) the provisions in the body of this Code shall not extend to any suit or proceeding in any Courts of Small Causes established in the towns of Calcutta, Madras and Bombay:
+Save as provided in sections 24, 38 to 41, 75, clauses (a), (b) and (c), 76, 19\[77, 157 and 158\], and by the Presidency Small Cause Courts Act, 1882, (15 of 1882) the provisions in the body of this Code shall not extend to any suit or proceeding in any Courts of Small Causes established in the towns of Calcutta, Madras and Bombay:
 
-&#91;20&#93;&#91;Provided that-
+20\[Provided that-
 
-(1) the High Courts of Judicature at Fort William, Madras and Bombay, as the case may be, may from time to time, by notification in the Official Gazette, direct&#91;21&#93; that any such provisions not inconsistent with the express provisions of the Presidency Small Cause Courts Act, 1882, (15 of 1882) and with such modifications and adaptations as may be specified in the notification, shall extend to suits or proceedings or any class of suits or proceedings in such Court;
+(1) the High Courts of Judicature at Fort William, Madras and Bombay, as the case may be, may from time to time, by notification in the Official Gazette, direct21 that any such provisions not inconsistent with the express provisions of the Presidency Small Cause Courts Act, 1882, (15 of 1882) and with such modifications and adaptations as may be specified in the notification, shall extend to suits or proceedings or any class of suits or proceedings in such Court;
 
-(2) all rules heretofore made by any of the said High Courts under section 9 of the Presidency Small Cause Courts Act, 1882 (15 of 1882) shall he deemed to have been validly made.&#93;
+(2) all rules heretofore made by any of the said High Courts under section 9 of the Presidency Small Cause Courts Act, 1882 (15 of 1882) shall he deemed to have been validly made.\]

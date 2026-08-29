@@ -12,7 +12,7 @@ aliases:
 
 ### Arbitration
 
-## 89. Arbitration: Repealed by the Arbitration Act, 1940 (10 of 1940)&#93;
+## 89. Arbitration: Repealed by the Arbitration Act, 1940 (10 of 1940)\]
 
 ### Special case
 
@@ -20,21 +20,21 @@ aliases:
 
 Where any person agree in writing to state a case for the opinion if the Court, then the Court shall try and determine the same in the manner prescribed.
 
-### &#91;138&#93;&#91;Public nuisances and other wrongful acts affecting the public&#93;
+### \[138\]\[Public nuisances and other wrongful acts affecting the public\]
 
 ## 91. Public nuisances and other wrongful acts affecting the public
 
-&#91;139&#93;&#91;(1) In the case of a public nuisance or other wrongful act affecting, or likely to affect, the public, a suit for a declaration and injunction or for such other relief as may be appropriate in the circumstances of the case, may be instituted,-
+\[139\]\[(1) In the case of a public nuisance or other wrongful act affecting, or likely to affect, the public, a suit for a declaration and injunction or for such other relief as may be appropriate in the circumstances of the case, may be instituted,-
 
 (a) by the Advocate-General, or
 
-(b) with the leave of the Court, by two or more persons, even though no special damage has been caused to such person by reason of such public nuisance or other wrongful act.&#93;
+(b) with the leave of the Court, by two or more persons, even though no special damage has been caused to such person by reason of such public nuisance or other wrongful act.\]
 
 (2) Nothing in this section shall be deemed to limit or otherwise affect any right of suit which may exist independently of its provisions.
 
 ## 14092. Public charities
 
-(1) In the case of any alleged breach of any express of constructive trust created for public purposes of a charitable or religious nature, or where the direction of the Court is deemed necessary for the administration of any such trust, the Advocate-General, or two or more persons having an interest in the trust and having obtained the &#91;141&#93;&#91;leave of the Court&#93; may institute a suit, whether contentious or not, in the principal Civil Court of the original jurisdiction or in any other Court empowered in that behalf by the State Government
+(1) In the case of any alleged breach of any express of constructive trust created for public purposes of a charitable or religious nature, or where the direction of the Court is deemed necessary for the administration of any such trust, the Advocate-General, or two or more persons having an interest in the trust and having obtained the \[141\]\[leave of the Court\] may institute a suit, whether contentious or not, in the principal Civil Court of the original jurisdiction or in any other Court empowered in that behalf by the State Government
 
 within the local limits of whose jurisdiction the whole or any part of the subject-matter of the trust is situate to obtain a decree-
 
@@ -44,7 +44,7 @@ within the local limits of whose jurisdiction the whole or any part of the subje
 
 (c) vesting any property in a trustee;
 
-&#91;142&#93;&#91;(cc) directing a trustee who has been removed or a person who has ceased to be a trustee, to deliver possession of any trust property in his possession to the person entitled to the possession of such property;
+\[142\]\[(cc) directing a trustee who has been removed or a person who has ceased to be a trustee, to deliver possession of any trust property in his possession to the person entitled to the possession of such property;
 
 (d) directing accounts and inquiries;
 
@@ -56,9 +56,9 @@ within the local limits of whose jurisdiction the whole or any part of the subje
 
 (h) granting such further or other relief as the nature of the case may require.
 
-(2) Save as provided by the Religious Endowments Act, 1863 (20 of 1863), &#91;143&#93;&#91;or by any corresponding law in force in&#93; &#91;49&#93;&#91;the territories which, immediately before the 1st November, 1956, were comprised in Part B States&#93;, no suit claiming any of the reliefs specified in sub-section (1) shall be instituted in respect of any such trust as is therein referred to except in conformity with the provisions of that sub-section.
+(2) Save as provided by the Religious Endowments Act, 1863 (20 of 1863), \[143\]\[or by any corresponding law in force in\] \[49\]\[the territories which, immediately before the 1st November, 1956, were comprised in Part B States\], no suit claiming any of the reliefs specified in sub-section (1) shall be instituted in respect of any such trust as is therein referred to except in conformity with the provisions of that sub-section.
 
-&#91;144&#93;&#91;(3) The Court may alter the original purposes of an express or constructive trust created for public purposes of a charitable or religious nature and allow the property or income of such trust or any portion thereof to be applied cy pres in one or more of the following circumstances, namely:-
+\[144\]\[(3) The Court may alter the original purposes of an express or constructive trust created for public purposes of a charitable or religious nature and allow the property or income of such trust or any portion thereof to be applied cy pres in one or more of the following circumstances, namely:-
 
 (a) where the original purposes of the trust, in whole or in part,-
 
@@ -80,7 +80,7 @@ within the local limits of whose jurisdiction the whole or any part of the subje
 
 (iii) ceased to be, in law, charitable, or
 
-(iv) ceased in any other way to provide a suitable and effective method of using the property available by virtue of the trust, regard being had to the spirit of the trust.&#93;
+(iv) ceased in any other way to provide a suitable and effective method of using the property available by virtue of the trust, regard being had to the spirit of the trust.\]
 
 ## 93. Exercise of powers of Advocate-General outside presidency-towns
 

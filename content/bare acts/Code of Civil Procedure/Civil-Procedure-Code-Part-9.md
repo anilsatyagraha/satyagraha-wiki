@@ -8,11 +8,11 @@ aliases:
 
 ## THE CODE OF CIVIL PROCEDURE, 1908
 
-## PART IX: SPECIAL PROVISIONS RELATING TO THE &#91;164&#93;&#91;HIGH COURTS &#91;165&#93;&#91;NOT BEING THE COURT OF A JUDICIAL COMMISSIONER&#93;&#93;
+## PART IX: SPECIAL PROVISIONS RELATING TO THE \[164\]\[HIGH COURTS \[165\]\[NOT BEING THE COURT OF A JUDICIAL COMMISSIONER\]\]
 
 ## 116. Part to apply only to certain High Courts
 
-This Part applies only to High Courts &#91;165&#93;&#91;not being the Court of a Judicial Commissioner&#93;.
+This Part applies only to High Courts \[165\]\[not being the Court of a Judicial Commissioner\].
 
 ## 117. Application of Code to High Courts
 
@@ -34,4 +34,4 @@ Nothing in this Code shall be deemed to authorize any person on behalf of anothe
 
 (1) The following provisions shall not apply to the High Court in the exercise of its original civil jurisdiction, namely, sections 16, 17 and 20.
 
-&#91;166&#93;&#91;***&#93;
+\[166\]\[***\]

@@ -18,7 +18,7 @@ aliases:
 
 ## 133. Exemption of other persons
 
-&#91;195&#93;&#91;(1) The following persons shall be entitled to exemption from personal appearance in Court, namely
+\[195\]\[(1) The following persons shall be entitled to exemption from personal appearance in Court, namely
 
 (i) the President of India;
 
@@ -40,11 +40,11 @@ aliases:
 
 (x) the Judges of the High Courts; and
 
-(xi) the persons to whom section 87B applies.&#93;
+(xi) the persons to whom section 87B applies.\]
 
-&#91;196&#93;&#91;***&#93;
+\[196\]\[***\]
 
-(3) Where any person &#91;197&#93;&#91;***&#93; claims the privilege of such exemption, and it is consequently necessary to examine him by commission, he shall pay the costs of that commission, unless the party requiring his evidence pays such costs.
+(3) Where any person \[197\]\[***\] claims the privilege of such exemption, and it is consequently necessary to examine him by commission, he shall pay the costs of that commission, unless the party requiring his evidence pays such costs.
 
 ## 134. Arrest other than in execution of decree
 
@@ -58,9 +58,9 @@ The provisions of sections 55, 57 and 59 shall apply, so far as may be, to all p
 
 (3) Nothing in sub-section (2) shall enable a judgment-debtor to claim exemption from arrest under an order for immediate execution or where such judgment-debtor attends to show cause why he should not be committed to prison in execution of a decree.
 
-## 198&#91;135A. Exemption of members of legislative bodies from arrest and detention under civil process
+## 198\[135A. Exemption of members of legislative bodies from arrest and detention under civil process
 
-&#91;199&#93;&#91;(1) No person shall be liable to arrest or detention in prison under civil process-
+\[199\]\[(1) No person shall be liable to arrest or detention in prison under civil process-
 
 (a) if he is a member of-
 
@@ -90,9 +90,9 @@ during the continuance of any meeting of such committee;
 
 during the continuance of a joint sitting, meeting, conference or joint committee of the Houses of Parliament or Houses of the State Legislature, as the case may be,
 
-and during the forty days before and after such meeting, sitting or conference.&#93;
+and during the forty days before and after such meeting, sitting or conference.\]
 
-(2) A person released from detention under sub-section (1) shall, subject to the provisions, of the said sub-section, be liable to re-arrest and to the further detention to which he would have been liable if he had not been released under the provisions of sub-section (1).&#93;
+(2) A person released from detention under sub-section (1) shall, subject to the provisions, of the said sub-section, be liable to re-arrest and to the further detention to which he would have been liable if he had not been released under the provisions of sub-section (1).\]
 
 ## 136. Procedure where person to he arrested or property to be attached is outside district
 
@@ -102,7 +102,7 @@ and during the forty days before and after such meeting, sitting or conference.&
 
 (3) The Court making an arrest under this section shall send the person arrested to the Court by which the warrant of arrest was issued, unless he shows cause to the satisfaction of the former Court why he should not be sent to the later Court, or unless he furnishes sufficient security for his appearance before the later Court or for satisfying any decree that may be passed against him by that Court, in either of which cases the Court making the arrest shall release him.
 
-(4) Where a person to be arrested or movable property to be attached under this section is within the local limits of the ordinary original civil jurisdiction of the High Court of Judicature at Fort William in Bengal or at Madras or at Bombay, &#91;200&#93;&#91;***&#93; the copy of the warrant of arrest or of the order of attachment, and the probable amount of the costs of the arrest or attachment, shall be sent to the Court of Small Causes of Calcutta, Madras &#91;201&#93;&#91;or Bombay&#93;, as the case may be, and that Court, on -receipt of the copy and amount, shall proceed as if it were the District Court.
+(4) Where a person to be arrested or movable property to be attached under this section is within the local limits of the ordinary original civil jurisdiction of the High Court of Judicature at Fort William in Bengal or at Madras or at Bombay, \[200\]\[***\] the copy of the warrant of arrest or of the order of attachment, and the probable amount of the costs of the arrest or attachment, shall be sent to the Court of Small Causes of Calcutta, Madras \[201\]\[or Bombay\], as the case may be, and that Court, on -receipt of the copy and amount, shall proceed as if it were the District Court.
 
 ## 137. Language of subordinate Courts
 
@@ -114,6 +114,6 @@ and during the forty days before and after such meeting, sitting or conference.&
 
 ## 202138. Power of High Court to require evidence to be recorded in English
 
-(1) The &#91;203&#93;&#91;High Court&#93; may, by notification in the Official Gazette, direct with respect to any Judge specified in the notification, or failing under a description set forth therein, that evidence in cases in which an appeal is allowed shall be taken down by him in the English language and in manner prescribed.
+(1) The \[203\]\[High Court\] may, by notification in the Official Gazette, direct with respect to any Judge specified in the notification, or failing under a description set forth therein, that evidence in cases in which an appeal is allowed shall be taken down by him in the English language and in manner prescribed.
 
 (2) Where a Judge is prevented by any sufficient reason from complying with a direction under sub-section (1), he shall record the reason and cause the evidence to be taken down in writing from his dictation in open court.

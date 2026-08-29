@@ -12,7 +12,7 @@ aliases:
 
 ### *Payment under decree*
 
-&#91;2&#93;&#91;1. Modes of paying money under decree
+2\[1. Modes of paying money under decree
 
 (1) All money, payable under a decree shall be paid as follows, namely-
 
@@ -40,23 +40,23 @@ aliases:
 
 (5) On any amount paid under clause (b) of sub-rule (1), interest,;If any, shall cease to run from the date of such payment:
 
-Provided that, where the decree-holder refuses to accept the postal money order or payment through a bank, interest shall cease to run from. the date on which the money was tendered to him, or where he avoids acceptance of the postal money order or payment through bank, interest shall cease to run from the date on which the money would have been tendered to him in the ordinary course of business of the postal authorities or the bank, as the case may be.&#93;
+Provided that, where the decree-holder refuses to accept the postal money order or payment through a bank, interest shall cease to run from. the date on which the money was tendered to him, or where he avoids acceptance of the postal money order or payment through bank, interest shall cease to run from the date on which the money would have been tendered to him in the ordinary course of business of the postal authorities or the bank, as the case may be.\]
 
 #### 2. Payment out of Court to decree-holder
 
-(1) Where any money payable under a decree of any kind is paid cut out of Court, &#91;3&#93;&#91;or decree of any kind is otherwise adjusted&#93; in whole or in part to the satisfaction of the decree-holder, the decree-holder shall certify such payment or adjustment to the Court whose duty it is to execute the decree, and the Court shall record the same accordingly.
+(1) Where any money payable under a decree of any kind is paid cut out of Court, 3\[or decree of any kind is otherwise adjusted\] in whole or in part to the satisfaction of the decree-holder, the decree-holder shall certify such payment or adjustment to the Court whose duty it is to execute the decree, and the Court shall record the same accordingly.
 
-(2) The judgment-debtor &#91;1&#93;&#91;or any person who has become surety for the judgment-debtor&#93;also may inform the Court of such payment or adjustment, and apply to the Court to issue a notice to the decree-holder to show cause, on a day to be fixed by the Court, why such payment or adjustment should not be recorded as certified; and if, after service of such notice, the decree-holder fails to show cause why the payment or adjustment should not be recorded as certified, the Court shall record the same accordingly.
+(2) The judgment-debtor 1\[or any person who has become surety for the judgment-debtor\]also may inform the Court of such payment or adjustment, and apply to the Court to issue a notice to the decree-holder to show cause, on a day to be fixed by the Court, why such payment or adjustment should not be recorded as certified; and if, after service of such notice, the decree-holder fails to show cause why the payment or adjustment should not be recorded as certified, the Court shall record the same accordingly.
 
-&#91;4&#93;&#91;(2A) No payment or adjustment shall be recorded at the instance of the judgment-debtor unless-
+4\[(2A) No payment or adjustment shall be recorded at the instance of the judgment-debtor unless-
 
 (a) the payment is made in the manner provided in rule 1; or
 
 (b) the payment or adjustment is proved by documentary evidence; or
 
-(c) the payment or adjustment is admitted by, or on behalf of, the decree-holder in his reply to the notice given under sub-rule (2) of rule 1, or before the Court.&#93;
+(c) the payment or adjustment is admitted by, or on behalf of, the decree-holder in his reply to the notice given under sub-rule (2) of rule 1, or before the Court.\]
 
-&#91;5&#93;(3) A payment or adjustment, which has riot been certified or recorded as aforesaid, shall not be recognised by any Court executing the decree.
+5(3) A payment or adjustment, which has riot been certified or recorded as aforesaid, shall not be recognised by any Court executing the decree.
 
 ### *Courts executing decrees*
 
@@ -66,11 +66,11 @@ Where immovable property forms one estate or tenure situate within the local lim
 
 #### 4. Transfer to Court of Small Causes
 
-Where a decree has been passed in a suit of which the value as set forth in the plaint did not exceed two thousand rupees and which, as regards its subject-matter, is not excepted by the law for the time being in force from the cognizance of either a Presidency or a Provincial Court of Small Causes, and the Court which passed it wishes it to be executed in Calcutta, Madras &#91;6&#93;&#91;or Bombay&#93;, such Court may send to the Court of Small Causes in Calcutta, Madras &#91;6&#93;&#91;or Bombay&#93;, as the case may be, the copies and certificates mentioned in rule 6; and such Court of Small Causes shall thereupon execute the decree as if it had been passed by itself.
+Where a decree has been passed in a suit of which the value as set forth in the plaint did not exceed two thousand rupees and which, as regards its subject-matter, is not excepted by the law for the time being in force from the cognizance of either a Presidency or a Provincial Court of Small Causes, and the Court which passed it wishes it to be executed in Calcutta, Madras 6\[or Bombay\], such Court may send to the Court of Small Causes in Calcutta, Madras 6\[or Bombay\], as the case may be, the copies and certificates mentioned in rule 6; and such Court of Small Causes shall thereupon execute the decree as if it had been passed by itself.
 
-&#91;7&#93;&#91;5. Mode of transfer
+7\[5. Mode of transfer
 
-Where a decree is to be sent for execution to another Court, the Court which passed such decree shall send the decree directly to such other Court whether or not such Court is situated. in the same State, but the Court to which the decree is sent for execution shall, if it has no jurisdiction to execute, the decree, send it to the Court having such jurisdiction.&#93;
+Where a decree is to be sent for execution to another Court, the Court which passed such decree shall send the decree directly to such other Court whether or not such Court is situated. in the same State, but the Court to which the decree is sent for execution shall, if it has no jurisdiction to execute, the decree, send it to the Court having such jurisdiction.\]
 
 #### 6. Procedure where Court desires that its own decree shall be executed by another Court
 
@@ -128,7 +128,7 @@ Where the holder of a decree desires to execute it, he shall apply to the Court 
 
 (i) by the delivery of any property specifically decreed;
 
-&#91;8&#93;&#91;(ii) by the attachment, or by the attachment and sale, or by the sate without attachment, of any property;&#93;
+8\[(ii) by the attachment, or by the attachment and sale, or by the sate without attachment, of any property;\]
 
 (iii) by the arrest and detention in prison of any person;
 
@@ -138,9 +138,9 @@ Where the holder of a decree desires to execute it, he shall apply to the Court 
 
 (3) The Court to which an application is made under sub-rule (2) way require the applicant to produce a certified copy of the decree.
 
-&#91;9&#93;&#91;11A. Application for arrest to state grounds
+9\[11A. Application for arrest to state grounds
 
-Where an application is made for the arrest and detention in prison of the judgment-debtor, it shall state, or be accompanied by an affidavit stating, the grounds on which arrest is applied for.&#93;
+Where an application is made for the arrest and detention in prison of the judgment-debtor, it shall state, or be accompanied by an affidavit stating, the grounds on which arrest is applied for.\]
 
 #### 12. Application for attachment of movable property not in judgement-debtor's possession
 
@@ -172,15 +172,15 @@ Provided that, where the decree, or such interest as aforesaid, has been transfe
 
 Provided also that, where a decree for the payment of money against two or more persons has been transferred to one of them, it shall not be executed against the others.
 
-&#91;*9*&#93;*&#91;Explanation*.- Nothing in this rule shall affect the provisions of section 146, and a transferee of rights in the property, which is the subject matter of the suit, may apply for execution of the decree without a separate assignment of the decree as required by this rule.&#93;
+*9**\[Explanation*.- Nothing in this rule shall affect the provisions of section 146, and a transferee of rights in the property, which is the subject matter of the suit, may apply for execution of the decree without a separate assignment of the decree as required by this rule.\]
 
 #### 17. Procedure on receiving application for execution of decree
 
-(1) On receiving an application for the execution of a decree as provided by rule 11, sub-rule (2), the Court shall ascertain whether such of the requirement's of rules 11 to 14 as may be applicable to the case have been complied with; and, if they have not been complied with, &#91;10&#93;&#91;the Court shall allow&#93; the defect to be remedied then and there or within a time to be fixed by it.
+(1) On receiving an application for the execution of a decree as provided by rule 11, sub-rule (2), the Court shall ascertain whether such of the requirement's of rules 11 to 14 as may be applicable to the case have been complied with; and, if they have not been complied with, 10\[the Court shall allow\] the defect to be remedied then and there or within a time to be fixed by it.
 
-&#91;9&#93;&#91;(1A) If the defect is not so remedied, the Court shall reject the application
+9\[(1A) If the defect is not so remedied, the Court shall reject the application
 
-Provided that where, in the opinion of the Court, there is some inaccuracy as to the amount referred to in clauses (g) and (h) of sub-rule (2) of rule 11, the Court shall, instead of rejecting the application, decide provisionally (without prejudice to the right of the parties to have the amount finally decided in the course of the proceedings) the amount and make An order for the execution of the decree for the amount so provisionally decided.&#93;
+Provided that where, in the opinion of the Court, there is some inaccuracy as to the amount referred to in clauses (g) and (h) of sub-rule (2) of rule 11, the Court shall, instead of rejecting the application, decide provisionally (without prejudice to the right of the parties to have the amount finally decided in the course of the proceedings) the amount and make An order for the execution of the decree for the amount so provisionally decided.\]
 
 (2) Where an application is amended under the provisions of sub-rule (1), it shall be decreed to have been an application in accordance with law and presented on the date when it was first presented.
 
@@ -238,25 +238,25 @@ The Court may, in its discretion, refuse execution at the same time against the 
 
 (1) Where an application for execution is made.-
 
-(a) more than &#91;11&#93;&#91;two years&#93; after the date of the decree, or
+(a) more than 11\[two years\] after the date of the decree, or
 
-(b) against the legal representative of a party to the decree &#91;12&#93;&#91;or where an application is made for execution of a decree filed under the provisions of section 44A&#93;, &#91;9&#93;&#91;or&#93;
+(b) against the legal representative of a party to the decree 12\[or where an application is made for execution of a decree filed under the provisions of section 44A\], 9\[or\]
 
-&#91;9&#93;&#91;(c) against the assignee or receiver in insolvency, where the party to the decree has been adjudged to be an insolvent,&#93;
+9\[(c) against the assignee or receiver in insolvency, where the party to the decree has been adjudged to be an insolvent,\]
 
 the Court executing the decree shall issue a notice to the person against whom execution is applied for requiring him to show cause, on a date to be fixed, why the decree should not be executed against him:
 
-Provided that no such notice shall be necessary in consequence of more than &#91;11&#93;&#91;two years&#93; having elapsed between the date of the decree and the application for execution if the application is made within &#91;11&#93;&#91;two years&#93; from the date of the last order against the party against whom execution is applied for, made on any previous application for execution, or in consequence of the application being made against the legal representative of the judgment-debtor if upon a previous application for execution against the same person the Court has ordered execution to issue against him.
+Provided that no such notice shall be necessary in consequence of more than 11\[two years\] having elapsed between the date of the decree and the application for execution if the application is made within 11\[two years\] from the date of the last order against the party against whom execution is applied for, made on any previous application for execution, or in consequence of the application being made against the legal representative of the judgment-debtor if upon a previous application for execution against the same person the Court has ordered execution to issue against him.
 
 (2) Nothing in the foregoing sub-rule shall be deemed to preclude the Court from issuing any process in execution of a decree without issuing the notice thereby prescribed, if, for reasons to be recorded, it considers that the issue of such notice would cause unreasonable delay or would defeat the ends of justice.
 
-&#91;9&#93;&#91;22A. Sale not to be set aside on the death of the judgment-debtor before the sale but after the service of the proclamation of sale
+9\[22A. Sale not to be set aside on the death of the judgment-debtor before the sale but after the service of the proclamation of sale
 
-Where any property is sold in execution of a decree, the sale shall not be set aside merely by reason of the death of the judgment-debtor between the date of issue of the proclamation of sale and the date of the sale notwithstanding the failure of the decree-holder to substitute the legal representative of such deceased judgment-debtor, but, in case of such failure, the Court may set aside the sale if it is satisfied that the legal representative of the deceased judgment-debtor has been prejudiced by the sale.&#93;
+Where any property is sold in execution of a decree, the sale shall not be set aside merely by reason of the death of the judgment-debtor between the date of issue of the proclamation of sale and the date of the sale notwithstanding the failure of the decree-holder to substitute the legal representative of such deceased judgment-debtor, but, in case of such failure, the Court may set aside the sale if it is satisfied that the legal representative of the deceased judgment-debtor has been prejudiced by the sale.\]
 
 #### 23. Procedure after issue of notice
 
-(1) Where the person to whom notice is issued under &#91;14&#93;&#91;rule 22&#93; does not appear or does not show cause to the satisfaction of the Court why the decree should not be executed, the Court shall order the decree to be executed.
+(1) Where the person to whom notice is issued under 14\[rule 22\] does not appear or does not show cause to the satisfaction of the Court why the decree should not be executed, the Court shall order the decree to be executed.
 
 (2) Where such person otters any objection to the execution of the decree, the Court shall consider such. objection and make such order as it thinks fit.
 
@@ -268,7 +268,7 @@ Where any property is sold in execution of a decree, the sale shall not be set a
 
 (2) Every such process shall bear date the day on which it is issued, and shall be signed by the Judge or such officer as the Court may appoint in this behalf, and shall be scaled with the seal of the Court and delivered to the proper officer to be executed.
 
-&#91;13&#93;&#91;(3) In every such process, a day shall be specified on or before which it shall be executed and a day shall also be specified on or before which it shall be returned to the Court, but no process shall be deemed to be void if no day for its return is specified therein.&#93;
+13\[(3) In every such process, a day shall be specified on or before which it shall be executed and a day shall also be specified on or before which it shall be returned to the Court, but no process shall be deemed to be void if no day for its return is specified therein.\]
 
 #### 25. Endorsement on process
 
@@ -286,7 +286,7 @@ Where any property is sold in execution of a decree, the sale shall not be set a
 
 (3) Power to require security from, or impose conditions upon, judgment-debtor-
 
-Before making an order to stay execution, or for the restitution of property or the discharge of the judgment-debtor, &#91;15&#93;&#91;the Court shall require&#93; such security from. or impose such conditions upon, the judgment-debtor as it thinks fit.
+Before making an order to stay execution, or for the restitution of property or the discharge of the judgment-debtor, 15\[the Court shall require\] such security from. or impose such conditions upon, the judgment-debtor as it thinks fit.
 
 #### 27. Liability of judgment-debtor discharged
 
@@ -298,9 +298,9 @@ Any order of the Court by which the decree was passed, or of such Court of appea
 
 #### 29. Stay of execution pending suit between decree-holder and judgment-debtor
 
-Where a suit is pending in any Court against the holder of a decree of such Court &#91;16&#93;&#91;or of a decree which is being executed by such Court&#93;, on the part of the person against whom the decree was passed, the Court may, on such terms as to security or otherwise, as it thinks fit, stay execution of the decree until the pending suit has been decided:
+Where a suit is pending in any Court against the holder of a decree of such Court 16\[or of a decree which is being executed by such Court\], on the part of the person against whom the decree was passed, the Court may, on such terms as to security or otherwise, as it thinks fit, stay execution of the decree until the pending suit has been decided:
 
-&#91;16&#93;&#91;Provided that if the decree is one for payment of money, the Court shall, if it grants stay without requiring security, record its reasons for so doing.&#93;
+16\[Provided that if the decree is one for payment of money, the Court shall, if it grants stay without requiring security, record its reasons for so doing.\]
 
 ### *Mode of execution*
 
@@ -312,19 +312,19 @@ Every decree for the payment of money, including a decree for the payment of mon
 
 (1) Where the decree is for any specific movable, or for any share in a specific movable, it may be executed by the seizure, if practicable, of the movable or share, and by the delivery thereof to the party to whom it has been adjudged, or to such person as he appoints to receive delivery on his behalf, or by the detention in the civil prison of the judgment-debtor, or by the attachment of his property, or by both.
 
-(2) Where any attachment under sub-rule (1) has remained in force for &#91;17&#93;&#91;three months&#93; if the judgment-debtor has not obeyed the decree and the decree-holder has applied to have the attached property sold, such property may be sold, and out of the proceeds the Court may award to the decree-holder, in cases where any amount has been fixed by the decree to be paid as an alternative to delivery of movable property. such amount, and. in other cases, such compensation as it thinks fit, and shall pay the balance (if any) to the judgment-debtor on his application.
+(2) Where any attachment under sub-rule (1) has remained in force for 17\[three months\] if the judgment-debtor has not obeyed the decree and the decree-holder has applied to have the attached property sold, such property may be sold, and out of the proceeds the Court may award to the decree-holder, in cases where any amount has been fixed by the decree to be paid as an alternative to delivery of movable property. such amount, and. in other cases, such compensation as it thinks fit, and shall pay the balance (if any) to the judgment-debtor on his application.
 
-(3) Where the judgment-debtor has obeyed the decree and paid all costs of executing the same which he is bound to pay, or where, at the end of &#91;17&#93;&#91;three months&#93; from the date of the attachment, no application to have the property sold has been made, or, if made, has been refused, the attachment shall cease.
+(3) Where the judgment-debtor has obeyed the decree and paid all costs of executing the same which he is bound to pay, or where, at the end of 17\[three months\] from the date of the attachment, no application to have the property sold has been made, or, if made, has been refused, the attachment shall cease.
 
 #### 32. Decree for specific performance for restitution of conjugal rights, or for an injunction
 
-(1) Where the party against whom a decree for the specific performance of a contract, or for restitution of conjugal rights, or for an injunction, has been passed, has had an opportunity of obeying the decree and has wilfully failed to obey it, the decree may be enforced &#91;18&#93;&#91;in the case of a decree for the restitution of conjugal rights by the attachment of his property or, in the case of a decree for the specific performance of a contract or for an injunction&#93; by his detention in the civil prison, or by the attachment of his property, or by both.
+(1) Where the party against whom a decree for the specific performance of a contract, or for restitution of conjugal rights, or for an injunction, has been passed, has had an opportunity of obeying the decree and has wilfully failed to obey it, the decree may be enforced 18\[in the case of a decree for the restitution of conjugal rights by the attachment of his property or, in the case of a decree for the specific performance of a contract or for an injunction\] by his detention in the civil prison, or by the attachment of his property, or by both.
 
 (2) Where the party against whom a decree for specific performance or for an injunction has been passed is a corporation, the decree may be enforced by the attachment of the property of the corporation or, with the leave of the Court by the detention in the civil prison of the directors or other principal officers thereof, or by both attachment and detention.
 
-(3) Where any attachment under sub-rule (1) or sub-rule (2) has remained in force for &#91;11&#93;&#91;six months&#93; if the judgment-debtor has not obeyed the decree and the decree-holder has applied to have the attached property sold, such pro be sold; and out of the proceeds the Court may award to the decree-holder such compensation as it thinks fit, and shall pay the balance (if any) to the judgment-debtor on his application.
+(3) Where any attachment under sub-rule (1) or sub-rule (2) has remained in force for 11\[six months\] if the judgment-debtor has not obeyed the decree and the decree-holder has applied to have the attached property sold, such pro be sold; and out of the proceeds the Court may award to the decree-holder such compensation as it thinks fit, and shall pay the balance (if any) to the judgment-debtor on his application.
 
-(4) Where the judgment-debtor has obeyed the decree and paid all costs of executing the same which he is bound to pay, or where, at the end of &#91;11&#93;&#91;six months&#93; from the date of the attachment, no application to have the property-sold has been made, or if made has been refused, the attachment shall cease.
+(4) Where the judgment-debtor has obeyed the decree and paid all costs of executing the same which he is bound to pay, or where, at the end of 11\[six months\] from the date of the attachment, no application to have the property-sold has been made, or if made has been refused, the attachment shall cease.
 
 (5) Where a decree for the specific performance of a contract or for an injunction has not been obeyed, the Court may, in lieu of or in addition to all or any of the processes aforesaid, direct that the act required to be done may be done so far as practicable by the decree-holder or some other person appointed by the Court, at the cost of the judgment-debtor, and upon the act being done the expenses incurred may be ascertained in such manner as the Court may direct and may be recovered as if they were included in the decree.
 
@@ -334,9 +334,9 @@ A. a person of little substance. erects a building which renders uninhabitable a
 
 #### 33. Discretion of Court in executing decrees for restitution of conjugal rights
 
-(1) Notwithstanding anything in rule 32, the Court, either at the time of passing a decree &#91;19&#93;&#91;against a husband&#93; for the restitution of conjugal rights or at any time afterwards, may order that the decree &#91;20&#93;&#91;shall be executed in the manner provided in this rule&#93;.
+(1) Notwithstanding anything in rule 32, the Court, either at the time of passing a decree 19\[against a husband\] for the restitution of conjugal rights or at any time afterwards, may order that the decree 20\[shall be executed in the manner provided in this rule\].
 
-(2) Where the Court has made an order under sub-rule (1) &#91;21&#93;&#91;***&#93;, it may order that, in the event of the decree not being obeyed within such period as may be fixed in this behalf, the judgment-debtor shall make to the decree-holder such periodical payments as may be just, and, if it thinks fit, require that the judgment-debtor shall, to its satisfaction, secure to the decree-holder such periodical payments.
+(2) Where the Court has made an order under sub-rule (1) 21\[***\], it may order that, in the event of the decree not being obeyed within such period as may be fixed in this behalf, the judgment-debtor shall make to the decree-holder such periodical payments as may be just, and, if it thinks fit, require that the judgment-debtor shall, to its satisfaction, secure to the decree-holder such periodical payments.
 
 (3) The Court may from time to time vary or modify any order made under sub-rule (2) for the periodical payment of money, either by altering the times of payment or by increasing or diminishing the amount, or may temporarily suspend the same as to the whole or any part of the money so ordered to be paid, and again review the same, either wholly or in part as it may think just.
 
@@ -360,11 +360,11 @@ A. a person of little substance. erects a building which renders uninhabitable a
 
 and shall have the same effect as the execution of the document or the endorsement of the negotiable instrument by the party ordered to execute or endorse the same.
 
-&#91;22&#93;&#91;(6) (a) Where the registration of the document is required under any law for the time being in force, the Court, or such officer of the Court as may be authorised in this behalf by the Court, shall cause the document to be registered in accordance with such law.
+22\[(6) (a) Where the registration of the document is required under any law for the time being in force, the Court, or such officer of the Court as may be authorised in this behalf by the Court, shall cause the document to be registered in accordance with such law.
 
 (b) Where the registration of the document is not so required, but the decree-holder desires it to be registered, the Court may make such order as it thinks fit.
 
-(c) Where the Court makes any order for the registration of any document, it may make such order as it thinks fit as to the expenses of registration.&#93;
+(c) Where the Court makes any order for the registration of any document, it may make such order as it thinks fit as to the expenses of registration.\]
 
 #### 35. Decree for immovable property
 
@@ -384,7 +384,7 @@ Where a decree is for the delivery of any immovable property in the occupancy of
 
 (1) Notwithstanding anything in these rules, where an application is for the execution of a decree for the payment of money by the arrest and detention in the civil prison of a judgment-debtor who is liable to be arrested in pursuance of the application, the Court shall, instead of issuing a warrant for his arrest, issue a notice calling upon him to appear before the Court on a day to be specified in the notice and show cause why he should not be committed to the civil prison:
 
-&#91;23&#93;&#91;Provided that such notice shall not be necessary if the Court is satisfied, by affidavit, or otherwise that, with the object or effect of delaying the execution of the decree, the judgment-debtor is likely to abscond or leave the local limits of the jurisdiction of the Court.&#93;
+23\[Provided that such notice shall not be necessary if the Court is satisfied, by affidavit, or otherwise that, with the object or effect of delaying the execution of the decree, the judgment-debtor is likely to abscond or leave the local limits of the jurisdiction of the Court.\]
 
 (2) Where appearance is not made in obedience to the notice, the Court shall, if the decree- holder so requires, issue a warrant for the arrest of the judgment-debtor.
 
@@ -406,7 +406,7 @@ Every warrant for the arrest of a judgment-debtor shall direct the officer entru
 
 Provided that the judgment-debtor shall not be detained in the civil prison or arrested on account of any sum so disbursed.
 
-&#91;24&#93;&#91;40. Proceedings on appearance of judgement-debtor in obedience to notice or after arrest
+24\[40. Proceedings on appearance of judgement-debtor in obedience to notice or after arrest
 
 (1) When a judgment-debtor appears before the Court in obedience to a notice issued under rule 37, or is brought before the Court after being arrested in execution of a decree for the payment of money, the Court shall proceed to bear the decree-holder and take all such evidence as may be produced by him in support of his application for execution and shall then give the judgment-debtor an opportunity of showing cause why he should not be committed to the civil prison.
 
@@ -418,25 +418,25 @@ Provided that in order to give the judgment-debtor an opportunity of satisfying 
 
 (4) A judgment-debtor released under this rule may be re-arrested.
 
-(5) When the Court does not make an order of detention under sub-rule (3), it shall disallow the application and, if the judgment-debtor is under arrest, direct his release.&#93;
+(5) When the Court does not make an order of detention under sub-rule (3), it shall disallow the application and, if the judgment-debtor is under arrest, direct his release.\]
 
 ### *Attachment of property*
 
 #### 41. Examination of judgment-debtor as to his property
 
-&#91;25&#93;&#91;(1)&#93; Where a decree is for the payment of money the decree-holder may apply to the Court for an order that-
+25\[(1)\] Where a decree is for the payment of money the decree-holder may apply to the Court for an order that-
 
 (a) the judgment-debtor, or
 
-(b) &#91;26&#93;&#91;where the judgment-debtor is a corporation&#93;, any officer thereof, or
+(b) 26\[where the judgment-debtor is a corporation\], any officer thereof, or
 
 (c) any other person,
 
 be orally examined as to whether any or what debts are owing to the judgement-debtor and whether the judgment-debtor has any and what other property or means of satisfying the decree; and the Court may make an order for the attendance and examination of such judgment-debtor, or officer or other person, and for the production of any books or documents.
 
-&#91;16&#93;&#91;(2) Where a decree for the payment of money has remained unsatisfied for a period of thirty days, the Court may, on the application of the decree-holder and without prejudice to its power under sub-rule (1), by order require the judgment-debtor or where the judgment-debtor is a corporation, any officer thereof, to make an affidavit stating the particulars of the assets of the judgment-debtor.
+16\[(2) Where a decree for the payment of money has remained unsatisfied for a period of thirty days, the Court may, on the application of the decree-holder and without prejudice to its power under sub-rule (1), by order require the judgment-debtor or where the judgment-debtor is a corporation, any officer thereof, to make an affidavit stating the particulars of the assets of the judgment-debtor.
 
-(3) In case of disobedience of any order made under sub-rule (2), the Court making the order, or any Court to which the proceeding is transferred, may direct that the person disobeying the order be detained in the civil prison for a term not exceeding three months unless before the expiry of such term the Court directs his release.&#93;
+(3) In case of disobedience of any order made under sub-rule (2), the Court making the order, or any Court to which the proceeding is transferred, may direct that the person disobeying the order be detained in the civil prison for a term not exceeding three months unless before the expiry of such term the Court directs his release.\]
 
 #### 42. Attachment in case of decree for rent or mesne profits or other matter, amount of which to be subsequently determined
 
@@ -448,7 +448,7 @@ Where the property to be attached is movable property, other than agricultural p
 
 Provided that, when the property seized is subject to speedy and natural decay, or when the expense of keeping it in custody is likely to exceed its value, the attaching officer may sell it at once.
 
-&#91;9&#93;&#91;43A. Custody of movable property
+9\[43A. Custody of movable property
 
 (1) Where the property attached consists of live-stock, agricultural implements or other articles which cannot conveniently be removed and the attaching officer does not act under the proviso to rule 43, he may, at the instance of the judgment-debtor or of the decree-holder or of any other person claiming to be interested in such property, leave it in the village or place where it has been attached, in the custody of any respectable person (hereinafter referred to as the "custodian").
 
@@ -462,7 +462,7 @@ Provided that, when the property seized is subject to speedy and natural decay, 
 
 (ii) at the instance of the judgment-debtor or such other person, on an application in execution; and
 
-(c) any order determining such liability shall be appealable as a decree.&#93;
+(c) any order determining such liability shall be appealable as a decree.\]
 
 #### 44. Attachment of agricultural produce
 
@@ -508,7 +508,7 @@ the attachment shall be made by a written order prohibiting,-
 
 (3) A debtor prohibited under clause (i) of sub-rule (1) may pay the amount of his debt into Court, and such payment shall discharge him as effectually as payment to the party entitled to receive the same.
 
-&#91;27&#93;&#91;46A. Notice to garnishee
+27\[46A. Notice to garnishee
 
 (1) The Court may in the case of a debt (other than a debt secured by a mortgage or in charge) which has been attached under rule 46, upon the application of the attaching creditor, issue notice to the garnishee liable to pay such debt, calling upon him either to pay into Court the debt due from him to the judgment-debtor or so much thereof as may be sufficient to satisfy the decree and costs of execution, or to appear and show cause why he should riot do so.
 
@@ -548,7 +548,7 @@ An order made under rule 46B, rule 46C or rule 46E shall be appealable as a decr
 
 #### 46I. Application to negotiable instruments
 
-The provisions of rule 46A to 46H (both inclusive) shall, so far as may be, apply in relation to negotiable attached under rule 51 as they apply in relation to debts.&#93;
+The provisions of rule 46A to 46H (both inclusive) shall, so far as may be, apply in relation to negotiable attached under rule 51 as they apply in relation to debts.\]
 
 #### 47. Attachment of share in movables
 
@@ -556,29 +556,29 @@ Where the property to be attached consists of the share or interest of the judgm
 
 #### 48. Attachment of salary or allowances of servant of the Government or railway company or local authority
 
-(1) Where the property to be attached is the salary or allowances of a &#91;28&#93;&#91;servant of the Government&#93; or of a servant if a railway company or local authority &#91;9&#93;&#91;or of a servant corporation engaged in any trade or industry which is established by a Central Government, Provincial or State Act, or a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956) the Court, whether the judgment-debtor or the disbursing officer is or is not within the local limits of the Court's jurisdiction, may order that the amount shall, subject to the provisions of section 60, be withheld from such salary or allowances either in one payment or by monthly instalments as the Court may direct; and, upon notice of the order to such officer as &#91;29&#93;&#91;the appropriate Government may by notification in the Official Gazette&#93; appoint &#91;30&#93;&#91;in this behalf,-
+(1) Where the property to be attached is the salary or allowances of a 28\[servant of the Government\] or of a servant if a railway company or local authority 9\[or of a servant corporation engaged in any trade or industry which is established by a Central Government, Provincial or State Act, or a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956) the Court, whether the judgment-debtor or the disbursing officer is or is not within the local limits of the Court's jurisdiction, may order that the amount shall, subject to the provisions of section 60, be withheld from such salary or allowances either in one payment or by monthly instalments as the Court may direct; and, upon notice of the order to such officer as 29\[the appropriate Government may by notification in the Official Gazette\] appoint 30\[in this behalf,-
 
 (a) where such salary or allowances are to be disbursed within the local limits to which this Code for the time being extends, the officer or other person whose duty it is to disburse the same shall withhold and remit to the Court the amount due under the order, or the monthly instalments, as the case may be;
 
-(b) where such salary or allowances are to the disbursed beyond the said limits, the officer or other person within those limits whose duty it is to instruct the disbursing authority regarding the amount of the salary or allowances to be disbursed shall remit to the Court the amount due under the order, or the monthly instalments, as the case may be, and shall direct the disbursing authority to reduce the aggregate of the amounts from time to time, to be disbursed by the aggregate of the amounts from time to time remitted to the Court&#93;.
+(b) where such salary or allowances are to the disbursed beyond the said limits, the officer or other person within those limits whose duty it is to instruct the disbursing authority regarding the amount of the salary or allowances to be disbursed shall remit to the Court the amount due under the order, or the monthly instalments, as the case may be, and shall direct the disbursing authority to reduce the aggregate of the amounts from time to time, to be disbursed by the aggregate of the amounts from time to time remitted to the Court\].
 
-(2) Where the attachable proportions of such salary or allowances is already being withheld and remitted to a Court in pursuance of a previous and unsatisfied order of attachment, the officer appointed by &#91;31&#93;&#91;the appropriate Government&#93; in this behalf shall forthwith return the subsequent order to the Court issuing it with a full statement of all the particulars of the existing attachment.
+(2) Where the attachable proportions of such salary or allowances is already being withheld and remitted to a Court in pursuance of a previous and unsatisfied order of attachment, the officer appointed by 31\[the appropriate Government\] in this behalf shall forthwith return the subsequent order to the Court issuing it with a full statement of all the particulars of the existing attachment.
 
-&#91;32&#93;&#91;(3) Every order made under this rule, unless it is returned in accordance with the provisions of sub-rule (2) shall, without further notice or other process, bind the appropriate Government or the railway company or local authority or corporation or Government company, as the case may be, while the judgment-debtor is within the local limits to which this Code for the time being extends and while he is beyond those limits, if he is in receipt of any salary or allowances payable out of the Consolidated Fund of India or the Consolidated Fund of the State or the funds of a railway company or local authority or corporation or Government company in India; and the appropriate Government or the railway company or local authority or corporation a Government company, as the case may be, shall be liable for any sum paid in contravention of this ruler.&#93;
+32\[(3) Every order made under this rule, unless it is returned in accordance with the provisions of sub-rule (2) shall, without further notice or other process, bind the appropriate Government or the railway company or local authority or corporation or Government company, as the case may be, while the judgment-debtor is within the local limits to which this Code for the time being extends and while he is beyond those limits, if he is in receipt of any salary or allowances payable out of the Consolidated Fund of India or the Consolidated Fund of the State or the funds of a railway company or local authority or corporation or Government company in India; and the appropriate Government or the railway company or local authority or corporation a Government company, as the case may be, shall be liable for any sum paid in contravention of this ruler.\]
 
-&#91;33&#93;&#91;Explanation.-In this rule, "appropriate Government" means,-
+33\[Explanation.-In this rule, "appropriate Government" means,-
 
 (i) as respects any person in the service of the Central Government, or any servant of a railway administration or of a cantonment authority or of the port authority of a major port, or any servant of a corporation engaged in any trade or industry which is established by a Central Act, or any servant of a Government company in which any part of the share capital is held by the Central Government or by more than one State Governments or partly by the Central Government and partly by one or more State Government and the Central Government;
 
-(ii) as respects any other servant of the Government, or a servant of any other local or other authority, or any servant of a corporation engaged in any trade or industry which is established by a Provincial or State Act, or a servant of any other Government company, the State Government.&#93;
+(ii) as respects any other servant of the Government, or a servant of any other local or other authority, or any servant of a corporation engaged in any trade or industry which is established by a Provincial or State Act, or a servant of any other Government company, the State Government.\]
 
-&#91;16&#93;48A. Attachment of salary or allowances of private employees
+#### 1648A. Attachment of salary or allowances of private employees
 
 (1) Where the property to be attached is the salary or allowances of an employee other than an employee to whom rule 48 applies, the Court, where the disbursing officer of the employee is within the local limits of the Court's jurisdiction, may order that the amount shall, subject to the provisions of section 60, be withheld from such salary or allowances either in one payment or by monthly instalments as the Court may direct; and upon notice of the order to such disbursing officer, such disbursing officer shall remit to the Court the amount due under the order, or the monthly instalments, as the case may be.
 
 (2) Where the attachable portion of such salary or allowances is already being withheld or remitted to the Court in pursuance of a previous and unsatisfied order of attachment, the disbursing officer shall forthwith return the subsequent order to the Court issuing it with of all the particulars of the existing attachment.
 
-(3) Every order mode under this rule, unless it is returned in accordance with the provisions of sub-rule (2), shall, without further notice or other process, bind the employer while the judgment-debtors is within the local limits to which this Code for the time being extents and while he is beyond those limits, if he is in receipt of salary or allowances payable out of the funds of an employer in any part of India; and the employer shall be liable for any sum paid in contravention of this rule.&#93;
+(3) Every order mode under this rule, unless it is returned in accordance with the provisions of sub-rule (2), shall, without further notice or other process, bind the employer while the judgment-debtors is within the local limits to which this Code for the time being extents and while he is beyond those limits, if he is in receipt of salary or allowances payable out of the funds of an employer in any part of India; and the employer shall be liable for any sum paid in contravention of this rule.\]
 
 #### 49. Attachment of partnership property
 
@@ -588,9 +588,9 @@ Where the property to be attached consists of the share or interest of the judgm
 
 (3) The other partner or partners shall be at liberty at any time to redeem the interest charged or, in the case of a sale being directed, to purchase the same.
 
-(4) Every application for an order under sub-rule (2) shall be served on the judgment-debtor and on his partners or such of them as are within &#91;1&#93;&#91;India&#93;.
+(4) Every application for an order under sub-rule (2) shall be served on the judgment-debtor and on his partners or such of them as are within 1\[India\].
 
-(5) Every application made by any partner of the judgment-debtor under sub- rule (3) shall be served on the decree-holder and on the judgment-debtor, and on such of the other partners as do not join in the application and as are within &#91;34&#93;&#91;India&#93;.
+(5) Every application made by any partner of the judgment-debtor under sub- rule (3) shall be served on the decree-holder and on the judgment-debtor, and on such of the other partners as do not join in the application and as are within 34\[India\].
 
 (6) Service under sub-rule (4) or sub-rule (5) shall be deemed to be service on all the partners and all orders made on such application shall be similarly served.
 
@@ -604,7 +604,7 @@ Where the property to be attached consists of the share or interest of the judgm
 
 (c) against any person who has been individually served as a partner with a summons and has failed to appear;
 
-Provided that noting in this sub-rule shall be deemed to limit or otherwise affect the provisions of a &#91;3&#93;&#91;section 30 of the Indian Partnership Act, 1932 (9 of 1932)&#93;.
+Provided that noting in this sub-rule shall be deemed to limit or otherwise affect the provisions of a 3\[section 30 of the Indian Partnership Act, 1932 (9 of 1932)\].
 
 (2) Where the decree-holder claims to be entitled to cause the decree to be executed against any person other than such a person as is referred to in sub-rule (1), clauses (b) and (c), as being a partner in the firm he may apply to the Court which passed the decree for leave, and where the liability is not disputed, such court may grant such leave, or, where such liability is disputed, may order that the liability of such persons be tried and determined in any manner in which any issue in a suit may be tried and determined.
 
@@ -612,7 +612,7 @@ Provided that noting in this sub-rule shall be deemed to limit or otherwise affe
 
 (4) Save as against any property of the partnership, a decree against a firm shall not lease, render liable or otherwise affect any partner therein unless he has been served with a summons to appear and answer.
 
-&#91;16&#93;&#91;(5) Nothing in this rule shall apply to a decree passed against a Hindu Undivided Family by virtue of the provisions of rule 10 of Order XXX.&#93;
+16\[(5) Nothing in this rule shall apply to a decree passed against a Hindu Undivided Family by virtue of the provisions of rule 10 of Order XXX.\]
 
 #### 51. Attachment of negotiable instruments
 
@@ -634,11 +634,11 @@ Provided that, where such property is in the custody of a Court, any quest on of
 
 (i) the Court which passed the decree sought to be executed cancels the notice, or
 
-&#91;35&#93;&#91;(ii) (a) the holder of the decree sought to be executed, or
+35\[(ii) (a) the holder of the decree sought to be executed, or
 
 (c) his judgment-debtor with the previous consent in writing of such decree-holder. or with the permission of the attaching Court,
 
-applies to the Court receiving such notice to execute the attached decree.&#93;
+applies to the Court receiving such notice to execute the attached decree.\]
 
 (2) Where a Court makes an order under clause (a) of sub-rule (1), or receives an application under subhead (ii) of clause (b) of the said sub-rule, it shall, on the application of the creditor who has attached the decree or his judgment-debtor, proceeds to execute the attached decree and apply the net proceeds in satisfaction of the decree sought to be executed.
 
@@ -648,15 +648,15 @@ applies to the Court receiving such notice to execute the attached decree.&#93;
 
 (5) The holder of a decree attached under this rule shall give the Court executing the decree such information and aid as may reasonably be required.
 
-(6) On the application of the holders of a decree sought to be executed by the attachment of another decree, the Court making an order of attachment under this rule shall give notice of such order to the judgment-debtor bound by the decree attached; and no payment of the attached decree made by the judgment-debtor in contravention of such order &#91;16&#93;&#91;knowledge thereof or&#93; after receipt of notice thereof, either through the Court or otherwise, shall be recognized by any Court so long as the attachment remains in force.
+(6) On the application of the holders of a decree sought to be executed by the attachment of another decree, the Court making an order of attachment under this rule shall give notice of such order to the judgment-debtor bound by the decree attached; and no payment of the attached decree made by the judgment-debtor in contravention of such order 16\[knowledge thereof or\] after receipt of notice thereof, either through the Court or otherwise, shall be recognized by any Court so long as the attachment remains in force.
 
 #### 54. Attachment of immovable property
 
 (1) Where the property is immovable, the attachment shall be made by an order prohibiting the judgment-debtor from transferring or charging the property in any way, and all persons from taking any benefit from such transfer or charge.
 
-&#91;16&#93;&#91;(A) The order shall also require the judgment-debtor to attend Court on a specified date to take notice of the date to be fixed for settling the terms of the proclamation of sale.&#93;
+16\[(A) The order shall also require the judgment-debtor to attend Court on a specified date to take notice of the date to be fixed for settling the terms of the proclamation of sale.\]
 
-(2) The order shall be proclaimed at some place on or adjacent to such property by beat of drum or other customary mode, and a copy of the order shall be affixed on a conspicuous part of the property and then upon conspicuous part of the courthouse, and also, where the property is land paying revenue to the Government, in the office of the Collector of the district in which the land is situate &#91;16&#93;&#91;and, where the property is land situate in a village, also in the office of the Gram Panchayat, if any, having jurisdiction over that village.&#93;
+(2) The order shall be proclaimed at some place on or adjacent to such property by beat of drum or other customary mode, and a copy of the order shall be affixed on a conspicuous part of the property and then upon conspicuous part of the courthouse, and also, where the property is land paying revenue to the Government, in the office of the Collector of the district in which the land is situate 16\[and, where the property is land situate in a village, also in the office of the Gram Panchayat, if any, having jurisdiction over that village.\]
 
 #### 55. Removal of attachment after satisfaction of decree
 
@@ -674,13 +674,13 @@ the attachment shall be deemed to be withdrawn, and in the case of immovable pro
 
 Where the property attached is current coin or currency notes, the Court may, at any time during the continuance of the attachment, direct that such coin or notes or a part thereof sufficient to satisfy the decree, be paid over to the party entitled under the decree to receive the same.
 
-&#91;36&#93;&#91;57. Determination of attachment
+36\[57. Determination of attachment
 
 (1) Where any property has been attached in execution of a decree and the Court, for any reason, passes an order dismissing the application for the execution of the decree, the Court shall direct whether the attachment shall continue or cease and shall also indicate the period up to which such attachment shall continue or the date on which such attachment shall cease.
 
-(2) If the Court omits to give such direction, he attachment shall be deemed to have ceased.&#93;
+(2) If the Court omits to give such direction, he attachment shall be deemed to have ceased.\]
 
-### *37**&#91;Adjudication of claims and objections*
+### *37**\[Adjudication of claims and objections*
 
 #### 58. Adjudication of claims to, or objections to attachment of, property
 
@@ -716,7 +716,7 @@ Where before the claim was preferred or the objection was made, the property att
 
 (b) if the property is immovable, make an order that, pending the adjudication of the claim or objection, the property shall not be-sold, or, that pending such adjudication, the property may be sold but she sale shall not be confirmed,
 
-and any such order may be made subject to such terms and conditions as to security or otherwise as the Court.thinks fit.&#93;
+and any such order may be made subject to such terms and conditions as to security or otherwise as the Court.thinks fit.\]
 
 #### 64. Power to order property attached to be sold and proceeds to be paid to person entitled
 
@@ -732,7 +732,7 @@ Save as otherwise prescribed, every sale in execution of a decree shall be condu
 
 (2) Such proclamation shall be drawn up after notice to the decree-holder and the judgment-debtor and shall state the time and place of sale, and specify as fairly and accurately as possible-
 
-(a) the property to be sold &#91;9&#93;&#91;or, where a part of the property would be sufficient to satisfy the decree, such part&#93;;
+(a) the property to be sold 9\[or, where a part of the property would be sufficient to satisfy the decree, such part\];
 
 (b) the revenue assessed upon the estate, where the property to be sold is an interest in an estate or in part of an estate paying revenue to the Government;
 
@@ -742,9 +742,9 @@ Save as otherwise prescribed, every sale in execution of a decree shall be condu
 
 (e) every other thing which the Court considers material for a purchaser to know in order to judge of the nature and value of the property:
 
-&#91;9&#93;&#91;Provided that where notice of the date for settling the terms of the proclamation has been given to the judgment-debtor by means of an order under rule 54, it shall not be necessary to give notice under this rule to the judgment-debtor unless the Court otherwise directs:
+9\[Provided that where notice of the date for settling the terms of the proclamation has been given to the judgment-debtor by means of an order under rule 54, it shall not be necessary to give notice under this rule to the judgment-debtor unless the Court otherwise directs:
 
-Provided further that nothing in this rule shall be construed as requiring the Court to enter in the proclamation of sale its own estimate of the value of the property, but the proclamation shall include the estimate, if any, given, by either or both of the parties.&#93;
+Provided further that nothing in this rule shall be construed as requiring the Court to enter in the proclamation of sale its own estimate of the value of the property, but the proclamation shall include the estimate, if any, given, by either or both of the parties.\]
 
 (3) Every application for an order for sale under this rule shall be accompanied by a statement signed and verified in the manner hereinafter prescribed for the signing and verification of pleadings and containing, so far as they are known to or can be ascertained by the person making the verification, the matters required by sub-rule (2) to be specified in the proclamation.
 
@@ -760,7 +760,7 @@ Provided further that nothing in this rule shall be construed as requiring the C
 
 #### 68. Time of sale
 
-Save in the case of property of the kind described in the proviso to rule 43, no sale hereunder shall, without the consent in writing of the judgment-debtor, take place until after the expiration of at least &#91;38&#93;&#91;fifteen days&#93; in the case of immovable property, and of at least &#91;39&#93;&#91;seven days&#93; in the case of movable property, calculated from the date on which the copy of the proclamation has been affixed on the court-house of the Judge ordering the sale.
+Save in the case of property of the kind described in the proviso to rule 43, no sale hereunder shall, without the consent in writing of the judgment-debtor, take place until after the expiration of at least 38\[fifteen days\] in the case of immovable property, and of at least 39\[seven days\] in the case of movable property, calculated from the date on which the copy of the proclamation has been affixed on the court-house of the Judge ordering the sale.
 
 #### 69. Adjournment or stoppage of sale
 
@@ -768,15 +768,15 @@ Save in the case of property of the kind described in the proviso to rule 43, no
 
 Provided that, where the sale is made in, or within the precincts of, the court-house, no such adjournment shall be made without the leave of the Court.
 
-(2) Where a sale is adjourned under sub-rule (1) for a longer period than &#91;40&#93;&#91;thirty&#93; days a fresh proclamation under rule 67 shall be made, unless the judgment-debtor consents to waive it.
+(2) Where a sale is adjourned under sub-rule (1) for a longer period than 40\[thirty\] days a fresh proclamation under rule 67 shall be made, unless the judgment-debtor consents to waive it.
 
 (3) Every sale shall be stopped if, before the lot is knocked down, the debt and costs (including the costs 4 of the sale) are tendered to the officer conducting the sale, or proof is given to his satisfaction that the amount of such debt and costs has been paid into the Court which ordered the sale.
 
-#### 70. &#91;Saying of certain sales.&#93; Rep. by the Code of Civil Procedure (Amendment) Act, 1956 (66 of 1956), s. 14.
+#### 70. \[Saying of certain sales.\] Rep. by the Code of Civil Procedure (Amendment) Act, 1956 (66 of 1956), s. 14.
 
 #### 71. Defaulting purchaser answerable for loss on re-sale
 
-Any deficiency of price which may happen on a re-sale by reason of the purchaser's default, and all expenses attending such re-sale, shall be certified to the Court &#91;41&#93;&#91;***&#93; by the officer or other person holding the sale, and shall, at the instance of either the decree holder or the judgment-debtor, be recoverable from the defaulting purchaser under the provisions relating to the execution of a decree for the payment of money.
+Any deficiency of price which may happen on a re-sale by reason of the purchaser's default, and all expenses attending such re-sale, shall be certified to the Court 41\[***\] by the officer or other person holding the sale, and shall, at the instance of either the decree holder or the judgment-debtor, be recoverable from the defaulting purchaser under the provisions relating to the execution of a decree for the payment of money.
 
 #### 72. Decree holder not to bid for or buy property without permission
 
@@ -786,7 +786,7 @@ Any deficiency of price which may happen on a re-sale by reason of the purchaser
 
 (3) Where a decree-holder purchases, by himself or through another person, without such permission, the Court may, if it thinks fit, on the application of the judgment-debtor or any other person whose interests are affected by the sale, by order set aside the sale; and the costs of such application and order, and any deficiency of price which may happen on the re-sale and all expenses attending it, shall be paid by the decree-holder.
 
-&#91;9&#93;&#91;72A. Mortgagee not to bid at sate without the leave of the Court
+9\[72A. Mortgagee not to bid at sate without the leave of the Court
 
 (1) Notwithstanding anything contained in rule 72, a mortgagee of immovable property shall not bid for or purchase property sold in execution of a decree on the mortgage unless the Court grants him leave to bid for or purchase the property.
 
@@ -796,7 +796,7 @@ Any deficiency of price which may happen on a re-sale by reason of the purchaser
 
 (b) in the case of any property sold lots, not less than such sum as shall appear to the Court to be properly attributable to each lot in relation to the amount then due for principal, interest and costs on the mortgage.
 
-(3) In other respects the provisions of sub-rules (2) and (3) of rule 72 shall apply in relation to purchase by the decree-holder under that rule.&#93;
+(3) In other respects the provisions of sub-rules (2) and (3) of rule 72 shall apply in relation to purchase by the decree-holder under that rule.\]
 
 #### 73. Restriction on bidding or purchase by officers
 
@@ -910,7 +910,7 @@ Where the property sold is a share of undivided immovable property and two or mo
 
 #### 89. Application to set aside sale on depositor
 
-(1) Where immovable property has been sold in execution of a decree &#91;3&#93;&#91;any person claiming an interest in the property gold at the time of the sale or at the time of making the application, or acting for or in the interest of such person,&#93; may apply to have the sale set aside on his depositing in Court,-
+(1) Where immovable property has been sold in execution of a decree 3\[any person claiming an interest in the property gold at the time of the sale or at the time of making the application, or acting for or in the interest of such person,\] may apply to have the sale set aside on his depositing in Court,-
 
 (a) for payment to the purchaser, a sum equal to five per cent of the purchase-money, and
 
@@ -920,7 +920,7 @@ Where the property sold is a share of undivided immovable property and two or mo
 
 (3) Nothing in this rule shall relieve the judgment-debtor from any liability he may be under in respect of costs and interest not covered by the proclamation of sale was drawn up.
 
-&#91;42&#93;&#91;90. Application to set aside sale on ground of irregularity or fraud
+42\[90. Application to set aside sale on ground of irregularity or fraud
 
 (1) Where any immovable property has been sold in execution of a decree, the decree-holder, or the purchaser, or any other person entitled to share in a ratable distribution of assets or whose interests are affected by the sale, may apply to the Court to set aside the sale on the ground of a material irregularity or fraud in publishing or conducting it.
 
@@ -928,7 +928,7 @@ Where the property sold is a share of undivided immovable property and two or mo
 
 (3) No application to set aside a sale under this rule shall be entertained upon any ground which the applicant could have taken on or before the date on which the proclamation of sale was drawn up.
 
-*Explanation*.-The lucre absence of, or defect in, attachment of the property sold shall not, by it be a ground for setting aside a sale under this rule.&#93;
+*Explanation*.-The lucre absence of, or defect in, attachment of the property sold shall not, by it be a ground for setting aside a sale under this rule.\]
 
 #### 91. Application by purchaser to set aside sale on ground of judgement-debtor having no saleable interest-
 
@@ -938,17 +938,17 @@ The purchaser at any such sale in execution of a decree-may apply to the Court t
 
 (1) Where no application is made rule 89, rule 90 or rule 91, or where such application is made and disallowed, the Court shall make an order confirming the sale, and thereupon the sale shall become absolute:
 
-&#91;9&#93;&#91;Provided that, where any property is sold in execution of a decree pending the final disposal of any claim to, or any objection to the attachment of, such property, the Court shall not confirm such sale until the final disposal of such claim or objection.&#93;
+9\[Provided that, where any property is sold in execution of a decree pending the final disposal of any claim to, or any objection to the attachment of, such property, the Court shall not confirm such sale until the final disposal of such claim or objection.\]
 
-(2) Where such application is made and allowed, and where. in the case of an application under rule 89, the deposit required by that rule is made within thirty days from the date of sale, &#91;43&#93;&#91;or in cases where the amount of the deposited under rule 89 is found to be deficient owing to any clerical or arithmetical mistake on the part of the depositor and such deficiency has been made good within such time as way be fixed by the Court, the Court shall make an order setting aside the sale&#93;:
+(2) Where such application is made and allowed, and where. in the case of an application under rule 89, the deposit required by that rule is made within thirty days from the date of sale, 43\[or in cases where the amount of the deposited under rule 89 is found to be deficient owing to any clerical or arithmetical mistake on the part of the depositor and such deficiency has been made good within such time as way be fixed by the Court, the Court shall make an order setting aside the sale\]:
 
 Provided that no order shall be made unless notice of the application has been given to all persons affected thereby.
 
 (3) No suit to set aside an order made under this rule shall be brought by any person against whom such order is made.
 
-&#91;16&#93;&#91;(4) Where a third party challenges the judgment-doubter's title by filing a suit against the auction-purchaser, the decree-holder and the judgment-debtor shaft be necessary parties to the suit.
+16\[(4) Where a third party challenges the judgment-doubter's title by filing a suit against the auction-purchaser, the decree-holder and the judgment-debtor shaft be necessary parties to the suit.
 
-(5) if the suit referred to in sub-rule (4) is decreed, the Court shall direct the decree-holder to refund the money to the auction-purchaser, and where such an order is passed the execution proceeding in which sale the had been held shall, unless the Court otherwise directs, be revived at the stage at which the sale was ordered&#93;.
+(5) if the suit referred to in sub-rule (4) is decreed, the Court shall direct the decree-holder to refund the money to the auction-purchaser, and where such an order is passed the execution proceeding in which sale the had been held shall, unless the Court otherwise directs, be revived at the stage at which the sale was ordered\].
 
 #### 93. Return of purchase-money in certain cases
 
@@ -972,9 +972,9 @@ Where the property sold is in the of a occupancy of a tenant or other person ent
 
 (1)Where the holder of a decree for the possession of immovable property or the purchaser of any such property sold in execution of a decree is resisted or obstructed by any person in obtaining possession of the property, he may make an application to the Court complaining of such resistance or obstruction.
 
-&#91;44&#93;&#91;(2) Where any application is made under sub-rule (1), the Court shall proceed to adjudicate the upon the application in accordance with the provisions herein contained.&#93;
+44\[(2) Where any application is made under sub-rule (1), the Court shall proceed to adjudicate the upon the application in accordance with the provisions herein contained.\]
 
-&#91;45&#93;&#91;98. Orders after adjudication
+45\[98. Orders after adjudication
 
 (1) Upon the determination of the questions referred to in rule 101, the Court shall, in accordance with such determination and subject to the provisions of sub-rule (2),-
 
@@ -1010,9 +1010,9 @@ Nothing in rules 98 and 100 shall apply to resistance or obstruction in executio
 
 #### 103. Orders to be treated as decrees-
 
-Where any application has been adjudicated upon under rule 98 or rule 100, the order made thereon shall have the same force and be subject to the same conditions as to an appeal or otherwise as if it were a decree.&#93;
+Where any application has been adjudicated upon under rule 98 or rule 100, the order made thereon shall have the same force and be subject to the same conditions as to an appeal or otherwise as if it were a decree.\]
 
-&#91;16&#93;&#91;104. Order under rule 101 or rule 103 to be subject to the result or pending suit
+16\[104. Order under rule 101 or rule 103 to be subject to the result or pending suit
 
 Every order made under rule 101 or rule 103 shall be subject to the result of any suit that may be pending on the date of commencement of the proceeding in which such order is made, if in such suit the party against whom the order under rule 101 or rule 103 is made has sought to establish a right which he claims to the present possession of the property.
 
@@ -1032,4 +1032,4 @@ Every order made under rule 101 or rule 103 shall be subject to the result of an
 
 (2) No order shall be made on an application under sub-rule (1) unless notice of the application has been served on the other party.
 
-(3) An application under sub-rule (1) shall be made within thirty days from the date of the order, or where, in the case of an ex part order, the notice was not duly served, within thirty days from the date when applicant had knowledge of the order.&#93;
+(3) An application under sub-rule (1) shall be made within thirty days from the date of the order, or where, in the case of an ex part order, the notice was not duly served, within thirty days from the date when applicant had knowledge of the order.\]

@@ -8,13 +8,13 @@ aliases:
 
 # Code of Civil Procedure 1908 - Schedule I
 
-## ORDER VIII: &#91;43&#93;&#91;WRITTEN STATEMENT, SET-OFF AND COUNTER-CLAIM&#93;
+## ORDER VIII: 43\[WRITTEN STATEMENT, SET-OFF AND COUNTER-CLAIM\]
 
 #### 1. Written statement
 
-&#91;44&#93;&#91;(1)&#93; The defendant &#91;45&#93;&#91;***&#93; shall, at or before the first hearing or within such time as the Court may permit, present a written statement of his defence.
+44\[(1)\] The defendant 45\[***\] shall, at or before the first hearing or within such time as the Court may permit, present a written statement of his defence.
 
-&#91;46&#93;&#91;(2) Save as otherwise provided in rule 8A, where the defendant relies on any document (whether or not in his possession or power) in support of his defence or claim for set-off or counter. claim, he shall enter such documents in a list, and shall,-
+46\[(2) Save as otherwise provided in rule 8A, where the defendant relies on any document (whether or not in his possession or power) in support of his defence or claim for set-off or counter. claim, he shall enter such documents in a list, and shall,-
 
 (a) If a written statement is presented, annex the list to the written statement:
 
@@ -30,7 +30,7 @@ Provided that where the defendant, in his written statement, claims a set-off or
 
 (6) Nothing in sub-rule (5) shall apply to documents produced for the cross-examination of plaintiff's witnesses or in answer to any case set up by the plaintiff subsequent to the filing of the plaint, or handed over to a witness merely to refresh his memory.
 
-(7) Where a Court grants leave under sub-rule (5), it shall record its reasons for so doing, and no such leave shall be granted unless good cause is shown to the satisfaction of the Court for the non-entry of the document in the list referred to in sub-rule (2).&#93;
+(7) Where a Court grants leave under sub-rule (5), it shall record its reasons for so doing, and no such leave shall be granted unless good cause is shown to the satisfaction of the Court for the non-entry of the document in the list referred to in sub-rule (2).\]
 
 #### 2. New facts must be specially pleaded
 
@@ -46,15 +46,15 @@ Where a defendant denies an allegation of fact in the plaint, he must not do so 
 
 #### 5. Specific denial
 
-&#91;47&#93;&#91;(1)&#93; Every allegation of fact in the plaint, if not denied specifically or by necessary implication, or stated to be not admitted in the pleading of the defendant, shall be taken to be admitted except as against a person under disability:
+47\[(1)\] Every allegation of fact in the plaint, if not denied specifically or by necessary implication, or stated to be not admitted in the pleading of the defendant, shall be taken to be admitted except as against a person under disability:
 
 Provided that the Court may in it discretion require any fact so admitted to be proved otherwise than by such admission.
 
-&#91;46&#93;&#91;(2) Where the defendant has not filed a pleading, it shall be lawful for the Court to pronounce judgment on the basis of the facts contained in the plaint, except as against a person under a disability, but the Court may, in its discretion, require any such fact to be proved..
+46\[(2) Where the defendant has not filed a pleading, it shall be lawful for the Court to pronounce judgment on the basis of the facts contained in the plaint, except as against a person under a disability, but the Court may, in its discretion, require any such fact to be proved..
 
 (3) In exercising its discretion under the proviso to sub-rule (1) or under sub-rule (2), the Court shall have due regard to the fact whether the defendant could have, or has, engaged a pleader.
 
-(4) Whenever a judgment is pronounced under this rule, a decree shall be drawn up in accordance with such judgment and such decree shall bear the date on which the judgment was pronounced.&#93;
+(4) Whenever a judgment is pronounced under this rule, a decree shall be drawn up in accordance with such judgment and such decree shall bear the date on which the judgment was pronounced.\]
 
 #### 6. Particulars of set-off to be given in written statement
 
@@ -82,7 +82,7 @@ Provided that the Court may in it discretion require any fact so admitted to be 
 
 (h) A owes the partnership firm of B and C Rs. 1,000. B dies, leaving C surviving. A sues C for a debt of Rs. 1,500 due in his separate character. C may set-off the debt of Rs. 1,000.
 
-&#91;48&#93;&#91;6A. Counter-claim by defendant
+48\[6A. Counter-claim by defendant
 
 (1) A defendant in a suit may, in addition to his right of pleading a set-off under rule 6, set up, by way of counter-claim against the claim of the plaintiff, any right or claim in respect of a cause of action accruing to the defendant against the plaintiff either before or after the filing of the suit but before the defendant has delivered his defence or before the time limited for delivering his defence has expired, whether such counter-claim is in the nature of a claim for damages or not:
 
@@ -116,17 +116,17 @@ Where in any suit a set-off or counterclaim is established as a defence against 
 
 #### 6G. Rules relating to written statement to apply
 
-The rules relating to a written statement by a defendant shall apply to a written statement filed in answer to a counter-claim.&#93;
+The rules relating to a written statement by a defendant shall apply to a written statement filed in answer to a counter-claim.\]
 
 #### 7. Defence or set-off founded upon separate grounds
 
-Where the defendant relies upon several distinct grounds of defence or set-off &#91;48&#93;&#91;or counter-claim&#93; founded separate and distinct facts, they shall be stated, as far as may be, separately and distinctly.
+Where the defendant relies upon several distinct grounds of defence or set-off 48\[or counter-claim\] founded separate and distinct facts, they shall be stated, as far as may be, separately and distinctly.
 
 #### 8. New ground of defence
 
-Any ground of defence which has arisen after the institution of the suit or the presentation of a written statement claiming a set-off &#91;48&#93;&#91;or counter-claim&#93; may be raised by the defendant or plaintiff as the case may be, in his written statement.
+Any ground of defence which has arisen after the institution of the suit or the presentation of a written statement claiming a set-off 48\[or counter-claim\] may be raised by the defendant or plaintiff as the case may be, in his written statement.
 
-&#91;48&#93;&#91;8A. Duty of defendant to produce documents upon which relief is claimed by him
+48\[8A. Duty of defendant to produce documents upon which relief is claimed by him
 
 (1) Where a defendant bases his defence upon a document in his possession or power, he shall produce it in Court when the written statement is presented by him and shall, at the same time, deliver the document or a copy thereof, to be filed with the written statement.
 
@@ -138,12 +138,12 @@ Any ground of defence which has arisen after the institution of the suit or the 
 
 (b) in answer to any case set up by the plaintiff subsequent to the filing of the plaint, or
 
-(c) handed over to a witness merely to refresh him memory&#93;.
+(c) handed over to a witness merely to refresh him memory\].
 
 #### 9. Subsequent pleadings
 
-No pleading subsequent to the written statement of a defendant other than by way of defence to a set-off &#91;48&#93;&#91;for counter-claim&#93; shall be presented except by the leave of the Court and upon such terms as the Court thinks fit, but the Court may at any time require a written statement or additional written statement from any of the parties and fix a time for presenting the same.
+No pleading subsequent to the written statement of a defendant other than by way of defence to a set-off 48\[for counter-claim\] shall be presented except by the leave of the Court and upon such terms as the Court thinks fit, but the Court may at any time require a written statement or additional written statement from any of the parties and fix a time for presenting the same.
 
 #### 10. Procedure when party fails to present written statement called for by Court
 
-Where any party from whom a written statement &#91;49&#93;&#91;is required under rule 1 or rule 9&#93; fails to present the same within the time &#91;49&#93;&#91;permitted or fixed by the Court, as the case may be, the Court shall&#93; pronounce judgment against him, or make such order in relation to the suit as it thinks fit &#91;50&#93;&#91;and on the pronouncement of such judgment, a decree shall be drawn up.&#93;
+Where any party from whom a written statement 49\[is required under rule 1 or rule 9\] fails to present the same within the time 49\[permitted or fixed by the Court, as the case may be, the Court shall\] pronounce judgment against him, or make such order in relation to the suit as it thinks fit 50\[and on the pronouncement of such judgment, a decree shall be drawn up.\]

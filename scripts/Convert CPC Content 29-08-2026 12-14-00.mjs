@@ -53,18 +53,18 @@ function cleanText(value) {
 }
 
 function wikiLabel(value) {
-  return cleanText(value).replace(/[\[\]]/g, "").replace(/\s+/g, " ").trim()
+  return cleanText(value).replace(/\\?[\[\]]/g, " ").replace(/\s+/g, " ").trim()
 }
 
 function inline(node) {
   if (node.type === "text")
-    return node.value.replace(/\u00a0/g, " ").replaceAll("[", "&#91;").replaceAll("]", "&#93;")
+    return node.value.replace(/\u00a0/g, " ").replaceAll("[", "\\[").replaceAll("]", "\\]")
   if (node.type !== "element") return ""
   if (["script", "style"].includes(node.tagName)) return ""
   if (node.tagName === "br") return "  \n"
 
   const content = (node.children ?? []).map(inline).join("")
-  if (node.tagName === "sup") return content.trim() ? `&#91;${cleanText(content)}&#93;` : ""
+  if (node.tagName === "sup") return content.trim() ? `\\[${cleanText(content)}\\]` : ""
   if (node.tagName === "strong" || node.tagName === "b") return cleanText(content) ? `**${cleanText(content)}**` : ""
   if (node.tagName === "em" || node.tagName === "i") return cleanText(content) ? `*${cleanText(content)}*` : ""
   if (node.tagName === "a") {

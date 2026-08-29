@@ -8,9 +8,9 @@ aliases:
 
 ## Code of Civil Procedure - Schedule I
 
-## ORDER XXXVII: SUMMARY PROCEDURE &#91;5&#93;&#91;***&#93;
+## ORDER XXXVII: SUMMARY PROCEDURE 5\[***\]
 
-&#91;6&#93;&#91;1. Court and classes of suits to which the Order is to apply
+6\[1. Court and classes of suits to which the Order is to apply
 
 (1) This Order shall apply to the following Courts, namely:-
 
@@ -30,9 +30,9 @@ Provided that in respect of the Courts referred to in clause (b), the High Court
 
 (ii) on an enactment, where the sum sought to be recovered is a fixed sum of money or in the nature of a debt other than a penalty; or
 
-(iii) on a guarantee, Where the claim against the principal is in respect of a debt or liquidated demand only.&#93;
+(iii) on a guarantee, Where the claim against the principal is in respect of a debt or liquidated demand only.\]
 
-&#91;7&#93;&#91;2. Institution of summary suits
+7\[2. Institution of summary suits
 
 (1) A suit, to which this Order applies, may if the plaintiff proceed desires to desires hereunder, be instituted by presenting a plaint which shall contain,-
 
@@ -46,9 +46,9 @@ Provided that in respect of the Courts referred to in clause (b), the High Court
 
 (2) The summons of the suit shall be in Form No. 4 in Appendix B or in such other Form as may, from time to time, be prescribed.
 
-(3) The defendant shall not defend the suit referred to in sub-rule (1) unless he enters an appearance and in default of his entering an appearance the allegations in the plaint shall be deemed to be admitted and the plaintiff shall be entitled to a decree for any sum, not exceeding the sum mentioned in the summons, together with interest at the rate specified, if any, up to the date of the decree and such sum for costs as may be determined by the High Court from time to time by rules made in that behalf and such decree may be executed forthwith.&#93;
+(3) The defendant shall not defend the suit referred to in sub-rule (1) unless he enters an appearance and in default of his entering an appearance the allegations in the plaint shall be deemed to be admitted and the plaintiff shall be entitled to a decree for any sum, not exceeding the sum mentioned in the summons, together with interest at the rate specified, if any, up to the date of the decree and such sum for costs as may be determined by the High Court from time to time by rules made in that behalf and such decree may be executed forthwith.\]
 
-&#91;8&#93;&#91;3. Procedure for the appearance of defendant
+8\[3. Procedure for the appearance of defendant
 
 (1) In a suit to which this Order applies, the plaintiff shall, together with the summons under rule 2, serve on the defendant a copy of the plaint and annexures thereto and the defendant may, at any time within ten days of such service, enter an appearance either in person or by pleader and, in either case, he shall file in Court an a address for service of notices on him.
 
@@ -70,7 +70,7 @@ Provided further that, where a part of the amount claimed by the plaintiff is ad
 
 (b) if the defendant is permitted to defend as to the whole or any part of the claim, the Court or Judge may direct him to give such security and within such time as may be fixed by the Court or Judge and that, on failure to give such security within the time specified by the Court or Judge or to carry out such other directions as may have been given by the Court or Judge, the plaintiff shall be entitled to judgement forthwith.
 
-(7) The Court or Judge may, for sufficient cause shown by the defendant, excuse the delay of the defendant in entering an appearance or in applying for leave to defend the suit.&#93;
+(7) The Court or Judge may, for sufficient cause shown by the defendant, excuse the delay of the defendant in entering an appearance or in applying for leave to defend the suit.\]
 
 #### 4. Power to set aside decree
 

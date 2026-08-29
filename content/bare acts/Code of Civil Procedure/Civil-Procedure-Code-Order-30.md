@@ -12,7 +12,7 @@ aliases:
 
 #### 1. Suing of partners in name of firm
 
-(1) Any two or more persons claiming or being liable as partners and carrying on business in, &#91;7&#93;&#91;India&#93; may sue or be sued in the name of the firm (if any) of which such persons were partners at the time of the accruing of the cause of action, and any party to a suit may in such case apply to the Court for a statement of the names and addresses of the persons who were, at the time of the accruing of the cause of action, partners in such firm, to be furnished and verified in such manner as the Court may direct.
+(1) Any two or more persons claiming or being liable as partners and carrying on business in, 7\[India\] may sue or be sued in the name of the firm (if any) of which such persons were partners at the time of the accruing of the cause of action, and any party to a suit may in such case apply to the Court for a statement of the names and addresses of the persons who were, at the time of the accruing of the cause of action, partners in such firm, to be furnished and verified in such manner as the Court may direct.
 
 (2) Where persons sue or are sued partners in the name of their firm under sub-rule (1), it shall, in the case of any pleading or other document required by or under this Code to be signed, verified or certified by the plaintiff or the defendant, suffice such pleading or other document is signed, verified or certified by any one of such persons.
 
@@ -24,7 +24,7 @@ aliases:
 
 (3) Where the names of the partners are declared in the manner referred to in sub-rule (1) the suit shall proceed in the same manner, and the same consequences in all respects shall follow, as if they had been named as plaintiffs in the plaint:
 
-&#91;40&#93;&#91;Provided that all proceedings shall nevertheless continue in the name of the firm, but the name of the partners disclosed in the manner specified in sub-rule (1) shall be entered in the decree.&#93;
+40\[Provided that all proceedings shall nevertheless continue in the name of the firm, but the name of the partners disclosed in the manner specified in sub-rule (1) shall be entered in the decree.\]
 
 #### 3. Service
 
@@ -32,11 +32,11 @@ Where persons are sued as partners in the name of their firm, the summons shall 
 
 (a) upon any one or more of the partners, or
 
-(b) at the principal place at which the partnership business is carried on within &#91;7&#93;&#91;India&#93; upon any person having, at the time of service, the control or management of the partnership business, there,
+(b) at the principal place at which the partnership business is carried on within 7\[India\] upon any person having, at the time of service, the control or management of the partnership business, there,
 
-as the Court may direct; and such service shall be deemed good service upon the firm so sued, whether all or any of the partners are within or without &#91;42&#93;&#91;India&#93;:
+as the Court may direct; and such service shall be deemed good service upon the firm so sued, whether all or any of the partners are within or without 42\[India\]:
 
-Provided that, in the case of a partnership which has been dissolved to the knowledge of the plaintiff before the institution of the suit, the summons shall be served upon every person within &#91;42&#93;&#91;India&#93; whom it is sought to make liable.
+Provided that, in the case of a partnership which has been dissolved to the knowledge of the plaintiff before the institution of the suit, the summons shall be served upon every person within 42\[India\] whom it is sought to make liable.
 
 #### 4. Rights of suit on death of partner
 
@@ -60,7 +60,7 @@ Where persons are sued as partners in the name of their firm, they shall appear 
 
 Where a summons is served in the manner provided by rule 3 upon a person having the control or management of the partnership business, no appearance by him shall be necessary unless he is a partner of the firm sued.
 
-&#91;41&#93;&#91;8. Appearance under protest
+41\[8. Appearance under protest
 
 (1) Any person served with summons as a partner under rule 3 may enter an appearance under protest, denying that he was a partner at any material time.
 
@@ -68,12 +68,12 @@ Where a summons is served in the manner provided by rule 3 upon a person having 
 
 (3) If, on such application, the Court holds that he was a partner at the material time, that shall not preclude the person from filing a defence denying the liability of the firm in respect of the claim against the defendant,
 
-(4) If the Court. however, holds that such person was not a partner of the firm and was not liable as such that shall not preclude the plaintiff from otherwise serving a summons on the firm and proceeding with the suit; but in that event, the plaintiff shall be precluded from alleging the liability of that person as a partner of the firm in execution of any decree that may be passed against the firm.&#93;
+(4) If the Court. however, holds that such person was not a partner of the firm and was not liable as such that shall not preclude the plaintiff from otherwise serving a summons on the firm and proceeding with the suit; but in that event, the plaintiff shall be precluded from alleging the liability of that person as a partner of the firm in execution of any decree that may be passed against the firm.\]
 
 #### 9. Suits between co-partners
 
 This Order shall apply to suits between a firm and one or more of the partners therein and to suits between firms having one or more partners in common; but no execution shall be issued in such suits except by leave of the Court, and, on an application for leave to issue such execution, all such accounts and inquiries may be directed to be taken and made and directions given as may be just.
 
-&#91;42&#93;&#91;10. Suit against person carrying on business in name other than his own
+42\[10. Suit against person carrying on business in name other than his own
 
-Any person carrying on business in a name or style other than his own name, or a Hindu undivided family carrying on business under any name, may be sued in such name or style as if it were a firm name, and, in so far as the nature of such case permits, all rules under this Order shall apply accordingly.&#93;
+Any person carrying on business in a name or style other than his own name, or a Hindu undivided family carrying on business under any name, may be sued in such name or style as if it were a firm name, and, in so far as the nature of such case permits, all rules under this Order shall apply accordingly.\]

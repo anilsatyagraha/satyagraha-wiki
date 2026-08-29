@@ -8,7 +8,7 @@ aliases:
 
 ## Code of Civil Procedure - Schedule I
 
-## ORDER XLV: APPEALS TO THE &#91;41&#93;&#91;SUPREME COURT&#93;
+## ORDER XLV: APPEALS TO THE 41\[SUPREME COURT\]
 
 #### 1. "Decree" defined
 
@@ -16,21 +16,21 @@ In this Order, unless there is something repugnant in the subject or context, th
 
 #### 2. Application to Court whose decree complained of
 
-&#91;42&#93;&#91;(1)&#93; whoever desires to appeal &#91;43&#93;&#91;the Supreme Court&#93; shall apply by petition to the Court whose decree is complained of.
+42\[(1)\] whoever desires to appeal 43\[the Supreme Court\] shall apply by petition to the Court whose decree is complained of.
 
-&#91;44&#93;&#91;(2) Every petition under sub-rule (1) shall be heard as expeditiously as possible and endeavour shall be made to conclude the disposal of the petition within sixty days from the date on which the petition is presented to the Court under sub-rule (1).&#93;
+44\[(2) Every petition under sub-rule (1) shall be heard as expeditiously as possible and endeavour shall be made to conclude the disposal of the petition within sixty days from the date on which the petition is presented to the Court under sub-rule (1).\]
 
 #### 3. Certificate as to value or fitness
 
-&#91;45&#93;&#91;(1) Every petition shall state the grounds of appeal and pray for a certificate-
+45\[(1) Every petition shall state the grounds of appeal and pray for a certificate-
 
 (i) that the case involves a substantial question of law of general importance, and
 
-(ii) that in the opinion of the Court the said question needs to be decided by the Supreme Court.&#93;
+(ii) that in the opinion of the Court the said question needs to be decided by the Supreme Court.\]
 
 (2) Upon receipt of such petition, the Court shall direct notice to be served on the opposite party to show cause why the said certificate should not be granted.
 
-&#91;45A&#93;&#91;***&#93;
+45A\[***\]
 
 #### 6. Effect of refusal of certificate
 
@@ -38,13 +38,13 @@ Where such certificate is refused, the petition shall be dismissed.
 
 #### 7. Security and deposit required on grant of certificate
 
-(1) Where the certificate is granted, the applicant shall, within &#91;46&#93;&#91;ninety days or such further period, not exceeding sixty days, as the Court may upon cause shown allow;&#93; from the date of the decree complained of, or within six weeks from the date of the grant of the certificate whichever is the later date,-
+(1) Where the certificate is granted, the applicant shall, within 46\[ninety days or such further period, not exceeding sixty days, as the Court may upon cause shown allow;\] from the date of the decree complained of, or within six weeks from the date of the grant of the certificate whichever is the later date,-
 
-(a) furnish security &#91;47&#93;&#91;in cash or in Government securities&#93; for the costs of the respondent, and
+(a) furnish security 47\[in cash or in Government securities\] for the costs of the respondent, and
 
-(b) deposit the amount required to defray the expense of translating, transcribing indexing &#91;48&#93;&#91;printing,&#93; and transmitting to &#91;48&#93;&#91;the Supreme Court&#93; a correct copy of the whole record of the suit, except-
+(b) deposit the amount required to defray the expense of translating, transcribing indexing 48\[printing,\] and transmitting to 48\[the Supreme Court\] a correct copy of the whole record of the suit, except-
 
-(1) formal documents directed to be excluded by any &#91;49&#93;&#91;Rule of the Supreme Court&#93; in force for the time being;
+(1) formal documents directed to be excluded by any 49\[Rule of the Supreme Court\] in force for the time being;
 
 (2) papers which the parties agree to exclude;
 
@@ -52,11 +52,11 @@ Where such certificate is refused, the petition shall be dismissed.
 
 (4) such other documents as the High Court may direct to be excluded:
 
-&#91;50&#93;&#91;Provided that the Court at the time of granting the certificate may, after hearing any opposite party who appears, order on the ground of special hardship that some other form of security may be furnished:
+50\[Provided that the Court at the time of granting the certificate may, after hearing any opposite party who appears, order on the ground of special hardship that some other form of security may be furnished:
 
-Provided further, that no adjournment shall be granted to an opposite party to contest the nature of such security.&#93;
+Provided further, that no adjournment shall be granted to an opposite party to contest the nature of such security.\]
 
-&#91;59&#93;&#91;***&#93;
+59\[***\]
 
 #### 8. Admission of appeal and procedure thereon
 
@@ -66,7 +66,7 @@ Where such security has been furnished and deposit made to the satisfaction of t
 
 (b) give notice thereof to the respondent,
 
-(c) transmit to &#91;43&#93;&#91;the Supreme Court&#93; under the seal of the Court a correct copy of the said record, except as aforesaid, and
+(c) transmit to 43\[the Supreme Court\] under the seal of the Court a correct copy of the said record, except as aforesaid, and
 
 (d) give to either party one or more authenticated copies of any of the papers in the suit on his applying therefore and paying the reasonable expenses incurred in preparing them.
 
@@ -74,15 +74,15 @@ Where such security has been furnished and deposit made to the satisfaction of t
 
 At any time before the admission of the appeal the Court may, upon cause shown revoke the acceptance of any such security, and make further directions thereon.
 
-&#91;52&#93;&#91;9A. Power to dispense with notices in case of deceased parties
+52\[9A. Power to dispense with notices in case of deceased parties
 
 Nothing in these rules requiring any notice to be served on or given to an opposite party or respondent shall be deemed to require any notice to be served on or given to the legal representative of any deceased opposite party or deceased respondent in a case, where such opposite party or respondent did not appear either at the hearing in the Court whose decree is complained of or at any proceedings subsequent to the decree of that Court:
 
-Provided that notices under sub-rule (2) of rule 3 and under rule 8 shall be given by affixing the same in some conspicuous place in the court-house of the Judge of the district in which the suit was originally brought, and by publication in such newspapers as the Court may direct.&#93;
+Provided that notices under sub-rule (2) of rule 3 and under rule 8 shall be given by affixing the same in some conspicuous place in the court-house of the Judge of the district in which the suit was originally brought, and by publication in such newspapers as the Court may direct.\]
 
 #### 10. Power to order further security or payment
 
-Where at any time after the admission of an appeal but before the transmission of the copy of the record, except as aforesaid, to &#91;43&#93;&#91;the Supreme Court&#93; such security appears inadequate,
+Where at any time after the admission of an appeal but before the transmission of the copy of the record, except as aforesaid, to 43\[the Supreme Court\] such security appears inadequate,
 
 or further payment is required for the purpose of translating, transcribing, printing, indexing or transmitting the copy of the record, except as aforesaid,
 
@@ -92,11 +92,11 @@ the Court may order the appellant to furnish, within a time to be fixed by the C
 
 Where the appellant fails to comply with such order, the proceedings shall be stayed,
 
-and the appeal shall not proceed without an order in this behalf of &#91;43&#93;&#91;the Supreme Court&#93;, and in the meantime execution of the decree appealed from shall not be stayed.
+and the appeal shall not proceed without an order in this behalf of 43\[the Supreme Court\], and in the meantime execution of the decree appealed from shall not be stayed.
 
 #### 12. Refund of balance deposit
 
-When the copy of the record, except as aforesaid, has been transmitted to &#91;the Supreme Court&#93;, the appellant may obtain a refund of the balance (if any) of the amount which he has deposited under rule 7.
+When the copy of the record, except as aforesaid, has been transmitted to \[the Supreme Court\], the appellant may obtain a refund of the balance (if any) of the amount which he has deposited under rule 7.
 
 #### 13. Powers of Court pending appeal
 
@@ -106,9 +106,9 @@ When the copy of the record, except as aforesaid, has been transmitted to &#91;t
 
 (a) impound any movable property in dispute or any part thereof, or
 
-(b) allow the decree appealed from to be executed, taking such security from the respondent as the Court thinks fit for the due performance of any order which &#91;43&#93;&#91;the Supreme Court&#93; may make on the appeal, or
+(b) allow the decree appealed from to be executed, taking such security from the respondent as the Court thinks fit for the due performance of any order which 43\[the Supreme Court\] may make on the appeal, or
 
-(c) stay the execution of the decree appealed from, taking such security from the appellant as the Court thinks fit for the due performance of the decree appealed from, or of &#91;53&#93;&#91;any decree or order&#93; which &#91;43&#93;&#91;the Supreme Court&#93; may make on the appeal, or
+(c) stay the execution of the decree appealed from, taking such security from the appellant as the Court thinks fit for the due performance of the decree appealed from, or of 53\[any decree or order\] which 43\[the Supreme Court\] may make on the appeal, or
 
 (d) place any party seeking the assistance of the Court under such conditions or give such other direction respecting the subject-matter of the appeal, as it thinks fit, by the appointment of a receiver or otherwise.
 
@@ -124,16 +124,16 @@ When the copy of the record, except as aforesaid, has been transmitted to &#91;t
 
 #### 15. Procedure to enforce orders of the Supreme Court
 
-(1) Whoever desires to obtain execution of &#91;53&#93;&#91;any decree or order&#93; of &#91;43&#93;&#91;the Supreme Court&#93; shall apply by petition, accompanied by a certified copy of the decree passed or order made in appeal and sought to be executed, to the Court from which the appeal to &#91;54&#93;&#91;the Supreme Court&#93; was preferred.
+(1) Whoever desires to obtain execution of 53\[any decree or order\] of 43\[the Supreme Court\] shall apply by petition, accompanied by a certified copy of the decree passed or order made in appeal and sought to be executed, to the Court from which the appeal to 54\[the Supreme Court\] was preferred.
 
-(2) Such Court shall transmit the &#91;55&#93;&#91;decree or order&#93; of &#91;43&#93;&#91;the Supreme Court&#93; to the Court which passed the first decree appealed from, or to such other Court as &#91;43&#93;&#91;the Supreme Court&#93; by such &#91;55&#93;&#91;decree or order&#93; may direct and shall (upon the application of either party) give such directions as may be required for the execution of the same; and the Court to which the said &#91;55&#93;&#91;decree or order&#93; is so transmitted shall execute it accordingly, in the manner and according to the provisions applicable to the execution of its original decrees.
+(2) Such Court shall transmit the 55\[decree or order\] of 43\[the Supreme Court\] to the Court which passed the first decree appealed from, or to such other Court as 43\[the Supreme Court\] by such 55\[decree or order\] may direct and shall (upon the application of either party) give such directions as may be required for the execution of the same; and the Court to which the said 55\[decree or order\] is so transmitted shall execute it accordingly, in the manner and according to the provisions applicable to the execution of its original decrees.
 
-&#91;56&#93;&#91;***&#93;
+56\[***\]
 
-&#91;57&#93;&#91;(4) &#91;58&#93;&#91;Unless the Supreme Court otherwise directs, no decree or order of that Court&#93; shall be inoperative on the ground that no notice has been served on or given to the legal representative of any deceased opposite party or deceased respondent in a case, where such opposite party or respondent did not appear either at the hearing in the Court whose decree was complained of or at any proceedings subsequent to the decree of that Court, but such order shall have the same force and effect as if it had been made before the death took place.&#93;
+57\[(4) 58\[Unless the Supreme Court otherwise directs, no decree or order of that Court\] shall be inoperative on the ground that no notice has been served on or given to the legal representative of any deceased opposite party or deceased respondent in a case, where such opposite party or respondent did not appear either at the hearing in the Court whose decree was complained of or at any proceedings subsequent to the decree of that Court, but such order shall have the same force and effect as if it had been made before the death took place.\]
 
 #### 16. Appeal from order relating to execution
 
-The orders made by the Court which executes the &#91;55&#93;&#91;decree or order&#93; of &#91;59&#93;&#91;the Supreme Court&#93;, relating to such execution, shall be appealable in the same manner and subject to the same rules as the orders of such Court relating to the execution of its own decrees.
+The orders made by the Court which executes the 55\[decree or order\] of 59\[the Supreme Court\], relating to such execution, shall be appealable in the same manner and subject to the same rules as the orders of such Court relating to the execution of its own decrees.
 
-&#91;60&#93;&#91;17. Appeals to Federal Court&#93;
+60\[17. Appeals to Federal Court\]

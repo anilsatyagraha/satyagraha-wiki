@@ -10,7 +10,7 @@ aliases:
 
 ## ORDER XXIII: WITHDRAWAL AND ADJUSTMENT OF SUITS
 
-&#91;47&#93;&#91;1. Withdrawal of suit or abandonment of part of claim
+47\[1. Withdrawal of suit or abandonment of part of claim
 
 (1) At any time after the institution of a suit, the plaintiff may as against all or any of the defendants abandon his suit or abandon a part of his claim:
 

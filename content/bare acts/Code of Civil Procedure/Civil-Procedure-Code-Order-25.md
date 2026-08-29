@@ -10,13 +10,13 @@ aliases:
 
 ## ORDER XXV: SECURITY FOR COSTS
 
-&#91;3&#93;&#91;1. When security for costs may be required front plaintiff
+3\[1. When security for costs may be required front plaintiff
 
 (1) At any stage of a suit,. the Court may, either of its own motion or on the application of any defendant, order the plaintiff, for reasons to be recorded, to give within the time fixed by it security for the payment of all costs incurred and likely to be incurred by any defendant.
 
 Provided that such an order shall be made in all cases in which it appears to the Court that a sole plaintiff is, or (when there are more plaintiffs than one) that all the plaintiffs are, residing out of India and that such plaintiff does not posses or that no one of such plaintiffs possesses any sufficient immovable property within India other than the property in suit.
 
-(2) Whoever leaves India under such circumstances as to afford reasonable probability that he will not be forthcoming whenever he may be called upon to pay costs shall be deemed to be residing out of India within the meaning of the proviso to sub-rule (1)&#93;.
+(2) Whoever leaves India under such circumstances as to afford reasonable probability that he will not be forthcoming whenever he may be called upon to pay costs shall be deemed to be residing out of India within the meaning of the proviso to sub-rule (1)\].
 
 #### 2. Effect of failure to furnish security
 

@@ -10,29 +10,29 @@ aliases:
 
 ## ORDER I: PARTIES TO SUITS
 
-&#91;10&#93;&#91;1. Who may be joined as plaintiffs
+10\[1. Who may be joined as plaintiffs
 
 All persons may be joined in one suit as plaintiffs where-
 
 (a) any right to relief in respect of, or arising out of, the same act or transaction or series of acts or transactions is alleged to exist in such persons, whether jointly, severally or in the alternative; and
 
-(b) if such persons brought separate suits, any common question of law or fact would arise.&#93;
+(b) if such persons brought separate suits, any common question of law or fact would arise.\]
 
 #### 2. Power of Court to order separate trial
 
 Where it appears to the Court that any joinder of plaintiffs may embarrass or delay the trial of the suit, the Court may put the plaintiffs to their election or order separate trials or make such other order as may be expedient.
 
-&#91;10&#93;&#91;3. Who may be joined as defendants.
+10\[3. Who may be joined as defendants.
 
 All persons may be joined in one suit as defendants where-
 
 (a) any right to relief in respect of, or arising out of, the same act or transaction or series of acts or transactions is alleged to exist against such persons, whether jointly, severally or in the alternative; and
 
-(b) if separate suits were brought against such persons, any common question of law or fact would arise.&#93;
+(b) if separate suits were brought against such persons, any common question of law or fact would arise.\]
 
-&#91;11&#93;&#91;3A. Power to order separate trials where joinder of defendants may embarrass or delay trial
+11\[3A. Power to order separate trials where joinder of defendants may embarrass or delay trial
 
-Where it appears to the Court that any joinder of defendants may embarrass or delay the trial of the suit, the Court may order separate trials or make such other order as may be expedient in the interests of justice.&#93;
+Where it appears to the Court that any joinder of defendants may embarrass or delay the trial of the suit, the Court may order separate trials or make such other order as may be expedient in the interests of justice.\]
 
 #### 4. Court may give judgment for or against one or more of joint parties
 
@@ -54,7 +54,7 @@ The plaintiff may, at his option, join as parties to the same suit all or any of
 
 Where the plaintiff is in doubt as to the person from whom he is entitled to obtain redress, he may join two or more defendants in order that the question as to which of the defendants is liable, and to what extent, may be determined as between all parties.
 
-&#91;10&#93;&#91;8. One person may sue or defend on behalf of all in same interest
+10\[8. One person may sue or defend on behalf of all in same interest
 
 (1) Where there are numerous persons having the same interest in one suit,-
 
@@ -72,17 +72,17 @@ Where the plaintiff is in doubt as to the person from whom he is entitled to obt
 
 (6) A decree passed in a suit under this rule shall be binding on all persons on whose behalf, or for whose benefit, the suit is instituted, or defended, as the case may be.
 
-Explanation.-For the purpose of determining whether the persons who sue or are sued, or defend, have the same interest in one suit, it is not necessary to establish that such persons have the same cause of action as the persons on whose behalf, or for whose benefit, they sue or are sued, or defend the suit, as the case may be.&#93;
+Explanation.-For the purpose of determining whether the persons who sue or are sued, or defend, have the same interest in one suit, it is not necessary to establish that such persons have the same cause of action as the persons on whose behalf, or for whose benefit, they sue or are sued, or defend the suit, as the case may be.\]
 
-&#91;11&#93;&#91;8A. Power of Court to permit a person or body of person to present opinion or to take part in the proceedings
+11\[8A. Power of Court to permit a person or body of person to present opinion or to take part in the proceedings
 
-While trying a suit, the Court may, if satisfied that a person or body of persons is interested in any question of law which is directly and substantially in issue in the suit and that it is necessary in the public interest to allow that person or body of persons to present his or its opinion on that question of law, permit that person or body of persons to present such opinion and to take such part in the proceedings of the suit as the Court may specify.&#93;
+While trying a suit, the Court may, if satisfied that a person or body of persons is interested in any question of law which is directly and substantially in issue in the suit and that it is necessary in the public interest to allow that person or body of persons to present his or its opinion on that question of law, permit that person or body of persons to present such opinion and to take such part in the proceedings of the suit as the Court may specify.\]
 
 #### 9. Misjoinder and nonjoinder
 
 No suit shall be defeated by reason of the misjoinder or nonjoinder of parties, and the Court may in every suit deal with the matter in controversy so far as regards the rights and interests of the parties actually before it:
 
-&#91;12&#93;&#91;Provided that nothing in this rule shall apply to nonjoinder of a necessary party.&#93;
+12\[Provided that nothing in this rule shall apply to nonjoinder of a necessary party.\]
 
 #### 10. Suit in name of wrong plaintiff
 
@@ -94,15 +94,15 @@ No suit shall be defeated by reason of the misjoinder or nonjoinder of parties, 
 
 (4) Where defendant added, plaint to be amended- Where a defendant is added, the plaint shall, unless the Court otherwise directs, be amended in such manner as may be necessary, and amended copies of the summons and of the plaint shall be served on the new defendant and, if the Court thinks fit, on the original defendant.
 
-(5) Subject to the provisions of the &#91;13&#93;Indian Limitation Act, 1877 (15 of 1877), section 22, the proceedings as against any person added as defendant shall be deemed to have begun only on the service of the summons.
+(5) Subject to the provisions of the 13Indian Limitation Act, 1877 (15 of 1877), section 22, the proceedings as against any person added as defendant shall be deemed to have begun only on the service of the summons.
 
-&#91;12&#93;&#91;10A. Power of Court to request any pleader to address it
+12\[10A. Power of Court to request any pleader to address it
 
-The Court may, in its discretion, request any pleader to address it as to any interest which is likely to be affected by its decision on any matter in issue in any suit or proceeding, if the party having the interest which is likely to be so affected is not represented by any pleader.&#93;
+The Court may, in its discretion, request any pleader to address it as to any interest which is likely to be affected by its decision on any matter in issue in any suit or proceeding, if the party having the interest which is likely to be so affected is not represented by any pleader.\]
 
 #### 11. Conduct of suit
 
-The Court may give the conduct of &#91;14&#93;&#91;a suit&#93; to such persons as it deems proper.
+The Court may give the conduct of 14\[a suit\] to such persons as it deems proper.
 
 #### 12. Appearance of one of several plaintiffs or defendants for others
 

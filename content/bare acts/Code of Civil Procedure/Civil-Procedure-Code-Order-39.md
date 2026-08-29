@@ -18,11 +18,11 @@ Where in any suit it is proved by affidavit or otherwise
 
 (a) that any property in dispute in a suit is in danger of being wasted, damaged or alienated by any party to the suit, or wrongfully sold in execution of a decree, or
 
-(b) that the defendant threatens, or intends, to remove or dispose of his property with a view to &#91;14&#93;&#91;defrauding&#93; his creditors,
+(b) that the defendant threatens, or intends, to remove or dispose of his property with a view to 14\[defrauding\] his creditors,
 
-&#91;15&#93;(c) that the defendant threatens to dispossess, the plaintiff or otherwise cause injury to the plaintiff in relation to any properly in dispute in the suit,&#93;
+15(c) that the defendant threatens to dispossess, the plaintiff or otherwise cause injury to the plaintiff in relation to any properly in dispute in the suit,\]
 
-the Court may be order grant a temporary injunction to restrain such act, or make such other order for the purpose of staying and preventing the wasting, damaging, alienation, sale, removal or dispossession of the property &#91;16&#93;&#91;or dispossession of the plaintiff, or otherwise causing injury to the plaintiff in relation to any property in dispute in the suit&#93; as the Court thinks fit, until tile disposal of the suit or until further orders.
+the Court may be order grant a temporary injunction to restrain such act, or make such other order for the purpose of staying and preventing the wasting, damaging, alienation, sale, removal or dispossession of the property 16\[or dispossession of the plaintiff, or otherwise causing injury to the plaintiff in relation to any property in dispute in the suit\] as the Court thinks fit, until tile disposal of the suit or until further orders.
 
 #### 2. Injunction to restrain repetition or continuance of breach
 
@@ -30,19 +30,19 @@ the Court may be order grant a temporary injunction to restrain such act, or mak
 
 (2) The Court may be order grant such injunction, on such terms as to the of the durations injunction, keeping an account, giving security, or otherwise, as the Court thinks fit.
 
-&#91;17&#93;&#91;***&#93;
+17\[***\]
 
-&#91;15&#93;&#91;2A. Consequence of disobedience or breach of injunction
+15\[2A. Consequence of disobedience or breach of injunction
 
 (1) In the case of disobedience of any injunction granted or other order made under rule 1 or rule 2 or breach of any of the terms on which the injunction was granted or the order made, the Court granting the injunction or making the order, or any Court to which the suit or proceeding is transferred, may order the property of the person guilty of such disobedience or breach to be attached, and may also order such person to be detained in the civil prison for a term not exceeding three months, unless in the meantime the Court directs his release.
 
-(2) No attachment made under this rule shall remain in force for more than one year, at the end of which time if the disobedience or breach continues, the property attached may be sold and out of the proceeds, the Court may award such compensation as it thinks fit to the injured party and shall pay the balance, if any, to the party entitled thereto.&#93;
+(2) No attachment made under this rule shall remain in force for more than one year, at the end of which time if the disobedience or breach continues, the property attached may be sold and out of the proceeds, the Court may award such compensation as it thinks fit to the injured party and shall pay the balance, if any, to the party entitled thereto.\]
 
 #### 3. Before granting injunction, Court to direct notice to opposite party
 
 The Court shall in all cases, except where it appears that the object of granting the injunction would be defeated by the delay, before granting an injunction, direct notice of the application for the same to be give to the opposite party:
 
-&#91;15&#93;&#91;Provided that, where it is proposed to grant an injunction without giving notice of the application to the opposite party, the Court shall record the reasons for its opinion that the object of granting the injunction would be defeated by delay, and require the applicant-
+15\[Provided that, where it is proposed to grant an injunction without giving notice of the application to the opposite party, the Court shall record the reasons for its opinion that the object of granting the injunction would be defeated by delay, and require the applicant-
 
 (a) to deliver to the opposite party, or to send to him by registered post, immediately after the order granting the injunction has been made, a copy of the application for injunction together with-
 
@@ -52,19 +52,19 @@ The Court shall in all cases, except where it appears that the object of grantin
 
 (iii) copies of documents oil which the applicant relies, and
 
-(b) to file. on the day on which such injunction is granted or on the day immediately following, that day, an affidavit stating that the copies aforesaid have been so delivered or sent.&#93;
+(b) to file. on the day on which such injunction is granted or on the day immediately following, that day, an affidavit stating that the copies aforesaid have been so delivered or sent.\]
 
-&#91;15&#93;&#91;3A. Court to dispose of application for injunction within thirty days
+15\[3A. Court to dispose of application for injunction within thirty days
 
-Where an injunction has been granted without giving notice to the opposite party, the Court shall make an endeavour to finally dispose of the application within thirty days from the date on which the injunction was granted; and where it is unable so to do, it shall record its reasons for such inability.&#93;
+Where an injunction has been granted without giving notice to the opposite party, the Court shall make an endeavour to finally dispose of the application within thirty days from the date on which the injunction was granted; and where it is unable so to do, it shall record its reasons for such inability.\]
 
 #### 4. Order for injunction may he discharged, varied or set abide
 
 Any order for an injunction may be discharged, or varied, or set aside by the Court, on an application thereto by any party dissatisfied with such order:
 
-&#91;16&#93;&#91;Provided that if in an application for temporary injunction or in any affidavit supporting such application a party his knowingly made a false or misleading statement in relation to a material particular and the injunction was granted without giving notice to the opposite party, the Court shall vacate the injunction unless, for reasons to be recorded, it considers that it is riot necessary so to do in the interests of justice:
+16\[Provided that if in an application for temporary injunction or in any affidavit supporting such application a party his knowingly made a false or misleading statement in relation to a material particular and the injunction was granted without giving notice to the opposite party, the Court shall vacate the injunction unless, for reasons to be recorded, it considers that it is riot necessary so to do in the interests of justice:
 
-Provided further that where an order for injunction has been passed after giving to a party an opportunity of being heard, the order shall not be discharged, varied or set aside on the application of that party except where such discharge, variation or setting aside has been necessitated by a change in the circumstances, or unless the Court is satisfied that the order has caused undue hardship to that party.&#93;
+Provided further that where an order for injunction has been passed after giving to a party an opportunity of being heard, the order shall not be discharged, varied or set aside on the application of that party except where such discharge, variation or setting aside has been necessitated by a change in the circumstances, or unless the Court is satisfied that the order has caused undue hardship to that party.\]
 
 #### 5. Injunction to corporation binding on its officer
 
@@ -90,11 +90,11 @@ The Court may, on the applicator of any party to a suit, order the sale, by an p
 
 #### 8. Application for such orders to be after notice
 
-(1) An application by the plaintiff for an order under rule 6 or rule 7 may be made &#91;18&#93;&#91;***&#93; at any time after institution of the suit.
+(1) An application by the plaintiff for an order under rule 6 or rule 7 may be made 18\[***\] at any time after institution of the suit.
 
-(2) An application by the defendant for a like order may be made &#91;19&#93;&#91;***&#93; at any time after appearance.
+(2) An application by the defendant for a like order may be made 19\[***\] at any time after appearance.
 
-&#91;16&#93;&#91;(3) Before making an order under rule 6 or rule 7 on an application made for the purpose, the Court shall, except where it appears that the object of making such order would he defeated by the delay, direct notice thereof to be given to the opposite party.&#93;
+16\[(3) Before making an order under rule 6 or rule 7 on an application made for the purpose, the Court shall, except where it appears that the object of making such order would he defeated by the delay, direct notice thereof to be given to the opposite party.\]
 
 #### 9. When party may be put in immediate possession of land the subject-matter of suit
 

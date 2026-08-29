@@ -22,21 +22,21 @@ The plaintiff has the right to begin unless the defendant admits the facts alleg
 
 (3) The party beginning may then reply generally on the whole case.
 
-&#91;86&#93;&#91;(4) Notwithstanding anything contained in this rule, the Court may, for reasons to be recorded, direct or permit any party to examine any witness at any stage.&#93;
+86\[(4) Notwithstanding anything contained in this rule, the Court may, for reasons to be recorded, direct or permit any party to examine any witness at any stage.\]
 
 #### 3. Evidence where several issues
 
 Where there are several issues, the burden of probing some of which lies on the other party, the party beginning may, at his option, either produce his evidence on those issues or reserve it by way of answer to the evidence produced by the other party; and, in the latter case, the party beginning may produce evidence on those issues after the other party has produced all his evidence, and the other party may then reply specially on the evidence so produced by the party beginning; but the party beginning will then be entitled to reply generally on the whole case.
 
-&#91;87&#93;&#91;3A. Party to appear before other witnesses
+87\[3A. Party to appear before other witnesses
 
-Where a party himself wishes to appear as a witness, he shall so appear before any other witness on his behalf has been examined, unless the Court, for reasons to be recorded, permits him to appear as his own witness at a later stage.&#93;
+Where a party himself wishes to appear as a witness, he shall so appear before any other witness on his behalf has been examined, unless the Court, for reasons to be recorded, permits him to appear as his own witness at a later stage.\]
 
 #### 4. Witnesses to be examined in open Court
 
 The evidence of the witnesses in attendance shall be taken orally in open Court in the presence and under the personal direction and superintendence of the Judge.
 
-&#91;88&#93;&#91;&#91;89&#93;5. How evidence shall be taken in appealable cases
+88\[895. How evidence shall be taken in appealable cases
 
 In cases in which an appeal is allowed, the evidence of each witness shall be,-
 
@@ -46,31 +46,31 @@ In cases in which an appeal is allowed, the evidence of each witness shall be,-
 
 (ii) from the dictation of the Judge directly on a typewriter; or
 
-(b) if the Judge, for reasons to be recorded, so directs, recorded mechanically in the language of the Court in the presence of the Judge.&#93;
+(b) if the Judge, for reasons to be recorded, so directs, recorded mechanically in the language of the Court in the presence of the Judge.\]
 
-&#91;89&#93;6. When deposition to be interpreted
+#### 896. When deposition to be interpreted
 
 Where the evidence is taken down in language different from that in which it is given, and the witness does not understand the language in which it is taken down, the evidence as taken down in writing shall be interpreted to him in the language in which it is given.
 
-&#91;89&#93;7. Evidence under section 138
+#### 897. Evidence under section 138
 
 Evidence taken down under section 138 shall be in the form prescribed by rule 5 and shall be read over and signed and, as occasion may require, interpreted and corrected as if it wore evidence taken down under that rule.
 
-&#91;3&#93;8. Memorandum when evidence not taken down by Judge
+#### 38. Memorandum when evidence not taken down by Judge
 
-Where the evidence is not taken down in writing by the Judge, &#91;87&#93;&#91;or from his dictation in the open Court, or recorded mechanically in his presence,&#93; he shall be bound, as the examination of each witness proceeds, to make a memorandum of the substance of what each witness deposes, and such memorandum shall be written and signed by the Judge and shall form part of the record,
+Where the evidence is not taken down in writing by the Judge, 87\[or from his dictation in the open Court, or recorded mechanically in his presence,\] he shall be bound, as the examination of each witness proceeds, to make a memorandum of the substance of what each witness deposes, and such memorandum shall be written and signed by the Judge and shall form part of the record,
 
-&#91;90&#93;&#91;&#91;89&#93;9. When evidence may be taken in English
+90\[899. When evidence may be taken in English
 
 (1) Where English is not the language of the Court, but all the parties to the suit who appear in person, and the pleaders of such of the parties as appear by pleaders, do not object to having such evidence as is given in English, being taken down in English, the Judge may so take it down or cause it to be taken down.
 
-(2) Where evidence is not given in English but all the parties who appear in person, and the pleaders of such of the parties as appear by pleaders, do not object to having such evidence being taken down in English, the Judge may take down, or cause to be taken down, such evidence in English.&#93;
+(2) Where evidence is not given in English but all the parties who appear in person, and the pleaders of such of the parties as appear by pleaders, do not object to having such evidence being taken down in English, the Judge may take down, or cause to be taken down, such evidence in English.\]
 
 #### 10. Any particular question and answer way he taken down
 
 The Court may, of its own motion or on the application of any party or his pleader, take down any particular question and answer, or any objection to any question, if there appears to be any special reason for so doing.
 
-&#91;89&#93;11. Questions objected to and allowed by Court
+#### 8911. Questions objected to and allowed by Court
 
 Where any question put to a witness is objected to by a party or his pleader, and the Court allows the same to be put, the Judge shall take down the question, the answer, the objection and the name of the person making it, together with the decision of the Court thereon.
 
@@ -78,13 +78,13 @@ Where any question put to a witness is objected to by a party or his pleader, an
 
 The Court may record such remarks as it thinks material respecting the demeanour of any witness while under examination.
 
-&#91;91&#93;&#91;&#91;89&#93;13. Memorandum of evidence in unappealable cases
+91\[8913. Memorandum of evidence in unappealable cases
 
-In cases in which an appeal is not allowed, it shall not be necessary to take down or dictate or record the evidence of the witnesses at length; but the Judge, as the examination of each witness proceeds, shall make in writing, or dictate directly on the typewriter, or cause to be mechanically recorded, a memorandum of the substance of what the witness deposes, and such memorandum shall be signed by the Judge or otherwise authenticated, and shall form part of the record.&#93;
+In cases in which an appeal is not allowed, it shall not be necessary to take down or dictate or record the evidence of the witnesses at length; but the Judge, as the examination of each witness proceeds, shall make in writing, or dictate directly on the typewriter, or cause to be mechanically recorded, a memorandum of the substance of what the witness deposes, and such memorandum shall be signed by the Judge or otherwise authenticated, and shall form part of the record.\]
 
-&#91;&#91;89&#93;14. Judge unable to make such memorandum to record reasons of his inability: Repealed by the Code of Civil Procedure (Amendment) Act, 1976, w.e.f 1st. February, 1977&#93;
+\[8914. Judge unable to make such memorandum to record reasons of his inability: Repealed by the Code of Civil Procedure (Amendment) Act, 1976, w.e.f 1st. February, 1977\]
 
-&#91;89&#93;15. Power to deal with evidence taken before another Judge
+#### 8915. Power to deal with evidence taken before another Judge
 
 (1) Where a Judge is prevented by death, transfer or other cause from concluding the trial of a suit, his successor may deal with any evidence or memorandum taken down or made under the foregoing rules as if such evidence or memorandum had been taken down or made by him or under his direction under the said rules and may proceed with the suit from the stage at which his predecessor left it.
 
@@ -102,10 +102,10 @@ In cases in which an appeal is not allowed, it shall not be necessary to take do
 
 The Court may at any stage of a suit recall any witness who has been examined and may (subject to the law of evidence for the time being in force) put such questions to him as the Court thinks fit.
 
-&#91;92&#93;&#91;17A. Production of evidence not previously known or which could not be produced despite due diligence
+92\[17A. Production of evidence not previously known or which could not be produced despite due diligence
 
-Where a party satisfies the Court that after the exercise of due diligence, any evidence was not within his knowledge or could not be produced by him at the time when that party was leading his evidence, the Court may permit that party to produce that evidence at a later stage on such terms as may appear to it to be just.&#93;
+Where a party satisfies the Court that after the exercise of due diligence, any evidence was not within his knowledge or could not be produced by him at the time when that party was leading his evidence, the Court may permit that party to produce that evidence at a later stage on such terms as may appear to it to be just.\]
 
 #### 18. Power of Court to inspect
 
-The Court may at any stage of a suit inspect any property or thing concerning which any question may arise &#91;92&#93;&#91;and where the Court inspects any property or thing it shall, as soon as may be practicable, make a memorandum of any relevant facts observed at such inspection and such memorandum shall form a part of the record of the suit&#93;.
+The Court may at any stage of a suit inspect any property or thing concerning which any question may arise 92\[and where the Court inspects any property or thing it shall, as soon as may be practicable, make a memorandum of any relevant facts observed at such inspection and such memorandum shall form a part of the record of the suit\].

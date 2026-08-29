@@ -24,7 +24,7 @@ Where at any stage of a suit, other than a suit of the nature referred to in sec
 
 (iii) has disposed of or removed from the local limit soft the jurisdiction of the Court his property or any part thereof, or
 
-(b) that the defendant is About to leave &#91;9&#93;&#91;India&#93; under circumstances affording reasonable probability that the plaintiff will or may thereby be obstructed or delayed in the execution of any decree that may be passed against the defendant in the suit,
+(b) that the defendant is About to leave 9\[India\] under circumstances affording reasonable probability that the plaintiff will or may thereby be obstructed or delayed in the execution of any decree that may be passed against the defendant in the suit,
 
 the Court may issue a warrant to arrest the defendant and bring him before the Court to show cause why he should not furnish security for his appearance
 
@@ -68,7 +68,7 @@ the Court may direct the defendant, within a time to be fixed by it, either to f
 
 (3) The Court may also in the order direct the conditional attachment of the whole or any portion of the property so specified.
 
-&#91;10&#93;&#91;(4) If an order of attachment is made without complying with the provisions of sub-rule (1) of this rule such attachment shall be void.&#93;
+10\[(4) If an order of attachment is made without complying with the provisions of sub-rule (1) of this rule such attachment shall be void.\]
 
 #### 6. Attachment where cause not shown or security not furnished
 
@@ -80,7 +80,7 @@ the Court may direct the defendant, within a time to be fixed by it, either to f
 
 Save as otherwise expressly provided, the attachment shall be made in the manner provided for the attachment of property in execution of a decree.
 
-&#91;11&#93;&#91;8. Adjudication of claim to property attached before judgement
+11\[8. Adjudication of claim to property attached before judgement
 
 Where any claim is preferred to property attached before judgement, such claim shall be adjudicated upon in the manner hereinbefore provided for the adjudication of claims to property attached in execution of a decree for the payment of money.)
 
@@ -96,16 +96,16 @@ Attachment before judgement shall not affect the rights, existing prior to the a
 
 Where property is under attachment by virtue of the provisions of this order and a decree is subsequently passed in favour of the plaintiff, it shall not be necessary upon. an application for execution of such decree to apply, for a re-attachment of the property.
 
-&#91;12&#93;&#91;11A. Provisions applicable to attachment
+12\[11A. Provisions applicable to attachment
 
 (1) The provisions of this Code applicable to an attachment made in execution of a decree shall so far as may be, apply to an attachment made before judgement which continues after the judgement by virtue of the provisions of rule 11.
 
-(2) An attachment made before judgement in a suit which is dismissed for default shall not become revived merely by reason of the fact that the order for the dismissal, of the suit for default has been set aside and the suit has been restored.&#93;
+(2) An attachment made before judgement in a suit which is dismissed for default shall not become revived merely by reason of the fact that the order for the dismissal, of the suit for default has been set aside and the suit has been restored.\]
 
 #### 12. Agriculture produce not attachable before judgement
 
 Nothing in this order shall be deemed to authorise the plaintiff to apply for the attachment of any agriculture produce in the possession of an agriculturist, or to empower the Court to order the attachment or production of such produce.
 
-&#91;13&#93;&#91;13. Small Cause Court not to attach immovable property
+13\[13. Small Cause Court not to attach immovable property
 
-Nothing in this order shall be deemed to empower any Court of Small Causes to make an order for the attachment of immovable property.&#93;
+Nothing in this order shall be deemed to empower any Court of Small Causes to make an order for the attachment of immovable property.\]
