@@ -25,7 +25,7 @@ Apply typography in one global theme or stylesheet. Do not add font declarations
 ## Readability baseline
 
 - Body text must remain comfortable at normal browser zoom on desktop and mobile.
-- Use a body size of approximately 17px or larger and line height near 1.7.
+- Use a body size of approximately 16px and line height near 1.6.
 - Keep long-form paragraphs at or below approximately 76 characters per line.
 - Use genuine heading levels and maintain a single logical page title.
 - Give tables responsive handling and prevent long URLs or citations from forcing horizontal page overflow.
@@ -39,6 +39,8 @@ For ordinary newly generated files, use a descriptive name of no more than three
 Example: `Publishing Report 29-08-2026 10-26-26.html`
 
 Mandatory ecosystem filenames are exceptions. Preserve names required by software specifications, including `SKILL.md`, `README.md`, `index.html`, `package.json`, manifests, hidden configuration files and framework-defined entrypoints.
+
+Canonical wiki pages are stable-content exceptions to timestamped artifact naming. Give them readable Title-Case filenames with hyphens between words, such as `Civil-Procedure-Code-Order-5.md`. Preserve old published slugs through aliases or redirects whenever canonical filenames change.
 
 ## Cross-AI handoff
 

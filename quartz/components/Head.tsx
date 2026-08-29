@@ -26,6 +26,7 @@ export default (() => {
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
+    const selfHostedFontPath = joinSegments(baseDir, "static/fonts/quartz-fonts.css")
 
     // Url of current page
     const socialUrl =
@@ -58,6 +59,9 @@ export default (() => {
           </>
         )}
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
+        {cfg.theme.fontOrigin === "selfHosted" && (
+          <link rel="stylesheet" href={selfHostedFontPath} />
+        )}
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
@@ -97,13 +101,19 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
-        {additionalHead.map((resource) => {
-          if (typeof resource === "function") {
-            return resource(fileData)
-          } else {
-            return resource
-          }
-        })}
+        {additionalHead
+          .filter(
+            (resource) =>
+              typeof resource === "function" ||
+              resource?.props?.href !== "/static/fonts/quartz-fonts.css",
+          )
+          .map((resource) => {
+            if (typeof resource === "function") {
+              return resource(fileData)
+            } else {
+              return resource
+            }
+          })}
       </head>
     )
   }

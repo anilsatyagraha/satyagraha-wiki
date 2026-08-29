@@ -1,7 +1,7 @@
 ---
 name: satyagraha-publishing
 description: "This skill should be used when creating, converting, styling, naming, validating, or publishing Markdown and HTML artifacts for Satyagraha Law Group across wikis, websites, repositories, and AI-assisted workflows."
-version: 1.1.0
+version: 1.2.0
 ---
 
 # Satyagraha Publishing
@@ -28,6 +28,8 @@ Name every newly created ordinary file as:
 - Preserve the requested extension.
 - Do not rename existing files unless explicitly requested.
 - Preserve mandatory machine-recognized names such as `SKILL.md`, `README.md`, `package.json`, `.gitignore` and `index.html`; these are compatibility exceptions.
+- Treat canonical wiki pages as a stable-content exception: use descriptive Title-Case words separated by hyphens without timestamps, for example `Civil-Procedure-Code-Order-5.md`.
+- When renaming a published page, retain its former slug as an alias or redirect.
 
 ## Publishing workflow
 
@@ -63,11 +65,14 @@ Apply the Source family by default:
 - Source Sans 3 for titles, headings, navigation, controls and metadata.
 - Source Code Pro for code, file paths and machine-readable text.
 - Self-host production font files when practical and retain serif, sans-serif and monospace fallbacks.
-- Use approximately 17px or larger body text, 1.7 article line height and a maximum paragraph measure of 76 characters.
+- Use approximately 16px body text, 1.6 article line height and a maximum paragraph measure of 76 characters.
+- Apply the same global typography structure to the homepage, indexes and every generated article rather than styling individual Markdown files.
 
 ## Detailed standard
 
 Read [Publishing Standard](references/Publishing%20Standard%2029-08-2026%2010-26-26.md) before changing a publishing theme, generating HTML, or preparing a public repository.
+
+Read [Wiki Readability](references/Wiki%20Readability%2029-08-2026%2011-00-59.md) when setting article typography or migrating abbreviated page names.
 
 ## Completion checks
 
@@ -75,6 +80,7 @@ Read [Publishing Standard](references/Publishing%20Standard%2029-08-2026%2010-26
 - Confirm the expected Markdown and HTML page counts.
 - Confirm representative home, index and article pages exist.
 - Confirm fonts are included or reliably referenced with fallbacks.
+- Confirm self-hosted font stylesheet and font URLs resolve under the deployed base path, not only at the domain root.
 - Confirm search and internal navigation assets exist when enabled.
 - Confirm the dependency audit has no unresolved critical issues.
 - Report what was changed, what was validated and what remains unpublished.

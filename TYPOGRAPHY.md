@@ -10,8 +10,8 @@ Use this system for all current and future Satyagraha wiki and HTML publishing p
 
 ## Reading rules
 
-- Default article text: `17px` equivalent or larger.
-- Article line height: approximately `1.7`.
+- Default article text: `16px` equivalent.
+- Article line height: approximately `1.6`.
 - Paragraph measure: no more than `76ch`.
 - Heading line height: approximately `1.25`.
 - Use real heading levels in Markdown rather than manually bolding titles.
