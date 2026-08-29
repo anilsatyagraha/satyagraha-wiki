@@ -1,0 +1,6 @@
+# Code of Civil Procedure 1908
+
+* * *  
+  
+_Code of Civil Procedure 1908 - Schedule I_ [[index|Table of Contents]]      [[cpco3|Previous]]       [[cpco5|Next]] ORDER IV : INSTITUTION OF SUITS 1\. Suit to be commenced by plaint     (1) Every suit shall be instituted by presenting a plaint to the Court or such officer as it appoints in this behalf.     (2) Every plaint shall comply with the rules contained in Orders VI and VII, so far as they are applicable. 2\. Register of suits  The Court shall cause the particulars of every suit to be entered in a book to be kept for the purpose and called the register of civil suits. Such entries shall be numbered in every year according to the order in which the plaints are admitted.   [[index|Table of Contents]]      [[cpco3|Previous]]       [[cpco5|Next]]  
+---
