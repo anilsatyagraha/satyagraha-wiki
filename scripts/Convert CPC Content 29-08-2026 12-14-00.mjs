@@ -4,9 +4,10 @@ import { fromHtml } from "hast-util-from-html"
 
 const sourceRoot = "D:/satyagraha/research/nls-cpc"
 const targets = [
-  "D:/satyagraha/VAULT/Satyagraha Law Group/site/wiki/bare acts/Code of Civil Procedure",
-  "D:/satyagraha/VAULT/Satyagraha Law Group/satyagraha-wiki/content/bare acts/Code of Civil Procedure",
+  "D:/satyagraha/VAULT/Satyagraha Law Group/site/wiki/bare acts/Civil Procedure Code",
+  "D:/satyagraha/VAULT/Satyagraha Law Group/satyagraha-wiki/content/bare acts/Civil Procedure Code",
 ]
+const wikiRoot = "bare acts/Civil Procedure Code"
 
 const mapping = new Map()
 mapping.set("cpc1", "Civil-Procedure-Code-Preliminary")
@@ -74,7 +75,7 @@ function inline(node) {
     const localBase = path.basename(href.split(/[?#]/)[0], path.extname(href.split(/[?#]/)[0])).toLowerCase()
     const destination = mapping.get(localBase)
     return destination && href && !href.toLowerCase().startsWith("javascript:")
-      ? `[[${destination}|${label}]]`
+      ? `[[${wikiRoot}/${destination}|${label}]]`
       : label
   }
   return content
@@ -132,9 +133,9 @@ function documentBlocks(tree, base) {
 
 function nav(base) {
   const pos = sourceOrder.indexOf(base)
-  const links = ["[[Code of Civil Procedure/index|Table of Contents]]"]
-  if (pos > 0) links.push(`[[${mapping.get(sourceOrder[pos - 1])}|Previous]]`)
-  if (pos >= 0 && pos < sourceOrder.length - 1) links.push(`[[${mapping.get(sourceOrder[pos + 1])}|Next]]`)
+  const links = [`[[${wikiRoot}/index|Table of Contents]]`]
+  if (pos > 0) links.push(`[[${wikiRoot}/${mapping.get(sourceOrder[pos - 1])}|Previous]]`)
+  if (pos >= 0 && pos < sourceOrder.length - 1) links.push(`[[${wikiRoot}/${mapping.get(sourceOrder[pos + 1])}|Next]]`)
   return links.join(" | ")
 }
 
@@ -143,12 +144,16 @@ for (const filename of files) {
   if (!mapping.has(base)) throw new Error(`No readable filename mapping for ${filename}`)
   const tree = fromHtml(fs.readFileSync(path.join(sourceRoot, filename), "utf8"))
   const title = readableTitle(base)
-  const alias = base === "index" ? "bare-acts/code-of-civil-procedure" : `bare-acts/code-of-civil-procedure/${base}`
+  const aliases = base === "index"
+    ? []
+    : [
+        `bare-acts/code-of-civil-procedure/${base}`,
+        `bare-acts/code-of-civil-procedure/${mapping.get(base).toLowerCase()}`,
+      ]
   const frontmatter = [
     "---",
     `title: "${title.replaceAll('"', '\\"')}"`,
-    "aliases:",
-    `  - ${alias}`,
+    ...(aliases.length > 0 ? ["aliases:", ...aliases.map((alias) => `  - ${alias}`)] : []),
     "---",
   ].join("\n")
   const bodyBlocks = [

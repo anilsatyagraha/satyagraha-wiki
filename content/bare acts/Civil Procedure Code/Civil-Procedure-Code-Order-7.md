@@ -1,0 +1,170 @@
+---
+title: "Civil Procedure Code - Order 7"
+aliases:
+  - bare-acts/code-of-civil-procedure/cpco7
+  - bare-acts/code-of-civil-procedure/civil-procedure-code-order-7
+---
+
+[[bare acts/Civil Procedure Code/index|Table of Contents]] | [[bare acts/Civil Procedure Code/Civil-Procedure-Code-Order-6|Previous]] | [[bare acts/Civil Procedure Code/Civil-Procedure-Code-Order-8|Next]]
+
+# Code of Civil Procedure 1908 - Schedule I
+
+## ORDER VII: PLAINT
+
+#### 1. Particulars to be contained in plaint
+
+The plaint shall contain the following particulars:-
+
+(a) the name of the Court in which the suit is brought;
+
+(b) the name, description and place of residence of the plaintiff;
+
+(c) the name, description and place of residence of the defendant, so far as they can be ascertained;
+
+(d) where the plaintiff or the defendant is a minor or a person of unsound mind, a statement to that effect;
+
+(e) the facts constituting the cause of action and when it arose;
+
+(f) the facts showing that the Court has jurisdiction;
+
+(g) the relief which the plaintiff claims;
+
+(h) where the plaintiff has allowed a set-off or relinquished a portion of his claim, the amount so allowed or relinquished; and
+
+(i) a statement of the value of the subject-matter of the suit for the purposes of jurisdiction and of court-fees, so far as the case admits.
+
+#### 2. In money suits
+
+Where the plaintiff seeks the recovery of money, the plaint shall state the precise amount claimed:
+
+But where the plaintiff sues for mesne profits, or for an amount which will be found due to him on taking unsettled accounts between him and the defendant, 39\[or for movables in the possession of the defendant, or for debts of which the value he cannot, after the exercise of reasonable diligence, estimate, the plaint shall state approximately the amount or value sued for\].
+
+#### 3. Where the subject-matter of the suit is immovable property
+
+Where the subject-matter of the suit is immovable property, the plaint shall contain a description of the property sufficient to identify it, and, in case such property can be identified by boundaries or numbers in a record of settlement or survey, the plaint shall specify such boundaries or numbers.
+
+#### 4. When plaintiff sues as representative
+
+Where the plaintiff sues in a representative character the plaint shall show not only that he has an actual existing interest in the subject-matter, but that he has taken the steps (if any) necessary to enable him to institute a suit concerning it.
+
+#### 5. Defendant's interest and liability to be shown
+
+The plaint shall show that the defendant is or claims to be interested in subject-matter, and that he is liable to be called upon to answer the plaintiff's demand.
+
+#### 6. Grounds of exemption from limitation law
+
+Where the suit is instituted after the expiration of the period prescribed by the law of limitation, the plaint shall show the ground upon which exemption from such law is claimed:
+
+40\[Provided that the Court may permit the plaintiff to claim exemption from the law of limitation on any ground not set out in the plaint, if such ground is not inconsistent with the grounds set out in the plaint.
+
+#### 7. Relief to be specially-
+
+Every Plaint shall state specifically the relief which the plaintiff claims either simply or in the alternative, and it shall not be necessary to ask for general or other relief which may always be given as the Court may think just to the same extent a if it had been asked for. And the same rule shall apply to any relief claimed by the defendant in his written statement.
+
+#### 8. Relief founded on separate grounds
+
+Where the plaintiff seeks relief in respect of several distinct claims or causes of action founded upon separate and distinct grounds, they shall be stated as far as may be separately and distinctly.
+
+#### 9. Procedure on admitting plaint- Concise statements-
+
+(1) The plaintiff shall endorse on the plaint, or annex thereto, a list of the documents (if any) which he has produced along with it; and, if the plaint is admitted, 39\[shall present, within such time as may be fixed by the Court or extended by it from time to time, as many copies\] on plain paper of the plaint as there are defendants, unless the Court by reason of the length of
+
+the plaint or the number of the defendants, or for any other sufficient reason, permits him to present a like number of concise statements of the nature of the claim made, or of the relief claimed in the suit, in which case he shall present such statements.
+
+41\[(1A) The plaintiff shall, within the time fixed by the Court or extended by it under sub-rule (1), pay the requisite fee for the service of summons on the defendants.\]
+
+(2) Where the plaintiff sues, or the defendant or any of the defendants is sued, in a representative capacity, such statements shall show in what capacity the plaintiff or defendant sues or is sued.
+
+(3) The plaintiff may, by leave of the Court, amend such statements so as to make them correspond with the plaint.
+
+(4) The chief ministerial officer of the Court shall sign such list and copies or statements if, on examination, he finds them to be correct.
+
+#### 4210. Return of plaint
+
+(1) 41\[Subject to the provisions of rule 10A, the plaint shall\] at any stage of the suit be returned to be: presented to the Court in which the suit should have been instituted.
+
+41\[Explanation.- For the removal oil doubts, it is hereby declared that a Court of appeal or revision may direct, after setting aside the decree passed in a suit, the return of the plaint under this sub-rule.\]
+
+(2) Procedure on returning plaint- On returning a plaint, the Judge shall endorse thereon the date of its presentation and return, the name of the party presenting it, and a brief statement of the reasons for returning it.
+
+41\[10A. Power of Court to fix a date of appearance in the Court where plaint is to be filed after its return
+
+(1) Where, in any suit, after the defendant has appeared, the Court is of opinion that the plaint should be returned, it shall, before doing so, intimate its decision to the plaintiff.
+
+(2) Where an intimation is given to the plaintiff under sub-rule (1), the plaintiff may make an application to the Court-
+
+(a) specifying the Court in which he proposes to present the plaint after its return,
+
+(b) praying that the Court may fix a date for the appearance of the parties in the said Court, and
+
+(c) requesting that the notice of the date so fixed may be given to him and to the defendant.
+
+(3) Where an application is made by the plaintiff under sub-rule (2), the Court shall, before returning the plaint and notwithstanding that the order for return of plaint was made by it on the ground that it has no jurisdiction to try the suit,-
+
+(a) fix a date for the appearance of the parties in the Court in which the plaint is proposed to be presented, and
+
+(b) give to the plaintiff and to the defendant notice of such date for appearance.
+
+(4) Where the notice of the date for appearances is given under sub-rule (3),-
+
+(a) it shall not be necessary for the Court in which the plaint is presented after its return, to serve the defendant with a summons for appearance in the suit, unless that Court, for reasons to be recorded, otherwise direct, and
+
+(b) the said notice shall be deemed to be a summons for the appearance of the defendant in the Court in which the plaint is presented on the date so fixed by the Court by which the plaint was returned.
+
+(5) Where the application made by the plaintiff under sub-rule (2) is allowed by the Court, the plaintiff shall not be entitled to appeal against the order returning the plaint.
+
+#### 10B. Power of appellate Court to transfer suit to the proper Court
+
+(1) Where, on an appeal against an order for the return of plaint, the Court hearing the appeal confirms such order, the Court of appeal may, if the plaintiff by an application so desires, while returning the plaint, direct plaintiff to file the plaint, subject to the provisions of the Limitation Act, 1963 (36 of 1963), in the Court in which the suit should have been instituted, (whether such Court is within or without the State in which the Court hearing the appeal is situated), and fix a date for the appearance of the parties in the Court in which the plaint is directed to be filed and when the date is so fixed it shall not be necessary for the Court in which the plaint is filed to serve the defendant with the summons for appearance in the suit, unless that Court in which the plaint is filed, for reasons to be recorded, otherwise directs.
+
+(2) The direction made by the Court under sub-rule (1) shall be without any prejudice to the rights of the parties to question the jurisdiction of the Court, in which the plaint is filed, to try the suit.\]
+
+#### 11. Rejection of plaint
+
+The plaint shall be rejected in the following cases:-
+
+(a) where it does not disclose a cause of action;
+
+(b) where the relief claimed is undervalued, and the plaintiff, on being required by the Court to correct the valuation within a time to be fixed by the Court, fails to do so;
+
+(c) where the relief claimed is properly valued, but the plaint is returned upon paper insufficiently stamped, and the plaintiff, on being required by the Court to supply the requisite stamp-paper within a time to be fixed by the Court, fails to do so;
+
+(d) where the suit appears from the statement in the plaint to be barred by any law:
+
+41\[Provided that the time fixed by the Court for the correction of the valuation or supplying of the requisite stamp-paper shall not be extended unless the Court, for reasons to be recorded, is satisfied that the plaintiff was prevented by any cause of an exceptional nature from correcting the valuation or supplying the requisite stamp-paper, as the case may be, within the time fixed by the Court and that refusal to extend such time would cause grave injustice to the plaintiff.\]
+
+#### 12. Procedure on rejecting plaint
+
+Where a plaint is rejected the Judge shall record an order to that effect with the reasons for such order.
+
+#### 13. Where rejection of plaint does not preclude presentation of fresh plaint
+
+The rejection of the plaint on any of the grounds hereinbefore mentioned shall not of its own force preclude the plaintiff from presenting a fresh plaint in respect of the same cause of action.
+
+### Documents relied on in plaint
+
+#### 14. Production of document on which plaintiff sues
+
+(1) Where a plaintiff sues upon a document in his possession or power, he shall produce it in Court when the plaint is presented, and shall at the same time deliver the document or a copy thereof to be filed with the plaint.
+
+(2) List of other documents -Where he relies on any other documents (whether in his possession or power or not) as evidence in support of his claim, he shall enter such documents in a list to be added or annexed to the plaint.
+
+#### 15. Statement in case of documents not in plaintiff's possession or power
+
+Where any such document is not in the possession or power of the plaintiff, he shall, if possible, state in whose possession or power it is.
+
+#### 16. Suits on lost negotiable instruments
+
+Where the suit is founded upon a negotiable instrument, and it is proved that the instrument is lost, and an indemnity is given by the plaintiff, to the satisfaction of the Court, against the claims of any other person upon such instrument, the Court may pass such decree as it would have passed if the plaintiff had produced the instrument in Court when the plaint was presented, and had at the same time delivered a copy of the instrument to be filed with the plaint.
+
+#### 17. Production of shop-book
+
+(1) Save in so far as is otherwise provided by the Bankers' Books Evidence Act, 1891 (18 of 1891), where the document on which the plaintiff sues is an entry in a shop-book or other account in his possession or power, the plaintiff shall produce the book or account at the time of filing the plaint, together with a copy of the entry on which he relies.
+
+(2) Original entry to be marked and returned- The Court, or such officer as it appoints in this behalf, shall forthwith mark the document for the purpose of identification; and, after examining and comparing the copy with the original, shall, if it is found correct, certify it to be so and return the book to the plaintiff and cause the copy to be filed.
+
+#### 18. Inadmissibility of document not produced when plaint filed
+
+(1) A document which ought to be produced in Court by the plaintiff when the plaint is presented, or to be entered in tie list to be added or annexed to the plaint, and which is not produced or entered accordingly, shall not, without the leave of the Court, be received in evidence on his behalf at the hearing of the suit.
+
+(2) Nothing in this rule applies to documents produced for cross-examination of the defendant's witnesses or in answer to any case set up by the defendant or handed to a witness merely to refresh his memory.

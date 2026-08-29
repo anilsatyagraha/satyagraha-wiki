@@ -1,0 +1,30 @@
+---
+title: "Civil Procedure Code - Order 19"
+aliases:
+  - bare-acts/code-of-civil-procedure/cpco19
+  - bare-acts/code-of-civil-procedure/civil-procedure-code-order-19
+---
+
+[[bare acts/Civil Procedure Code/index|Table of Contents]] | [[bare acts/Civil Procedure Code/Civil-Procedure-Code-Order-18|Previous]] | [[bare acts/Civil Procedure Code/Civil-Procedure-Code-Order-20|Next]]
+
+# Code of Civil Procedure 1908 - Schedule I
+
+## ORDER XIX: AFFIDAVITS
+
+#### 1. Power to order any point to be proved by affidavit
+
+Any Court may at any time for sufficient reason order that any particular fact or facts may be proved by affidavit, or that the affidavit of any witness may be read at the hearing, on such conditions as the Court thinks reasonable:
+
+Provided that where it appears to the Court that either party bona fide desires the production of a witness for cross-examination, and that such witness can be produced, an order shall not be made authorizing the evidence of such witness to be given by affidavit.
+
+#### 2. Power to order attendance of deponent for cross-examination
+
+(1) Upon any application evidence may be given by affidavit, but the Court may, at the instance of either party, order the attendance for cross-examination f the deponent.
+
+(2) Such attendance shall be in Court, unless the deponent is exempted from personal appearance in Court or the Court otherwise directs.
+
+#### 3. Matters to which affidavits shall be confined
+
+(1) Affidavits shall be confined to such facts as the deponent is able of his own knowledge to prove, except on interlocutory applications, on which statements of his belief may be admitted; provided that the grounds thereof are stated.
+
+(2) The costs of every affidavit which shall unnecessarily set forth matters of hearsay or argumentative matter, or copies of or extracts from documents, shall (unless the Court otherwise directs) be paid by the party filing the same.

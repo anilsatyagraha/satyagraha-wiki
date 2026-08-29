@@ -1,0 +1,82 @@
+---
+title: "Civil Procedure Code - Footnotes 1"
+aliases:
+  - bare-acts/code-of-civil-procedure/cpc-f1
+  - bare-acts/code-of-civil-procedure/civil-procedure-code-footnotes-1
+---
+
+[[bare acts/Civil Procedure Code/index|Table of Contents]] | [[bare acts/Civil Procedure Code/Civil-Procedure-Code-Annexure|Previous]] | [[bare acts/Civil Procedure Code/Civil-Procedure-Code-Footnotes-10|Next]]
+
+## Foot Notes for Chapter 1
+
+1. This Act has been amended in its application to Assam by Assam Act No. 2 of 1941 and 8 of 1953; to Tamil Nadu by Madras Act No. 34 of 1950, Madras A.O. 1950, and Tamil Nadu Act No. 15 of 1970; to Punjab by Punjab Act No. 7 of 1934; to Uttar Pradesh by U.P. Act No. 4 of 1925, 35 of 1948, 24 of 1954,17 of 1970, 57 of 1976 and 31 of 1978; to Karnataka by Mysore Act No. 14 of 1955; to Kerala by Kerala Act No. 13 of 1957; to Rajasthan by Rajasthan Act No. 19 of 1958; to Maharashtra by Maharashtra Act No. 22 of 1960 and 25 of 1970.
+
+It has been extended to Berar by the Berar Laws Act, 1941 (Act No. 4 of 1941) and by notification under the Schedule Districts Act, 1874 (Act No. 14 of Year 1874), also to the following Scheduled Districts:-
+
+(1) The Districts of Jalpaiguri, Cachar (excluding the North Cachar Hills), Goalpara (including the Eastern Duars), Kamrup, Darrang, Nowgong (excluding the Mikir Hill Tracts), Sibsagar (excluding the Mikir Hill Tracts) and Lakhimpur (excluding the Dibrugarh Frontier Tracts): GOI, 1909 Pt. I, p. 5 and GOI, 1914, Pt. I, p. 1690.
+
+(2) The District of Darjeeling and the District of Hazaribagh, Ranchi, Palamau and Manbhum in Chota Nagpur: Calcutta Gazette, 1909, Pt. I, p. 25 and GOI, 1909, Pt. I, p. 33.
+
+(3) The Province of Kumaon and Garhwal and the Tarai Paraganas (with modifications): U.P. Gazette, 1909, Pt. I. p. 3 and GOI, 1909, Pt. I, p. 31.
+
+(4) The Pargana of Jaunsar-Bawar in Dehra Dun and the Scheduled portion of the Mirzapur District; U. P. Gazette, 1909. Pt. I, p. 4 and GOI, 1909, Pt. I, p. 32.
+
+(5) Coorg: GOI, 1909, Pt. I, p. 32.
+
+(6) Scheduled Districts in the Punjab: GOI, 1909, Pt. I, p. 33.
+
+(7) Sections 36 to 43 to all the Scheduled Districts in Madras: GOI, 1909, Pt. I, p. 152.
+
+(8) Scheduled Districts in the C.P., except so much as already in force and so much as authorizes the attachment and sale of immovable property in execution of a decree, not being a decree directing the sale of such property: GOI, 1909, pt.1, p. 239.
+
+(9) Ajmer-Merwara except sections 1 and 155 to 158: GOI, 1909, Pt. II, p. 480.
+
+(10) Pargana Dhalbhum, the Municipality of Chaibasa in the Kolhan and the Porahat Estate in the District of Singhbhum: Calcutta Gazette, 1909, Pt. I, p. 453 and GOI, 1909, Pt. I, p. 443.
+
+Under the Sonthal Parganas Settlement Regulation, sections 38 to 42 and 156 and rules 4 to 9 in Order XXI in the First Schedule have been declared to be in force in the Sonthal Parganas and the rest of the Code for the trial of suits referred to in section 10 of the Sonthal Parganas Justice Regulation, 1893: see Calcutta Gazette, 1909, Pt. I, p. 45.
+
+It has been declared to be in force in Panth Piploda by the Panth Piploda Laws Regulation, 1929; in the Khondmals District by the Khondmals Laws Regulation, 1936 and in the Angul District by the Angul Laws Regulation, 1936.
+
+It has been extended to the Districts of Koraput and Ganjam Agency by Orissa Regulation.
+
+It has been extended to the State of Manipur, w.e.f. 1st January, 1957 by Act No. 30 of 1950 to the whole of the Union territory of Lakshadweep, w.e.f. 1st October, 1967 by Regulation 8 of 1965; to Goa, Daman and Diu, w.e.f. 15th June, 1966 by Act No. 30 of 1965; to Dadra and Nagar Haveli, w.e.f. 1st July, 1965 by Reg. 6 of 1963 and to the State of Sikkim, w.e.f. 1st September, 1984, vide Notification No. S.O. 599(E), dated 13th August, 1984, GOI Ext., Part II, section 3.
+
+#### 2. Substituted by Act No. 104 of 1976 for earlier sub-section (3), w.e.f. 1st February, 1977.
+
+#### 3. The words and figures "section 47 or" omitted by Act No. 104 of 1976, w.e.f. 1st February, 1977.
+
+#### 4. Substituted by Act No. 2 of 1951, for the original clause.
+
+#### 5. Inserted by Act No. 2 of 1951.
+
+#### 6. Inserted by Act No. 42 of 1953.
+
+#### 7. Substituted by Act No. 104 of 1976, for the words "the Indian Civil Service", w.e.f. 1st February, 1977.
+
+#### 8. Substituted by Act No. 35 of 1934 for the words "or naval".
+
+#### 9. Substituted by the A.O. 1950, for the words "His Majesty".
+
+#### 10. The words "including His Majesty's Indian Marine Service," omitted by Act No. 35 of 1934
+
+#### 11. Omitted by Act No. 2 of 1951.
+
+#### 12. The words "with the previous sanction of the G.G. in C", omitted by Act No. 38 of 1920.
+
+#### 13. The words "with the sanction aforesaid" omitted by Act No. 38 of 1920.
+
+#### 14. Inserted by Act No. 4 of 1941.
+
+#### 15. Substituted by Act No. 4 of 1941, for the words "under that Act".
+
+#### 16. Inserted by Act No. 2 of 1951.
+
+#### 17. Substituted by the Adaptation of Laws (No. 2) Order, 1956, for the words "Part B States".
+
+#### 18. Substituted by Act No. 1 of 1926, for the words "so far as they relate to injunctions and interlocutory order".
+
+#### 19. Substituted by Act No. 104 of 1976, for the words and figures "77 and 155 to 158", w.e.f. 1st. February, 1977.
+
+#### 20. Inserted by Act No. 1 of 1914.
+
+#### 21. See also Calcutta Gazette, 1910, Pt. I, p. 814.
