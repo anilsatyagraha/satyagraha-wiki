@@ -82,7 +82,7 @@ function inline(node) {
 }
 
 function readableTitle(base) {
-  if (base === "index") return "Code of Civil Procedure, 1908"
+  if (base === "index") return "Civil Procedure Code, 1908"
   return mapping.get(base).replaceAll("-", " ").replace("Civil Procedure Code ", "Civil Procedure Code - ")
 }
 
@@ -106,7 +106,7 @@ function headingLevel(node, text, blockIndex) {
 function documentBlocks(tree, base) {
   const body = descendants(tree, "body")[0] ?? tree
   if (base === "index") {
-    const blocks = ["# Code of Civil Procedure, 1908", "## Table of Contents"]
+    const blocks = ["# Civil Procedure Code, 1908", "## Table of Contents"]
     for (const anchor of descendants(body, "a")) {
       const item = cleanText(inline(anchor))
       if (item && item.startsWith("[[")) blocks.push(`- ${item}`)

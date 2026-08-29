@@ -10,7 +10,7 @@ Welcome to the public legal-reference library of **Satyagraha Law Group**. This 
 ## Browse the library
 
 - [[bare acts/index|Bare Acts]]
-- [[bare acts/Civil Procedure Code/index|Code of Civil Procedure, 1908]]
+- [[bare acts/Civil Procedure Code/index|Civil Procedure Code, 1908]]
 
 ## How to use this wiki
 

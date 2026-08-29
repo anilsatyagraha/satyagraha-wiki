@@ -1,8 +1,8 @@
 ---
-title: "Code of Civil Procedure, 1908"
+title: "Civil Procedure Code, 1908"
 ---
 
-# Code of Civil Procedure, 1908
+# Civil Procedure Code, 1908
 
 ## Table of Contents
 

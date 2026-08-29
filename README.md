@@ -4,7 +4,7 @@ This repository contains the public Satyagraha Legal Wiki. It converts approved 
 
 ## Published content
 
-The initial collection contains the Code of Civil Procedure, 1908, including its parts, orders, appendices, schedules, and forms.
+The initial collection presents the Civil Procedure Code, 1908, including its parts, orders, appendices, schedules, and forms.
 
 ## Local preview
 
