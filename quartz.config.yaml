@@ -12,12 +12,12 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: local
+    fontOrigin: selfHosted
     cdnCaching: false
     typography:
-      header: Georgia
-      body: Arial
-      code: Consolas
+      header: Source Sans 3
+      body: Source Serif 4
+      code: Source Code Pro
     colors:
       lightMode:
         light: "#fffdf8"
@@ -109,6 +109,25 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      useThemeFonts: false
+      fontOrigin: selfHosted
+      title:
+        name: Source Sans 3
+        weights: [400, 500, 600, 700]
+      interface:
+        name: Source Sans 3
+        weights: [400, 500, 600, 700]
+      header:
+        name: Source Sans 3
+        weights: [400, 500, 600, 700]
+      body:
+        name: Source Serif 4
+        weights: [400, 500, 600, 700]
+        includeItalic: true
+      code:
+        name: Source Code Pro
+        weights: [400, 500, 600]
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"

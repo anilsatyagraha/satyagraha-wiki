@@ -1,3 +1,48 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Satyagraha publishing typography standard.
+// Source Serif 4 is used for long-form reading; Source Sans 3 is used for
+// headings and interface elements; Source Code Pro is used for code.
+
+article.popover-hint {
+  font-size: 1.0625rem;
+  line-height: 1.7;
+}
+
+article.popover-hint p,
+article.popover-hint li,
+article.popover-hint blockquote,
+article.popover-hint td,
+article.popover-hint th {
+  font-family: var(--bodyFont);
+}
+
+article.popover-hint h1,
+article.popover-hint h2,
+article.popover-hint h3,
+article.popover-hint h4,
+article.popover-hint h5,
+article.popover-hint h6,
+button,
+input,
+nav {
+  font-family: var(--headerFont);
+}
+
+article.popover-hint h1,
+article.popover-hint h2,
+article.popover-hint h3 {
+  line-height: 1.25;
+}
+
+article.popover-hint p {
+  max-width: 76ch;
+}
+
+article.popover-hint blockquote {
+  line-height: 1.65;
+}
+
+article.popover-hint table {
+  line-height: 1.5;
+}
