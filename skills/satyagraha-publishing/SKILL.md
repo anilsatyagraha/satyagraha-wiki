@@ -83,4 +83,5 @@ Read [Wiki Readability](references/Wiki%20Readability%2029-08-2026%2011-00-59.md
 - Confirm self-hosted font stylesheet and font URLs resolve under the deployed base path, not only at the domain root.
 - Confirm search and internal navigation assets exist when enabled.
 - Confirm the dependency audit has no unresolved critical issues.
+- Invoke repository CLI entrypoints through their runtime on cross-platform CI when executable permission bits are not guaranteed.
 - Report what was changed, what was validated and what remains unpublished.

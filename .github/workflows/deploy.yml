@@ -34,10 +34,10 @@ jobs:
         run: npm ci
 
       - name: Install Quartz plugins
-        run: npx quartz plugin install
+        run: node quartz/bootstrap-cli.mjs plugin install
 
       - name: Build the HTML5 website
-        run: npx quartz build
+        run: node quartz/bootstrap-cli.mjs build
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5

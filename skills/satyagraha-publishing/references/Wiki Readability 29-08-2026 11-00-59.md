@@ -11,6 +11,7 @@ Make all Satyagraha wiki pages easier to read and replace abbreviated CPC filena
 - The CPC table of contents and page navigation used the same abbreviated wikilinks.
 - Quartz supports aliases and redirect generation.
 - The Quartz font plugin emitted a domain-root stylesheet link that fails when GitHub Pages hosts the wiki under a repository subpath.
+- GitHub's Linux runner could not execute the npm-linked Quartz CLI because the Windows-created repository did not retain an executable permission bit.
 
 ## Assumptions
 
@@ -35,6 +36,7 @@ Use 16px body text with 1.6 line height throughout the wiki. Rename CPC pages in
 - Risk: source and publication divergence. Guardrail: apply the same deterministic migration to both trees.
 - Risk: inaccessible small text. Guardrail: retain a 16px baseline and browser zoom support.
 - Risk: fallback fonts caused by an incorrect deployment path. Guardrail: load the self-hosted font stylesheet through a path relative to the generated root stylesheet and test the deployed URL.
+- Risk: cross-platform CI permission failure. Guardrail: invoke the Quartz entrypoint explicitly with Node.js instead of relying on npm's executable shim.
 
 ## Validation
 
