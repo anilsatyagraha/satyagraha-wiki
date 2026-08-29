@@ -10,7 +10,8 @@ function patchMasthead() {
     const internalLink = "href: baseDir"
     const externalLink = 'href: "https://www.satyagraha.com"'
     if (source.includes(externalLink)) continue
-    if (!source.includes(internalLink)) throw new Error(`Expected page-title link was not found in ${target}`)
+    if (!source.includes(internalLink))
+      throw new Error(`Expected page-title link was not found in ${target}`)
     fs.writeFileSync(target, source.replace(internalLink, externalLink), "utf8")
   }
 }
@@ -43,14 +44,14 @@ function patchFooter() {
       "Explore further content here: ",
       footerLinks.map(([text, link], index) => /* @__PURE__ */ u2("span", { children: [
         index > 0 ? " | " : "",
-        /* @__PURE__ */ u2("a", { href: link, children: text })
+        /* @__PURE__ */ u2("a", { href: link, target: "_blank", rel: "noopener noreferrer", children: text })
       ] }))
     ] }),
     /* @__PURE__ */ u2("p", { class: "footer-help", children: [
       /* @__PURE__ */ u2("strong", { children: "Need Legal Help?" }),
       /* @__PURE__ */ u2("br", {}),
       "💡 ",
-      /* @__PURE__ */ u2("a", { href: "https://calendly.com/anil-satyagraha/15min", children: "Click Here For Next Steps" })
+      /* @__PURE__ */ u2("a", { href: "https://calendly.com/anil-satyagraha/15min", target: "_blank", rel: "noopener noreferrer", children: "Click Here For Next Steps" })
     ] })
   ] });
   Footer.css = footer_default;
@@ -61,9 +62,18 @@ function patchFooter() {
     const target = path.join(packageRoot, relativePath)
     if (!fs.existsSync(target)) throw new Error(`Footer component not found: ${target}`)
     const source = fs.readFileSync(target, "utf8")
-    if (source.includes("real-world experience helping clients seeking Justice")) continue
-    const pattern = /var Footer_default = \(\(opts\) => \{[\s\S]*?\n\}\);(?=\n\nexport \{ Footer_default as Footer \};)/
-    if (!pattern.test(source)) throw new Error(`Expected footer component was not found in ${target}`)
+    const desiredMarker = 'target: "_blank", rel: "noopener noreferrer"'
+    if (
+      source.includes("real-world experience helping clients seeking Justice") &&
+      source.includes(desiredMarker)
+    )
+      continue
+    const patterns = [
+      /var Footer_default = \(\(opts\) => \{[\s\S]*?\n\}\);(?=\n\nexport \{ Footer_default as Footer \};)/,
+      /var Footer_default = \(\(_opts\) => \{[\s\S]*?\n\}\);(?=\n\nexport \{ Footer_default as Footer \};)/,
+    ]
+    const pattern = patterns.find((candidate) => candidate.test(source))
+    if (!pattern) throw new Error(`Expected footer component was not found in ${target}`)
     fs.writeFileSync(target, source.replace(pattern, replacement), "utf8")
   }
 }

@@ -39,6 +39,9 @@ jobs:
       - name: Build the HTML5 website
         run: node quartz/bootstrap-cli.mjs build
 
+      - name: Inject and validate SEO metadata
+        run: node "scripts/Inject SEO 29-08-2026 22-05-58.mjs"
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 

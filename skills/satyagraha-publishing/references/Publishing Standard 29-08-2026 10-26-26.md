@@ -31,6 +31,7 @@ Apply typography in one global theme or stylesheet. Do not add font declarations
 - Preserve sufficient text contrast in light and dark modes.
 - Ensure important navigation and controls remain keyboard accessible.
 - Use a plain white background, black text and white table cells when the project calls for a minimal documentation presentation.
+- When approved for the site, render every external footer link with `target="_blank"` and `rel="noopener noreferrer"`. Keep internal navigation in the current tab unless separately specified.
 
 ## Naming baseline
 
@@ -55,3 +56,13 @@ Every reusable workflow must state:
 7. Recovery or rollback guidance for material changes.
 
 Prefer deterministic scripts for repeatable transformations. Keep prose instructions tool-neutral, and add small platform adapters only when necessary.
+
+## SEO metadata without content rewriting
+
+- Research terminology against authoritative subject sources and current search-engine guidance before freezing keywords.
+- Use a small, non-duplicative phrase set that describes the actual collection; do not stuff titles, descriptions, headings or legal text with keywords.
+- Preserve existing page titles, descriptions, canonical URLs and robots directives unless the user separately authorizes changes.
+- Place managed keyword metadata and JSON-LD inside `<head>` only.
+- Treat `meta name="keywords"` as compatibility metadata, not a Google ranking mechanism; Google states that it does not use this tag for ranking.
+- Validate every generated HTML file and prove that everything after `</head>` is unchanged by metadata injection.
+- Apply metadata after every production build through deterministic automation rather than editing generated public files manually.

@@ -1,7 +1,7 @@
 ---
 name: satyagraha-publishing
 description: "This skill should be used when creating, converting, styling, naming, validating, or publishing Markdown and HTML artifacts for Satyagraha Law Group across wikis, websites, repositories, and AI-assisted workflows."
-version: 1.5.0
+version: 1.7.0
 ---
 
 # Satyagraha Publishing
@@ -43,6 +43,8 @@ Name every newly created ordinary file as:
 8. Scan generated output for broken links, missing assets, unsafe URLs and build errors.
 9. Keep deployment configuration portable and credentials external to the repository.
 10. Record reusable decisions in the relevant skill or standard rather than only patching one output.
+11. Open every external footer link in a new tab when that is the approved site-wide behavior, using both `target="_blank"` and `rel="noopener noreferrer"`; do not apply new-tab behavior to internal navigation automatically.
+12. Add approved SEO terms only through generated head metadata and standards-based structured data when visible legal content must remain unchanged. Preserve existing titles, descriptions, canonical URLs, robots directives and everything after `</head>` unless separately authorized.
 
 ## Skill maintenance and audit trail
 
@@ -89,6 +91,10 @@ Read [Plain Typography](references/Plain%20Typography%2029-08-2026%2011-22-48.md
 
 Read [Content Readability](references/Content%20Readability%2029-08-2026%2012-49-48.md) when converting legacy legal HTML or simplifying wiki navigation.
 
+Read [Footer Links](references/Footer%20Links%2029-08-2026%2021-57-22.md) when creating, patching, or validating a site-wide footer.
+
+Read [SEO Metadata](references/SEO%20Metadata%2029-08-2026%2022-05-58.md) when adding site-wide search metadata without changing visible page content.
+
 ## Completion checks
 
 - Confirm the build exits successfully.
@@ -97,6 +103,8 @@ Read [Content Readability](references/Content%20Readability%2029-08-2026%2012-49
 - Confirm fonts are included or reliably referenced with fallbacks.
 - Confirm self-hosted font stylesheet and font URLs resolve under the deployed base path, not only at the domain root.
 - Confirm search and internal navigation assets exist when enabled.
+- Confirm every rendered external footer link has `target="_blank"` and `rel="noopener noreferrer"`, including calls to action, and confirm internal links were not changed unintentionally.
+- Confirm every generated public HTML file has exactly one managed SEO metadata block, the approved keyword set and valid JSON-LD; compare the complete post-`</head>` tail before and after injection to prove visible content was not changed.
 - Confirm the dependency audit has no unresolved critical issues.
 - Invoke repository CLI entrypoints through their runtime on cross-platform CI when executable permission bits are not guaranteed.
 - Report what was changed, what was validated and what remains unpublished.
